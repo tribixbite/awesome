@@ -13,4 +13,4 @@ jobs:
       - name: awesome
         uses: simonecorsi/mawesome@latest
         with:
-          api-token: ${{ .env.API_TOKEN }}
+          api-token: ${{ secrets.API_TOKEN }}
