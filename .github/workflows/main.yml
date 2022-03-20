@@ -3,7 +3,7 @@ name: Update awesome list
 on: 
   workflow_dispatch:
   schedule:
-    - cron: '0 0 * * *'
+    - cron: '0 */12 * * *'
 
 jobs:
   build:
@@ -13,4 +13,4 @@ jobs:
       - name: awesome
         uses: simonecorsi/mawesome@latest
         with:
-          api-token: ${{ secrets.API_TOKEN }}
+          api-token: ${{ .env.API_TOKEN }}
