@@ -4,12 +4,14 @@
 
 ## Table of Contents
 
-*   [JavaScript](#javascript)
-*   [TypeScript](#typescript)
-*   [generic](#generic)
-*   [Python](#python)
-*   [CSS](#css)
 *   [HTML](#html)
+*   [TypeScript](#typescript)
+*   [JavaScript](#javascript)
+*   [PowerShell](#powershell)
+*   [Shell](#shell)
+*   [Python](#python)
+*   [generic](#generic)
+*   [CSS](#css)
 *   [C++](#c)
 *   [Kotlin](#kotlin)
 *   [Rust](#rust)
@@ -26,13 +28,88 @@
 *   [SCSS](#scss)
 *   [R](#r)
 *   [Clojure](#clojure)
-*   [Java](#java)
-*   [Arduino](#arduino)
-*   [Shell](#shell)
-*   [PHP](#php)
+
+## HTML
+
+*   [themesberg/flowbite](https://github.com/themesberg/flowbite) - The most popular library of interactive UI components built with Tailwind CSS
+*   [jglovier/gifs](https://github.com/jglovier/gifs) - :joy: :camera: :sparkler: Storage place for all mah gifs.
+
+## TypeScript
+
+*   [pallavJha/tscron](https://github.com/pallavJha/tscron) - tscron is a library for cron in Typescript.
+*   [xpepermint/mongodb-cron](https://github.com/xpepermint/mongodb-cron) - MongoDB collection as crontab
+*   [paulphys/nextjs-cron](https://github.com/paulphys/nextjs-cron) - 🕓 Cron jobs with Github Actions for Next.js applications on Vercel▲
+*   [metaplex-foundation/js](https://github.com/metaplex-foundation/js) - Metaplex JavaScript SDK
+*   [maraisr/diary](https://github.com/maraisr/diary) - 📑 Zero-dependency, fast logging library for Node, Browser and Workers
+*   [bevry/caterpillar](https://github.com/bevry/caterpillar) - Caterpillar is the ultimate logging system for Deno, Node.js, and Web Browsers. Log levels are implemented to the RFC standard. Log entries can be filtered and piped to various streams, including coloured output to the terminal, the browser's console, and debug files. You can even write your own transforms.
+*   [ljlm0402/typescript-express-starter](https://github.com/ljlm0402/typescript-express-starter) - 🚀 TypeScript Express Starter
+*   [alkinemk/serum-orderbook-bot](https://github.com/alkinemk/serum-orderbook-bot) - Get FOXY/USDC market from Serum SDK
+*   [actionsflow/actionsflow](https://github.com/actionsflow/actionsflow) - The free Zapier/IFTTT alternative for developers to automate your workflows based on Github actions
+*   [rikukissa/typehole](https://github.com/rikukissa/typehole) - TypeScript development tool for Visual Studio Code that helps you automate creating the initial static typing for runtime values
+*   [t4t5/sweetalert](https://github.com/t4t5/sweetalert) - A beautiful replacement for JavaScript's "alert"
+*   [inorganik/countUp.js](https://github.com/inorganik/countUp.js) - Animates a numerical value by counting to it
+*   [feathersjs/feathers](https://github.com/feathersjs/feathers) - A framework for real-time applications and REST APIs with JavaScript and TypeScript
+*   [pubkey/rxdb](https://github.com/pubkey/rxdb) - 🔄 A client side, offline-first, reactive database for JavaScript Applications
+*   [recharts/recharts](https://github.com/recharts/recharts) - Redefined chart library built with React and D3
+*   [marmelab/react-admin](https://github.com/marmelab/react-admin) - A frontend Framework for building B2B applications running in the browser on top of REST/GraphQL APIs, using ES6, React and Material Design
+*   [Wscats/compile-hero](https://github.com/Wscats/compile-hero) - 🔰Visual Studio Code Extension For Compiling Language
+*   [ilmoi/nftape.me](https://github.com/ilmoi/nftape.me) - Are you Paperhands or Diamondhands? Find out your Solana NFT trading stats
+*   [pruge/vscode-pug-tsx](https://github.com/pruge/vscode-pug-tsx) - pug에서 사용한 변수를 append 한다.
+*   [pruge/pug-tsx](https://github.com/pruge/pug-tsx) -
+*   [concrete-utopia/utopia](https://github.com/concrete-utopia/utopia) - Design ❤️ Code
+*   [simplyhexagonal/json-schema-to-mongoose-schema](https://github.com/simplyhexagonal/json-schema-to-mongoose-schema) - Function to convert JSON Schema (draft v4+) to Mongoose (v5, v6) Schema
+*   [YousefED/typescript-json-schema](https://github.com/YousefED/typescript-json-schema) - Generate json-schema from your Typescript sources
+*   [Jigsaw-Code/outline-client](https://github.com/Jigsaw-Code/outline-client) - Outline clients, developed by Jigsaw. The Outline clients use the popular Shadowsocks protocol, and lean on the Cordova and Electron frameworks to support Windows, Android / ChromeOS, Linux, iOS and macOS.
+*   [Jigsaw-Code/outline-server](https://github.com/Jigsaw-Code/outline-server) - Outline Manager, developed by Jigsaw. The Outline Manager application creates and manages Outline servers, powered by Shadowsocks. It uses the Electron framework to offer support for Windows, macOS and Linux.
+*   [ecklf/tailwindcss-figma-plugin](https://github.com/ecklf/tailwindcss-figma-plugin) - Figma Plugin for Tailwind CSS
+*   [TeamVanced/VancedHelper](https://github.com/TeamVanced/VancedHelper) - Vanced Discord Bot
+*   [async-labs/saas](https://github.com/async-labs/saas) - Build your own SaaS business with SaaS boilerplate. Productive stack: React, Material-UI, Next, MobX, WebSockets, Express, Node, Mongoose, MongoDB. Written with TypeScript.
+*   [mattcarlotta/next-issg-example](https://github.com/mattcarlotta/next-issg-example) -
+*   [outline/outline](https://github.com/outline/outline) - The fastest wiki and knowledge base for growing teams. Beautiful, feature rich, and markdown compatible.
+*   [ConorButler/Quickpics](https://github.com/ConorButler/Quickpics) -
+*   [fkhadra/react-toastify](https://github.com/fkhadra/react-toastify) - React notification made easy 🚀 !
+*   [maxwellfortney/next-candy-machine](https://github.com/maxwellfortney/next-candy-machine) - Simplified NextJs with typescript example app integrated with Metaplex's Candy Machine
+*   [faros-ai/faros-community-edition](https://github.com/faros-ai/faros-community-edition) - BI, API and Automation layer for your Engineering Operations data
+*   [solana-developers/solana-cookbook](https://github.com/solana-developers/solana-cookbook) -
+*   [natterstefan/nextjs-template](https://github.com/natterstefan/nextjs-template) - A practical starter template for Nextjs, which has Tailwind, Cypress, Docker, Storybook, Jest, ESLint, Prettier, and more built-in. 🚀
+*   [ibrahima92/fullstack-typescript-mern-todo](https://github.com/ibrahima92/fullstack-typescript-mern-todo) - Full-stack TypeScript App with React, Nodejs and MongoDB
+*   [tapabratadey/crypto-investment-solana-nft](https://github.com/tapabratadey/crypto-investment-solana-nft) - Crypto Trading is a web app that displays information about various cryptocurrencies, lets users create a watchlist, and mint NFTs! (Coming soon: Trade!) 📝
+*   [Forart-ai/forart-website](https://github.com/Forart-ai/forart-website) - Create to Earn, and Socialize to Earn.
+*   [Forart-ai/forart-exchange](https://github.com/Forart-ai/forart-exchange) - Create to Earn, and Socialize to Earn.#Celo #Solana #Ethereum
+*   [paulmillr/noble-ed25519](https://github.com/paulmillr/noble-ed25519) - Fastest JS implementation of ed25519, x25519 & ristretto255. Independently audited, high-security, 0-dependency EDDSA signatures and ECDH key agreement
+*   [saber-hq/saber-common](https://github.com/saber-hq/saber-common) - 🗡 Saber common utilities and libraries
+*   [vicyyn/sollectify](https://github.com/vicyyn/sollectify) - Sollectify is a creator-centric NFT marketplace where users on the platform can easily create, trade and sell non-fungible tokens (NFTs) for their unique digital items like artworks, game items and more.  Built on @solana ☀️ and @ProjectSerum
+*   [penta-fun/sol-nft-tools](https://github.com/penta-fun/sol-nft-tools) -
+*   [jferrer/expo-solana-wallet](https://github.com/jferrer/expo-solana-wallet) - Cross-Platform Solana Wallet built with Expo and Solana/web3.js
+*   [NftEyez/sol-rayz](https://github.com/NftEyez/sol-rayz) - 💫   Package to simplify parsing NFTs on Solana and build NFT galleries
+*   [hempworks/nft-maker-js](https://github.com/hempworks/nft-maker-js) -
+*   [kevinrodriguez-io/harbor](https://github.com/kevinrodriguez-io/harbor) - Solana Candy Machine V2 Companion Toolchain
+*   [TiexoHQ/toolbox](https://github.com/TiexoHQ/toolbox) -
+*   [theskeletoncrew/treat-toolbox](https://github.com/theskeletoncrew/treat-toolbox) - Treat Toolbox: Generative NFT Utility for Candy Machine / Solana
+*   [metaplex-foundation/metaplex](https://github.com/metaplex-foundation/metaplex) - Protocol and application framework for decentralized NFT minting, storefronts, and sales.
+*   [exiled-apes/candy-machine-mint](https://github.com/exiled-apes/candy-machine-mint) - Fork, config, customize and ship your own candy machine mint app on your own domain, ultra fast.
+*   [milktoastlab/SolanaNFTBot](https://github.com/milktoastlab/SolanaNFTBot) - A helpful bot for tracking your Solana NFT project on discord channels.
+*   [awslabs/aws-lambda-powertools-typescript](https://github.com/awslabs/aws-lambda-powertools-typescript) - A suite of utilities for AWS Lambda Functions that makes structured logging, creating custom metrics asynchronously and tracing with AWS X-Ray easier
+*   [tmm/wagmi](https://github.com/tmm/wagmi) - React Hooks library for Ethereum
+*   [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite & MongoDB (Preview)
+*   [gdagundaridze/rtk-query-toptal-example](https://github.com/gdagundaridze/rtk-query-toptal-example) -
+*   [remix-run/remix](https://github.com/remix-run/remix) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
+*   [mapikit/meta-system](https://github.com/mapikit/meta-system) - A system to be any system.
+*   [airbnb/visx](https://github.com/airbnb/visx) - 🐯 visx | visualization components
+*   [salvia-kit/salvia-kit](https://github.com/salvia-kit/salvia-kit) - Provides 9 Free Beautiful dashboard templates built with Tailwind CSS for React, Next.js, Svelte, Vue and Nuxt.js
+*   [wclr/yalc](https://github.com/wclr/yalc) - Work with yarn/npm packages locally like a boss.
+*   [awslabs/fhir-works-on-aws-deployment](https://github.com/awslabs/fhir-works-on-aws-deployment) - A serverless implementation of the FHIR standard that enables users to focus more on their business needs/uniqueness rather than the FHIR specification
+*   [philipmulcahy/azad](https://github.com/philipmulcahy/azad) - amazon order history reporter chrome extension
+*   [jorenvandeweyer/snitch-bot](https://github.com/jorenvandeweyer/snitch-bot) - Discord bot that listen for certain strings in messages to tell you about them.
+*   [thomasloven/lovelace-auto-entities](https://github.com/thomasloven/lovelace-auto-entities) - 🔹Automatically populate the entities-list of lovelace cards
+*   [lolPants/beatsaver-reloaded](https://github.com/lolPants/beatsaver-reloaded) - BeatSaver Again
+*   [DominicMaas/TimelineExtension](https://github.com/DominicMaas/TimelineExtension) - Windows Timeline & Project Rome Web Extension
 
 ## JavaScript
 
+*   [cabinjs/cabin](https://github.com/cabinjs/cabin) - :evergreen_tree: Cabin is the best JavaScript and Node.js logging service and logging npm package
+*   [koajs/koa](https://github.com/koajs/koa) - Expressive middleware for node.js using ES2017 async functions
+*   [ladjs/lad](https://github.com/ladjs/lad) -  :boy: Lad is the best Node.js framework. Made by a former Express TC and Koa team member.
 *   [IBM/nicedoc.io](https://github.com/IBM/nicedoc.io) - pretty README as service.
 *   [khaeransori/next-pino](https://github.com/khaeransori/next-pino) - Use pino on server and client side in Next.js project
 *   [Logflare/next-pino-logflare-logging-example](https://github.com/Logflare/next-pino-logflare-logging-example) - Demonstrating various ways to log with Next, Vercel, Pino and Logflare
@@ -112,96 +189,18 @@
 *   [buccaneerai/rxjs-stats](https://github.com/buccaneerai/rxjs-stats) - Moved to @bottlenose/rxstats (https://github.com/buccaneerai/bottlenose)
 *   [open-dash/HousePanel](https://github.com/open-dash/HousePanel) - Open source highly customizable dashboard for your SmartThings home
 
-## TypeScript
+## PowerShell
 
-*   [metaplex-foundation/js](https://github.com/metaplex-foundation/js) - Metaplex JavaScript SDK
-*   [maraisr/diary](https://github.com/maraisr/diary) - 📑 Zero-dependency, fast logging library for Node, Browser and Workers
-*   [bevry/caterpillar](https://github.com/bevry/caterpillar) - Caterpillar is the ultimate logging system for Deno, Node.js, and Web Browsers. Log levels are implemented to the RFC standard. Log entries can be filtered and piped to various streams, including coloured output to the terminal, the browser's console, and debug files. You can even write your own transforms.
-*   [ljlm0402/typescript-express-starter](https://github.com/ljlm0402/typescript-express-starter) - 🚀 TypeScript Express Starter
-*   [alkinemk/serum-orderbook-bot](https://github.com/alkinemk/serum-orderbook-bot) - Get FOXY/USDC market from Serum SDK
-*   [actionsflow/actionsflow](https://github.com/actionsflow/actionsflow) - The free Zapier/IFTTT alternative for developers to automate your workflows based on Github actions
-*   [rikukissa/typehole](https://github.com/rikukissa/typehole) - TypeScript development tool for Visual Studio Code that helps you automate creating the initial static typing for runtime values
-*   [t4t5/sweetalert](https://github.com/t4t5/sweetalert) - A beautiful replacement for JavaScript's "alert"
-*   [inorganik/countUp.js](https://github.com/inorganik/countUp.js) - Animates a numerical value by counting to it
-*   [feathersjs/feathers](https://github.com/feathersjs/feathers) - A framework for real-time applications and REST APIs with JavaScript and TypeScript
-*   [pubkey/rxdb](https://github.com/pubkey/rxdb) - 🔄 A client side, offline-first, reactive database for JavaScript Applications
-*   [recharts/recharts](https://github.com/recharts/recharts) - Redefined chart library built with React and D3
-*   [marmelab/react-admin](https://github.com/marmelab/react-admin) - A frontend Framework for building B2B applications running in the browser on top of REST/GraphQL APIs, using ES6, React and Material Design
-*   [Wscats/compile-hero](https://github.com/Wscats/compile-hero) - 🔰Visual Studio Code Extension For Compiling Language
-*   [ilmoi/nftape.me](https://github.com/ilmoi/nftape.me) - Are you Paperhands or Diamondhands? Find out your Solana NFT trading stats
-*   [pruge/vscode-pug-tsx](https://github.com/pruge/vscode-pug-tsx) - pug에서 사용한 변수를 append 한다.
-*   [pruge/pug-tsx](https://github.com/pruge/pug-tsx) -
-*   [concrete-utopia/utopia](https://github.com/concrete-utopia/utopia) - Design ❤️ Code
-*   [simplyhexagonal/json-schema-to-mongoose-schema](https://github.com/simplyhexagonal/json-schema-to-mongoose-schema) - Function to convert JSON Schema (draft v4+) to Mongoose (v5, v6) Schema
-*   [YousefED/typescript-json-schema](https://github.com/YousefED/typescript-json-schema) - Generate json-schema from your Typescript sources
-*   [Jigsaw-Code/outline-client](https://github.com/Jigsaw-Code/outline-client) - Outline clients, developed by Jigsaw. The Outline clients use the popular Shadowsocks protocol, and lean on the Cordova and Electron frameworks to support Windows, Android / ChromeOS, Linux, iOS and macOS.
-*   [Jigsaw-Code/outline-server](https://github.com/Jigsaw-Code/outline-server) - Outline Manager, developed by Jigsaw. The Outline Manager application creates and manages Outline servers, powered by Shadowsocks. It uses the Electron framework to offer support for Windows, macOS and Linux.
-*   [ecklf/tailwindcss-figma-plugin](https://github.com/ecklf/tailwindcss-figma-plugin) - Figma Plugin for Tailwind CSS
-*   [TeamVanced/VancedHelper](https://github.com/TeamVanced/VancedHelper) - Vanced Discord Bot
-*   [async-labs/saas](https://github.com/async-labs/saas) - Build your own SaaS business with SaaS boilerplate. Productive stack: React, Material-UI, Next, MobX, WebSockets, Express, Node, Mongoose, MongoDB. Written with TypeScript.
-*   [mattcarlotta/next-issg-example](https://github.com/mattcarlotta/next-issg-example) -
-*   [outline/outline](https://github.com/outline/outline) - The fastest wiki and knowledge base for growing teams. Beautiful, feature rich, and markdown compatible.
-*   [ConorButler/Quickpics](https://github.com/ConorButler/Quickpics) -
-*   [fkhadra/react-toastify](https://github.com/fkhadra/react-toastify) - React notification made easy 🚀 !
-*   [maxwellfortney/next-candy-machine](https://github.com/maxwellfortney/next-candy-machine) - Simplified NextJs with typescript example app integrated with Metaplex's Candy Machine
-*   [faros-ai/faros-community-edition](https://github.com/faros-ai/faros-community-edition) - BI, API and Automation layer for your Engineering Operations data
-*   [solana-developers/solana-cookbook](https://github.com/solana-developers/solana-cookbook) -
-*   [natterstefan/nextjs-template](https://github.com/natterstefan/nextjs-template) - A practical starter template for Nextjs, which has Tailwind, Cypress, Docker, Storybook, Jest, ESLint, Prettier, and more built-in. 🚀
-*   [ibrahima92/fullstack-typescript-mern-todo](https://github.com/ibrahima92/fullstack-typescript-mern-todo) - Full-stack TypeScript App with React, Nodejs and MongoDB
-*   [tapabratadey/crypto-investment-solana-nft](https://github.com/tapabratadey/crypto-investment-solana-nft) - Crypto Trading is a web app that displays information about various cryptocurrencies, lets users create a watchlist, and mint NFTs! (Coming soon: Trade!) 📝
-*   [Forart-ai/forart-website](https://github.com/Forart-ai/forart-website) - Create to Earn, and Socialize to Earn.
-*   [Forart-ai/forart-exchange](https://github.com/Forart-ai/forart-exchange) - Create to Earn, and Socialize to Earn.#Celo #Solana #Ethereum
-*   [paulmillr/noble-ed25519](https://github.com/paulmillr/noble-ed25519) - Fastest JS implementation of ed25519, x25519 & ristretto255. Independently audited, high-security, 0-dependency EDDSA signatures and ECDH key agreement
-*   [saber-hq/saber-common](https://github.com/saber-hq/saber-common) - 🗡 Saber common utilities and libraries
-*   [vicyyn/sollectify](https://github.com/vicyyn/sollectify) - Sollectify is a creator-centric NFT marketplace where users on the platform can easily create, trade and sell non-fungible tokens (NFTs) for their unique digital items like artworks, game items and more.  Built on @solana ☀️ and @ProjectSerum
-*   [penta-fun/sol-nft-tools](https://github.com/penta-fun/sol-nft-tools) -
-*   [jferrer/expo-solana-wallet](https://github.com/jferrer/expo-solana-wallet) - Cross-Platform Solana Wallet built with Expo and Solana/web3.js
-*   [NftEyez/sol-rayz](https://github.com/NftEyez/sol-rayz) - 💫   Package to simplify parsing NFTs on Solana and build NFT galleries
-*   [hempworks/nft-maker-js](https://github.com/hempworks/nft-maker-js) -
-*   [kevinrodriguez-io/harbor](https://github.com/kevinrodriguez-io/harbor) - Solana Candy Machine V2 Companion Toolchain
-*   [TiexoHQ/toolbox](https://github.com/TiexoHQ/toolbox) -
-*   [theskeletoncrew/treat-toolbox](https://github.com/theskeletoncrew/treat-toolbox) - Treat Toolbox: Generative NFT Utility for Candy Machine / Solana
-*   [metaplex-foundation/metaplex](https://github.com/metaplex-foundation/metaplex) - Protocol and application framework for decentralized NFT minting, storefronts, and sales.
-*   [exiled-apes/candy-machine-mint](https://github.com/exiled-apes/candy-machine-mint) - Fork, config, customize and ship your own candy machine mint app on your own domain, ultra fast.
-*   [milktoastlab/SolanaNFTBot](https://github.com/milktoastlab/SolanaNFTBot) - A helpful bot for tracking your Solana NFT project on discord channels.
-*   [awslabs/aws-lambda-powertools-typescript](https://github.com/awslabs/aws-lambda-powertools-typescript) - A suite of utilities for AWS Lambda Functions that makes structured logging, creating custom metrics asynchronously and tracing with AWS X-Ray easier
-*   [tmm/wagmi](https://github.com/tmm/wagmi) - React Hooks library for Ethereum
-*   [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite & MongoDB (Preview)
-*   [gdagundaridze/rtk-query-toptal-example](https://github.com/gdagundaridze/rtk-query-toptal-example) -
-*   [remix-run/remix](https://github.com/remix-run/remix) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
-*   [mapikit/meta-system](https://github.com/mapikit/meta-system) - A system to be any system.
-*   [airbnb/visx](https://github.com/airbnb/visx) - 🐯 visx | visualization components
-*   [salvia-kit/salvia-kit](https://github.com/salvia-kit/salvia-kit) - Provides 9 Free Beautiful dashboard templates built with Tailwind CSS for React, Next.js, Svelte, Vue and Nuxt.js
-*   [wclr/yalc](https://github.com/wclr/yalc) - Work with yarn/npm packages locally like a boss.
-*   [awslabs/fhir-works-on-aws-deployment](https://github.com/awslabs/fhir-works-on-aws-deployment) - A serverless implementation of the FHIR standard that enables users to focus more on their business needs/uniqueness rather than the FHIR specification
-*   [philipmulcahy/azad](https://github.com/philipmulcahy/azad) - amazon order history reporter chrome extension
-*   [jorenvandeweyer/snitch-bot](https://github.com/jorenvandeweyer/snitch-bot) - Discord bot that listen for certain strings in messages to tell you about them.
-*   [thomasloven/lovelace-auto-entities](https://github.com/thomasloven/lovelace-auto-entities) - 🔹Automatically populate the entities-list of lovelace cards
-*   [lolPants/beatsaver-reloaded](https://github.com/lolPants/beatsaver-reloaded) - BeatSaver Again
-*   [DominicMaas/TimelineExtension](https://github.com/DominicMaas/TimelineExtension) - Windows Timeline & Project Rome Web Extension
+*   [velodo/youtube-dl_script](https://github.com/velodo/youtube-dl_script) - Windows Powershell script with template config files for archiving YouTube channels.
 
-## generic
+## Shell
 
-*   [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ Uptime monitor and status page powered by GitHub Actions, Issues, and Pages
-*   [matchai/awesome-pinned-gists](https://github.com/matchai/awesome-pinned-gists) - 📌✨ A collection of awesome dynamic pinned gists for GitHub
-*   [YOURLS/awesome-yourls](https://github.com/YOURLS/awesome-yourls) - 🎉 A curated list of awesome things related to YOURLS
-*   [audreyfeldroy/favicon-cheat-sheet](https://github.com/audreyfeldroy/favicon-cheat-sheet) - Obsessive cheat sheet to favicon sizes/types. Please contribute! (Note: this may be in flux as I learn new things about favicon best practices.)
-*   [christiannaths/redacted-font](https://github.com/christiannaths/redacted-font) - Keep your wireframes free of distracting Lorem Ipsum.
-*   [ericandrewlewis/web-development-contract](https://github.com/ericandrewlewis/web-development-contract) - Web Development Contract
-*   [simonecorsi/awesome](https://github.com/simonecorsi/awesome) - 😎  This list is automatically generate by all the project I've starred over the years! You can generate you own using my github action linked below
-*   [ilmoi/awesome-solana-nfts](https://github.com/ilmoi/awesome-solana-nfts) - A curated list of Solana NFT protocols, repos & community tools
-*   [kcotoi/SOLSniperNFT-Releases](https://github.com/kcotoi/SOLSniperNFT-Releases) -
-*   [ShareX/CustomUploaders](https://github.com/ShareX/CustomUploaders) - ShareX custom uploaders
-*   [mbeaudru/modern-js-cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet) - Cheatsheet for the JavaScript knowledge you will frequently encounter in modern projects.
-*   [typescript-cheatsheets/react-typescript-cheatsheet-es](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet-es) - Cheatsheets para desarrolladores expertos en React que comienzan con TypeScript
-*   [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue) - 🎉 A curated list of awesome things related to Vue.js
-*   [hakluke/how-to-exit-vim](https://github.com/hakluke/how-to-exit-vim) - Below are some simple methods for exiting vim.
-*   [aderusha/DDD-Printable-Wall-Control-System](https://github.com/aderusha/DDD-Printable-Wall-Control-System) - DDD Printable Wall Control System, 3d printable organization solutions for Wall Control pegboards
-*   [mdbootstrap/Black-Friday-2021](https://github.com/mdbootstrap/Black-Friday-2021) - Black Friday & Cyber Monday Deals (UI Kits WordPress Plugins, CRMs, SEO, Courses, Books) for web developers, programmers, and software engineers.
-*   [RitikPatni/Front-End-Web-Development-Resources](https://github.com/RitikPatni/Front-End-Web-Development-Resources) - This repository contains content which will be helpful in your journey as a front-end Web Developer
+*   [TheFrenchGhosty/TheFrenchGhostys-Ultimate-YouTube-DL-Scripts-Collection](https://github.com/TheFrenchGhosty/TheFrenchGhostys-Ultimate-YouTube-DL-Scripts-Collection) - The ultimate collection of scripts for YouTube-DL.
 
 ## Python
 
+*   [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes
+*   [Jeeaaasus/youtube-dl](https://github.com/Jeeaaasus/youtube-dl) - Automated yt-dlp Docker image
 *   [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 *   [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
 *   [minimaxir/big-list-of-naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings) - The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data.
@@ -247,7 +246,26 @@
 *   [pushshift/api](https://github.com/pushshift/api) - Pushshift API
 *   [tribixbite/BrokenRecordBot](https://github.com/tribixbite/BrokenRecordBot) - reddit copypasta bot for subreddit wiki text
 *   [janick/ArloDownload](https://github.com/janick/ArloDownload) - Automatically download new video recordings from Arlo
-*   [CarlosGS/Cyclone-PCB-Factory](https://github.com/CarlosGS/Cyclone-PCB-Factory) - Cyclone (Circuit Cloner) is a CNC mill intended for PCB manufacturing.
+
+## generic
+
+*   [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ Uptime monitor and status page powered by GitHub Actions, Issues, and Pages
+*   [matchai/awesome-pinned-gists](https://github.com/matchai/awesome-pinned-gists) - 📌✨ A collection of awesome dynamic pinned gists for GitHub
+*   [YOURLS/awesome-yourls](https://github.com/YOURLS/awesome-yourls) - 🎉 A curated list of awesome things related to YOURLS
+*   [audreyfeldroy/favicon-cheat-sheet](https://github.com/audreyfeldroy/favicon-cheat-sheet) - Obsessive cheat sheet to favicon sizes/types. Please contribute! (Note: this may be in flux as I learn new things about favicon best practices.)
+*   [christiannaths/redacted-font](https://github.com/christiannaths/redacted-font) - Keep your wireframes free of distracting Lorem Ipsum.
+*   [ericandrewlewis/web-development-contract](https://github.com/ericandrewlewis/web-development-contract) - Web Development Contract
+*   [simonecorsi/awesome](https://github.com/simonecorsi/awesome) - 😎  This list is automatically generate by all the project I've starred over the years! You can generate you own using my github action linked below
+*   [ilmoi/awesome-solana-nfts](https://github.com/ilmoi/awesome-solana-nfts) - A curated list of Solana NFT protocols, repos & community tools
+*   [kcotoi/SOLSniperNFT-Releases](https://github.com/kcotoi/SOLSniperNFT-Releases) -
+*   [ShareX/CustomUploaders](https://github.com/ShareX/CustomUploaders) - ShareX custom uploaders
+*   [mbeaudru/modern-js-cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet) - Cheatsheet for the JavaScript knowledge you will frequently encounter in modern projects.
+*   [typescript-cheatsheets/react-typescript-cheatsheet-es](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet-es) - Cheatsheets para desarrolladores expertos en React que comienzan con TypeScript
+*   [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue) - 🎉 A curated list of awesome things related to Vue.js
+*   [hakluke/how-to-exit-vim](https://github.com/hakluke/how-to-exit-vim) - Below are some simple methods for exiting vim.
+*   [aderusha/DDD-Printable-Wall-Control-System](https://github.com/aderusha/DDD-Printable-Wall-Control-System) - DDD Printable Wall Control System, 3d printable organization solutions for Wall Control pegboards
+*   [mdbootstrap/Black-Friday-2021](https://github.com/mdbootstrap/Black-Friday-2021) - Black Friday & Cyber Monday Deals (UI Kits WordPress Plugins, CRMs, SEO, Courses, Books) for web developers, programmers, and software engineers.
+*   [RitikPatni/Front-End-Web-Development-Resources](https://github.com/RitikPatni/Front-End-Web-Development-Resources) - This repository contains content which will be helpful in your journey as a front-end Web Developer
 
 ## CSS
 
@@ -255,11 +273,6 @@
 *   [madmalik/mononoki](https://github.com/madmalik/mononoki) - a programming typeface
 *   [appbaseio/dejavu](https://github.com/appbaseio/dejavu) - The Missing Web UI for Elasticsearch: Import, browse and edit data with rich filters and query views, create search UIs visually.
 *   [alphapapa/solarized-everything-css](https://github.com/alphapapa/solarized-everything-css) - A collection of Solarized user-stylesheets for...everything?
-*   [json-api/json-api](https://github.com/json-api/json-api) - A specification for building JSON APIs
-
-## HTML
-
-*   [jglovier/gifs](https://github.com/jglovier/gifs) - :joy: :camera: :sparkler: Storage place for all mah gifs.
 
 ## C++
 
@@ -270,7 +283,6 @@
 *   [esphome/esphome](https://github.com/esphome/esphome) - ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems.
 *   [mozilla/DeepSpeech](https://github.com/mozilla/DeepSpeech) - DeepSpeech is an open source embedded (offline, on-device) speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers.
 *   [projectM-visualizer/projectm](https://github.com/projectM-visualizer/projectm) - projectM - cross-platform music visualization. Open-source and Milkdrop-compatible
-*   [x64dbg/x64dbg](https://github.com/x64dbg/x64dbg) - An open-source x64/x32 debugger for windows.
 
 ## Kotlin
 
@@ -301,7 +313,6 @@
 *   [Assistant/ModAssistant](https://github.com/Assistant/ModAssistant) - Simple Beat Saber Mod Installer
 *   [Tichau/FileConverter](https://github.com/Tichau/FileConverter) - File Converter is a very simple tool which allows you to convert and compress one or several file(s) using the context menu in windows explorer.
 *   [evilC/AutoHotInterception](https://github.com/evilC/AutoHotInterception) - An AutoHotkey wrapper for the Interception driver
-*   [KyleJFischer/SpartanController](https://github.com/KyleJFischer/SpartanController) - Control your computer via a text file. I recommend a command from IFTTT to update the text file.
 
 ## Jupyter Notebook
 
@@ -332,7 +343,6 @@
 ## OpenSCAD
 
 *   [FrameworkComputer/ExpansionCards](https://github.com/FrameworkComputer/ExpansionCards) - Reference designs and documentation to create Expansion Cards for the Framework Laptop
-*   [fpiesik/pE-Drums](https://github.com/fpiesik/pE-Drums) - An e-drum set based on 3d-printed parts
 
 ## AutoIt
 
@@ -344,7 +354,6 @@
 *   [evilC/AppFactory](https://github.com/evilC/AppFactory) - A library for creating AHK Gui Apps with configurable hotkeys and settings.
 *   [pmb6tz/windows-desktop-switcher](https://github.com/pmb6tz/windows-desktop-switcher) - An AutoHotKey script for Windows that lets a user change virtual desktops by pressing CapsLock + \<num>.
 *   [TaranVH/2nd-keyboard](https://github.com/TaranVH/2nd-keyboard) - ALL of Taran's scripts - not just for the 2nd keyboard.
-*   [jpginc/windows10DesktopManager](https://github.com/jpginc/windows10DesktopManager) - An autohotkey desktop manager
 
 ## Visual Basic .NET
 
@@ -361,20 +370,3 @@
 ## Clojure
 
 *   [zakwilson/ceilingbounce](https://github.com/zakwilson/ceilingbounce) - Test your flashlights and graph their performance
-
-## Java
-
-*   [RBWare/Glass-App-Manager](https://github.com/RBWare/Glass-App-Manager) - Simple app manager for Google Glass
-*   [wearscript/wearscript-android](https://github.com/wearscript/wearscript-android) - JavaScript with Batteries Included for Google Glass
-
-## Arduino
-
-*   [RHWorkshop/TIPIC-Arduino](https://github.com/RHWorkshop/TIPIC-Arduino) - This is the Arduino code for the TIPIC Thermal Imaging Phone Camera device.
-
-## Shell
-
-*   [DDRBoxman/GlassDateDisplay](https://github.com/DDRBoxman/GlassDateDisplay) - Display the current date on Google Glass
-
-## PHP
-
-*   [nehalvpatel/cgui](https://github.com/nehalvpatel/cgui) - A web interface for cgminer that is made to reduce setup time and increase productivity, featuring the famous 2 minute install.
