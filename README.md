@@ -33,6 +33,8 @@
 
 ## TypeScript
 
+*   [payloadcms/payload](https://github.com/payloadcms/payload) - Headless CMS and Application Framework built with TypeScript, Node.js, React and MongoDB
+*   [react-hook-form/react-hook-form](https://github.com/react-hook-form/react-hook-form) - 📋 React Hooks for form state management and validation (Web + React Native)
 *   [rudza/next-react-admin](https://github.com/rudza/next-react-admin) -
 *   [dvikas/nextjs-graphql-adminpanel](https://github.com/dvikas/nextjs-graphql-adminpanel) - Admin panel built with NextJS(Typescript), Material UI, Apollo Client & GraphQL. In the backend, Prisma 2 with Nexus and Mysql is used.
 *   [SoftwareBrothers/adminjs](https://github.com/SoftwareBrothers/adminjs) - AdminJS is an admin panel for apps written in node.js
@@ -137,7 +139,6 @@
 *   [madmalik/mononoki](https://github.com/madmalik/mononoki) - a programming typeface
 *   [appbaseio/dejavu](https://github.com/appbaseio/dejavu) - The Missing Web UI for Elasticsearch: Import, browse and edit data with rich filters and query views, create search UIs visually.
 *   [alphapapa/solarized-everything-css](https://github.com/alphapapa/solarized-everything-css) - A collection of Solarized user-stylesheets for...everything?
-*   [json-api/json-api](https://github.com/json-api/json-api) - A specification for building JSON APIs
 
 ## JavaScript
 
@@ -344,7 +345,6 @@
 *   [pushshift/api](https://github.com/pushshift/api) - Pushshift API
 *   [tribixbite/BrokenRecordBot](https://github.com/tribixbite/BrokenRecordBot) - reddit copypasta bot for subreddit wiki text
 *   [janick/ArloDownload](https://github.com/janick/ArloDownload) - Automatically download new video recordings from Arlo
-*   [CarlosGS/Cyclone-PCB-Factory](https://github.com/CarlosGS/Cyclone-PCB-Factory) - Cyclone (Circuit Cloner) is a CNC mill intended for PCB manufacturing.
 
 ## C++
 
