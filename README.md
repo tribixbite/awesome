@@ -29,10 +29,10 @@
 *   [R](#r)
 *   [Clojure](#clojure)
 *   [Java](#java)
-*   [Arduino](#arduino)
 
 ## TypeScript
 
+*   [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui) - A low-level toolkit to position floating elements while intelligently keeping them in view. Tooltips, popovers, dropdowns, menus, and more
 *   [payloadcms/payload](https://github.com/payloadcms/payload) - Headless CMS and Application Framework built with TypeScript, Node.js, React and MongoDB
 *   [react-hook-form/react-hook-form](https://github.com/react-hook-form/react-hook-form) - 📋 React Hooks for form state management and validation (Web + React Native)
 *   [rudza/next-react-admin](https://github.com/rudza/next-react-admin) -
@@ -434,7 +434,3 @@
 ## Java
 
 *   [RBWare/Glass-App-Manager](https://github.com/RBWare/Glass-App-Manager) - Simple app manager for Google Glass
-
-## Arduino
-
-*   [RHWorkshop/TIPIC-Arduino](https://github.com/RHWorkshop/TIPIC-Arduino) - This is the Arduino code for the TIPIC Thermal Imaging Phone Camera device.
