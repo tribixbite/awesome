@@ -424,7 +424,7 @@
 ## Vue
 
 *   [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
-*   [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative - turns any MySQL, Postgres database into a collaborative spreadsheet with REST APIs.
+*   [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative - turns any MySQL, Postgres, SQLite into a spreadsheet with REST APIs.
 *   [Alaanor/beatlist](https://github.com/Alaanor/beatlist) - Beatlist is an app to manage playlists and beatmaps for the game Beat Saber.
 *   [samatt/herbivore](https://github.com/samatt/herbivore) - Packet sniffing made simple
 *   [ui-discord/ubiquiti-name-generator](https://github.com/ui-discord/ubiquiti-name-generator) - A silly tool to make up product names that Ubiquiti may or may not release
