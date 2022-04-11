@@ -425,7 +425,7 @@
 
 *   [solana-labs/solana-ping-api](https://github.com/solana-labs/solana-ping-api) - solana ping api server
 *   [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative
-*   [prabhatsharma/zinc](https://github.com/prabhatsharma/zinc) - Zinc Search engine. A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
+*   [zinclabs/zinc](https://github.com/zinclabs/zinc) - Zinc Search engine. A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
 
 ## Cuda
 
