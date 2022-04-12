@@ -31,10 +31,10 @@
 *   [Java](#java)
 *   [Arduino](#arduino)
 *   [PHP](#php)
-*   [VimL](#viml)
 
 ## TypeScript
 
+*   [antvis/G2Plot](https://github.com/antvis/G2Plot) - :dango:  An interactive and responsive charting library
 *   [alibaba/BizCharts](https://github.com/alibaba/BizCharts) - Powerful data visualization library based on G2 and React.
 *   [nhn/tui.chart](https://github.com/nhn/tui.chart) - 🍞📊  Beautiful chart for data visualization.
 *   [highcharts/highcharts](https://github.com/highcharts/highcharts) - Highcharts JS, the JavaScript charting framework
@@ -502,7 +502,3 @@
 ## PHP
 
 *   [nehalvpatel/cgui](https://github.com/nehalvpatel/cgui) - A web interface for cgminer that is made to reduce setup time and increase productivity, featuring the famous 2 minute install.
-
-## VimL
-
-*   [tribixbite/vimfiles](https://github.com/tribixbite/vimfiles) - My vim configuration, borrowed heavily from tpope
