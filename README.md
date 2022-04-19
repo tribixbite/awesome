@@ -4,12 +4,12 @@
 
 ## Table of Contents
 
+*   [Rust](#rust)
 *   [JavaScript](#javascript)
 *   [TypeScript](#typescript)
 *   [generic](#generic)
 *   [Python](#python)
 *   [HTML](#html)
-*   [Rust](#rust)
 *   [CSS](#css)
 *   [Kotlin](#kotlin)
 *   [C#](#c)
@@ -30,6 +30,14 @@
 *   [Clojure](#clojure)
 *   [Java](#java)
 *   [Arduino](#arduino)
+
+## Rust
+
+*   [facebook/relay](https://github.com/facebook/relay) - Relay is a JavaScript framework for building data-driven React applications.
+*   [gabrieldemian/minimal-solana-minter](https://github.com/gabrieldemian/minimal-solana-minter) - Minimalistic solana minter program if you don't want to use Metaplex
+*   [ckamm/solana-accountsdb-connector](https://github.com/ckamm/solana-accountsdb-connector) -
+*   [samuelvanderwaal/metaboss](https://github.com/samuelvanderwaal/metaboss) - The Metaplex NFT-standard Swiss Army Knife tool.
+*   [yoav-lavi/melody](https://github.com/yoav-lavi/melody) - Melody is a language that compiles to regular expressions and aims to be more easily readable and maintainable
 
 ## JavaScript
 
@@ -369,13 +377,6 @@
 *   [themesberg/flowbite](https://github.com/themesberg/flowbite) - The most popular library of interactive UI components built with Tailwind CSS
 *   [jglovier/gifs](https://github.com/jglovier/gifs) - :joy: :camera: :sparkler: Storage place for all mah gifs.
 
-## Rust
-
-*   [gabrieldemian/minimal-solana-minter](https://github.com/gabrieldemian/minimal-solana-minter) - Minimalistic solana minter program if you don't want to use Metaplex
-*   [ckamm/solana-accountsdb-connector](https://github.com/ckamm/solana-accountsdb-connector) -
-*   [samuelvanderwaal/metaboss](https://github.com/samuelvanderwaal/metaboss) - The Metaplex NFT-standard Swiss Army Knife tool.
-*   [yoav-lavi/melody](https://github.com/yoav-lavi/melody) - Melody is a language that compiles to regular expressions and aims to be more easily readable and maintainable
-
 ## CSS
 
 *   [paljs/gatsby-admin-template](https://github.com/paljs/gatsby-admin-template) - Free admin dashboard template based on Gatsby with @paljs/ui component package
@@ -493,7 +494,6 @@
 ## Java
 
 *   [RBWare/Glass-App-Manager](https://github.com/RBWare/Glass-App-Manager) - Simple app manager for Google Glass
-*   [wearscript/wearscript-android](https://github.com/wearscript/wearscript-android) - JavaScript with Batteries Included for Google Glass
 
 ## Arduino
 
