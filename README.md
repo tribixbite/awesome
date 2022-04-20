@@ -28,9 +28,23 @@
 *   [SCSS](#scss)
 *   [R](#r)
 *   [Clojure](#clojure)
+*   [Java](#java)
+*   [Arduino](#arduino)
+*   [PHP](#php)
+*   [VimL](#viml)
 
 ## TypeScript
 
+*   [dericcain/react-tiny-fab](https://github.com/dericcain/react-tiny-fab) - 🤖A tiny Floating Action Button for React
+*   [clauderic/react-tiny-virtual-list](https://github.com/clauderic/react-tiny-virtual-list) - A tiny but mighty 3kb list virtualization library, with zero dependencies 💪 Supports variable heights/widths, sticky items, scrolling to index, and more!
+*   [omgovich/react-colorful](https://github.com/omgovich/react-colorful) - 🎨 A tiny (2,8 KB) color picker component for React and Preact apps
+*   [yjose/reactjs-popup](https://github.com/yjose/reactjs-popup) - React Popup Component - Modals,Tooltips and Menus —  All in one
+*   [teodosii/react-notifications-component](https://github.com/teodosii/react-notifications-component) - Delightful and highly customisable React Component to notify your users
+*   [fkhadra/react-contexify](https://github.com/fkhadra/react-contexify) - Add a context menu to your react app with ease
+*   [sghall/react-compound-slider](https://github.com/sghall/react-compound-slider) - :black_medium_small_square: React Compound Slider | A small React slider with no opinion on markup or styles
+*   [react-component/tween-one](https://github.com/react-component/tween-one) - Animate One React Element
+*   [Wondermarin/react-color-palette](https://github.com/Wondermarin/react-color-palette) - 🎨 Lightweight Color Picker component for React.
+*   [jaywcjlove/react-hotkeys](https://github.com/jaywcjlove/react-hotkeys) - React component to listen to keydown and keyup keyboard events, defining and  dispatching keyboard shortcuts.
 *   [solana-labs/wallet-adapter](https://github.com/solana-labs/wallet-adapter) - Modular TypeScript wallet adapters and components for Solana applications.
 *   [project-serum/serum-ts](https://github.com/project-serum/serum-ts) - Project Serum TypeScript monorepo
 *   [heavy-duty/platform](https://github.com/heavy-duty/platform) - Monorepository of Heavy Duty Builders.
@@ -128,7 +142,7 @@
 *   [async-labs/saas](https://github.com/async-labs/saas) - Build your own SaaS business with SaaS boilerplate. Productive stack: React, Material-UI, Next, MobX, WebSockets, Express, Node, Mongoose, MongoDB. Written with TypeScript.
 *   [mattcarlotta/next-issg-example](https://github.com/mattcarlotta/next-issg-example) -
 *   [outline/outline](https://github.com/outline/outline) - The fastest wiki and knowledge base for growing teams. Beautiful, feature rich, and markdown compatible.
-*   [ConorButler/Quickpics](https://github.com/ConorButler/Quickpics) -
+*   [cwdbutler/Quickpics](https://github.com/cwdbutler/Quickpics) -
 *   [fkhadra/react-toastify](https://github.com/fkhadra/react-toastify) - React notification made easy 🚀 !
 *   [maxwellfortney/next-candy-machine](https://github.com/maxwellfortney/next-candy-machine) - Simplified NextJs with typescript example app integrated with Metaplex's Candy Machine
 *   [faros-ai/faros-community-edition](https://github.com/faros-ai/faros-community-edition) - BI, API and Automation layer for your Engineering Operations data
@@ -160,7 +174,7 @@
 *   [airbnb/visx](https://github.com/airbnb/visx) - 🐯 visx | visualization components
 *   [salvia-kit/salvia-kit](https://github.com/salvia-kit/salvia-kit) - Provides 9 Free Beautiful dashboard templates built with Tailwind CSS for React, Next.js, Svelte, Vue and Nuxt.js
 *   [wclr/yalc](https://github.com/wclr/yalc) - Work with yarn/npm packages locally like a boss.
-*   [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative - turns any MySQL, Postgres, SQLite into a spreadsheet with REST APIs.
+*   [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative - turns any MySQL, Postgres, SQLite into a Spreadsheet with REST APIs.
 *   [awslabs/fhir-works-on-aws-deployment](https://github.com/awslabs/fhir-works-on-aws-deployment) - A serverless implementation of the FHIR standard that enables users to focus more on their business needs/uniqueness rather than the FHIR specification
 *   [philipmulcahy/azad](https://github.com/philipmulcahy/azad) - amazon order history reporter chrome extension
 *   [jorenvandeweyer/snitch-bot](https://github.com/jorenvandeweyer/snitch-bot) - Discord bot that listen for certain strings in messages to tell you about them.
@@ -187,6 +201,7 @@
 *   [Assistant/ModAssistant](https://github.com/Assistant/ModAssistant) - Simple Beat Saber Mod Installer
 *   [Tichau/FileConverter](https://github.com/Tichau/FileConverter) - File Converter is a very simple tool which allows you to convert and compress one or several file(s) using the context menu in windows explorer.
 *   [evilC/AutoHotInterception](https://github.com/evilC/AutoHotInterception) - An AutoHotkey wrapper for the Interception driver
+*   [KyleJFischer/SpartanController](https://github.com/KyleJFischer/SpartanController) - Control your computer via a text file. I recommend a command from IFTTT to update the text file.
 
 ## JavaScript
 
@@ -302,6 +317,9 @@
 *   [NUKnightLab/juxtapose](https://github.com/NUKnightLab/juxtapose) - JuxtaposeJS is a JavaScript library for making before/after image sliders
 *   [buccaneerai/rxjs-stats](https://github.com/buccaneerai/rxjs-stats) - Moved to @bottlenose/rxstats (https://github.com/buccaneerai/bottlenose)
 *   [open-dash/HousePanel](https://github.com/open-dash/HousePanel) - Open source highly customizable dashboard for your SmartThings home
+*   [tribixbite/meteor](https://github.com/tribixbite/meteor) - Meteor, an ultra-simple, database-everywhere, data-on-the-wire, pure-Javascript web framework.
+*   [tribixbite/Ghost.py](https://github.com/tribixbite/Ghost.py) - Webkit based scriptable web browser for python.
+*   [meteor/meteor](https://github.com/meteor/meteor) - Meteor, the JavaScript App Platform
 
 ## generic
 
@@ -329,6 +347,8 @@
 *   [aderusha/DDD-Printable-Wall-Control-System](https://github.com/aderusha/DDD-Printable-Wall-Control-System) - DDD Printable Wall Control System, 3d printable organization solutions for Wall Control pegboards
 *   [mdbootstrap/Black-Friday-2021](https://github.com/mdbootstrap/Black-Friday-2021) - Black Friday & Cyber Monday Deals (UI Kits WordPress Plugins, CRMs, SEO, Courses, Books) for web developers, programmers, and software engineers.
 *   [RitikPatni/Front-End-Web-Development-Resources](https://github.com/RitikPatni/Front-End-Web-Development-Resources) - This repository contains content which will be helpful in your journey as a front-end Web Developer
+*   [tribixbite/Settlers-game-pieces](https://github.com/tribixbite/Settlers-game-pieces) - 3D printable Settlers of Catan tiles
+*   [Intrinsically-Sublime/Settlers-game-pieces](https://github.com/Intrinsically-Sublime/Settlers-game-pieces) - 3D printable Settlers of Catan tiles
 
 ## Python
 
@@ -382,6 +402,10 @@
 *   [pushshift/api](https://github.com/pushshift/api) - Pushshift API
 *   [tribixbite/BrokenRecordBot](https://github.com/tribixbite/BrokenRecordBot) - reddit copypasta bot for subreddit wiki text
 *   [janick/ArloDownload](https://github.com/janick/ArloDownload) - Automatically download new video recordings from Arlo
+*   [CarlosGS/Cyclone-PCB-Factory](https://github.com/CarlosGS/Cyclone-PCB-Factory) - Cyclone (Circuit Cloner) is a CNC mill intended for PCB manufacturing.
+*   [tribixbite/WebPutty](https://github.com/tribixbite/WebPutty) -
+*   [tribixbite/gmvault](https://github.com/tribixbite/gmvault) - gmail backup software
+*   [glitchdotcom/WebPutty](https://github.com/glitchdotcom/WebPutty) - WebPutty is a simple CSS editing and hosting service that you can run on Google App Engine.
 
 ## HTML
 
@@ -398,6 +422,7 @@
 *   [madmalik/mononoki](https://github.com/madmalik/mononoki) - a programming typeface
 *   [appbaseio/dejavu](https://github.com/appbaseio/dejavu) - The Missing Web UI for Elasticsearch: Import, browse and edit data with rich filters and query views, create search UIs visually.
 *   [alphapapa/solarized-everything-css](https://github.com/alphapapa/solarized-everything-css) - A collection of Solarized user-stylesheets for...everything?
+*   [json-api/json-api](https://github.com/json-api/json-api) - A specification for building JSON APIs
 
 ## Kotlin
 
@@ -412,6 +437,8 @@
 ## Shell
 
 *   [TheFrenchGhosty/TheFrenchGhostys-Ultimate-YouTube-DL-Scripts-Collection](https://github.com/TheFrenchGhosty/TheFrenchGhostys-Ultimate-YouTube-DL-Scripts-Collection) - The ultimate collection of scripts for YouTube-DL.
+*   [DDRBoxman/GlassDateDisplay](https://github.com/DDRBoxman/GlassDateDisplay) - Display the current date on Google Glass
+*   [tribixbite/WPSetup](https://github.com/tribixbite/WPSetup) - Setup files for Ubuntu
 
 ## C++
 
@@ -462,6 +489,8 @@
 ## OpenSCAD
 
 *   [FrameworkComputer/ExpansionCards](https://github.com/FrameworkComputer/ExpansionCards) - Reference designs and documentation to create Expansion Cards for the Framework Laptop
+*   [fpiesik/pE-Drums](https://github.com/fpiesik/pE-Drums) - An e-drum set based on 3d-printed parts
+*   [jcrocholl/kossel](https://github.com/jcrocholl/kossel) - Mini Kossel portable delta robot 3D printer.
 
 ## AutoIt
 
@@ -490,3 +519,20 @@
 ## Clojure
 
 *   [zakwilson/ceilingbounce](https://github.com/zakwilson/ceilingbounce) - Test your flashlights and graph their performance
+
+## Java
+
+*   [RBWare/Glass-App-Manager](https://github.com/RBWare/Glass-App-Manager) - Simple app manager for Google Glass
+*   [wearscript/wearscript-android](https://github.com/wearscript/wearscript-android) - JavaScript with Batteries Included for Google Glass
+
+## Arduino
+
+*   [RHWorkshop/TIPIC-Arduino](https://github.com/RHWorkshop/TIPIC-Arduino) - This is the Arduino code for the TIPIC Thermal Imaging Phone Camera device.
+
+## PHP
+
+*   [nehalvpatel/cgui](https://github.com/nehalvpatel/cgui) - A web interface for cgminer that is made to reduce setup time and increase productivity, featuring the famous 2 minute install.
+
+## VimL
+
+*   [tribixbite/vimfiles](https://github.com/tribixbite/vimfiles) - My vim configuration, borrowed heavily from tpope
