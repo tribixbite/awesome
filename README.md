@@ -4,9 +4,9 @@
 
 ## Table of Contents
 
-*   [CSS](#css)
 *   [TypeScript](#typescript)
 *   [JavaScript](#javascript)
+*   [CSS](#css)
 *   [Rust](#rust)
 *   [C#](#c)
 *   [generic](#generic)
@@ -31,19 +31,10 @@
 *   [Java](#java)
 *   [Arduino](#arduino)
 
-## CSS
-
-*   [HTMLElements/smart-webcomponents](https://github.com/HTMLElements/smart-webcomponents) - Web Components & Custom Elements for Professional Web Applications
-*   [paljs/gatsby-admin-template](https://github.com/paljs/gatsby-admin-template) - Free admin dashboard template based on Gatsby with @paljs/ui component package
-*   [creativetimofficial/nextjs-argon-dashboard](https://github.com/creativetimofficial/nextjs-argon-dashboard) - NextJS version of Argon Dashboard React
-*   [lafeber/world-flags-sprite](https://github.com/lafeber/world-flags-sprite) - A sprite of all the worlds' flags.
-*   [madmalik/mononoki](https://github.com/madmalik/mononoki) - a programming typeface
-*   [appbaseio/dejavu](https://github.com/appbaseio/dejavu) - The Missing Web UI for Elasticsearch: Import, browse and edit data with rich filters and query views, create search UIs visually.
-*   [alphapapa/solarized-everything-css](https://github.com/alphapapa/solarized-everything-css) - A collection of Solarized user-stylesheets for...everything?
-*   [json-api/json-api](https://github.com/json-api/json-api) - A specification for building JSON APIs
-
 ## TypeScript
 
+*   [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
+*   [CyCraft/magnetar](https://github.com/CyCraft/magnetar) - A framework-agnostic syncing solution that auto-connects any DB/API with your local data store and has optimistic-UI built in 🌟
 *   [adazzle/react-data-grid](https://github.com/adazzle/react-data-grid) - Feature-rich and customizable data grid React component
 *   [grid-js/gridjs](https://github.com/grid-js/gridjs) - Advanced table plugin
 *   [komarovalexander/ka-table](https://github.com/komarovalexander/ka-table) - Lightweight MIT React Table component with Sorting, Filtering, Grouping, Virtualization, Editing and many more
@@ -202,6 +193,7 @@
 
 ## JavaScript
 
+*   [jsdom/jsdom](https://github.com/jsdom/jsdom) - A JavaScript implementation of various web standards, for use with Node.js
 *   [autumnchris/countdown-timer](https://github.com/autumnchris/countdown-timer) - A React.js app that takes a submitted future date and displays a timer counting down to that date.
 *   [fabricjs/fabric.js](https://github.com/fabricjs/fabric.js) - Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser
 *   [nearform/graphql-hooks](https://github.com/nearform/graphql-hooks) - 🎣 Minimal hooks-first GraphQL client
@@ -316,6 +308,17 @@
 *   [NUKnightLab/juxtapose](https://github.com/NUKnightLab/juxtapose) - JuxtaposeJS is a JavaScript library for making before/after image sliders
 *   [buccaneerai/rxjs-stats](https://github.com/buccaneerai/rxjs-stats) - Moved to @bottlenose/rxstats (https://github.com/buccaneerai/bottlenose)
 *   [open-dash/HousePanel](https://github.com/open-dash/HousePanel) - Open source highly customizable dashboard for your SmartThings home
+
+## CSS
+
+*   [HTMLElements/smart-webcomponents](https://github.com/HTMLElements/smart-webcomponents) - Web Components & Custom Elements for Professional Web Applications
+*   [paljs/gatsby-admin-template](https://github.com/paljs/gatsby-admin-template) - Free admin dashboard template based on Gatsby with @paljs/ui component package
+*   [creativetimofficial/nextjs-argon-dashboard](https://github.com/creativetimofficial/nextjs-argon-dashboard) - NextJS version of Argon Dashboard React
+*   [lafeber/world-flags-sprite](https://github.com/lafeber/world-flags-sprite) - A sprite of all the worlds' flags.
+*   [madmalik/mononoki](https://github.com/madmalik/mononoki) - a programming typeface
+*   [appbaseio/dejavu](https://github.com/appbaseio/dejavu) - The Missing Web UI for Elasticsearch: Import, browse and edit data with rich filters and query views, create search UIs visually.
+*   [alphapapa/solarized-everything-css](https://github.com/alphapapa/solarized-everything-css) - A collection of Solarized user-stylesheets for...everything?
+*   [json-api/json-api](https://github.com/json-api/json-api) - A specification for building JSON APIs
 
 ## Rust
 
@@ -439,7 +442,6 @@
 ## Shell
 
 *   [TheFrenchGhosty/TheFrenchGhostys-Ultimate-YouTube-DL-Scripts-Collection](https://github.com/TheFrenchGhosty/TheFrenchGhostys-Ultimate-YouTube-DL-Scripts-Collection) - The ultimate collection of scripts for YouTube-DL.
-*   [DDRBoxman/GlassDateDisplay](https://github.com/DDRBoxman/GlassDateDisplay) - Display the current date on Google Glass
 
 ## C++
 
@@ -490,7 +492,6 @@
 ## OpenSCAD
 
 *   [FrameworkComputer/ExpansionCards](https://github.com/FrameworkComputer/ExpansionCards) - Reference designs and documentation to create Expansion Cards for the Framework Laptop
-*   [fpiesik/pE-Drums](https://github.com/fpiesik/pE-Drums) - An e-drum set based on 3d-printed parts
 
 ## AutoIt
 
@@ -523,7 +524,6 @@
 ## Java
 
 *   [RBWare/Glass-App-Manager](https://github.com/RBWare/Glass-App-Manager) - Simple app manager for Google Glass
-*   [wearscript/wearscript-android](https://github.com/wearscript/wearscript-android) - JavaScript with Batteries Included for Google Glass
 
 ## Arduino
 
