@@ -34,10 +34,12 @@
 
 ## TypeScript
 
+*   [OneKeyHQ/app-monorepo](https://github.com/OneKeyHQ/app-monorepo) - 👛 The world's first truly open source crypto wallet runs on all platforms: iOS, Android, Windows, macOS, Linux, Oculus Quest, Chrome, Firefox... and more. Follow up to get updated, we need your star  ⭐️ .
+*   [ronnyhaase/solplorer](https://github.com/ronnyhaase/solplorer) - An independent and open-source Solana Blockchain explorer
 *   [nickytonline/minty-metaplex](https://github.com/nickytonline/minty-metaplex) - A fun Buildspace project to mint NFTs on Solana using Metaplex.
 *   [Fulgurus/candy-machine-v2-responsive-ui](https://github.com/Fulgurus/candy-machine-v2-responsive-ui) - Solana Candy Machine V2 with a Prod-ready and easy to customize responsive UI.
-*   [LIQNFT/candy-shop](https://github.com/LIQNFT/candy-shop) - https://candy.liqnft.com
-*   [LIQNFT/candy-machine-v2-with-marketplace](https://github.com/LIQNFT/candy-machine-v2-with-marketplace) - Solana NFT mint website + marketplace
+*   [LIQNFT/candy-shop](https://github.com/LIQNFT/candy-shop) - Solana NFT Marketplace
+*   [LIQNFT/candy-machine-v2-with-marketplace](https://github.com/LIQNFT/candy-machine-v2-with-marketplace) - Solana NFT Marketplace + Candy Machine V2
 *   [Crossmint/candy-machine-react-ui](https://github.com/Crossmint/candy-machine-react-ui) - UI frontend in react for Solana Candy Machine NFTs
 *   [pointer-gg/solana-pay-tutorial](https://github.com/pointer-gg/solana-pay-tutorial) -
 *   [thuglabs/create-dapp-solana-nextjs](https://github.com/thuglabs/create-dapp-solana-nextjs) - Scaffolding for a Solana dapp using TS, Next.JS, Tailwinds CSS, and Daisy UI
@@ -388,7 +390,6 @@
 *   [mdbootstrap/Black-Friday-2021](https://github.com/mdbootstrap/Black-Friday-2021) - Black Friday & Cyber Monday Deals (UI Kits WordPress Plugins, CRMs, SEO, Courses, Books) for web developers, programmers, and software engineers.
 *   [RitikPatni/Front-End-Web-Development-Resources](https://github.com/RitikPatni/Front-End-Web-Development-Resources) - This repository contains content which will be helpful in your journey as a front-end Web Developer
 *   [tribixbite/Settlers-game-pieces](https://github.com/tribixbite/Settlers-game-pieces) - 3D printable Settlers of Catan tiles
-*   [Intrinsically-Sublime/Settlers-game-pieces](https://github.com/Intrinsically-Sublime/Settlers-game-pieces) - 3D printable Settlers of Catan tiles
 
 ## Python
 
@@ -445,7 +446,6 @@
 *   [CarlosGS/Cyclone-PCB-Factory](https://github.com/CarlosGS/Cyclone-PCB-Factory) - Cyclone (Circuit Cloner) is a CNC mill intended for PCB manufacturing.
 *   [tribixbite/WebPutty](https://github.com/tribixbite/WebPutty) -
 *   [tribixbite/gmvault](https://github.com/tribixbite/gmvault) - gmail backup software
-*   [glitchdotcom/WebPutty](https://github.com/glitchdotcom/WebPutty) - WebPutty is a simple CSS editing and hosting service that you can run on Google App Engine.
 
 ## HTML
 
