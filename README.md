@@ -31,6 +31,7 @@
 
 ## TypeScript
 
+*   [digitallyinduced/thin-backend](https://github.com/digitallyinduced/thin-backend) - Thin Backend is a Blazing Fast, Universal Web App Backend for Making Realtime Single Page Apps
 *   [anubra266/chaktor](https://github.com/anubra266/chaktor) - 📈  Chakra UI Admin Dashboard
 *   [tannerlinsley/react-query](https://github.com/tannerlinsley/react-query) - ⚛️ Hooks for fetching, caching and updating asynchronous data in React
 *   [api-platform/admin](https://github.com/api-platform/admin) - A beautiful and fully-featured administration interface builder for hypermedia APIs
@@ -454,7 +455,6 @@
 *   [KilledMufasa/AmputatorBot](https://github.com/KilledMufasa/AmputatorBot) - Remove AMP from your URLs. AmputatorBot is a highly specialised Reddit and Twitter bot that automatically replies to comments, submissions and tweets containing AMP URLs with the canonical link(s). It's also available as a website and REST API. See also: https://www.reddit.com/r/AmputatorBot/comments/ehrq3z/why_did_i_build_amputatorbot/.
 *   [pushshift/api](https://github.com/pushshift/api) - Pushshift API
 *   [tribixbite/BrokenRecordBot](https://github.com/tribixbite/BrokenRecordBot) - reddit copypasta bot for subreddit wiki text
-*   [janick/ArloDownload](https://github.com/janick/ArloDownload) - Automatically download new video recordings from Arlo
 
 ## HTML
 
