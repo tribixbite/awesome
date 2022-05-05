@@ -83,7 +83,7 @@
 *   [cryptorustacean/phantom-wallet-example](https://github.com/cryptorustacean/phantom-wallet-example) - Integrate a "Connect to Phantom" button example
 *   [solana-developers/solana-dapp-next](https://github.com/solana-developers/solana-dapp-next) -
 *   [minchingtonak/pocketstore](https://github.com/minchingtonak/pocketstore) - A pocket-sized, TypeScript-first global state store for react/preact.
-*   [fukurostudio/next-starter](https://github.com/fukurostudio/next-starter) - A highly opinionated and complete starter for Next.js projects ready to production
+*   [eventhorizonstudio/next-starter](https://github.com/eventhorizonstudio/next-starter) - A highly opinionated and complete starter for Next.js projects ready to production
 *   [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth) - Authentication for Next.js
 *   [Bijayb37/Firebase-chatrooms](https://github.com/Bijayb37/Firebase-chatrooms) - Discord like chatrooms with firebase, nextJS, chakra-UI
 *   [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
