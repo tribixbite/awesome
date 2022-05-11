@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+*   [Java](#java)
 *   [Python](#python)
 *   [JavaScript](#javascript)
 *   [Rust](#rust)
@@ -28,6 +29,10 @@
 *   [SCSS](#scss)
 *   [R](#r)
 *   [Clojure](#clojure)
+
+## Java
+
+*   [xtclang/xvm](https://github.com/xtclang/xvm) - Ecstasy and XVM
 
 ## Python
 
@@ -81,7 +86,6 @@
 *   [KilledMufasa/AmputatorBot](https://github.com/KilledMufasa/AmputatorBot) - Remove AMP from your URLs. AmputatorBot is a highly specialised Reddit and Twitter bot that automatically replies to comments, submissions and tweets containing AMP URLs with the canonical link(s). It's also available as a website and REST API. See also: https://www.reddit.com/r/AmputatorBot/comments/ehrq3z/why_did_i_build_amputatorbot/.
 *   [pushshift/api](https://github.com/pushshift/api) - Pushshift API
 *   [tribixbite/BrokenRecordBot](https://github.com/tribixbite/BrokenRecordBot) - reddit copypasta bot for subreddit wiki text
-*   [janick/ArloDownload](https://github.com/janick/ArloDownload) - Automatically download new video recordings from Arlo
 
 ## JavaScript
 
