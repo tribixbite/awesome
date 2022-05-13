@@ -345,7 +345,7 @@
 *   [SoftwareBrothers/adminjs](https://github.com/SoftwareBrothers/adminjs) - AdminJS is an admin panel for apps written in node.js
 *   [pankod/superplate](https://github.com/pankod/superplate) - A well-structured production-ready frontend boilerplate with Typescript, Jest, testing-library, styled-component, Sass, Css, .env, Fetch, Axios, Reverse Proxy, Bundle Analyzer and 30+ plugin. For now, only creates projects for React and Next.js. https://pankod.github.io/superplate/
 *   [pankod/refine](https://github.com/pankod/refine) - A React-based framework for building internal tools, rapidly.
-*   [rowyio/rowy](https://github.com/rowyio/rowy) - Rowy is an open-source Airtable-like UI for your database and to build serverless cloud functions visually in the context of your data.⚡️✨
+*   [rowyio/rowy](https://github.com/rowyio/rowy) - Rowy is an open-source low-code platform for your backend. Airtable-like UI for your database meets cloud functions workflows, all in your browser ⚡️✨ Code in JS/TS, use any NPM, API.
 *   [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
 *   [BuilderIO/figma-html](https://github.com/BuilderIO/figma-html) - Figma to HTML, CSS, React, Vue, and more!
 *   [BuilderIO/mitosis](https://github.com/BuilderIO/mitosis) - Write components once, run everywhere. Compiles to Vue, React, Solid, Angular, Svelte, and more.
