@@ -573,7 +573,7 @@
 *   [benyaminahmed/nft-image-generator](https://github.com/benyaminahmed/nft-image-generator) -
 *   [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
 *   [PacktPublishing/Machine-Learning-for-Algorithmic-Trading-Second-Edition_Original](https://github.com/PacktPublishing/Machine-Learning-for-Algorithmic-Trading-Second-Edition_Original) - Machine Learning for Algorithmic Trading, Second Edition - published by Packt
-*   [dapperf/python_Meijer](https://github.com/dapperf/python_Meijer) - Reverse engineered API for Meijer apps.
+*   [dapperfu/python_Meijer](https://github.com/dapperfu/python_Meijer) - Reverse engineered API for Meijer apps.
 
 ## C
 
