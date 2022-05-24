@@ -31,10 +31,11 @@
 *   [R](#r)
 *   [Clojure](#clojure)
 *   [Arduino](#arduino)
-*   [PHP](#php)
 
 ## TypeScript
 
+*   [Lunaticsatoshi/dev-to-clone](https://github.com/Lunaticsatoshi/dev-to-clone) - A clone of dev.to web application made to recreate the basic functionalities of a micro blogging platform
+*   [DimensionDev/Maskbook](https://github.com/DimensionDev/Maskbook) - The portal to the new, open Internet. (\[I:b])
 *   [pmndrs/leva](https://github.com/pmndrs/leva) - 🌋 React-first components GUI
 *   [mil-tokyo/webdnn](https://github.com/mil-tokyo/webdnn) - The Fastest DNN Running Framework on Web Browser
 *   [antvis/g](https://github.com/antvis/g) - A powerful rendering engine implemented with Canvas2D / SVG / WebGL / WebGPU.
@@ -556,7 +557,6 @@
 ## Shell
 
 *   [TheFrenchGhosty/TheFrenchGhostys-Ultimate-YouTube-DL-Scripts-Collection](https://github.com/TheFrenchGhosty/TheFrenchGhostys-Ultimate-YouTube-DL-Scripts-Collection) - The ultimate collection of scripts for YouTube-DL.
-*   [DDRBoxman/GlassDateDisplay](https://github.com/DDRBoxman/GlassDateDisplay) - Display the current date on Google Glass
 
 ## Go
 
@@ -622,7 +622,3 @@
 ## Arduino
 
 *   [RHWorkshop/TIPIC-Arduino](https://github.com/RHWorkshop/TIPIC-Arduino) - This is the Arduino code for the TIPIC Thermal Imaging Phone Camera device.
-
-## PHP
-
-*   [nehalvpatel/cgui](https://github.com/nehalvpatel/cgui) - A web interface for cgminer that is made to reduce setup time and increase productivity, featuring the famous 2 minute install.
