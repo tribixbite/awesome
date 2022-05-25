@@ -57,7 +57,6 @@
 *   [holtzy/react-graph-gallery](https://github.com/holtzy/react-graph-gallery) - A set of graph examples showing how to make react and d3.js work together
 *   [palantir/plottable](https://github.com/palantir/plottable) - :bar_chart: A library of modular chart components built on D3
 *   [vega/vega-lite](https://github.com/vega/vega-lite) - A concise grammar of interactive graphics, built on Vega.
-*   [digitallyinduced/thin-backend](https://github.com/digitallyinduced/thin-backend) - 🔥 Thin Backend is a Blazing Fast, Universal Web App Backend for Making Realtime Single Page Apps
 *   [anubra266/chaktor](https://github.com/anubra266/chaktor) - 📈  Chakra UI Admin Dashboard
 *   [tannerlinsley/react-query](https://github.com/tannerlinsley/react-query) - ⚛️ Hooks for fetching, caching and updating asynchronous data in React
 *   [api-platform/admin](https://github.com/api-platform/admin) - A beautiful and fully-featured administration interface builder for hypermedia APIs
@@ -279,6 +278,7 @@
 *   [dc-js/dc.js](https://github.com/dc-js/dc.js) - Multi-Dimensional charting built to work natively with crossfilter rendered with d3.js
 *   [dc-js/react-dc-js](https://github.com/dc-js/react-dc-js) - Multi-dimensional charting based on dc.js for React
 *   [fraserxu/react-chartist](https://github.com/fraserxu/react-chartist) - ⚛ React component for Chartist.js
+*   [digitallyinduced/thin-backend](https://github.com/digitallyinduced/thin-backend) - 🔥 Thin Backend is a Blazing Fast, Universal Web App Backend for Making Realtime Single Page Apps
 *   [salvia-kit/dashboard-v1-nextjs](https://github.com/salvia-kit/dashboard-v1-nextjs) - Salvia-kit dashboard template v1 with Next.js
 *   [kevinfigueira/dashboardadmin](https://github.com/kevinfigueira/dashboardadmin) -
 *   [BraianVaylet/buildspace-epic-nfts-ui](https://github.com/BraianVaylet/buildspace-epic-nfts-ui) - 🐲 Epic NFTs \[UI] - Proyecto que te permitirá conectar tu billetera y acuñar un NFT, podrás revender el NFT en OpenSea. El NFT en sí se puede personalizar
