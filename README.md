@@ -60,7 +60,7 @@
 *   [anubra266/chaktor](https://github.com/anubra266/chaktor) - 📈  Chakra UI Admin Dashboard
 *   [tannerlinsley/react-query](https://github.com/tannerlinsley/react-query) - ⚛️ Hooks for fetching, caching and updating asynchronous data in React
 *   [api-platform/admin](https://github.com/api-platform/admin) - A beautiful and fully-featured administration interface builder for hypermedia APIs
-*   [gbibeaul/wen](https://github.com/gbibeaul/wen) - Wen? Now! A library to simplify your Web3 data fetching.
+*   [GuiBibeau/wen](https://github.com/GuiBibeau/wen) - Wen? Now! A library to simplify your Web3 data fetching.
 *   [react-icons/react-icons](https://github.com/react-icons/react-icons) - svg react icons of popular icon packs
 *   [jquense/yup](https://github.com/jquense/yup) - Dead simple Object schema validation
 *   [gmatthewsfeuer/next-plate](https://github.com/gmatthewsfeuer/next-plate) - 🦸‍♀️ A super template for Next.js with a pack of incredible tools
