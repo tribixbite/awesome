@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+*   [F#](#f)
 *   [TypeScript](#typescript)
 *   [C++](#c)
 *   [JavaScript](#javascript)
@@ -32,6 +33,10 @@
 *   [Clojure](#clojure)
 *   [Arduino](#arduino)
 
+## F#
+
+*   [darklang/dark](https://github.com/darklang/dark) - Client, backend, and services for Dark: https://darklang.com
+
 ## TypeScript
 
 *   [Lunaticsatoshi/dev-to-clone](https://github.com/Lunaticsatoshi/dev-to-clone) - A clone of dev.to web application made to recreate the basic functionalities of a micro blogging platform
@@ -58,7 +63,7 @@
 *   [palantir/plottable](https://github.com/palantir/plottable) - :bar_chart: A library of modular chart components built on D3
 *   [vega/vega-lite](https://github.com/vega/vega-lite) - A concise grammar of interactive graphics, built on Vega.
 *   [anubra266/chaktor](https://github.com/anubra266/chaktor) - 📈  Chakra UI Admin Dashboard
-*   [tannerlinsley/react-query](https://github.com/tannerlinsley/react-query) - ⚛️ Hooks for fetching, caching and updating asynchronous data in React
+*   [TanStack/query](https://github.com/TanStack/query) - 🤖 Powerful asynchronous state management, server-state utilities and data fetching for TS/JS, React, Solid, Svelte and Vue.
 *   [api-platform/admin](https://github.com/api-platform/admin) - A beautiful and fully-featured administration interface builder for hypermedia APIs
 *   [GuiBibeau/wen](https://github.com/GuiBibeau/wen) - Wen? Now! A library to simplify your Web3 data fetching.
 *   [react-icons/react-icons](https://github.com/react-icons/react-icons) - svg react icons of popular icon packs
@@ -437,7 +442,6 @@
 
 *   [xtclang/xvm](https://github.com/xtclang/xvm) - Ecstasy and XVM
 *   [RBWare/Glass-App-Manager](https://github.com/RBWare/Glass-App-Manager) - Simple app manager for Google Glass
-*   [wearscript/wearscript-android](https://github.com/wearscript/wearscript-android) - JavaScript with Batteries Included for Google Glass
 
 ## Python
 
