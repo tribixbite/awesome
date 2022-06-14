@@ -187,7 +187,7 @@
 *   [pallavJha/tscron](https://github.com/pallavJha/tscron) - tscron is a library for cron in Typescript.
 *   [xpepermint/mongodb-cron](https://github.com/xpepermint/mongodb-cron) - MongoDB collection as crontab
 *   [paulphys/nextjs-cron](https://github.com/paulphys/nextjs-cron) - 🕓 Cron jobs with Github Actions for Next.js applications on Vercel▲
-*   [metaplex-foundation/js](https://github.com/metaplex-foundation/js) - Metaplex JavaScript SDK
+*   [metaplex-foundation/js-deprecated](https://github.com/metaplex-foundation/js-deprecated) - Deprecated Metaplex JavaScript SDK
 *   [maraisr/diary](https://github.com/maraisr/diary) - 📑 Zero-dependency, fast logging library for Node, Browser and Workers
 *   [bevry/caterpillar](https://github.com/bevry/caterpillar) - Caterpillar is the ultimate logging system for Deno, Node.js, and Web Browsers. Log levels are implemented to the RFC standard. Log entries can be filtered and piped to various streams, including coloured output to the terminal, the browser's console, and debug files. You can even write your own transforms.
 *   [ljlm0402/typescript-express-starter](https://github.com/ljlm0402/typescript-express-starter) - 🚀 Quick and Easy TypeScript Express Starter
