@@ -131,7 +131,7 @@
 *   [alibaba/BizCharts](https://github.com/alibaba/BizCharts) - Powerful data visualization library based on G2 and React.
 *   [nhn/tui.chart](https://github.com/nhn/tui.chart) - 🍞📊  Beautiful chart for data visualization.
 *   [highcharts/highcharts](https://github.com/highcharts/highcharts) - Highcharts JS, the JavaScript charting framework
-*   [CreatingData/deepscatter](https://github.com/CreatingData/deepscatter) - Data tiling to display zoomable D3 scatterplots with tens of millions of items in browser
+*   [CreatingData/deepscatter](https://github.com/CreatingData/deepscatter) - Zoomable, animated scatterplots in the browser that scales over a billion points
 *   [antvis/G2](https://github.com/antvis/G2) - 📊 A highly interactive data-driven visualization grammar for statistical charts.
 *   [microsoft/SandDance](https://github.com/microsoft/SandDance) - Visually explore, understand, and present your data.
 *   [reactchartjs/react-chartjs-2](https://github.com/reactchartjs/react-chartjs-2) - React components for Chart.js, the most popular charting library
@@ -196,7 +196,7 @@
 *   [rikukissa/typehole](https://github.com/rikukissa/typehole) - TypeScript development tool for Visual Studio Code that helps you automate creating the initial static typing for runtime values
 *   [t4t5/sweetalert](https://github.com/t4t5/sweetalert) - A beautiful replacement for JavaScript's "alert"
 *   [inorganik/countUp.js](https://github.com/inorganik/countUp.js) - Animates a numerical value by counting to it
-*   [feathersjs/feathers](https://github.com/feathersjs/feathers) - A framework for real-time applications and REST APIs with JavaScript and TypeScript
+*   [feathersjs/feathers](https://github.com/feathersjs/feathers) - The API and real-time application framework
 *   [pubkey/rxdb](https://github.com/pubkey/rxdb) - 🔄 A fast, offline-first, reactive database for JavaScript Applications
 *   [recharts/recharts](https://github.com/recharts/recharts) - Redefined chart library built with React and D3
 *   [marmelab/react-admin](https://github.com/marmelab/react-admin) - A frontend Framework for building B2B applications running in the browser on top of REST/GraphQL APIs, using ES6, React and Material Design
