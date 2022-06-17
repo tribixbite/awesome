@@ -316,7 +316,7 @@
 
 *   [anoushk1234/metaplex-anchor-nft](https://github.com/anoushk1234/metaplex-anchor-nft) - An example repo to demonstrate how to use anchor and metaplex to mint nfts on solana
 *   [Flawm/solana-dao-vote](https://github.com/Flawm/solana-dao-vote) -
-*   [project-serum/anchor](https://github.com/project-serum/anchor) - ⚓ Solana Sealevel Framework
+*   [coral-xyz/anchor](https://github.com/coral-xyz/anchor) - ⚓ Solana Sealevel Framework
 *   [facebook/relay](https://github.com/facebook/relay) - Relay is a JavaScript framework for building data-driven React applications.
 *   [gabrieldemian/minimal-solana-minter](https://github.com/gabrieldemian/minimal-solana-minter) - Minimalistic solana minter program if you don't want to use Metaplex
 *   [ckamm/solana-accountsdb-connector](https://github.com/ckamm/solana-accountsdb-connector) -
