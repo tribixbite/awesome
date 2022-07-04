@@ -222,6 +222,7 @@
 *   [ecklf/tailwindcss-figma-plugin](https://github.com/ecklf/tailwindcss-figma-plugin) - Figma Plugin for Tailwind CSS
 *   [VulcanJS/vulcan-next](https://github.com/VulcanJS/vulcan-next) - The Next starter for GraphQL developers
 *   [TeamVanced/VancedHelper](https://github.com/TeamVanced/VancedHelper) - Vanced Discord Bot
+*   [hoangvvo/next-connect](https://github.com/hoangvvo/next-connect) - The TypeScript-ready, minimal router and middleware layer for Next.js, Micro, Vercel, or Node.js http/http2
 *   [async-labs/saas](https://github.com/async-labs/saas) - Build your own SaaS business with SaaS boilerplate. Productive stack: React, Material-UI, Next, MobX, WebSockets, Express, Node, Mongoose, MongoDB. Written with TypeScript.
 *   [mattcarlotta/next-issg-example](https://github.com/mattcarlotta/next-issg-example) -
 *   [outline/outline](https://github.com/outline/outline) - The fastest wiki and knowledge base for growing teams. Beautiful, feature rich, and markdown compatible.
@@ -238,7 +239,7 @@
 *   [paulmillr/noble-ed25519](https://github.com/paulmillr/noble-ed25519) - Fastest JS implementation of ed25519, x25519 & ristretto255. Independently audited, high-security, 0-dependency EDDSA signatures and ECDH key agreement
 *   [saber-hq/saber-common](https://github.com/saber-hq/saber-common) - 🗡 Saber common utilities and libraries
 *   [vicyyn/sollectify](https://github.com/vicyyn/sollectify) - Sollectify is a creator-centric NFT marketplace where users on the platform can easily create, trade and sell non-fungible tokens (NFTs) for their unique digital items like artworks, game items and more.  Built on @solana ☀️ and @ProjectSerum
-*   [penta-fun/pentacle.tools](https://github.com/penta-fun/pentacle.tools) -
+*   [penta-fun/pentacle.tools](https://github.com/penta-fun/pentacle.tools) - Solana Toolset for NFT creators
 *   [jferrer/expo-solana-wallet](https://github.com/jferrer/expo-solana-wallet) - Cross-Platform Solana Wallet built with Expo and Solana/web3.js
 *   [NftEyez/sol-rayz](https://github.com/NftEyez/sol-rayz) - 💫   Package to simplify parsing NFTs on Solana and build NFT galleries
 *   [hempworks/nft-maker-js](https://github.com/hempworks/nft-maker-js) -
@@ -357,7 +358,6 @@
 *   [dabit3/next.js-amplify-workshop](https://github.com/dabit3/next.js-amplify-workshop) - AWS Amplify Next.js workshop
 *   [etereo-io/edge-next](https://github.com/etereo-io/edge-next) - EDGE / Dynamic Site on the edge
 *   [jan-dh/figma-tailwindcss](https://github.com/jan-dh/figma-tailwindcss) - A plugin that tries to bridge the gap between designs and code. Figma tailwindcss lets you export aspects of a design made in Figma to a javascript theme file that you can import into your tailwindcss config
-*   [hoangvvo/next-connect](https://github.com/hoangvvo/next-connect) - The TypeScript-ready, minimal router and middleware layer for Next.js, Micro, Vercel, or Node.js http/http2
 *   [shadowwalker/next-pwa](https://github.com/shadowwalker/next-pwa) - Zero config PWA plugin for Next.js, with workbox 🧰
 *   [dabit3/complete-guide-to-full-stack-solana-development](https://github.com/dabit3/complete-guide-to-full-stack-solana-development) - Code examples for the blog post titled The Complete Guide to Full Stack Solana Development with React, Anchor, Rust, and Phantom
 *   [elpheria/rpc-websockets](https://github.com/elpheria/rpc-websockets) - JSON-RPC 2.0 implementation over WebSockets for Node.js and JavaScript/TypeScript
