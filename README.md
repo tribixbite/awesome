@@ -36,6 +36,7 @@
 
 ## TypeScript
 
+*   [mantinedev/mantine](https://github.com/mantinedev/mantine) - React components library with native dark theme support
 *   [GoogleChromeLabs/bubblewrap](https://github.com/GoogleChromeLabs/bubblewrap) - Bubblewrap is a Command Line Interface (CLI) that helps developers to create a Project for an Android application that launches an existing Progressive Web App (PWAs) using a Trusted Web Activity.
 *   [decentraland/tile-map](https://github.com/decentraland/tile-map) - 🗺 Tile Map
 *   [Hong-JunHyeok/Gradient-generator](https://github.com/Hong-JunHyeok/Gradient-generator) - 🎨  Gradient Generator is a generator that easily generates gradations.
@@ -623,7 +624,6 @@
 
 *   [FrameworkComputer/ExpansionCards](https://github.com/FrameworkComputer/ExpansionCards) - Reference designs and documentation to create Expansion Cards for the Framework Laptop
 *   [fpiesik/pE-Drums](https://github.com/fpiesik/pE-Drums) - An e-drum set based on 3d-printed parts
-*   [jcrocholl/kossel](https://github.com/jcrocholl/kossel) - Mini Kossel portable delta robot 3D printer.
 
 ## AutoIt
 
