@@ -32,10 +32,10 @@
 *   [R](#r)
 *   [Clojure](#clojure)
 *   [Arduino](#arduino)
-*   [PHP](#php)
 
 ## TypeScript
 
+*   [remirror/remirror](https://github.com/remirror/remirror) - ProseMirror toolkit for React 🎉
 *   [mantinedev/mantine](https://github.com/mantinedev/mantine) - React components library with native dark theme support
 *   [GoogleChromeLabs/bubblewrap](https://github.com/GoogleChromeLabs/bubblewrap) - Bubblewrap is a Command Line Interface (CLI) that helps developers to create a Project for an Android application that launches an existing Progressive Web App (PWAs) using a Trusted Web Activity.
 *   [decentraland/tile-map](https://github.com/decentraland/tile-map) - 🗺 Tile Map
@@ -656,7 +656,3 @@
 ## Arduino
 
 *   [RHWorkshop/TIPIC-Arduino](https://github.com/RHWorkshop/TIPIC-Arduino) - This is the Arduino code for the TIPIC Thermal Imaging Phone Camera device.
-
-## PHP
-
-*   [nehalvpatel/cgui](https://github.com/nehalvpatel/cgui) - A web interface for cgminer that is made to reduce setup time and increase productivity, featuring the famous 2 minute install.
