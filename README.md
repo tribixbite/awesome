@@ -98,7 +98,7 @@
 *   [react-dnd/react-dnd](https://github.com/react-dnd/react-dnd) - Drag and Drop for React
 *   [premieroctet/openchakra](https://github.com/premieroctet/openchakra) - ⚡️ Full-featured visual editor and code generator for React using Chakra UI
 *   [pansyjs/react-admin](https://github.com/pansyjs/react-admin) - 🎉 A magical react admin
-*   [OneKeyHQ/app-monorepo](https://github.com/OneKeyHQ/app-monorepo) - 🔑 The world's first truly open source crypto wallet runs on all platforms: iOS, Android, Windows, macOS, Linux, Chrome, Firefox... and more. Follow up to get updated.
+*   [OneKeyHQ/app-monorepo](https://github.com/OneKeyHQ/app-monorepo) - Secure, open source and community driven crypto wallet runs on all platforms and trusted by millions.
 *   [ronnyhaase/solplorer](https://github.com/ronnyhaase/solplorer) - An independent and open-source Solana Blockchain explorer
 *   [nickytonline/minty-metaplex](https://github.com/nickytonline/minty-metaplex) - A fun Buildspace project to mint NFTs on Solana using Metaplex.
 *   [Fulgurus/candy-machine-v2-responsive-ui](https://github.com/Fulgurus/candy-machine-v2-responsive-ui) - Solana Candy Machine V2 with a Prod-ready and easy to customize responsive UI.
