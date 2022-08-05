@@ -51,6 +51,7 @@
 *   [dc-js/dc.js](https://github.com/dc-js/dc.js) - Multi-Dimensional charting built to work natively with crossfilter rendered with d3.js
 *   [dc-js/react-dc-js](https://github.com/dc-js/react-dc-js) - Multi-dimensional charting based on dc.js for React
 *   [fraserxu/react-chartist](https://github.com/fraserxu/react-chartist) - ⚛ React component for Chartist.js
+*   [Automattic/node-canvas](https://github.com/Automattic/node-canvas) - Node canvas is a Cairo backed Canvas implementation for NodeJS.
 *   [digitallyinduced/thin-backend](https://github.com/digitallyinduced/thin-backend) - 🔥 Thin Backend is a Blazing Fast, Universal Web App Backend for Making Realtime Single Page Apps
 *   [salvia-kit/dashboard-v1-nextjs](https://github.com/salvia-kit/dashboard-v1-nextjs) - Salvia-kit dashboard template v1 with Next.js
 *   [kevinfigueira/dashboardadmin](https://github.com/kevinfigueira/dashboardadmin) -
@@ -167,7 +168,7 @@
 
 *   [Grape-Labs/grape-drive](https://github.com/Grape-Labs/grape-drive) -
 *   [mynftgg/website](https://github.com/mynftgg/website) -
-*   [draffle-io/draffle](https://github.com/draffle-io/draffle) -
+*   [draffle-io/draffle](https://github.com/draffle-io/draffle) - dRaffle is a decentralized raffle protocol on Solana
 *   [DeployDAO/solana-program-registry](https://github.com/DeployDAO/solana-program-registry) - Verified builds of Solana ecosystem projects.
 *   [GlassEaters/hydra](https://github.com/GlassEaters/hydra) - Collective account pooling, fan out wallet, dao treasury
 *   [solana-labs/dapp-scaffold](https://github.com/solana-labs/dapp-scaffold) - Scaffolding for a dapp built on Solana
@@ -519,7 +520,6 @@
 ## C++
 
 *   [bkaradzic/bgfx](https://github.com/bkaradzic/bgfx) - Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style rendering library.
-*   [Automattic/node-canvas](https://github.com/Automattic/node-canvas) - Node canvas is a Cairo backed Canvas implementation for NodeJS.
 *   [typesense/typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
 *   [deepmind/code\_contests](https://github.com/deepmind/code_contests) -
 *   [yuzu-emu/yuzu](https://github.com/yuzu-emu/yuzu) - Nintendo Switch Emulator
