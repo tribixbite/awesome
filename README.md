@@ -99,7 +99,7 @@
 *   [nickytonline/minty-metaplex](https://github.com/nickytonline/minty-metaplex) - A fun Buildspace project to mint NFTs on Solana using Metaplex.
 *   [Fulgurus/candy-machine-v2-responsive-ui](https://github.com/Fulgurus/candy-machine-v2-responsive-ui) - Solana Candy Machine V2 with a Prod-ready and easy to customize responsive UI.
 *   [LIQNFT/candy-shop](https://github.com/LIQNFT/candy-shop) - Solana NFT Marketplace JS Library
-*   [LIQNFT/candy-shop-storefront](https://github.com/LIQNFT/candy-shop-storefront) - Candy Shop Storefront
+*   [LIQNFT/candy-shop-storefront](https://github.com/LIQNFT/candy-shop-storefront) - Solana NFT Storefront & Auctions
 *   [Crossmint/candy-machine-react-ui](https://github.com/Crossmint/candy-machine-react-ui) - UI frontend in react for Solana Candy Machine NFTs
 *   [pointer-gg/solana-pay-tutorial](https://github.com/pointer-gg/solana-pay-tutorial) -
 *   [thuglabs/create-dapp-solana-nextjs](https://github.com/thuglabs/create-dapp-solana-nextjs) - Scaffolding for a Solana dapp using TS, Next.JS, Tailwinds CSS, and Daisy UI
