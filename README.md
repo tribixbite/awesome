@@ -31,6 +31,8 @@
 
 ## TypeScript
 
+*   [workbenchapp/solana-workbench](https://github.com/workbenchapp/solana-workbench) - Your one-stop shop for developing on Solana
+*   [kin-labs/kinetic](https://github.com/kin-labs/kinetic) - 🔋 Kinetic is a next generation API and SDK platform for Solana, brought to you by the Kin Foundation
 *   [jeffreylanters/react-unity-webgl](https://github.com/jeffreylanters/react-unity-webgl) - React Unity WebGL provides a modern solution for embedding Unity WebGL builds in your React Application while providing advanced APIs for two way communication and interaction between Unity and React.
 *   [Grape-Labs/grape-drive](https://github.com/Grape-Labs/grape-drive) -
 *   [mynftgg/website](https://github.com/mynftgg/website) -
@@ -402,7 +404,6 @@
 *   [bropat/ioBroker.eusec](https://github.com/bropat/ioBroker.eusec) - This ioBroker adapter allows to control Eufy security devices by connecting to the Eufy cloud servers.
 *   [brainwalletX/brainwalletX.github.io](https://github.com/brainwalletX/brainwalletX.github.io) - Brainwallet site
 *   [bitcoinjs/bip39](https://github.com/bitcoinjs/bip39) - JavaScript implementation of Bitcoin BIP39: Mnemonic code for generating deterministic keys
-*   [jonbloom/stonkbot](https://github.com/jonbloom/stonkbot) -
 
 ## Vue
 
@@ -470,7 +471,6 @@
 *   [itkfilelor/drone\_mobile](https://github.com/itkfilelor/drone_mobile) - API wrapper for Drone Mobile remote car starter.
 *   [LedgerHQ/app-monero](https://github.com/LedgerHQ/app-monero) - Monero wallet application for Ledger Nano S & X
 *   [klattimer/LGWebOSRemote](https://github.com/klattimer/LGWebOSRemote) - Command line webOS remote for LGTVs
-*   [Hari-Nagarajan/fairgame](https://github.com/Hari-Nagarajan/fairgame) - Tool to help us buy hard to find items.
 
 ## miscellaneous
 
