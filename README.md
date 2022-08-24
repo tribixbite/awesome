@@ -244,7 +244,7 @@
 *   [alkinemk/serum-orderbook-bot](https://github.com/alkinemk/serum-orderbook-bot) - Get FOXY/USDC market from Serum SDK
 *   [actionsflow/actionsflow](https://github.com/actionsflow/actionsflow) - The free Zapier/IFTTT alternative for developers to automate your workflows based on Github actions
 *   [rikukissa/typehole](https://github.com/rikukissa/typehole) - TypeScript development tool for Visual Studio Code that helps you automate creating the initial static typing for runtime values
-*   [apify/crawlee](https://github.com/apify/crawlee) - Crawlee — The web scraping and browser automation library for Node.js that helps you build reliable crawlers. Fast.
+*   [apify/crawlee](https://github.com/apify/crawlee) - Crawlee — A web scraping and browser automation library for Node.js that helps you build reliable crawlers. Fast.
 *   [t4t5/sweetalert](https://github.com/t4t5/sweetalert) - A beautiful replacement for JavaScript's "alert"
 *   [inorganik/countUp.js](https://github.com/inorganik/countUp.js) - Animates a numerical value by counting to it
 *   [blitz-js/blitz](https://github.com/blitz-js/blitz) - ⚡️ The Missing Fullstack Toolkit for Next.js
@@ -517,7 +517,7 @@
 *   [arkerone/api-key-auth](https://github.com/arkerone/api-key-auth) - Express/Restify middleware to authenticate HTTP requests based on api key and signature.
 *   [chronosis/uuid-apikey](https://github.com/chronosis/uuid-apikey) - A Base32-Crockford encoded API Key generator and converter to turn UUIDs into human readable API Keys
 *   [appbaseio/searchbox](https://github.com/appbaseio/searchbox) - Lightweight and performance oriented search box UI component libraries for React, Vue, React Native, JS and Flutter
-*   [appbaseio/reactivesearch](https://github.com/appbaseio/reactivesearch) - Search UI components for React and Vue: powered by appbase.io / Elasticsearch
+*   [appbaseio/reactivesearch](https://github.com/appbaseio/reactivesearch) - Search UI components for React and Vue
 *   [webdevnerdstuff/amazon-smile-redirect](https://github.com/webdevnerdstuff/amazon-smile-redirect) - This Extension will automatically redirect you to the corresponding AmazonSmile page, so you will never need to remember to go to AmazonSmile first. In order for your non-profit to benefit from your purchase, you must complete your purchase through AmazonSmile.
 *   [ryanpcmcquen/workflowyCodeFormatter](https://github.com/ryanpcmcquen/workflowyCodeFormatter) - :hourglass\_flowing\_sand: A simple and lightweight solution to the WorkFlowy code dilemma. | https://addons.mozilla.org/en-US/firefox/addon/workflowy-code-formatter/ | https://chrome.google.com/webstore/detail/workflowy-code-formatter/kglihipcanlbglgikjghocmbbbbkfemn
 *   [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
