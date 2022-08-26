@@ -37,7 +37,7 @@
 
 ## JavaScript
 
-*   [TGS963/upscayl](https://github.com/TGS963/upscayl) - 🆙 Upscayl - Free and Open Source AI Image Upscaler for Linux, MacOS and Windows
+*   [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - Free and Open Source AI Image Upscaler for Linux, MacOS and Windows
 *   [Crossmint/sheets-no-code-minter](https://github.com/Crossmint/sheets-no-code-minter) - Google Sheets Implementation against the Mint API
 *   [creationix/jsonparse](https://github.com/creationix/jsonparse) - A streaming JSON parser written in pure JavaScript for node.js
 *   [uhop/stream-json](https://github.com/uhop/stream-json) - The micro-library of Node.js stream components for creating custom JSON processing pipelines with a minimal memory footprint. It can parse JSON files far exceeding available memory streaming individual primitives using a SAX-inspired API.
@@ -397,7 +397,7 @@
 *   [alkinemk/serum-orderbook-bot](https://github.com/alkinemk/serum-orderbook-bot) - Get FOXY/USDC market from Serum SDK
 *   [actionsflow/actionsflow](https://github.com/actionsflow/actionsflow) - The free Zapier/IFTTT alternative for developers to automate your workflows based on Github actions
 *   [rikukissa/typehole](https://github.com/rikukissa/typehole) - TypeScript development tool for Visual Studio Code that helps you automate creating the initial static typing for runtime values
-*   [apify/crawlee](https://github.com/apify/crawlee) - Crawlee — A web scraping and browser automation library for Node.js that helps you build reliable crawlers. Fast.
+*   [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js that helps you build reliable crawlers. Fast.
 *   [t4t5/sweetalert](https://github.com/t4t5/sweetalert) - A beautiful replacement for JavaScript's "alert"
 *   [inorganik/countUp.js](https://github.com/inorganik/countUp.js) - Animates a numerical value by counting to it
 *   [blitz-js/blitz](https://github.com/blitz-js/blitz) - ⚡️ The Missing Fullstack Toolkit for Next.js
