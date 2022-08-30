@@ -36,6 +36,7 @@
 
 ## TypeScript
 
+*   [metaplex-foundation/js](https://github.com/metaplex-foundation/js) - The new Metaplex JavaScript SDK
 *   [StrataFoundation/strata](https://github.com/StrataFoundation/strata) - Strata Protocol is an open-source protocol to launch tokens around a person, project, idea, or collective on Solana.
 *   [openchaindev/cloudflare-shadow-uploader](https://github.com/openchaindev/cloudflare-shadow-uploader) -
 *   [cardinal-labs/cardinal-staking-ui](https://github.com/cardinal-labs/cardinal-staking-ui) - The UI for staking NFTs on Solana. Cardinal staking UI can be treated as an admin interface for stake pools hosted by cardinal-staking as well as a barebones end-user staking UI
@@ -56,7 +57,7 @@
 *   [px2code/moveable-pxcode](https://github.com/px2code/moveable-pxcode) -
 *   [react-component/tree](https://github.com/react-component/tree) - React Tree
 *   [hauptrolle/chakra-templates](https://github.com/hauptrolle/chakra-templates) - A growing collection of responsive Chakra UI Templates ready to drop into your React project.
-*   [BuilderIO/builder](https://github.com/BuilderIO/builder) - Drag and drop page builder and CMS for React, Vue, Angular, and more
+*   [BuilderIO/builder](https://github.com/BuilderIO/builder) - Drag and drop Visual CMS for React, Vue, Angular, and more
 *   [kodingdotninja/chakra-icons](https://github.com/kodingdotninja/chakra-icons) - Transform SVGs to React Chakra UI \<Icon /> ✨
 *   [BearStudio/start-ui-web](https://github.com/BearStudio/start-ui-web) - 🚀 Start UI \[web] is an opinionated UI starter with ⚛️  React, ⚡️ Chakra UI,  ⚛️  React Query & 🐜  Formiz — From the 🐻  BearStudio Team
 *   [sozonome/nextarter-chakra](https://github.com/sozonome/nextarter-chakra) - battery packed template / boilerplate to initialize Next.js app with Chakra UI & Typescript setup ✨
@@ -552,7 +553,6 @@
 *   [thp/urlwatch](https://github.com/thp/urlwatch) - urlwatch monitors webpages for you
 *   [watir/nerodia](https://github.com/watir/nerodia) - Python implementation of Watir
 *   [KilledMufasa/AmputatorBot](https://github.com/KilledMufasa/AmputatorBot) - Remove AMP from your URLs. AmputatorBot is a highly specialised Reddit and Twitter bot that automatically replies to comments, submissions and tweets containing AMP URLs with the canonical link(s). It's also available as a website and REST API. See also: https://www.reddit.com/r/AmputatorBot/comments/ehrq3z/why\_did\_i\_build\_amputatorbot/.
-*   [pushshift/api](https://github.com/pushshift/api) - Pushshift API
 
 ## HTML
 
