@@ -5,8 +5,9 @@
 ## Table of Contents
 
 *   [TypeScript](#typescript)
-*   [C#](#c)
 *   [JavaScript](#javascript)
+*   [Rust](#rust)
+*   [C#](#c)
 *   [Elm](#elm)
 *   [C++](#c-1)
 *   [Python](#python)
@@ -18,7 +19,6 @@
 *   [ReScript](#rescript)
 *   [Vue](#vue)
 *   [Go](#go)
-*   [Rust](#rust)
 *   [F#](#f)
 *   [Zig](#zig)
 *   [Java](#java)
@@ -36,6 +36,8 @@
 
 ## TypeScript
 
+*   [tusharjo/mockme](https://github.com/tusharjo/mockme) - The fastest way to mock API calls for your React / Vue.js / Angular apps for FREE!.
+*   [project-serum/oyster-swap](https://github.com/project-serum/oyster-swap) -
 *   [metaplex-foundation/js](https://github.com/metaplex-foundation/js) - The new Metaplex JavaScript SDK
 *   [StrataFoundation/strata](https://github.com/StrataFoundation/strata) - Strata Protocol is an open-source protocol to launch tokens around a person, project, idea, or collective on Solana.
 *   [openchaindev/cloudflare-shadow-uploader](https://github.com/openchaindev/cloudflare-shadow-uploader) -
@@ -309,19 +311,9 @@
 *   [thomasloven/lovelace-auto-entities](https://github.com/thomasloven/lovelace-auto-entities) - 🔹Automatically populate the entities-list of lovelace cards
 *   [lolPants/beatsaver-reloaded](https://github.com/lolPants/beatsaver-reloaded) - BeatSaver Again
 
-## C\#
-
-*   [Banana4Life/Drillromantik](https://github.com/Banana4Life/Drillromantik) -
-*   [allartprotocol/unity-solana-wallet](https://github.com/allartprotocol/unity-solana-wallet) - The First Open-Source Unity-Solana Wallet with NFT support
-*   [furkandeveloper/EasyCronJob](https://github.com/furkandeveloper/EasyCronJob) - This repository provides easy cron job to your application on IHostedService.
-*   [MonkeDAO/observer](https://github.com/MonkeDAO/observer) - A command-line tracking tool for Solana-based NFT marketplaces and a metadata scraper for Metaplex protocol.
-*   [Tyrrrz/DiscordChatExporter](https://github.com/Tyrrrz/DiscordChatExporter) - Exports Discord chat logs to a file
-*   [JumpmanSr/BailOutMode](https://github.com/JumpmanSr/BailOutMode) - BailOutMode, a Beat Saber mod that automatically switches to no fail instead of ending a song.
-*   [Assistant/ModAssistant](https://github.com/Assistant/ModAssistant) - Simple Beat Saber Mod Installer
-*   [Tichau/FileConverter](https://github.com/Tichau/FileConverter) - File Converter is a very simple tool which allows you to convert and compress one or several file(s) using the context menu in windows explorer.
-
 ## JavaScript
 
+*   [feathericons/feather](https://github.com/feathericons/feather) - Simply beautiful open source icons
 *   [rebassjs/rebass](https://github.com/rebassjs/rebass) - :atom\_symbol: React primitive UI components built with styled-system.
 *   [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy.
 *   [Crossmint/sheets-no-code-minter](https://github.com/Crossmint/sheets-no-code-minter) - Google Sheets Implementation against the Mint API
@@ -475,6 +467,29 @@
 *   [OutsourcedGuru/octo-client](https://github.com/OutsourcedGuru/octo-client) - A Node module for remotely accessing an OctoPrint instance
 *   [kylepaulsen/ResourceOverride](https://github.com/kylepaulsen/ResourceOverride) - An extension to help you gain full control of any website by redirecting traffic, replacing, editing, or inserting new content.
 
+## Rust
+
+*   [solana-labs/solana-program-library](https://github.com/solana-labs/solana-program-library) - A collection of Solana-maintained on-chain programs
+*   [ironaddicteddog/anchor-amm](https://github.com/ironaddicteddog/anchor-amm) - SPL token-swap (AMM) implemented in Anchor
+*   [VegetarianOrc/shadow-drive-rust](https://github.com/VegetarianOrc/shadow-drive-rust) -
+*   [anoushk1234/metaplex-anchor-nft](https://github.com/anoushk1234/metaplex-anchor-nft) - An example repo to demonstrate how to use anchor and metaplex to mint nfts on solana
+*   [Flawm/solana-dao-vote](https://github.com/Flawm/solana-dao-vote) -
+*   [coral-xyz/anchor](https://github.com/coral-xyz/anchor) - ⚓ Solana Sealevel Framework
+*   [facebook/relay](https://github.com/facebook/relay) - Relay is a JavaScript framework for building data-driven React applications.
+*   [gabrieldemian/minimal-solana-minter](https://github.com/gabrieldemian/minimal-solana-minter) - Minimalistic solana minter program if you don't want to use Metaplex
+*   [ckamm/solana-accountsdb-connector](https://github.com/ckamm/solana-accountsdb-connector) -
+*   [samuelvanderwaal/metaboss](https://github.com/samuelvanderwaal/metaboss) - The Metaplex NFT-standard Swiss Army Knife tool.
+*   [yoav-lavi/melody](https://github.com/yoav-lavi/melody) - Melody is a language that compiles to regular expressions and aims to be more easily readable and maintainable
+
+## C\#
+
+*   [Banana4Life/Drillromantik](https://github.com/Banana4Life/Drillromantik) -
+*   [allartprotocol/unity-solana-wallet](https://github.com/allartprotocol/unity-solana-wallet) - The First Open-Source Unity-Solana Wallet with NFT support
+*   [furkandeveloper/EasyCronJob](https://github.com/furkandeveloper/EasyCronJob) - This repository provides easy cron job to your application on IHostedService.
+*   [MonkeDAO/observer](https://github.com/MonkeDAO/observer) - A command-line tracking tool for Solana-based NFT marketplaces and a metadata scraper for Metaplex protocol.
+*   [Tyrrrz/DiscordChatExporter](https://github.com/Tyrrrz/DiscordChatExporter) - Exports Discord chat logs to a file
+*   [JumpmanSr/BailOutMode](https://github.com/JumpmanSr/BailOutMode) - BailOutMode, a Beat Saber mod that automatically switches to no fail instead of ending a song.
+
 ## Elm
 
 *   [bigtimetapin/somos-datum](https://github.com/bigtimetapin/somos-datum) - token-gated decentralized uploads & downloads of files for the solana community
@@ -551,8 +566,6 @@
 *   [sbidy/wiz\_light](https://github.com/sbidy/wiz_light) - A WiZ Light integration for Home Assistant
 *   [sbidy/pywizlight](https://github.com/sbidy/pywizlight) - A python connector for WiZ devices
 *   [thp/urlwatch](https://github.com/thp/urlwatch) - urlwatch monitors webpages for you
-*   [watir/nerodia](https://github.com/watir/nerodia) - Python implementation of Watir
-*   [KilledMufasa/AmputatorBot](https://github.com/KilledMufasa/AmputatorBot) - Remove AMP from your URLs. AmputatorBot is a highly specialised Reddit and Twitter bot that automatically replies to comments, submissions and tweets containing AMP URLs with the canonical link(s). It's also available as a website and REST API. See also: https://www.reddit.com/r/AmputatorBot/comments/ehrq3z/why\_did\_i\_build\_amputatorbot/.
 
 ## HTML
 
@@ -622,7 +635,6 @@
 *   [lafeber/world-flags-sprite](https://github.com/lafeber/world-flags-sprite) - A sprite of all the worlds' flags.
 *   [madmalik/mononoki](https://github.com/madmalik/mononoki) - a programming typeface
 *   [appbaseio/dejavu](https://github.com/appbaseio/dejavu) - The Missing Web UI for Elasticsearch: Import, browse and edit data with rich filters and query views, create search UIs visually.
-*   [alphapapa/solarized-everything-css](https://github.com/alphapapa/solarized-everything-css) - A collection of Solarized user-stylesheets for...everything?
 
 ## ReScript
 
@@ -644,18 +656,6 @@
 *   [solana-labs/solana-ping-api](https://github.com/solana-labs/solana-ping-api) - solana ping api server
 *   [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative
 *   [zinclabs/zinc](https://github.com/zinclabs/zinc) - ZincSearch. A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
-
-## Rust
-
-*   [VegetarianOrc/shadow-drive-rust](https://github.com/VegetarianOrc/shadow-drive-rust) -
-*   [anoushk1234/metaplex-anchor-nft](https://github.com/anoushk1234/metaplex-anchor-nft) - An example repo to demonstrate how to use anchor and metaplex to mint nfts on solana
-*   [Flawm/solana-dao-vote](https://github.com/Flawm/solana-dao-vote) -
-*   [coral-xyz/anchor](https://github.com/coral-xyz/anchor) - ⚓ Solana Sealevel Framework
-*   [facebook/relay](https://github.com/facebook/relay) - Relay is a JavaScript framework for building data-driven React applications.
-*   [gabrieldemian/minimal-solana-minter](https://github.com/gabrieldemian/minimal-solana-minter) - Minimalistic solana minter program if you don't want to use Metaplex
-*   [ckamm/solana-accountsdb-connector](https://github.com/ckamm/solana-accountsdb-connector) -
-*   [samuelvanderwaal/metaboss](https://github.com/samuelvanderwaal/metaboss) - The Metaplex NFT-standard Swiss Army Knife tool.
-*   [yoav-lavi/melody](https://github.com/yoav-lavi/melody) - Melody is a language that compiles to regular expressions and aims to be more easily readable and maintainable
 
 ## F\#
 
