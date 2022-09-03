@@ -248,7 +248,7 @@
 
 ## TypeScript
 
-*   [tusharjo/mockme](https://github.com/tusharjo/mockme) - The fastest way to mock API calls for your React / Vue.js / Angular apps for FREE!.
+*   [tusharjo/mockzilla](https://github.com/tusharjo/mockzilla) - The fastest way to mock API calls for your React / Vue.js / Angular apps for FREE!.
 *   [project-serum/oyster-swap](https://github.com/project-serum/oyster-swap) -
 *   [metaplex-foundation/js](https://github.com/metaplex-foundation/js) - The new Metaplex JavaScript SDK
 *   [StrataFoundation/strata](https://github.com/StrataFoundation/strata) - Strata Protocol is an open-source protocol to launch tokens around a person, project, idea, or collective on Solana.
