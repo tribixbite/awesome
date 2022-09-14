@@ -119,7 +119,7 @@
 *   [dimsemenov/PhotoSwipe](https://github.com/dimsemenov/PhotoSwipe) - JavaScript image gallery for mobile and desktop, modular, framework independent
 *   [framework7io/framework7](https://github.com/framework7io/framework7) - Full featured HTML framework for building iOS & Android apps
 *   [android-js/androidjs](https://github.com/android-js/androidjs) - Platform to build android app using node js
-*   [aframevr/aframe](https://github.com/aframevr/aframe) - :a: web framework for building virtual reality experiences.
+*   [aframevr/aframe](https://github.com/aframevr/aframe) - :a: Web framework for building virtual reality experiences.
 *   [ethereum/blockies](https://github.com/ethereum/blockies) - <1k library that generates blocky identicons
 *   [playcanvas/engine](https://github.com/playcanvas/engine) - Fast and lightweight JavaScript game engine built on WebGL and glTF
 *   [Cloud9c/taro](https://github.com/Cloud9c/taro) - A lightweight 3D game engine for the web.
