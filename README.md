@@ -5,7 +5,6 @@
 ## Table of Contents
 
 *   [miscellaneous](#miscellaneous)
-*   [CSS](#css)
 *   [JavaScript](#javascript)
 *   [TypeScript](#typescript)
 *   [Python](#python)
@@ -17,6 +16,7 @@
 *   [Elm](#elm)
 *   [C++](#c-1)
 *   [Jinja](#jinja)
+*   [CSS](#css)
 *   [ReScript](#rescript)
 *   [Vue](#vue)
 *   [Go](#go)
@@ -65,19 +65,9 @@
 *   [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue) - 🎉 A curated list of awesome things related to Vue.js
 *   [hakluke/how-to-exit-vim](https://github.com/hakluke/how-to-exit-vim) - Below are some simple methods for exiting vim.
 
-## CSS
-
-*   [OhMyGuus/I-Dont-Care-About-Cookies](https://github.com/OhMyGuus/I-Dont-Care-About-Cookies) - Debloated fork of the extension "I don't care about cookies" (WIP)
-*   [primefaces/primereact](https://github.com/primefaces/primereact) - The Most Complete React UI Component Library
-*   [atisawd/boxicons](https://github.com/atisawd/boxicons) - High Quality web friendly icons
-*   [HTMLElements/smart-webcomponents](https://github.com/HTMLElements/smart-webcomponents) - Web Components & Custom Elements for Professional Web Applications
-*   [paljs/gatsby-admin-template](https://github.com/paljs/gatsby-admin-template) - Free admin dashboard template based on Gatsby with @paljs/ui component package
-*   [creativetimofficial/nextjs-argon-dashboard](https://github.com/creativetimofficial/nextjs-argon-dashboard) - NextJS version of Argon Dashboard React
-*   [lafeber/world-flags-sprite](https://github.com/lafeber/world-flags-sprite) - A sprite of all the worlds' flags.
-*   [appbaseio/dejavu](https://github.com/appbaseio/dejavu) - The Missing Web UI for Elasticsearch: Import, browse and edit data with rich filters and query views, create search UIs visually.
-
 ## JavaScript
 
+*   [OhMyGuus/I-Dont-Care-About-Cookies](https://github.com/OhMyGuus/I-Dont-Care-About-Cookies) - Debloated fork of the extension "I don't care about cookies" (WIP)
 *   [EmailThis/extension-boilerplate](https://github.com/EmailThis/extension-boilerplate) - ⚡️ A template for building cross browser extensions for Chrome, Opera & Firefox.
 *   [netlify/framework-info](https://github.com/netlify/framework-info) - Framework detection utility
 *   [bjcarlson42/chakra-nextjs-dashboard](https://github.com/bjcarlson42/chakra-nextjs-dashboard) - A responsive dashboard UI built using Chakra UI and Next.js.
@@ -260,7 +250,7 @@
 *   [Crossmint/next-candy-machine-react-ui](https://github.com/Crossmint/next-candy-machine-react-ui) -
 *   [gregberge/svgr](https://github.com/gregberge/svgr) - Transform SVGs into React components 🦁
 *   [santospatrick/nextjs-boilerplate-advanced](https://github.com/santospatrick/nextjs-boilerplate-advanced) - Next.js boilerplate made with Chakra-UI + Typescript + React-table + React-hook-form
-*   [NoQuarterTeam/boilerplate](https://github.com/NoQuarterTeam/boilerplate) - Fullstack boilerplate using Typescript, React, Node & GraphQL
+*   [NoQuarterTeam/boilerplate](https://github.com/NoQuarterTeam/boilerplate) - ⚡️Fullstack boilerplate using Typescript, React, Node & GraphQL
 *   [saas-js/saas-ui](https://github.com/saas-js/saas-ui) - The React component library for startups, built with Chakra UI.
 *   [koolamusic/chakra-ui-autocomplete](https://github.com/koolamusic/chakra-ui-autocomplete) - An utility autocomplete UI library to use with Chakra UI
 *   [anubra266/choc-autocomplete](https://github.com/anubra266/choc-autocomplete) - 🏇 Autocomplete Component Package for Chakra UI
@@ -571,6 +561,7 @@
 *   [CAB426/HomeAssistant-Owlet](https://github.com/CAB426/HomeAssistant-Owlet) - Owlet Custom Component for Home Assistant
 *   [LandGrey/pydictor](https://github.com/LandGrey/pydictor) - A powerful and useful hacker dictionary builder for a brute-force attack
 *   [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
+*   [itkfilelor/drone\_mobile](https://github.com/itkfilelor/drone_mobile) - API wrapper for Drone Mobile remote car starter.
 
 ## Jupyter Notebook
 
@@ -620,7 +611,6 @@
 *   [Flawm/solana-dao-vote](https://github.com/Flawm/solana-dao-vote) -
 *   [coral-xyz/anchor](https://github.com/coral-xyz/anchor) - ⚓ Solana Sealevel Framework
 *   [facebook/relay](https://github.com/facebook/relay) - Relay is a JavaScript framework for building data-driven React applications.
-*   [gabrieldemian/minimal-solana-minter](https://github.com/gabrieldemian/minimal-solana-minter) - Minimalistic solana minter program if you don't want to use Metaplex
 *   [ckamm/solana-accountsdb-connector](https://github.com/ckamm/solana-accountsdb-connector) -
 *   [samuelvanderwaal/metaboss](https://github.com/samuelvanderwaal/metaboss) - The Metaplex NFT-standard Swiss Army Knife tool.
 *   [yoav-lavi/melody](https://github.com/yoav-lavi/melody) - Melody is a language that compiles to regular expressions and aims to be more easily readable and maintainable
@@ -643,6 +633,16 @@
 ## Jinja
 
 *   [trailofbits/algo](https://github.com/trailofbits/algo) - Set up a personal VPN in the cloud
+
+## CSS
+
+*   [primefaces/primereact](https://github.com/primefaces/primereact) - The Most Complete React UI Component Library
+*   [atisawd/boxicons](https://github.com/atisawd/boxicons) - High Quality web friendly icons
+*   [HTMLElements/smart-webcomponents](https://github.com/HTMLElements/smart-webcomponents) - Web Components & Custom Elements for Professional Web Applications
+*   [paljs/gatsby-admin-template](https://github.com/paljs/gatsby-admin-template) - Free admin dashboard template based on Gatsby with @paljs/ui component package
+*   [creativetimofficial/nextjs-argon-dashboard](https://github.com/creativetimofficial/nextjs-argon-dashboard) - NextJS version of Argon Dashboard React
+*   [lafeber/world-flags-sprite](https://github.com/lafeber/world-flags-sprite) - A sprite of all the worlds' flags.
+*   [appbaseio/dejavu](https://github.com/appbaseio/dejavu) - The Missing Web UI for Elasticsearch: Import, browse and edit data with rich filters and query views, create search UIs visually.
 
 ## ReScript
 
