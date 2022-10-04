@@ -35,6 +35,7 @@
 
 ## TypeScript
 
+*   [project-serum/serum-dex-ui](https://github.com/project-serum/serum-dex-ui) - Example implementation of a UI for the Serum DEX
 *   [21e8/cryptostraps.tools](https://github.com/21e8/cryptostraps.tools) - Toolset of Solana tech
 *   [torusresearch/OpenLoginSdk](https://github.com/torusresearch/OpenLoginSdk) - Pluggable auth infrastructure for Web3 wallets and dapps
 *   [GokiProtocol/goki](https://github.com/GokiProtocol/goki) - A suite of programs for Solana key management and security.
@@ -325,7 +326,6 @@
 *   [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative - turns any MySQL, Postgres, SQLite into a Spreadsheet with REST APIs.
 *   [awslabs/fhir-works-on-aws-deployment](https://github.com/awslabs/fhir-works-on-aws-deployment) - A serverless implementation of the FHIR standard that enables users to focus more on their business needs/uniqueness rather than the FHIR specification
 *   [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
-*   [philipmulcahy/azad](https://github.com/philipmulcahy/azad) - amazon order history reporter chrome extension
 
 ## miscellaneous
 
