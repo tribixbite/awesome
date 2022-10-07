@@ -522,6 +522,7 @@
 *   [harubaru/discord-stable-diffusion](https://github.com/harubaru/discord-stable-diffusion) - A neat Discord bot to run Stable Diffusion locally
 *   [sharonzhou/long\_stable\_diffusion](https://github.com/sharonzhou/long_stable_diffusion) - Long-form text-to-images generation, using a pipeline of deep generative models (GPT-3 and Stable Diffusion)
 *   [sd-webui/stable-diffusion-webui](https://github.com/sd-webui/stable-diffusion-webui) - Stable Diffusion web UI
+*   [huggingface/diffusers](https://github.com/huggingface/diffusers) - 🤗 Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch
 *   [Dracovian/Discord-Scraper](https://github.com/Dracovian/Discord-Scraper) - A Python script that scrapes text and media from Discord servers.
 *   [AutodeskAILab/Clip-Forge](https://github.com/AutodeskAILab/Clip-Forge) -
 *   [wangerzi/3d-model-convert-to-gltf](https://github.com/wangerzi/3d-model-convert-to-gltf) - Convert 3d model (STL/IGES/STEP/OBJ/FBX) to gltf and compression
@@ -568,7 +569,6 @@
 *   [WongKinYiu/yolov7](https://github.com/WongKinYiu/yolov7) - Implementation of paper - YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors
 *   [karpathy/nn-zero-to-hero](https://github.com/karpathy/nn-zero-to-hero) - Neural Networks: Zero to Hero
 *   [victordibia/peacasso](https://github.com/victordibia/peacasso) - UI interface for experimenting with multimodal (text, image) models (stable diffusion).
-*   [huggingface/diffusers](https://github.com/huggingface/diffusers) - 🤗 Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch
 *   [deepmind/deepmind-research](https://github.com/deepmind/deepmind-research) - This repository contains implementations and illustrative code to accompany DeepMind publications
 *   [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
 *   [alembics/disco-diffusion](https://github.com/alembics/disco-diffusion) -
