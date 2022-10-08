@@ -35,6 +35,7 @@
 
 ## TypeScript
 
+*   [tremorlabs/tremor](https://github.com/tremorlabs/tremor) - The react library to build dashboards fast.
 *   [njbrown/texturelab](https://github.com/njbrown/texturelab) - Free, Cross-Platform, GPU-Accelerated Procedural Texture Generator
 *   [ReactUnity/renderer](https://github.com/ReactUnity/renderer) - React reconciler implementation for React Unity, including Typescript definitions
 *   [leerob/react2025](https://github.com/leerob/react2025) - ⚛️ Build applications from the the future, today.
@@ -514,7 +515,6 @@
 *   [typescript-cheatsheets/react](https://github.com/typescript-cheatsheets/react) - Cheatsheets for experienced React developers getting started with TypeScript
 *   [iamadamdev/bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass Paywalls web browser extension for Chrome and Firefox.
 *   [sudheerj/reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions) - List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!
-*   [claudioc/jingo](https://github.com/claudioc/jingo) - Node.js based Wiki
 
 ## Python
 
