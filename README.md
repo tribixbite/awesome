@@ -22,7 +22,6 @@
 *   [ReScript](#rescript)
 *   [Vue](#vue)
 *   [Go](#go)
-*   [F#](#f)
 *   [Zig](#zig)
 *   [Java](#java)
 *   [Kotlin](#kotlin)
@@ -751,6 +750,7 @@
 ## ReScript
 
 *   [r17x/rescript-chakra](https://github.com/r17x/rescript-chakra) - ⚡️⚛️ ReScript bindings for @chakra-ui/react
+*   [darklang/dark](https://github.com/darklang/dark) - Client, backend, and services for Dark: https://darklang.com
 
 ## Vue
 
@@ -768,10 +768,6 @@
 *   [solana-labs/solana-ping-api](https://github.com/solana-labs/solana-ping-api) - solana ping api server
 *   [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative
 *   [zinclabs/zinc](https://github.com/zinclabs/zinc) - ZincSearch. A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
-
-## F\#
-
-*   [darklang/dark](https://github.com/darklang/dark) - Client, backend, and services for Dark: https://darklang.com
 
 ## Zig
 
