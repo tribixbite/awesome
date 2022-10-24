@@ -37,6 +37,7 @@
 
 ## TypeScript
 
+*   [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - Quickest way to start a new web app with full stack typesafety
 *   [epiphone/routing-controllers-openapi](https://github.com/epiphone/routing-controllers-openapi) - Runtime OpenAPI v3 schema generation for routing-controllers.
 *   [drwpow/openapi-typescript](https://github.com/drwpow/openapi-typescript) - Generate TypeScript types from Swagger OpenAPI specs
 *   [candypay/sdk](https://github.com/candypay/sdk) - 🏄‍♂️ CandyPay SDK lets you effortlessly create NFT minting functions for Candy Machine v2 collections.
@@ -568,7 +569,7 @@
 *   [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 *   [harubaru/discord-stable-diffusion](https://github.com/harubaru/discord-stable-diffusion) - A neat Discord bot to run Stable Diffusion locally
 *   [sharonzhou/long\_stable\_diffusion](https://github.com/sharonzhou/long_stable_diffusion) - Long-form text-to-images generation, using a pipeline of deep generative models (GPT-3 and Stable Diffusion)
-*   [Sygil-Dev/Sygil-WebUI](https://github.com/Sygil-Dev/Sygil-WebUI) - Stable Diffusion web UI
+*   [Sygil-Dev/sygil-webui](https://github.com/Sygil-Dev/sygil-webui) - Stable Diffusion web UI
 *   [huggingface/diffusers](https://github.com/huggingface/diffusers) - 🤗 Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch
 *   [Dracovian/Discord-Scraper](https://github.com/Dracovian/Discord-Scraper) - A Python script that scrapes text and media from Discord servers.
 *   [AutodeskAILab/Clip-Forge](https://github.com/AutodeskAILab/Clip-Forge) -
@@ -640,7 +641,6 @@
 *   [creativetimofficial/nextjs-argon-dashboard](https://github.com/creativetimofficial/nextjs-argon-dashboard) - NextJS version of Argon Dashboard React
 *   [lafeber/world-flags-sprite](https://github.com/lafeber/world-flags-sprite) - A sprite of all the worlds' flags.
 *   [appbaseio/dejavu](https://github.com/appbaseio/dejavu) - The Missing Web UI for Elasticsearch: Import, browse and edit data with rich filters and query views, create search UIs visually.
-*   [alphapapa/solarized-everything-css](https://github.com/alphapapa/solarized-everything-css) - A collection of Solarized user-stylesheets for...everything?
 
 ## HTML
 
