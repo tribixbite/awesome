@@ -5,6 +5,7 @@
 ## Table of Contents
 
 *   [TypeScript](#typescript)
+*   [Solidity](#solidity)
 *   [Shell](#shell)
 *   [miscellaneous](#miscellaneous)
 *   [Kotlin](#kotlin)
@@ -33,10 +34,10 @@
 *   [AutoIt](#autoit)
 *   [AutoHotkey](#autohotkey)
 *   [Visual Basic .NET](#visual-basic-net)
-*   [R](#r)
 
 ## TypeScript
 
+*   [thiswallz/react-cyber-elements](https://github.com/thiswallz/react-cyber-elements) - Library with cyber punk icons / shapes.
 *   [bluesky-social/atproto](https://github.com/bluesky-social/atproto) - A social networking technology created by Bluesky
 *   [synzen/MonitoRSS](https://github.com/synzen/MonitoRSS) - Discord RSS bot (formerly known as Discord.RSS) with customizable feeds. https://monitorss.xyz
 *   [samchon/typescript-json](https://github.com/samchon/typescript-json) - Super-fast Runtime validator (type checker) with only one line
@@ -370,6 +371,10 @@
 *   [philipmulcahy/azad](https://github.com/philipmulcahy/azad) - amazon order history reporter chrome extension
 *   [jorenvandeweyer/snitch-bot](https://github.com/jorenvandeweyer/snitch-bot) - Discord bot that listen for certain strings in messages to tell you about them.
 *   [thomasloven/lovelace-auto-entities](https://github.com/thomasloven/lovelace-auto-entities) - 🔹Automatically populate the entities-list of lovelace cards
+
+## Solidity
+
+*   [ProjectOpenSea/operator-filter-registry](https://github.com/ProjectOpenSea/operator-filter-registry) -
 
 ## Shell
 
@@ -757,7 +762,6 @@
 *   [yuzu-emu/yuzu](https://github.com/yuzu-emu/yuzu) - Nintendo Switch Emulator
 *   [HASwitchPlate/openHASP](https://github.com/HASwitchPlate/openHASP) - HomeAutomation Switchplate based on lvgl for ESP32
 *   [esphome/esphome](https://github.com/esphome/esphome) - ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems.
-*   [mozilla/DeepSpeech](https://github.com/mozilla/DeepSpeech) - DeepSpeech is an open source embedded (offline, on-device) speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers.
 
 ## Jinja
 
@@ -820,7 +824,3 @@
 ## Visual Basic .NET
 
 *   [ChrisAnd1998/TaskbarX](https://github.com/ChrisAnd1998/TaskbarX) - Center Windows taskbar icons with a variety of animations and options.
-
-## R
-
-*   [BorisNikulin/discord-chat-analysis](https://github.com/BorisNikulin/discord-chat-analysis) - Text analysis of a discord chat group
