@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+*   [Java](#java)
 *   [TypeScript](#typescript)
 *   [miscellaneous](#miscellaneous)
 *   [Solidity](#solidity)
@@ -25,7 +26,6 @@
 *   [ReScript](#rescript)
 *   [Vue](#vue)
 *   [Zig](#zig)
-*   [Java](#java)
 *   [PowerShell](#powershell)
 *   [Markdown](#markdown)
 *   [Cuda](#cuda)
@@ -34,6 +34,11 @@
 *   [AutoIt](#autoit)
 *   [AutoHotkey](#autohotkey)
 *   [Visual Basic .NET](#visual-basic-net)
+
+## Java
+
+*   [LuigiVampa92/XLogger](https://github.com/LuigiVampa92/XLogger) - Xposed module that allows to sniff and record logs of NFC and Bluetooth communication on device
+*   [xtclang/xvm](https://github.com/xtclang/xvm) - Ecstasy and XVM
 
 ## TypeScript
 
@@ -376,7 +381,6 @@
 *   [awslabs/fhir-works-on-aws-deployment](https://github.com/awslabs/fhir-works-on-aws-deployment) - A serverless implementation of the FHIR standard that enables users to focus more on their business needs/uniqueness rather than the FHIR specification
 *   [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
 *   [philipmulcahy/azad](https://github.com/philipmulcahy/azad) - amazon order history reporter chrome extension
-*   [jorenvandeweyer/snitch-bot](https://github.com/jorenvandeweyer/snitch-bot) - Discord bot that listen for certain strings in messages to tell you about them.
 
 ## miscellaneous
 
@@ -784,10 +788,6 @@
 
 *   [hexops/mach](https://github.com/hexops/mach) - Mach is a game engine & graphics toolkit for the future.
 *   [mkeeter/futureproof](https://github.com/mkeeter/futureproof) - A live editor for fragment shaders, powered by Neovim, WebGPU, and Zig!
-
-## Java
-
-*   [xtclang/xvm](https://github.com/xtclang/xvm) - Ecstasy and XVM
 
 ## PowerShell
 
