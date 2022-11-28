@@ -220,11 +220,11 @@
 *   [premieroctet/openchakra](https://github.com/premieroctet/openchakra) - ⚡️ Full-featured visual editor and code generator for React using Chakra UI
 *   [pansyjs/react-admin](https://github.com/pansyjs/react-admin) - 🎉 A magical react admin
 *   [OneKeyHQ/app-monorepo](https://github.com/OneKeyHQ/app-monorepo) - Secure, open source and community driven crypto wallet runs on all platforms and trusted by millions.
-*   [ronnyhaase/solplorer](https://github.com/ronnyhaase/solplorer) - An independent and open-source Solana Blockchain explorer
+*   [ronnyhaase/solplorer](https://github.com/ronnyhaase/solplorer) - The independent and open-source Solana blockchain explorer
 *   [nickytonline/minty-metaplex](https://github.com/nickytonline/minty-metaplex) - A fun Buildspace project to mint NFTs on Solana using Metaplex.
 *   [Fulgurus/candy-machine-v2-responsive-ui](https://github.com/Fulgurus/candy-machine-v2-responsive-ui) - Solana Candy Machine V2 with a Prod-ready and easy to customize responsive UI.
 *   [LIQNFT/candy-shop](https://github.com/LIQNFT/candy-shop) - Ethereum, Polygon, Solana NFT Marketplace JS Library
-*   [LIQNFT/candy-shop-storefront](https://github.com/LIQNFT/candy-shop-storefront) - Solana / EVM Storefront & Auctions
+*   [LIQNFT/candy-shop-storefront](https://github.com/LIQNFT/candy-shop-storefront) - Ethereum, Polygon & Solana NFT Storefront & Auctions
 *   [Crossmint/candy-machine-react-ui](https://github.com/Crossmint/candy-machine-react-ui) - UI frontend in react for Solana Candy Machine NFTs
 *   [pointer-gg/solana-pay-tutorial](https://github.com/pointer-gg/solana-pay-tutorial) -
 *   [thuglabs/create-dapp-solana-nextjs](https://github.com/thuglabs/create-dapp-solana-nextjs) - Scaffolding for a Solana dapp using TS, Next.JS, Tailwinds CSS, and Daisy UI
