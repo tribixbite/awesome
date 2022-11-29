@@ -165,7 +165,7 @@
 *   [BearStudio/start-ui-web](https://github.com/BearStudio/start-ui-web) - 🚀 Start UI \[web] is an opinionated UI starter with ⚛️  React, ⚡️ Chakra UI,  ⚛️  React Query & 🐜  Formiz — From the 🐻  BearStudio Team
 *   [sozonome/nextarter-chakra](https://github.com/sozonome/nextarter-chakra) - battery packed template / boilerplate to initialize Next.js app with Chakra UI & Typescript setup ✨
 *   [dimitropoulos/react-ui-roundup](https://github.com/dimitropoulos/react-ui-roundup) - A one-stop-shop for comparing the features of all the best React frameworks.  Useful for designers and engineers alike!
-*   [vedantnn71/create-chakra](https://github.com/vedantnn71/create-chakra) - 🌈 CLI tool to scaffold chakra ui projects, without wasting time.
+*   [vedantnn71/create-chakra](https://github.com/vedantnn71/create-chakra) - 🌈 cli tool to scaffold chakra ui projects, without wasting time
 *   [MA-Ahmad/templatesKart](https://github.com/MA-Ahmad/templatesKart) - A powerful set of fully responsive and accessible ChakraUI React components and projects list
 *   [naver/billboard.js](https://github.com/naver/billboard.js) - :bar\_chart: Re-usable, easy interface JavaScript chart library based on D3.js
 *   [workbenchapp/solana-workbench](https://github.com/workbenchapp/solana-workbench) - Your one-stop shop for developing on Solana
