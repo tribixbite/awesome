@@ -348,6 +348,7 @@
 *   [pinefile/pine](https://github.com/pinefile/pine) - Small JavaScript-based task runner for node.js
 *   [lexis-solutions/agenda-admin](https://github.com/lexis-solutions/agenda-admin) - Admin interface for Agenda
 *   [TNG/momo-scheduler](https://github.com/TNG/momo-scheduler) - A scheduler that persists jobs in MongoDB
+*   [agenda/agenda](https://github.com/agenda/agenda) - Lightweight job scheduling for Node.js
 *   [cronhub/crontab](https://github.com/cronhub/crontab) - ⏰   Cron expression generator
 *   [taskforcesh/bullmq](https://github.com/taskforcesh/bullmq) - BullMQ - Premium Message Queue for NodeJS based on Redis
 *   [hellochar/hellochar.com](https://github.com/hellochar/hellochar.com) - website
@@ -519,7 +520,6 @@
 *   [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) - Connect APIs, remarkably fast.  Free for developers.
 *   [agenda/agenda-rest](https://github.com/agenda/agenda-rest) - Scheduling as a Service
 *   [agenda/agendash](https://github.com/agenda/agendash) - Agenda Dashboard
-*   [agenda/agenda](https://github.com/agenda/agenda) - Lightweight job scheduling for Node.js
 *   [VinceZK/node-background-job](https://github.com/VinceZK/node-background-job) - A job server which allows to schedule your nodejs scripts.
 *   [miladr0/bull-mongo](https://github.com/miladr0/bull-mongo) - Message Queue using Bull, Redis, and MongoDB in Nodejs
 *   [creativelifeform/three-nebula](https://github.com/creativelifeform/three-nebula) - WebGL based particle system engine for three.js
