@@ -115,7 +115,7 @@
 *   [project-serum/oyster-swap](https://github.com/project-serum/oyster-swap) -
 *   [metaplex-foundation/js](https://github.com/metaplex-foundation/js) - The new Metaplex JavaScript SDK
 *   [StrataFoundation/strata](https://github.com/StrataFoundation/strata) - Strata Protocol is an open-source protocol to launch tokens around a person, project, idea, or collective on Solana.
-*   [openchaindev/cloudflare-shadow-uploader](https://github.com/openchaindev/cloudflare-shadow-uploader) -
+*   [ohaddahan/cloudflare-shadow-uploader](https://github.com/ohaddahan/cloudflare-shadow-uploader) -
 *   [cardinal-labs/cardinal-staking-ui](https://github.com/cardinal-labs/cardinal-staking-ui) - The UI for staking NFTs on Solana. Cardinal staking UI can be treated as an admin interface for stake pools hosted by cardinal-staking as well as a barebones end-user staking UI
 *   [game-ci/unity-builder](https://github.com/game-ci/unity-builder) - Build Unity projects for different platforms
 *   [JamesIves/github-pages-deploy-action](https://github.com/JamesIves/github-pages-deploy-action) - Automatically deploy your project to GitHub Pages using GitHub Actions. This action can be configured to push your production-ready code into any branch you'd like.
@@ -566,7 +566,7 @@
 
 ## Jupyter Notebook
 
-*   [qunash/stable-diffusion-2-gui](https://github.com/qunash/stable-diffusion-2-gui) - Lightweight Stable Diffusion v 2.1 web UI: txt2img, img2img, inpaint, upscale4x
+*   [qunash/stable-diffusion-2-gui](https://github.com/qunash/stable-diffusion-2-gui) - Lightweight Stable Diffusion v 2.1 web UI: txt2img, img2img, depth2img, inpaint and upscale4x.
 *   [cloneofsimo/paint-with-words-sd](https://github.com/cloneofsimo/paint-with-words-sd) - Implementation of Paint-with-words with Stable Diffusion : method from eDiff-I that let you generate image from text-labeled segmentation map.
 *   [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - This version of Stable Diffusion features a slick WebGUI, an interactive command-line script that combines text2img and img2img functionality in a "dream bot" style interface, and multiple features and other enhancements. For more info, see the website link below.
 *   [WongKinYiu/yolov7](https://github.com/WongKinYiu/yolov7) - Implementation of paper - YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors
