@@ -4,8 +4,8 @@
 
 ## Table of Contents
 
-*   [Lua](#lua)
 *   [TypeScript](#typescript)
+*   [Lua](#lua)
 *   [JavaScript](#javascript)
 *   [Go](#go)
 *   [Jupyter Notebook](#jupyter-notebook)
@@ -36,12 +36,9 @@
 *   [AutoHotkey](#autohotkey)
 *   [Visual Basic .NET](#visual-basic-net)
 
-## Lua
-
-*   [Jaliborc/Bagnon](https://github.com/Jaliborc/Bagnon) - Single window displays for you items
-
 ## TypeScript
 
+*   [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure for products
 *   [missive/emoji-mart](https://github.com/missive/emoji-mart) - 🏪 One component to pick them all
 *   [sidhantpanda/logt](https://github.com/sidhantpanda/logt) - 🖥️ A colourful logger for the browser
 *   [juliencrn/usehooks-ts](https://github.com/juliencrn/usehooks-ts) - React hook library, ready to use, written in Typescript.
@@ -384,6 +381,10 @@
 *   [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
 *   [philipmulcahy/azad](https://github.com/philipmulcahy/azad) - amazon order history reporter chrome extension
 
+## Lua
+
+*   [Jaliborc/Bagnon](https://github.com/Jaliborc/Bagnon) - Single window displays for you items
+
 ## JavaScript
 
 *   [gregberge/loadable-components](https://github.com/gregberge/loadable-components) - The recommended Code Splitting library for React ✂️✨
@@ -701,7 +702,6 @@
 *   [praw-dev/praw](https://github.com/praw-dev/praw) - PRAW, an acronym for "Python Reddit API Wrapper", is a python package that allows for simple access to Reddit's API.
 *   [CAB426/HomeAssistant-Owlet](https://github.com/CAB426/HomeAssistant-Owlet) - Owlet Custom Component for Home Assistant
 *   [LandGrey/pydictor](https://github.com/LandGrey/pydictor) - A powerful and useful hacker dictionary builder for a brute-force attack
-*   [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
 
 ## Shell
 
