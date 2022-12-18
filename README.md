@@ -167,8 +167,8 @@
 *   [gemworks/gem-farm](https://github.com/gemworks/gem-farm) - Configurable staking for NFT Projects on Solana
 *   [solana-labs/break](https://github.com/solana-labs/break) - Break Solana Game
 *   [GenesysGo/shadow-drive](https://github.com/GenesysGo/shadow-drive) -
-*   [honey-labs/honey-frontend](https://github.com/honey-labs/honey-frontend) - 🍯 An open source interface for the Honey Finance protocol
-*   [honey-labs/honey-sdk](https://github.com/honey-labs/honey-sdk) - 🛠 Software Development Kit for connecting to Honey's programs
+*   [honey-protocol/honey-frontend-legacy](https://github.com/honey-protocol/honey-frontend-legacy) - 🍯 An open source interface for the Honey Finance protocol
+*   [honey-protocol/honey-sdk](https://github.com/honey-protocol/honey-sdk) - 🛠 Software Development Kit for connecting to Honey's programs
 *   [Lunaticsatoshi/dev-to-clone](https://github.com/Lunaticsatoshi/dev-to-clone) - A clone of dev.to web application made to recreate the basic functionalities of a micro blogging platform
 *   [DimensionDev/Maskbook](https://github.com/DimensionDev/Maskbook) - The portal to the new, open Internet. (\[I:b])
 *   [pmndrs/leva](https://github.com/pmndrs/leva) - 🌋 React-first components GUI
