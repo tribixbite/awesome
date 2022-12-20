@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+*   [Vue](#vue)
 *   [TypeScript](#typescript)
 *   [Lua](#lua)
 *   [JavaScript](#javascript)
@@ -25,7 +26,6 @@
 *   [C++](#c-1)
 *   [Jinja](#jinja)
 *   [ReScript](#rescript)
-*   [Vue](#vue)
 *   [Zig](#zig)
 *   [PowerShell](#powershell)
 *   [Markdown](#markdown)
@@ -36,8 +36,16 @@
 *   [AutoHotkey](#autohotkey)
 *   [Visual Basic .NET](#visual-basic-net)
 
+## Vue
+
+*   [2501babe/revoken](https://github.com/2501babe/revoken) - web ui to revoke solana token approvals
+*   [mynftgg/nft-project](https://github.com/mynftgg/nft-project) - Game code for mynftgg
+*   [paul-schaaf/spl-token-ui](https://github.com/paul-schaaf/spl-token-ui) - Interface for creating and managing SPL Tokens
+*   [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
+
 ## TypeScript
 
+*   [jacobcreech/Token-Creator](https://github.com/jacobcreech/Token-Creator) - An example Repository to showcase creating tokens on Solana and attaching Metadata to them
 *   [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure for products
 *   [missive/emoji-mart](https://github.com/missive/emoji-mart) - 🏪 One component to pick them all
 *   [sidhantpanda/logt](https://github.com/sidhantpanda/logt) - 🖥️ A colourful logger for the browser
@@ -219,7 +227,7 @@
 *   [solana-developers/solana-dapp-next](https://github.com/solana-developers/solana-dapp-next) -
 *   [minchingtonak/pocketstore](https://github.com/minchingtonak/pocketstore) - A pocket-sized, TypeScript-first global state store for react/preact.
 *   [eventhorizonstudio/next-starter](https://github.com/eventhorizonstudio/next-starter) - A highly opinionated and complete starter for Next.js projects ready to production
-*   [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth) - Authentication for Next.js
+*   [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth) - Authentication for the Web.
 *   [Bijayb37/Firebase-chatrooms](https://github.com/Bijayb37/Firebase-chatrooms) - Discord like chatrooms with firebase, nextJS, chakra-UI
 *   [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 *   [wundergraph/nextjs-typescript-postgresql-graphql-realtime-chat](https://github.com/wundergraph/nextjs-typescript-postgresql-graphql-realtime-chat) - WunderGraph Realtime Chat Example using NextJS, TypeScript, PostgreSQL, GraphQL
@@ -552,7 +560,6 @@
 *   [sudheerj/reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions) - List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!
 *   [claudioc/jingo](https://github.com/claudioc/jingo) - Node.js based Wiki
 *   [not-an-aardvark/snoowrap](https://github.com/not-an-aardvark/snoowrap) - A JavaScript wrapper for the reddit API
-*   [vladikoff/chromeos-apk](https://github.com/vladikoff/chromeos-apk) - ☢️  Run Android Apps in Chrome OS OR Chrome in OS X, Linux and Windows.
 
 ## Go
 
@@ -589,7 +596,7 @@
 *   [Bonfida/name-tokenizer](https://github.com/Bonfida/name-tokenizer) - Tokenize a domain name into an NFT
 *   [solana-labs/solana-program-library](https://github.com/solana-labs/solana-program-library) - A collection of Solana-maintained on-chain programs
 *   [ironaddicteddog/anchor-amm](https://github.com/ironaddicteddog/anchor-amm) - SPL token-swap (AMM) implemented in Anchor
-*   [VegetarianOrc/shadow-drive-rust](https://github.com/VegetarianOrc/shadow-drive-rust) -
+*   [GenesysGo/shadow-drive-rust](https://github.com/GenesysGo/shadow-drive-rust) -
 *   [anoushk1234/metaplex-anchor-nft](https://github.com/anoushk1234/metaplex-anchor-nft) - An example repo to demonstrate how to use anchor and metaplex to mint nfts on solana
 *   [Flawm/solana-dao-vote](https://github.com/Flawm/solana-dao-vote) -
 *   [coral-xyz/anchor](https://github.com/coral-xyz/anchor) - ⚓ Solana Sealevel Framework
@@ -701,7 +708,6 @@
 *   [praw-dev/asyncpraw](https://github.com/praw-dev/asyncpraw) - Async PRAW, an abbreviation for "Asynchronous Python Reddit API Wrapper", is a python package that allows for simple access to Reddit's API.
 *   [praw-dev/praw](https://github.com/praw-dev/praw) - PRAW, an acronym for "Python Reddit API Wrapper", is a python package that allows for simple access to Reddit's API.
 *   [CAB426/HomeAssistant-Owlet](https://github.com/CAB426/HomeAssistant-Owlet) - Owlet Custom Component for Home Assistant
-*   [LandGrey/pydictor](https://github.com/LandGrey/pydictor) - A powerful and useful hacker dictionary builder for a brute-force attack
 
 ## Shell
 
@@ -781,12 +787,6 @@
 
 *   [r17x/rescript-chakra](https://github.com/r17x/rescript-chakra) - ⚡️⚛️ ReScript bindings for @chakra-ui/react
 *   [darklang/dark](https://github.com/darklang/dark) - Client, backend, and services for Dark: https://darklang.com
-
-## Vue
-
-*   [mynftgg/nft-project](https://github.com/mynftgg/nft-project) - Game code for mynftgg
-*   [paul-schaaf/spl-token-ui](https://github.com/paul-schaaf/spl-token-ui) - Interface for creating and managing SPL Tokens
-*   [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
 
 ## Zig
 
