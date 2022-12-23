@@ -817,7 +817,7 @@
 
 ## AutoIt
 
-*   [SegoCode/AutoWall](https://github.com/SegoCode/AutoWall) - 🌌 Live wallpapers on Windows 10/11 using open-source wallpaper engine
+*   [SegoCode/AutoWall](https://github.com/SegoCode/AutoWall) - 🌌 Live wallpapers on Windows 7/8/10/11 using open-source wallpaper engine
 
 ## AutoHotkey
 
