@@ -41,7 +41,7 @@
 *   [NiGhTTraX/ts-monorepo](https://github.com/NiGhTTraX/ts-monorepo) - Template for setting up a TypeScript monorepo
 *   [hadeswap-solana/hadeswap-sdk-public](https://github.com/hadeswap-solana/hadeswap-sdk-public) -
 *   [jacobcreech/Token-Creator](https://github.com/jacobcreech/Token-Creator) - An example Repository to showcase creating tokens on Solana and attaching Metadata to them
-*   [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure for products
+*   [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure for products. Add a notification center for your React, Vue and Angular apps 🚀
 *   [missive/emoji-mart](https://github.com/missive/emoji-mart) - 🏪 One component to pick them all
 *   [sidhantpanda/logt](https://github.com/sidhantpanda/logt) - 🖥️ A colourful logger for the browser
 *   [juliencrn/usehooks-ts](https://github.com/juliencrn/usehooks-ts) - React hook library, ready to use, written in Typescript.
