@@ -422,7 +422,7 @@
 *   [GuiBibeau/wen](https://github.com/GuiBibeau/wen) - Wen? Now! A library to simplify your Web3 data fetching.
 *   [react-icons/react-icons](https://github.com/react-icons/react-icons) - svg react icons of popular icon packs
 *   [jquense/yup](https://github.com/jquense/yup) - Dead simple Object schema validation
-*   [gmatthewsfeuer/next-plate](https://github.com/gmatthewsfeuer/next-plate) - 🦸‍♀️ A super template for Next.js with a pack of incredible tools
+*   [gustavomorinaga/next-plate](https://github.com/gustavomorinaga/next-plate) - 🦸‍♀️ A super template for Next.js with a pack of incredible tools
 *   [csandman/chakra-react-select](https://github.com/csandman/chakra-react-select) - A Chakra UI themed wrapper for the popular library React Select
 *   [Hyperting/hypertheme-editor](https://github.com/Hyperting/hypertheme-editor) - Most advanced visual theme editor for Chakra-UI
 *   [plasmicapp/plasmic](https://github.com/plasmicapp/plasmic) - Visual page builder and web design tool for any website or web app tech stack
@@ -681,7 +681,7 @@
 
 *   [qunash/stable-diffusion-2-gui](https://github.com/qunash/stable-diffusion-2-gui) - Lightweight Stable Diffusion v 2.1 web UI: txt2img, img2img, depth2img, inpaint and upscale4x.
 *   [cloneofsimo/paint-with-words-sd](https://github.com/cloneofsimo/paint-with-words-sd) - Implementation of Paint-with-words with Stable Diffusion : method from eDiff-I that let you generate image from text-labeled segmentation map.
-*   [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - This version of Stable Diffusion features a slick WebGUI, an interactive command-line script that combines text2img and img2img functionality in a "dream bot" style interface, and multiple features and other enhancements. For more info, see the website link below.
+*   [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - InvokeAI is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an industry leading WebUI, supports terminal use through a CLI, and serves as the foundation for multiple commercial products.
 *   [WongKinYiu/yolov7](https://github.com/WongKinYiu/yolov7) - Implementation of paper - YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors
 *   [karpathy/nn-zero-to-hero](https://github.com/karpathy/nn-zero-to-hero) - Neural Networks: Zero to Hero
 *   [victordibia/peacasso](https://github.com/victordibia/peacasso) - UI interface for experimenting with multimodal (text, image) models (stable diffusion).
