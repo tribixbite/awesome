@@ -297,7 +297,7 @@
 *   [wonka-labs/wonka-js](https://github.com/wonka-labs/wonka-js) - Wonka JS is the easiest way to mint Metaplex's Candy Machine NFTs with APIs.
 *   [lovecodingdev/candy-machine-mint](https://github.com/lovecodingdev/candy-machine-mint) - Solana NFT mint
 *   [MicroHD/Candy-Machine-V2-Minter](https://github.com/MicroHD/Candy-Machine-V2-Minter) - Complete Open Source Front End Candy Machine V2 Minter dAPP Built For The Frog Nation NFT Solana Project. Built With React, Candy Machine V2, Typescript
-*   [moon-landing-crew/solana-nft-monitor](https://github.com/moon-landing-crew/solana-nft-monitor) - Monitor Solana NFT projects using Github Actions + flatgithub.com
+*   [aeminium-labs/solana-nft-monitor](https://github.com/aeminium-labs/solana-nft-monitor) - Monitor Solana NFT projects using Github Actions + flatgithub.com
 *   [AudiusProject/fetch-nft](https://github.com/AudiusProject/fetch-nft) - 🖼🎑🌠 A utility to fetch and easily display Ethereum & Solana NFTs in a common format given any wallet
 *   [lsamoht/sol-nft-monitor](https://github.com/lsamoht/sol-nft-monitor) - solana nft monitor
 *   [GokiProtocol/walletkit](https://github.com/GokiProtocol/walletkit) - 🔑 Wallet connector for Solana dApps.
