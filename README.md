@@ -143,7 +143,7 @@
 *   [ohaddahan/cloudflare-shadow-uploader](https://github.com/ohaddahan/cloudflare-shadow-uploader) -
 *   [cardinal-labs/cardinal-staking-ui](https://github.com/cardinal-labs/cardinal-staking-ui) - The UI for staking NFTs on Solana. Cardinal staking UI can be treated as an admin interface for stake pools hosted by cardinal-staking as well as a barebones end-user staking UI
 *   [game-ci/unity-builder](https://github.com/game-ci/unity-builder) - Build Unity projects for different platforms
-*   [JamesIves/github-pages-deploy-action](https://github.com/JamesIves/github-pages-deploy-action) - Automatically deploy your project to GitHub Pages using GitHub Actions. This action can be configured to push your production-ready code into any branch you'd like.
+*   [JamesIves/github-pages-deploy-action](https://github.com/JamesIves/github-pages-deploy-action) - 🚀 Automatically deploy your project to GitHub Pages using GitHub Actions. This action can be configured to push your production-ready code into any branch you'd like.
 *   [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy.
 *   [snowflake-so/snowflake-sdk](https://github.com/snowflake-so/snowflake-sdk) -
 *   [Crossmint/twitter-mint-bot](https://github.com/Crossmint/twitter-mint-bot) -
