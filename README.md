@@ -5,6 +5,7 @@
 ## Table of Contents
 
 *   [TypeScript](#typescript)
+*   [Dart](#dart)
 *   [JavaScript](#javascript)
 *   [Rust](#rust)
 *   [miscellaneous](#miscellaneous)
@@ -40,6 +41,7 @@
 
 ## TypeScript
 
+*   [web3omega/solana-nft-dressing](https://github.com/web3omega/solana-nft-dressing) -
 *   [TanStack/table](https://github.com/TanStack/table) - 🤖 Headless UI for building powerful tables & datagrids for TS/JS -  React-Table, Vue-Table, Solid-Table, Svelte-Table
 *   [revolist/revogrid](https://github.com/revolist/revogrid) - Powerful virtual data grid smartsheet with advanced customization. Best features from excel plus incredible  performance 🔋
 *   [AppsusUK/NFT-Art-Generator](https://github.com/AppsusUK/NFT-Art-Generator) - Easy to use NFT art generator app for windows/linux/mac
@@ -244,7 +246,7 @@
 *   [cryptorustacean/phantom-wallet-example](https://github.com/cryptorustacean/phantom-wallet-example) - Integrate a "Connect to Phantom" button example
 *   [solana-developers/solana-dapp-next](https://github.com/solana-developers/solana-dapp-next) -
 *   [minchingtonak/pocketstore](https://github.com/minchingtonak/pocketstore) - A pocket-sized, TypeScript-first global state store for react/preact.
-*   [eventhorizonstudio/next-starter](https://github.com/eventhorizonstudio/next-starter) - A highly opinionated and complete starter for Next.js projects ready to production
+*   [emalorenzo/next-starter-](https://github.com/emalorenzo/next-starter-) - A highly opinionated and complete starter for Next.js projects ready to production
 *   [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth) - Authentication for the Web.
 *   [Bijayb37/Firebase-chatrooms](https://github.com/Bijayb37/Firebase-chatrooms) - Discord like chatrooms with firebase, nextJS, chakra-UI
 *   [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
@@ -410,6 +412,10 @@
 *   [nuxt/nuxt](https://github.com/nuxt/nuxt) - Nuxt is an intuitive and extendable way to create type-safe, performant and production-grade full-stack web apps and websites with Vue 3.
 *   [thomasloven/lovelace-auto-entities](https://github.com/thomasloven/lovelace-auto-entities) - 🔹Automatically populate the entities-list of lovelace cards
 *   [lolPants/beatsaver-reloaded](https://github.com/lolPants/beatsaver-reloaded) - BeatSaver Again
+
+## Dart
+
+*   [MaximeBeasse/KeyDecoder](https://github.com/MaximeBeasse/KeyDecoder) - KeyDecoder app lets you use your smartphone or tablet to decode your mechanical keys in seconds.
 
 ## JavaScript
 
@@ -739,7 +745,6 @@
 *   [KilledMufasa/AmputatorBot](https://github.com/KilledMufasa/AmputatorBot) - Remove AMP from your URLs. AmputatorBot is a highly specialised Reddit and Twitter bot that automatically replies to comments, submissions and tweets containing AMP URLs with the canonical link(s). It's also available as a website and REST API. See also: https://www.reddit.com/r/AmputatorBot/comments/ehrq3z/why\_did\_i\_build\_amputatorbot/.
 *   [pushshift/api](https://github.com/pushshift/api) - Pushshift API
 *   [tribixbite/BrokenRecordBot](https://github.com/tribixbite/BrokenRecordBot) - reddit copypasta bot for subreddit wiki text
-*   [janick/ArloDownload](https://github.com/janick/ArloDownload) - Automatically download new video recordings from Arlo
 
 ## CSS
 
@@ -776,7 +781,6 @@
 *   [arendst/Tasmota](https://github.com/arendst/Tasmota) - Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at
 *   [vanbwodonk/leonardoUploader](https://github.com/vanbwodonk/leonardoUploader) - A binary command for upload .hex to Arduino Leonardo CDC bootloader.
 *   [oblitum/Interception](https://github.com/oblitum/Interception) - The Interception API aims to build a portable programming interface that allows one to intercept and control a range of input devices.
-*   [zapta/misc](https://github.com/zapta/misc) - Miscelenous
 
 ## Vue
 
