@@ -126,7 +126,7 @@
 *   [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
 *   [jup-ag/terminal](https://github.com/jup-ag/terminal) - Jupiter Terminal is an open-sourced, lite version of Jupiter that provides end-to-end swap flow by linking it in your HTML.
 *   [mmomtchev/rlayers](https://github.com/mmomtchev/rlayers) - React Component Library for OpenLayers
-*   [cipherstash/cipherstash.js](https://github.com/cipherstash/cipherstash.js) - CipherStash clients for JavaScript and TypeScript
+*   [cipherstash-archive/cipherstash.js](https://github.com/cipherstash-archive/cipherstash.js) - CipherStash clients for JavaScript and TypeScript
 *   [Stonks-Luma-Liberty/GuiltySpark](https://github.com/Stonks-Luma-Liberty/GuiltySpark) - Solana NFT wallet monitor discord bot
 *   [bhagyamudgal/soltok](https://github.com/bhagyamudgal/soltok) - A react web app to find spl-tokens with same or similar token name or symbol on the solana blockchain
 *   [atonoy/smart-token-tool](https://github.com/atonoy/smart-token-tool) - SPL Token/ NFT  issue tool on solana blockchain
