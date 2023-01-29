@@ -773,7 +773,7 @@
 ## HTML
 
 *   [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
-*   [Clueless-Community/seamless-ui](https://github.com/Clueless-Community/seamless-ui) - This is a Web UI Kit made with simple HTML and Tailwind CSS. You can use them in any of your projects, be it a simple HTML, CSS static website or a React, Vue, Angular or Next.js Complex app.
+*   [Clueless-Community/seamless-ui](https://github.com/Clueless-Community/seamless-ui) - The next gen UI made with simple HTML and Tailwind CSS. It's compatible with simple HTML, CSS static website or a React, Vue, Angular or Next.js Complex app. Zero JS and no-plugins installed.
 *   [ollyhsu/termius-cracked](https://github.com/ollyhsu/termius-cracked) - Terminus Cracked Version
 *   [anubra266/chakra-play](https://github.com/anubra266/chakra-play) - 🤽‍♀️ An advanced online playground for Chakra UI
 *   [MyMiniFactory/stl2gltf](https://github.com/MyMiniFactory/stl2gltf) - Convert STL to glb
@@ -895,7 +895,7 @@
 ## ReScript
 
 *   [r17x/rescript-chakra](https://github.com/r17x/rescript-chakra) - ⚡️⚛️ ReScript bindings for @chakra-ui/react
-*   [darklang/dark](https://github.com/darklang/dark) - Client, backend, and services for Dark: https://darklang.com
+*   [darklang/dark](https://github.com/darklang/dark) - Darklang main repo, including client, backend, and infra
 
 ## Zig
 
