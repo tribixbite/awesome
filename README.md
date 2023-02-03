@@ -402,7 +402,7 @@
 *   [openblocks-dev/openblocks](https://github.com/openblocks-dev/openblocks) - 🔥 🔥 🔥 The Open Source Retool Alternative
 *   [solana-labs/solana-pay](https://github.com/solana-labs/solana-pay) - A new standard for decentralized payments.
 *   [thiswallz/react-cyber-elements](https://github.com/thiswallz/react-cyber-elements) - Library with cyber punk icons / shapes.
-*   [bluesky-social/atproto](https://github.com/bluesky-social/atproto) - A social networking technology created by Bluesky
+*   [bluesky-social/atproto](https://github.com/bluesky-social/atproto) - Social networking technology created by Bluesky
 *   [synzen/MonitoRSS](https://github.com/synzen/MonitoRSS) - Discord RSS bot (formerly known as Discord.RSS) with customizable feeds. https://monitorss.xyz
 *   [samchon/typia](https://github.com/samchon/typia) - Super-fast Runtime validator (type checker) with only one line
 *   [sjinks/node-fetch-retry-ts](https://github.com/sjinks/node-fetch-retry-ts) - Adds retry functionality to fetch()
@@ -807,7 +807,7 @@
 *   [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
 *   [solana-labs/solana-ping-api](https://github.com/solana-labs/solana-ping-api) - solana ping api server
 *   [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative
-*   [zinclabs/zinc](https://github.com/zinclabs/zinc) - ZincSearch. A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
+*   [zinclabs/zinc](https://github.com/zinclabs/zinc) - ZincSearch (Classic). A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
 
 ## Jupyter Notebook
 
