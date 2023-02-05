@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+*   [Sass](#sass)
 *   [C](#c)
 *   [Python](#python)
 *   [JavaScript](#javascript)
@@ -37,6 +38,10 @@
 *   [AutoHotkey](#autohotkey)
 *   [Visual Basic .NET](#visual-basic-net)
 *   [R](#r)
+
+## Sass
+
+*   [Weilbyte/PVEDiscordDark](https://github.com/Weilbyte/PVEDiscordDark) - A Discord-like dark theme for the Proxmox Web UI.
 
 ## C
 
@@ -871,7 +876,6 @@
 *   [Tyrrrz/DiscordChatExporter](https://github.com/Tyrrrz/DiscordChatExporter) - Exports Discord chat logs to a file
 *   [JumpmanSr/BailOutMode](https://github.com/JumpmanSr/BailOutMode) - BailOutMode, a Beat Saber mod that automatically switches to no fail instead of ending a song.
 *   [Assistant/ModAssistant](https://github.com/Assistant/ModAssistant) - Simple Beat Saber Mod Installer
-*   [Tichau/FileConverter](https://github.com/Tichau/FileConverter) - File Converter is a very simple tool which allows you to convert and compress one or several file(s) using the context menu in windows explorer.
 
 ## Elm
 
