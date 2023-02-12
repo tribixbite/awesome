@@ -41,6 +41,7 @@
 
 ## TypeScript
 
+*   [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.
 *   [iamdevmarcos/Nextjs-Boilerplate](https://github.com/iamdevmarcos/Nextjs-Boilerplate) - A simple project starter to work with TypeScript, React, Next.js, Chakra UI, React Hook Form and Zod ♻️
 *   [ecyrbe/zodios](https://github.com/ecyrbe/zodios) - typescript http client and server with zod validation
 *   [anatine/zod-plugins](https://github.com/anatine/zod-plugins) - Plugins and utilities for Zod
@@ -732,7 +733,6 @@
 *   [parametrek/gm1020](https://github.com/parametrek/gm1020) - Cross platform utility for the Benetech GM1020 USB logging luxmeter
 *   [IBM/MicroscoPy](https://github.com/IBM/MicroscoPy) - An open-source, motorized, and modular microscope built using LEGO bricks, Arduino, Raspberry Pi and 3D printing.
 *   [PrusaOwners/OctoPrint-PrusaMeshMap](https://github.com/PrusaOwners/OctoPrint-PrusaMeshMap) - This plugin performs a mesh bed leveling operation then returns the results as an easy to read heatmap.
-*   [sbidy/wiz\_light](https://github.com/sbidy/wiz_light) - A WiZ Light integration for Home Assistant
 
 ## miscellaneous
 
