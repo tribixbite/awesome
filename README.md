@@ -80,7 +80,7 @@
 *   [NiGhTTraX/ts-monorepo](https://github.com/NiGhTTraX/ts-monorepo) - Template for setting up a TypeScript monorepo
 *   [hadeswap-solana/hadeswap-sdk-public](https://github.com/hadeswap-solana/hadeswap-sdk-public) -
 *   [jacobcreech/Token-Creator](https://github.com/jacobcreech/Token-Creator) - An example Repository to showcase creating tokens on Solana and attaching Metadata to them
-*   [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure for products. Add a notification center for your React, Vue and Angular apps 🚀
+*   [novuhq/novu](https://github.com/novuhq/novu) - Multi-channel Notification Infrastructure 🚀🚀🚀🧑‍💻 🧑‍💻 🧑‍💻
 *   [missive/emoji-mart](https://github.com/missive/emoji-mart) - 🏪 One component to pick them all
 *   [sidhantpanda/logt](https://github.com/sidhantpanda/logt) - 🖥️ A colourful logger for the browser
 *   [juliencrn/usehooks-ts](https://github.com/juliencrn/usehooks-ts) - React hook library, ready to use, written in Typescript.
@@ -596,7 +596,7 @@
 *   [BraianVaylet/buildspace-epic-nfts-ui](https://github.com/BraianVaylet/buildspace-epic-nfts-ui) - 🐲 Epic NFTs \[UI] - Proyecto que te permitirá conectar tu billetera y acuñar un NFT, podrás revender el NFT en OpenSea. El NFT en sí se puede personalizar
 *   [creativetimofficial/purity-ui-dashboard](https://github.com/creativetimofficial/purity-ui-dashboard) - Purity UI Dashboard - Free and Open Source Chakra UI Dashboard
 *   [ferdianar/ferionic-dashboard-dark-mode](https://github.com/ferdianar/ferionic-dashboard-dark-mode) - Dashboard made complete with skeleton structure and dark mode switcher. Using localstorage and api.. On Progress Development
-*   [horizon-ui/horizon-ui-chakra](https://github.com/horizon-ui/horizon-ui-chakra) - Horizon UI JavaScript | The most trendiest & innovative Open Source Admin Template for Chakra UI & React!
+*   [horizon-ui/horizon-ui-chakra](https://github.com/horizon-ui/horizon-ui-chakra) - ⭐️ Horizon UI JavaScript | The most trendiest & innovative Open Source Admin Template for Chakra UI & React!
 *   [creativetimofficial/vision-ui-dashboard-chakra](https://github.com/creativetimofficial/vision-ui-dashboard-chakra) -
 *   [mdx-js/mdx](https://github.com/mdx-js/mdx) - Markdown for the component era
 *   [jsdom/jsdom](https://github.com/jsdom/jsdom) - A JavaScript implementation of various web standards, for use with Node.js
