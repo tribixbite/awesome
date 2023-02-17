@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+*   [miscellaneous](#miscellaneous)
 *   [TypeScript](#typescript)
 *   [Rust](#rust)
 *   [Python](#python)
@@ -15,7 +16,6 @@
 *   [C#](#c-1)
 *   [Sass](#sass)
 *   [C](#c-2)
-*   [miscellaneous](#miscellaneous)
 *   [Dart](#dart)
 *   [HTML](#html)
 *   [Vue](#vue)
@@ -37,6 +37,51 @@
 *   [AutoIt](#autoit)
 *   [AutoHotkey](#autohotkey)
 *   [Visual Basic .NET](#visual-basic-net)
+
+## miscellaneous
+
+*   [farcasterxyz/protocol](https://github.com/farcasterxyz/protocol) - Specification of the Farcaster Protocol
+*   [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series on JavaScript. @YDKJS on twitter.
+*   [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources
+*   [kkrypt0nn/wordlists](https://github.com/kkrypt0nn/wordlists) - 📜 A collection of wordlists for many different usages.
+*   [tribixbite/solana-lb](https://github.com/tribixbite/solana-lb) -
+*   [lydiahallie/javascript-questions](https://github.com/lydiahallie/javascript-questions) - A long list of (advanced) JavaScript questions, and their explanations :sparkles:
+*   [wbkd/awesome-node-based-uis](https://github.com/wbkd/awesome-node-based-uis) - A curated list with resources about node-based UIs
+*   [windows-powertool/Powertool](https://github.com/windows-powertool/Powertool) - Windows powertool is a windows 10 and 11 utility designed to provide one click solution to reduce and trim down unnecessary burden that comes by default with windows. its used to Improve speed, remove bloatware, protect privacy, eliminate data collection, and so more.
+*   [candypay/docs](https://github.com/candypay/docs) - 📚 Documentation site for CandyPay's Public API and SDK
+*   [gapon2401/upload-files-nextjs](https://github.com/gapon2401/upload-files-nextjs) - Uploading files with NextJs + formidable + Typescript.
+*   [AnIdiotsGuide/discordjs-bot-guide](https://github.com/AnIdiotsGuide/discordjs-bot-guide) - The basic new coder friendly "idiot's guide", Created by Hindsight#2020 and maintained by the community.
+*   [torusresearch/audit](https://github.com/torusresearch/audit) - Audits done across the Torus codebases
+*   [joelparkerhenderson/stable-diffusion-macos-install-help](https://github.com/joelparkerhenderson/stable-diffusion-macos-install-help) - Stable Diffusion: macOS install help with homebrew, python, anaconda, dream, etc.
+*   [Maks-s/sd-akashic](https://github.com/Maks-s/sd-akashic) - A compendium of informations regarding Stable Diffusion (SD)
+*   [killop/anything\_about\_game](https://github.com/killop/anything_about_game) - A wonderful list of Game Development resources.
+*   [murlokito/awesome-solana-gaming](https://github.com/murlokito/awesome-solana-gaming) - 🏎️ A curated list of gaming projects building on Solana 🏎️
+*   [nh-server/switch-guide](https://github.com/nh-server/switch-guide) -
+*   [solana-mobile/solana-mobile-stack-sdk](https://github.com/solana-mobile/solana-mobile-stack-sdk) -
+*   [mikbry/awesome-webgpu](https://github.com/mikbry/awesome-webgpu) - 😎 Curated list of awesome things around WebGPU ecosystem.
+*   [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
+*   [naomi-lgbt/new-repo-template](https://github.com/naomi-lgbt/new-repo-template) - Holds the files for new repos: issue templates, pr template, workflows
+*   [TheOdinProject/curriculum](https://github.com/TheOdinProject/curriculum) - The open curriculum for learning web development
+*   [DaRockSol/solana-nft-mint-workflow-postman](https://github.com/DaRockSol/solana-nft-mint-workflow-postman) - This is my collection of postman calls to the RPC API of Solana in an order for minting an NFT with metadata.
+*   [BL0CK-X/solana-nft-collection-mint-addresses](https://github.com/BL0CK-X/solana-nft-collection-mint-addresses) - This is a public repository containing the mint addresses of popular collections on Solana. Please add and help us expand this open source project.
+*   [Quillhash/QuillAudit\_Reports](https://github.com/Quillhash/QuillAudit_Reports) - QuillAudits Smart Contracts, deFi, NFT, tokens,Dao , Dex and  DApps Audit Reports
+*   [michidk/Unity-Script-Collection](https://github.com/michidk/Unity-Script-Collection) - A maintained collection of useful & free unity scripts / library's / plugins and extensions
+*   [matchai/awesome-pinned-gists](https://github.com/matchai/awesome-pinned-gists) - 📌✨ A collection of awesome dynamic pinned gists for GitHub
+*   [YOURLS/awesome](https://github.com/YOURLS/awesome) - 🎉 A curated list of awesome things related to YOURLS
+*   [audreyfeldroy/favicon-cheat-sheet](https://github.com/audreyfeldroy/favicon-cheat-sheet) - Obsessive cheat sheet to favicon sizes/types. Please contribute! (Note: this may be in flux as I learn new things about favicon best practices.)
+*   [christiannaths/redacted-font](https://github.com/christiannaths/redacted-font) - Keep your wireframes free of distracting Lorem Ipsum.
+*   [ericandrewlewis/web-development-contract](https://github.com/ericandrewlewis/web-development-contract) - Web Development Contract
+*   [madmalik/mononoki](https://github.com/madmalik/mononoki) - a programming typeface
+*   [simonecorsi/awesome](https://github.com/simonecorsi/awesome) - 😎 Automatically generated list of ordered projects I've starred over the years! You can do your own using my action linked below!
+*   [metaplex-foundation/metaplex](https://github.com/metaplex-foundation/metaplex) - A directory of what the Metaplex Foundation works on!
+*   [ilmoi/awesome-solana-nfts](https://github.com/ilmoi/awesome-solana-nfts) - A curated list of Solana NFT protocols, repos & community tools
+*   [kcotoi/SOLSniperNFT-Releases](https://github.com/kcotoi/SOLSniperNFT-Releases) -
+*   [ShareX/CustomUploaders](https://github.com/ShareX/CustomUploaders) - ShareX custom uploaders
+*   [mbeaudru/modern-js-cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet) - Cheatsheet for the JavaScript knowledge you will frequently encounter in modern projects.
+*   [typescript-cheatsheets/react-typescript-cheatsheet-es](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet-es) - Cheatsheets para desarrolladores expertos en React que comienzan con TypeScript
+*   [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue) - 🎉 A curated list of awesome things related to Vue.js
+*   [hakluke/how-to-exit-vim](https://github.com/hakluke/how-to-exit-vim) - Below are some simple methods for exiting vim.
+*   [aderusha/DDD-Printable-Wall-Control-System](https://github.com/aderusha/DDD-Printable-Wall-Control-System) - DDD Printable Wall Control System, 3d printable organization solutions for Wall Control pegboards
 
 ## TypeScript
 
@@ -140,7 +185,7 @@
 *   [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React
 *   [chkt/xyzw](https://github.com/chkt/xyzw) - Vector, Matrix, Quaternion, Euler Angles, SLERPs, Projections, Transforms
 *   [Ankr-network/game-webgl-template](https://github.com/Ankr-network/game-webgl-template) - Template for Unity WebGL with ankr web3 library
-*   [Meqn/UnityWebGL.js](https://github.com/Meqn/UnityWebGL.js) - 🏣 An easy solution for embedding Unity WebGL builds in webApp or Vue.js project, with two-way communication between your webApp and Unity. 🏩 在webApp 或 Vue.js 项目中嵌入 Unity WebGL，并支持通过API在 webApp 和 Unity 之间进行双向通信。🏰
+*   [Meqn/UnityWebGL.js](https://github.com/Meqn/UnityWebGL.js) - An easy solution for embedding Unity WebGL builds in webApp or Vue.js project, with two-way communication between your webApp and Unity. 🏣 在webApp 或 Vue.js 项目中嵌入 Unity WebGL，并支持通过API在 webApp 和 Unity 之间进行双向通信。
 *   [PhilippMolitor/react-unity-renderer](https://github.com/PhilippMolitor/react-unity-renderer) - React Unity Renderer allows to interactively embed Unity WebGL builds into a React powered project.
 *   [AWaterColorPen/unity-rich-text-converter](https://github.com/AWaterColorPen/unity-rich-text-converter) - typescript library to converter message between unity rich text and html standard rich text.
 *   [eritislami/evobot](https://github.com/eritislami/evobot) - 🤖 EvoBot is a Discord Music Bot built with discord.js & uses Command Handler from discordjs.guide
@@ -461,7 +506,6 @@
 *   [sharonzhou/long\_stable\_diffusion](https://github.com/sharonzhou/long_stable_diffusion) - Long-form text-to-images generation, using a pipeline of deep generative models (GPT-3 and Stable Diffusion)
 *   [Sygil-Dev/sygil-webui](https://github.com/Sygil-Dev/sygil-webui) - Stable Diffusion web UI
 *   [huggingface/diffusers](https://github.com/huggingface/diffusers) - 🤗 Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch
-*   [Dracovian/Discord-Scraper](https://github.com/Dracovian/Discord-Scraper) - A Python script that scrapes text and media from Discord servers.
 *   [AutodeskAILab/Clip-Forge](https://github.com/AutodeskAILab/Clip-Forge) -
 *   [wangerzi/3d-model-convert-to-gltf](https://github.com/wangerzi/3d-model-convert-to-gltf) - Convert 3d model (STL/IGES/STEP/OBJ/FBX) to gltf and compression
 *   [wanadev/yoga](https://github.com/wanadev/yoga) - Converts and optimizes images and 3D models
@@ -775,50 +819,6 @@
 *   [ArweaveTeam/arweave](https://github.com/ArweaveTeam/arweave) - The Arweave server and App Developer Toolkit.
 *   [RoganDawes/LOGITacker](https://github.com/RoganDawes/LOGITacker) - Enumerate and test Logitech wireless input devices for vulnerabilities with a nRF52840 radio dongle.
 *   [FABtotum/FABlin](https://github.com/FABtotum/FABlin) - The FABtotum Personal Fabricator Firmware, a Marlin derivate made to support hybrid manufacturing and digital acquisition
-
-## miscellaneous
-
-*   [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series on JavaScript. @YDKJS on twitter.
-*   [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources
-*   [kkrypt0nn/wordlists](https://github.com/kkrypt0nn/wordlists) - 📜 A collection of wordlists for many different usages.
-*   [tribixbite/solana-lb](https://github.com/tribixbite/solana-lb) -
-*   [lydiahallie/javascript-questions](https://github.com/lydiahallie/javascript-questions) - A long list of (advanced) JavaScript questions, and their explanations :sparkles:
-*   [wbkd/awesome-node-based-uis](https://github.com/wbkd/awesome-node-based-uis) - A curated list with resources about node-based UIs
-*   [windows-powertool/Powertool](https://github.com/windows-powertool/Powertool) - Windows powertool is a windows 10 and 11 utility designed to provide one click solution to reduce and trim down unnecessary burden that comes by default with windows. its used to Improve speed, remove bloatware, protect privacy, eliminate data collection, and so more.
-*   [candypay/docs](https://github.com/candypay/docs) - 📚 Documentation site for CandyPay's Public API and SDK
-*   [gapon2401/upload-files-nextjs](https://github.com/gapon2401/upload-files-nextjs) - Uploading files with NextJs + formidable + Typescript.
-*   [AnIdiotsGuide/discordjs-bot-guide](https://github.com/AnIdiotsGuide/discordjs-bot-guide) - The basic new coder friendly "idiot's guide", Created by Hindsight#2020 and maintained by the community.
-*   [torusresearch/audit](https://github.com/torusresearch/audit) - Audits done across the Torus codebases
-*   [joelparkerhenderson/stable-diffusion-macos-install-help](https://github.com/joelparkerhenderson/stable-diffusion-macos-install-help) - Stable Diffusion: macOS install help with homebrew, python, anaconda, dream, etc.
-*   [Maks-s/sd-akashic](https://github.com/Maks-s/sd-akashic) - A compendium of informations regarding Stable Diffusion (SD)
-*   [killop/anything\_about\_game](https://github.com/killop/anything_about_game) - A wonderful list of Game Development resources.
-*   [murlokito/awesome-solana-gaming](https://github.com/murlokito/awesome-solana-gaming) - 🏎️ A curated list of gaming projects building on Solana 🏎️
-*   [nh-server/switch-guide](https://github.com/nh-server/switch-guide) -
-*   [solana-mobile/solana-mobile-stack-sdk](https://github.com/solana-mobile/solana-mobile-stack-sdk) -
-*   [mikbry/awesome-webgpu](https://github.com/mikbry/awesome-webgpu) - 😎 Curated list of awesome things around WebGPU ecosystem.
-*   [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
-*   [naomi-lgbt/new-repo-template](https://github.com/naomi-lgbt/new-repo-template) - Holds the files for new repos: issue templates, pr template, workflows
-*   [TheOdinProject/curriculum](https://github.com/TheOdinProject/curriculum) - The open curriculum for learning web development
-*   [DaRockSol/solana-nft-mint-workflow-postman](https://github.com/DaRockSol/solana-nft-mint-workflow-postman) - This is my collection of postman calls to the RPC API of Solana in an order for minting an NFT with metadata.
-*   [BL0CK-X/solana-nft-collection-mint-addresses](https://github.com/BL0CK-X/solana-nft-collection-mint-addresses) - This is a public repository containing the mint addresses of popular collections on Solana. Please add and help us expand this open source project.
-*   [Quillhash/QuillAudit\_Reports](https://github.com/Quillhash/QuillAudit_Reports) - QuillAudits Smart Contracts, deFi, NFT, tokens,Dao , Dex and  DApps Audit Reports
-*   [michidk/Unity-Script-Collection](https://github.com/michidk/Unity-Script-Collection) - A maintained collection of useful & free unity scripts / library's / plugins and extensions
-*   [matchai/awesome-pinned-gists](https://github.com/matchai/awesome-pinned-gists) - 📌✨ A collection of awesome dynamic pinned gists for GitHub
-*   [YOURLS/awesome](https://github.com/YOURLS/awesome) - 🎉 A curated list of awesome things related to YOURLS
-*   [audreyfeldroy/favicon-cheat-sheet](https://github.com/audreyfeldroy/favicon-cheat-sheet) - Obsessive cheat sheet to favicon sizes/types. Please contribute! (Note: this may be in flux as I learn new things about favicon best practices.)
-*   [christiannaths/redacted-font](https://github.com/christiannaths/redacted-font) - Keep your wireframes free of distracting Lorem Ipsum.
-*   [ericandrewlewis/web-development-contract](https://github.com/ericandrewlewis/web-development-contract) - Web Development Contract
-*   [madmalik/mononoki](https://github.com/madmalik/mononoki) - a programming typeface
-*   [simonecorsi/awesome](https://github.com/simonecorsi/awesome) - 😎 Automatically generated list of ordered projects I've starred over the years! You can do your own using my action linked below!
-*   [metaplex-foundation/metaplex](https://github.com/metaplex-foundation/metaplex) - A directory of what the Metaplex Foundation works on!
-*   [ilmoi/awesome-solana-nfts](https://github.com/ilmoi/awesome-solana-nfts) - A curated list of Solana NFT protocols, repos & community tools
-*   [kcotoi/SOLSniperNFT-Releases](https://github.com/kcotoi/SOLSniperNFT-Releases) -
-*   [ShareX/CustomUploaders](https://github.com/ShareX/CustomUploaders) - ShareX custom uploaders
-*   [mbeaudru/modern-js-cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet) - Cheatsheet for the JavaScript knowledge you will frequently encounter in modern projects.
-*   [typescript-cheatsheets/react-typescript-cheatsheet-es](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet-es) - Cheatsheets para desarrolladores expertos en React que comienzan con TypeScript
-*   [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue) - 🎉 A curated list of awesome things related to Vue.js
-*   [hakluke/how-to-exit-vim](https://github.com/hakluke/how-to-exit-vim) - Below are some simple methods for exiting vim.
-*   [aderusha/DDD-Printable-Wall-Control-System](https://github.com/aderusha/DDD-Printable-Wall-Control-System) - DDD Printable Wall Control System, 3d printable organization solutions for Wall Control pegboards
 
 ## Dart
 
