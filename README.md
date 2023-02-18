@@ -145,7 +145,7 @@
 *   [react-hook-form/resolvers](https://github.com/react-hook-form/resolvers) - 📋 Validation resolvers: Yup, Zod, AJV, Joi, Superstruct, Vest, class-validator, io-ts, typanion, Ajv and nope.
 *   [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app
 *   [epiphone/routing-controllers-openapi](https://github.com/epiphone/routing-controllers-openapi) - Runtime OpenAPI v3 schema generation for routing-controllers.
-*   [drwpow/openapi-typescript](https://github.com/drwpow/openapi-typescript) - Generate TypeScript types from Swagger OpenAPI specs
+*   [drwpow/openapi-typescript](https://github.com/drwpow/openapi-typescript) - Generate TypeScript types from OpenAPI 3 specs
 *   [candypay/sdk](https://github.com/candypay/sdk) - 🏄‍♂️ CandyPay SDK lets you effortlessly create NFT minting functions for Candy Machine v2 collections.
 *   [atessieri/job-board](https://github.com/atessieri/job-board) - Job board
 *   [graphql-editor/ts-api-faker](https://github.com/graphql-editor/ts-api-faker) - Micro api faker written in TypeScript which returns faked data from JSON queries
