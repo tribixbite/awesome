@@ -30,6 +30,7 @@
 *   [Elm](#elm)
 *   [Jinja](#jinja)
 *   [ReScript](#rescript)
+*   [F#](#f)
 *   [Zig](#zig)
 *   [PowerShell](#powershell)
 *   [Markdown](#markdown)
@@ -1002,6 +1003,9 @@
 ## ReScript
 
 *   [r17x/rescript-chakra](https://github.com/r17x/rescript-chakra) - ⚡️⚛️ ReScript bindings for @chakra-ui/react
+
+## F\#
+
 *   [darklang/dark](https://github.com/darklang/dark) - Darklang main repo, including client, backend, and infra
 
 ## Zig
