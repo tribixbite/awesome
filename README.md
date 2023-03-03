@@ -628,7 +628,7 @@
 *   [BraianVaylet/buildspace-epic-nfts-ui](https://github.com/BraianVaylet/buildspace-epic-nfts-ui) - 🐲 Epic NFTs \[UI] - Proyecto que te permitirá conectar tu billetera y acuñar un NFT, podrás revender el NFT en OpenSea. El NFT en sí se puede personalizar
 *   [creativetimofficial/purity-ui-dashboard](https://github.com/creativetimofficial/purity-ui-dashboard) - Purity UI Dashboard - Free and Open Source Chakra UI Dashboard
 *   [ferdianar/ferionic-dashboard-dark-mode](https://github.com/ferdianar/ferionic-dashboard-dark-mode) - Dashboard made complete with skeleton structure and dark mode switcher. Using localstorage and api.. On Progress Development
-*   [horizon-ui/horizon-ui-chakra](https://github.com/horizon-ui/horizon-ui-chakra) - ⭐️ Horizon UI JavaScript | The most trendiest & innovative Open Source Admin Template for Chakra UI & React!
+*   [horizon-ui/horizon-ui-chakra](https://github.com/horizon-ui/horizon-ui-chakra) - Horizon UI JavaScript ⭐️ The trendiest & innovative Open Source Admin Template for Chakra UI & React!
 *   [creativetimofficial/vision-ui-dashboard-chakra](https://github.com/creativetimofficial/vision-ui-dashboard-chakra) -
 *   [mdx-js/mdx](https://github.com/mdx-js/mdx) - Markdown for the component era
 *   [jsdom/jsdom](https://github.com/jsdom/jsdom) - A JavaScript implementation of various web standards, for use with Node.js
