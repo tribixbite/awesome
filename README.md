@@ -367,7 +367,7 @@
 *   [junkurihara/jscu](https://github.com/junkurihara/jscu) - JavaScript cryptographic utilities for crypto-suite compatibility including PEM/X509/JWK converter.
 *   [jferrer/solacademy-wallet](https://github.com/jferrer/solacademy-wallet) - Boilerplate to build Cross-Platform Apps with Expo, React Native & Solana Web3
 *   [iway1/react-ts-form](https://github.com/iway1/react-ts-form) -
-*   [criszz77/luna](https://github.com/criszz77/luna) - Luna - a React Native + Next.js template. Built with TypeScript :heart:
+*   [LunatiqueCoder/luna](https://github.com/LunatiqueCoder/luna) - Luna - a React Native + Next.js template. Built with TypeScript :heart:
 *   [chen-rn/CUA](https://github.com/chen-rn/CUA) - create-universal-app(CUA) is an opinionated template for creating fullstack universal apps (Expo, Next, tRPC, Prisma, Clerk, Solito, Tamagui)
 *   [ivopr/tamagui-expo](https://github.com/ivopr/tamagui-expo) - An Expo template with Tamagui
 *   [dohomi/tamagui-kitchen-sink](https://github.com/dohomi/tamagui-kitchen-sink) - Home of tamagui-extras, a component library which builds on top of Tamagui.
@@ -548,7 +548,6 @@
 *   [raydium-io/raydium-sdk](https://github.com/raydium-io/raydium-sdk) - An SDK for building applications on top of Raydium.
 *   [openocean-finance/openocean-api](https://github.com/openocean-finance/openocean-api) - openocean sdk
 *   [cardinal-labs/cardinal-staking](https://github.com/cardinal-labs/cardinal-staking) - Cardinal staking encompasses a suite of contracts for issuing and staking NFTs and FTs on Solana. The simple program is a stake pool that tracks total stake duration and plugs into arbitrary reward distributors for rewarding staking.
-*   [KKQanT/atadia-loan-lending](https://github.com/KKQanT/atadia-loan-lending) -
 *   [gemworks/gem-farm](https://github.com/gemworks/gem-farm) - Configurable staking for NFT Projects on Solana
 *   [solana-labs/break](https://github.com/solana-labs/break) - Break Solana Game
 *   [GenesysGo/shadow-drive](https://github.com/GenesysGo/shadow-drive) -
@@ -924,6 +923,7 @@
 *   [esphome/esphome](https://github.com/esphome/esphome) - ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems.
 *   [mozilla/DeepSpeech](https://github.com/mozilla/DeepSpeech) - DeepSpeech is an open source embedded (offline, on-device) speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers.
 *   [projectM-visualizer/projectm](https://github.com/projectM-visualizer/projectm) - projectM - Cross-platform Music Visualization Library. Open-source and Milkdrop-compatible.
+*   [x64dbg/x64dbg](https://github.com/x64dbg/x64dbg) - An open-source user mode debugger for Windows. Optimized for reverse engineering and malware analysis.
 
 ## Sass
 
