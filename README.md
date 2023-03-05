@@ -499,7 +499,7 @@
 *   [project-serum/oyster-swap](https://github.com/project-serum/oyster-swap) -
 *   [metaplex-foundation/js](https://github.com/metaplex-foundation/js) - A JavaScript SDK for interacting with Metaplex's programs
 *   [StrataFoundation/strata](https://github.com/StrataFoundation/strata) - Strata Protocol is an open-source protocol to launch tokens around a person, project, idea, or collective on Solana.
-*   [ohaddahan/cloudflare-shadow-uploader](https://github.com/ohaddahan/cloudflare-shadow-uploader) -
+*   [dahanohad/cloudflare-shadow-uploader](https://github.com/dahanohad/cloudflare-shadow-uploader) -
 *   [cardinal-labs/cardinal-staking-ui](https://github.com/cardinal-labs/cardinal-staking-ui) - The UI for staking NFTs on Solana. Cardinal staking UI can be treated as an admin interface for stake pools hosted by cardinal-staking as well as a barebones end-user staking UI
 *   [game-ci/unity-builder](https://github.com/game-ci/unity-builder) - Build Unity projects for different platforms
 *   [JamesIves/github-pages-deploy-action](https://github.com/JamesIves/github-pages-deploy-action) - 🚀 Automatically deploy your project to GitHub Pages using GitHub Actions. This action can be configured to push your production-ready code into any branch you'd like.
