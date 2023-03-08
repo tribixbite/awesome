@@ -485,11 +485,11 @@
 *   [welldone-software/react-component-splitter](https://github.com/welldone-software/react-component-splitter) - React VSCode Extension that splits long components into shorter, more readable subcomponents
 *   [isaacs/rimraf](https://github.com/isaacs/rimraf) - A `rm -rf` util for nodejs
 *   [sindresorhus/slugify](https://github.com/sindresorhus/slugify) - Slugify a string
-*   [drojdjou/J3D](https://github.com/drojdjou/J3D) - J3D - unity3d-to-threejs exporter
+*   [drojdjou/J3D](https://github.com/drojdjou/J3D) - J3D - WebGL demos & experiments
 *   [validatorjs/validator.js](https://github.com/validatorjs/validator.js) - String validation
 *   [DrkSephy/es6-cheatsheet](https://github.com/DrkSephy/es6-cheatsheet) - ES2015 \[ES6] cheatsheet containing tips, tricks, best practices and code snippets
 *   [goldbergyoni/javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (December 2022)
-*   [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white\_check\_mark:  The Node.js best practices list (November 2022)
+*   [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white\_check\_mark:  The Node.js best practices list (March 2023)
 *   [Asabeneh/30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) - 30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days,  please just follow your own pace.
 *   [olifolkerd/tabulator](https://github.com/olifolkerd/tabulator) - Interactive Tables and Data Grids for JavaScript
 *   [downshift-js/downshift](https://github.com/downshift-js/downshift) - 🏎 A set of primitives to build simple, flexible, WAI-ARIA compliant React autocomplete, combobox or select dropdown components.
