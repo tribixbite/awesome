@@ -43,6 +43,7 @@
 
 ## TypeScript
 
+*   [yuvalsuede/ai-component-generator](https://github.com/yuvalsuede/ai-component-generator) -
 *   [josselinbuils/next-bundle-analyzer](https://github.com/josselinbuils/next-bundle-analyzer) - NextJS version of Webpack Bundle Analyzer.
 *   [elbywan/wretch](https://github.com/elbywan/wretch) - A tiny wrapper built around fetch with an intuitive syntax. :candy:
 *   [rileytomasek/zodix](https://github.com/rileytomasek/zodix) - Zod utilities for Remix loaders and actions.
@@ -681,7 +682,7 @@
 
 ## Python
 
-*   [openai/tiktoken](https://github.com/openai/tiktoken) -
+*   [openai/tiktoken](https://github.com/openai/tiktoken) - tiktoken is a fast BPE tokeniser for use with OpenAI's models.
 *   [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) - Making large AI models cheaper, faster and more accessible
 *   [Logicwax/gpg-hd](https://github.com/Logicwax/gpg-hd) - A BIP-39 / seed-phrase / brain-wallet based Hierarchical Deterministic GPG / SSH key generator that also provisions OpenPGP smartcards for easy key backup and recovery.
 *   [IncideDigital/rvt2](https://github.com/IncideDigital/rvt2) - An open source framework for computer forensics
@@ -942,7 +943,6 @@
 *   [RoganDawes/LOGITacker](https://github.com/RoganDawes/LOGITacker) - Enumerate and test Logitech wireless input devices for vulnerabilities with a nRF52840 radio dongle.
 *   [FABtotum/FABlin](https://github.com/FABtotum/FABlin) - The FABtotum Personal Fabricator Firmware, a Marlin derivate made to support hybrid manufacturing and digital acquisition
 *   [arendst/Tasmota](https://github.com/arendst/Tasmota) - Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at
-*   [vanbwodonk/leonardoUploader](https://github.com/vanbwodonk/leonardoUploader) - A binary command for upload .hex to Arduino Leonardo CDC bootloader.
 
 ## Dart
 
