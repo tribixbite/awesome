@@ -188,7 +188,7 @@
 *   [Meqn/UnityWebGL.js](https://github.com/Meqn/UnityWebGL.js) - An easy solution for embedding Unity WebGL builds in webApp or Vue.js project, with two-way communication between your webApp and Unity. 🏣 在webApp 或 Vue.js 项目中嵌入 Unity WebGL，并支持通过API在 webApp 和 Unity 之间进行双向通信。
 *   [PhilippMolitor/react-unity-renderer](https://github.com/PhilippMolitor/react-unity-renderer) - React Unity Renderer allows to interactively embed Unity WebGL builds into a React powered project.
 *   [AWaterColorPen/unity-rich-text-converter](https://github.com/AWaterColorPen/unity-rich-text-converter) - typescript library to converter message between unity rich text and html standard rich text.
-*   [eritislami/evobot](https://github.com/eritislami/evobot) - 🤖 EvoBot is a Discord Music Bot built with discord.js & uses Command Handler from discordjs.guide
+*   [eritislami/evobot](https://github.com/eritislami/evobot) - 🤖 EvoBot is a Discord Music Bot built with TypeScript + Discord.js, includes Docker builds & localization in 20+ languages
 *   [twopg/Bot](https://github.com/twopg/Bot) - Simple multi-purpose Discord bot made with TypeScript
 *   [0xEssential/opensea-discord-bot](https://github.com/0xEssential/opensea-discord-bot) - A TS script to hit the OpenSea API for collection sales and send messages to Discord
 *   [TheSharks/WildBeast](https://github.com/TheSharks/WildBeast) - Feature-rich Discord bot framework
@@ -472,7 +472,7 @@
 
 ## Python
 
-*   [jerryjliu/gpt\_index](https://github.com/jerryjliu/gpt_index) - LlamaIndex (GPT Index) is a project that provides a central interface to connect your LLM's with external data.
+*   [jerryjliu/llama\_index](https://github.com/jerryjliu/llama_index) - LlamaIndex (GPT Index) is a project that provides a central interface to connect your LLM's with external data.
 *   [openai/tiktoken](https://github.com/openai/tiktoken) - tiktoken is a fast BPE tokeniser for use with OpenAI's models.
 *   [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) - Making large AI models cheaper, faster and more accessible
 *   [Logicwax/gpg-hd](https://github.com/Logicwax/gpg-hd) - A BIP-39 / seed-phrase / brain-wallet based Hierarchical Deterministic GPG / SSH key generator that also provisions OpenPGP smartcards for easy key backup and recovery.
