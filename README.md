@@ -194,7 +194,6 @@
 *   [TheSharks/WildBeast](https://github.com/TheSharks/WildBeast) - Feature-rich Discord bot framework
 *   [FireDiscordBot/bot](https://github.com/FireDiscordBot/bot) - A Discord bot for all your needs. With memes, utilities, moderation & more, Fire is the only bot you'll need.
 *   [discohook/site](https://github.com/discohook/site) - The easiest way to build and send Discord messages using webhooks
-*   [Booster1212/github-issue-bot](https://github.com/Booster1212/github-issue-bot) - Discord Bot to send GitHub Issues, powerd by DiscordJS & Tsyringe
 *   [WillSnowdon/react-shadow-drive](https://github.com/WillSnowdon/react-shadow-drive) - Basic react hook and some utils for Shadow Drive
 *   [tusharjo/mockzilla](https://github.com/tusharjo/mockzilla) - The fastest way to mock API calls for your React / Vue.js / Angular apps for FREE!.
 *   [project-serum/oyster-swap](https://github.com/project-serum/oyster-swap) -
@@ -921,6 +920,7 @@
 *   [paljs/gatsby-admin-template](https://github.com/paljs/gatsby-admin-template) - Free admin dashboard template based on Gatsby with @paljs/ui component package
 *   [creativetimofficial/nextjs-argon-dashboard](https://github.com/creativetimofficial/nextjs-argon-dashboard) - NextJS version of Argon Dashboard React
 *   [lafeber/world-flags-sprite](https://github.com/lafeber/world-flags-sprite) - A sprite of all the worlds' flags.
+*   [alphapapa/solarized-everything-css](https://github.com/alphapapa/solarized-everything-css) - A collection of Solarized user-stylesheets for...everything?
 
 ## Shell
 
