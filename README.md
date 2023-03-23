@@ -54,7 +54,6 @@
 *   [projectdiscovery/katana](https://github.com/projectdiscovery/katana) - A next-generation crawling and spidering framework.
 *   [CryoByte33/steam-deck-utilities](https://github.com/CryoByte33/steam-deck-utilities) - A utility to improve performance and help manage storage on Steam Deck.
 *   [botlabs-gg/yagpdb](https://github.com/botlabs-gg/yagpdb) - Yet another general purpose discord bot
-*   [mattermost/mattermost-server](https://github.com/mattermost/mattermost-server) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle.
 *   [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
 *   [solana-labs/solana-ping-api](https://github.com/solana-labs/solana-ping-api) - solana ping api server
 *   [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - Open Source, MongoDB-compatible document database
@@ -557,6 +556,7 @@
 *   [Grape-Labs/grape-drive](https://github.com/Grape-Labs/grape-drive) -
 *   [mynftgg/website](https://github.com/mynftgg/website) -
 *   [draffle-io/draffle](https://github.com/draffle-io/draffle) - dRaffle is a decentralized raffle protocol on Solana
+*   [mattermost/mattermost-server](https://github.com/mattermost/mattermost-server) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle.
 *   [DeployDAO/solana-program-registry](https://github.com/DeployDAO/solana-program-registry) - Verified builds of Solana ecosystem projects.
 *   [GlassEaters/hydra](https://github.com/GlassEaters/hydra) - Collective account pooling, fan out wallet, dao treasury
 *   [solana-labs/dapp-scaffold](https://github.com/solana-labs/dapp-scaffold) - Scaffolding for a dapp built on Solana
