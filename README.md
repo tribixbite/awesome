@@ -848,7 +848,7 @@
 *   [botlabs-gg/yagpdb](https://github.com/botlabs-gg/yagpdb) - Yet another general purpose discord bot
 *   [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
 *   [solana-labs/solana-ping-api](https://github.com/solana-labs/solana-ping-api) - solana ping api server
-*   [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - Open Source, MongoDB-compatible document database
+*   [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative
 *   [zincsearch/zincsearch](https://github.com/zincsearch/zincsearch) - ZincSearch . A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
 
 ## miscellaneous
