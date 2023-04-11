@@ -1008,7 +1008,7 @@
 
 ## F\#
 
-*   [darklang/dark](https://github.com/darklang/dark) - Darklang main repo, including client, backend, and infra
+*   [darklang/dark](https://github.com/darklang/dark) - Darklang main repo, including language, backend, and infra
 
 ## Zig
 
