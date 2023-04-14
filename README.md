@@ -42,6 +42,8 @@
 
 ## TypeScript
 
+*   [chubbyts/chubbyts-petstore](https://github.com/chubbyts/chubbyts-petstore) - An api skeleton using mongodb for chubbyts-framework.
+*   [weegigs/wee-events](https://github.com/weegigs/wee-events) - A light weight CQRS system for typescript
 *   [jlalmes/trpc-openapi](https://github.com/jlalmes/trpc-openapi) - OpenAPI support for tRPC 🧩
 *   [chubbyts/chubbyts-framework](https://github.com/chubbyts/chubbyts-framework) - A minimal, highly performant middleware PSR-15 inspired function based microframework built with as little complexity as possible, aimed primarily at those developers who want to understand all the vendors they use.
 *   [ts-rest/ts-rest](https://github.com/ts-rest/ts-rest) - RPC-like client, contract, and server implementation for a pure REST API
@@ -221,7 +223,7 @@
 *   [Crossmint/next-candy-machine-react-ui](https://github.com/Crossmint/next-candy-machine-react-ui) -
 *   [gregberge/svgr](https://github.com/gregberge/svgr) - Transform SVGs into React components 🦁
 *   [santospatrick/nextjs-boilerplate-advanced](https://github.com/santospatrick/nextjs-boilerplate-advanced) - Next.js boilerplate made with Chakra-UI + Typescript + React-table + React-hook-form
-*   [NoQuarterTeam/boilerplate](https://github.com/NoQuarterTeam/boilerplate) - ⚡️Fullstack boilerplate using Typescript, React, Node & GraphQL
+*   [NoQuarterTeam/boilerplate-graphql](https://github.com/NoQuarterTeam/boilerplate-graphql) - ⚡️Fullstack boilerplate using Typescript, React, Node & GraphQL
 *   [saas-js/saas-ui](https://github.com/saas-js/saas-ui) - The React component library for startups, built with Chakra UI.
 *   [anubra266/choc-autocomplete](https://github.com/anubra266/choc-autocomplete) - 🏇 Autocomplete Component Package for Chakra UI
 *   [MA-Ahmad/notebook](https://github.com/MA-Ahmad/notebook) - Make notes for your daily work.
@@ -795,8 +797,6 @@
 *   [not-an-aardvark/snoowrap](https://github.com/not-an-aardvark/snoowrap) - A JavaScript wrapper for the reddit API
 *   [vladikoff/chromeos-apk](https://github.com/vladikoff/chromeos-apk) - ☢️  Run Android Apps in Chrome OS OR Chrome in OS X, Linux and Windows.
 *   [bropat/ioBroker.eusec](https://github.com/bropat/ioBroker.eusec) - This ioBroker adapter allows to control Eufy security devices by connecting to the Eufy cloud servers.
-*   [brainwalletX/brainwalletX.github.io](https://github.com/brainwalletX/brainwalletX.github.io) - Brainwallet site
-*   [bitcoinjs/bip39](https://github.com/bitcoinjs/bip39) - JavaScript implementation of Bitcoin BIP39: Mnemonic code for generating deterministic keys
 
 ## C\#
 
@@ -805,7 +805,7 @@
 *   [SHOEGAZEssb/Last.fm-Scrubbler-WPF](https://github.com/SHOEGAZEssb/Last.fm-Scrubbler-WPF) - Manual Last.fm scrobbling for when a service (or you!) failed to scrobble.
 *   [magicblock-labs/Solana.Unity-SDK](https://github.com/magicblock-labs/Solana.Unity-SDK) - Open-Source Unity-Solana SDK with Full RPC coverage, NFT support and more
 *   [julienkay/genesis](https://github.com/julienkay/genesis) -
-*   [natmlx/natml](https://github.com/natmlx/natml) - High performance, cross-platform machine learning for Unity Engine. Register at https://hub.natml.ai
+*   [natmlx/natml-unity](https://github.com/natmlx/natml-unity) - High performance, cross-platform machine learning for Unity Engine. Register at https://hub.natml.ai
 *   [DarkRiftNetworking/DarkRift](https://github.com/DarkRiftNetworking/DarkRift) - DarkRift Networking by Unordinal
 *   [nftport/sample-unity3D-nft-metaverse-template](https://github.com/nftport/sample-unity3D-nft-metaverse-template) - Adv. Playground : Gallery - Customizable Unity Template
 *   [natmlx/natdevice](https://github.com/natmlx/natdevice) - High performance, cross-platform media device streaming for Unity Engine. Register at https://hub.natml.ai
