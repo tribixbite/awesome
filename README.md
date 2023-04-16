@@ -56,6 +56,7 @@
 *   [garronej/ts-ci](https://github.com/garronej/ts-ci) - 🚀 A starter for TS projects meant to be published on NPM.
 *   [snyk-snippets/modern-npm-package](https://github.com/snyk-snippets/modern-npm-package) - An npm package for demonstration purposes using TypeScript to build for both the ECMAScript Module format (i.e. ESM or ES Module) and CommonJS Module format. It can be used in Node.js and browser applications.
 *   [egoist/tsup](https://github.com/egoist/tsup) - The simplest and fastest way to bundle your TypeScript libraries.
+*   [TimMikeladze/tsup-react-package-starter](https://github.com/TimMikeladze/tsup-react-package-starter) - Create, build & publish React packages with ease. Typescript, CSS, Jest & Storybook support out of the box. Integrates with Github releases and automatically publishes to NPM. Code is built using tsup.
 *   [SocialGouv/matomo-next](https://github.com/SocialGouv/matomo-next) - Matomo for Next.js applications
 *   [DominicTobias/react-image-crop](https://github.com/DominicTobias/react-image-crop) - A responsive image cropping tool for React
 *   [yuvalsuede/ai-component-generator](https://github.com/yuvalsuede/ai-component-generator) -
@@ -595,7 +596,6 @@
 *   [github/fetch](https://github.com/github/fetch) - A window.fetch JavaScript polyfill.
 *   [davila7/code-gpt-docs](https://github.com/davila7/code-gpt-docs) - Docusaurus page
 *   [round/Twitter-Links-beta](https://github.com/round/Twitter-Links-beta) - A browser extension to show the latest tweets that link to the current page.
-*   [TimMikeladze/tsup-react-package-starter](https://github.com/TimMikeladze/tsup-react-package-starter) - Create, build & publish React packages with ease. Typescript, CSS, Jest & Storybook support out of the box. Integrates with Github releases and automatically publishes to NPM. Code is built using tsup.
 *   [sindresorhus/np](https://github.com/sindresorhus/np) - A better `npm publish`
 *   [webpack-contrib/webpack-bundle-analyzer](https://github.com/webpack-contrib/webpack-bundle-analyzer) - Webpack plugin and CLI utility that represents bundle content as convenient interactive zoomable treemap
 *   [transloadit/uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
