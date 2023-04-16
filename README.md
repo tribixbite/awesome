@@ -382,7 +382,7 @@
 *   [fullstack-build/tslog](https://github.com/fullstack-build/tslog) - 📝 tslog - Universal Logger for TypeScript and JavaScript
 *   [tsedio/logger](https://github.com/tsedio/logger) - 📄 A multi channel logger written in TypeScript.
 *   [gajus/roarr](https://github.com/gajus/roarr) - JSON logger for Node.js and browser.
-*   [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui) - A low-level toolkit to create floating elements. Tooltips, popovers, dropdowns, and more
+*   [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui) - Toolkit to create floating elements: tooltips, popovers, dropdowns, and more
 *   [payloadcms/payload](https://github.com/payloadcms/payload) - Built with React + TypeScript, Payload is a free and open-source Headless CMS. \[✩Star] if you support our work!
 *   [react-hook-form/react-hook-form](https://github.com/react-hook-form/react-hook-form) - 📋 React Hooks for form state management and validation (Web + React Native)
 *   [rudza/next-react-admin](https://github.com/rudza/next-react-admin) -
