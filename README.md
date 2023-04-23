@@ -208,6 +208,7 @@
 *   [klendi/react-top-loading-bar](https://github.com/klendi/react-top-loading-bar) - A very simple, highly customisable youtube-like react loader component.
 *   [JoshK2/react-spinners-css](https://github.com/JoshK2/react-spinners-css) - Amazing collection of React spinners components with pure css
 *   [stesel/react-frame-rate](https://github.com/stesel/react-frame-rate) - Create smooth animation in React components with ~60FPS.
+*   [Clueless-Community/seamless-ui](https://github.com/Clueless-Community/seamless-ui) - The next gen UI made with simple HTML and Tailwind CSS. It's compatible with simple HTML, CSS static website or a React, Vue, Angular or Next.js Complex app. Zero JS and no-plugins installed.
 *   [fatiiates/rest-w-nextjs](https://github.com/fatiiates/rest-w-nextjs) - Next.js ile basit bir RESTful API uygulaması
 *   [apideck-samples/file-picker](https://github.com/apideck-samples/file-picker) - A sample project to showcase the React File Picker component
 *   [conventional-changelog/commitlint](https://github.com/conventional-changelog/commitlint) - 📓 Lint commit messages
@@ -859,7 +860,6 @@
 *   [FineFindus/artem](https://github.com/FineFindus/artem) - Convert images from multiple formats (jpg, png, webp, etc…) to ASCII art, written in Rust
 *   [littleark/githut](https://github.com/littleark/githut) - Visualization of data from github archive.
 *   [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
-*   [Clueless-Community/seamless-ui](https://github.com/Clueless-Community/seamless-ui) - The next gen UI made with simple HTML and Tailwind CSS. It's compatible with simple HTML, CSS static website or a React, Vue, Angular or Next.js Complex app. Zero JS and no-plugins installed.
 *   [ollyhsu/termius-cracked](https://github.com/ollyhsu/termius-cracked) - Terminus Cracked Version
 *   [anubra266/chakra-play](https://github.com/anubra266/chakra-play) - 🤽‍♀️ An advanced online playground for Chakra UI
 *   [MyMiniFactory/stl2gltf](https://github.com/MyMiniFactory/stl2gltf) - Convert STL to glb
