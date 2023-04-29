@@ -4,12 +4,12 @@
 
 ## Table of Contents
 
-*   [Jupyter Notebook](#jupyter-notebook)
 *   [TypeScript](#typescript)
+*   [JavaScript](#javascript)
+*   [Jupyter Notebook](#jupyter-notebook)
 *   [Python](#python)
 *   [Julia](#julia)
 *   [miscellaneous](#miscellaneous)
-*   [JavaScript](#javascript)
 *   [PowerShell](#powershell)
 *   [SystemVerilog](#systemverilog)
 *   [C++](#c)
@@ -45,29 +45,21 @@
 *   [R](#r)
 *   [Clojure](#clojure)
 *   [Arduino](#arduino)
-*   [PHP](#php)
-
-## Jupyter Notebook
-
-*   [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
-*   [Stability-AI/StableLM](https://github.com/Stability-AI/StableLM) - StableLM: Stability AI Language Models
-*   [qunash/stable-diffusion-2-gui](https://github.com/qunash/stable-diffusion-2-gui) - Lightweight Stable Diffusion v 2.1 web UI: txt2img, img2img, depth2img, inpaint and upscale4x.
-*   [cloneofsimo/paint-with-words-sd](https://github.com/cloneofsimo/paint-with-words-sd) - Implementation of Paint-with-words with Stable Diffusion : method from eDiff-I that let you generate image from text-labeled segmentation map.
-*   [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - InvokeAI is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an industry leading WebUI, supports terminal use through a CLI, and serves as the foundation for multiple commercial products.
-*   [WongKinYiu/yolov7](https://github.com/WongKinYiu/yolov7) - Implementation of paper - YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors
-*   [karpathy/nn-zero-to-hero](https://github.com/karpathy/nn-zero-to-hero) - Neural Networks: Zero to Hero
-*   [victordibia/peacasso](https://github.com/victordibia/peacasso) - UI interface for experimenting with multimodal (text, image) models (stable diffusion).
-*   [deepmind/deepmind-research](https://github.com/deepmind/deepmind-research) - This repository contains implementations and illustrative code to accompany DeepMind publications
-*   [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
-*   [alembics/disco-diffusion](https://github.com/alembics/disco-diffusion) -
-*   [RuolinZheng08/twewy-discord-chatbot](https://github.com/RuolinZheng08/twewy-discord-chatbot) - Discord AI Chatbot using DialoGPT, trained on the game transcript of The World Ends With You
-*   [benyaminahmed/nft-image-generator](https://github.com/benyaminahmed/nft-image-generator) -
-*   [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
-*   [PacktPublishing/Machine-Learning-for-Algorithmic-Trading-Second-Edition\_Original](https://github.com/PacktPublishing/Machine-Learning-for-Algorithmic-Trading-Second-Edition_Original) - Machine Learning for Algorithmic Trading, Second Edition - published by Packt
-*   [dapperfu/python\_Meijer](https://github.com/dapperfu/python_Meijer) - Reverse engineered API for Meijer's Shopping List.
 
 ## TypeScript
 
+*   [danvk/source-map-explorer](https://github.com/danvk/source-map-explorer) - Analyze and debug space usage through source maps
+*   [antfu/unplugin-icons](https://github.com/antfu/unplugin-icons) - 🤹 Access thousands of icons as components on-demand universally.
+*   [denosaurs/bench](https://github.com/denosaurs/bench) - 📊 Comparing deno & node HTTP frameworks
+*   [andrewvo89/zod-error](https://github.com/andrewvo89/zod-error) - Utilities to format and customize Zod error messages
+*   [makerkit/ultimate-firebase-nextjs-authentication-guide](https://github.com/makerkit/ultimate-firebase-nextjs-authentication-guide) - A Next.js project with fully-functioning Firebase authentication setup
+*   [equinor/energyvision](https://github.com/equinor/energyvision) - Home of the equinor.com website
+*   [houseform/houseform](https://github.com/houseform/houseform) - Simple to use React forms, where your validation and UI code live together in harmony.
+*   [thelinuxlich/zodios-api-shorthand](https://github.com/thelinuxlich/zodios-api-shorthand) - A shorthand helper to implement Zodios API endpoints
+*   [elierotenberg/fastify-zod](https://github.com/elierotenberg/fastify-zod) - Zod integration with Fastify
+*   [RobinTail/express-zod-api](https://github.com/RobinTail/express-zod-api) - A Typescript library to help you get an API server up and running with I/O schema validation and custom middlewares in minutes.
+*   [pheralb/slug](https://github.com/pheralb/slug) - 🌱 A URL shortener built with T3 Stack: Nextjs 13 + Tailwind CSS + Typescript + tRPC v10 + NextAuth.js & Prisma.
+*   [astahmer/transformer](https://github.com/astahmer/transformer) - Takes an input (ex: TS) and ouputs to destination format (ex: Zod/JSON/Open API Schemas)
 *   [Yidadaa/ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) - One-Click to deploy well-designed ChatGPT web UI on Vercel. 一键拥有你自己的 ChatGPT 网页服务。
 *   [dabit3/nextjs-chatgpt-plugin-starter](https://github.com/dabit3/nextjs-chatgpt-plugin-starter) - ChatGPT plugin starter project using Next.js
 *   [transitive-bullshit/chatgpt-plugin-ts](https://github.com/transitive-bullshit/chatgpt-plugin-ts) - Everything you need to start building ChatGPT Plugins in JS/TS 🔥
@@ -428,7 +420,7 @@
 *   [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Framework to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
 *   [appwrite/appwrite](https://github.com/appwrite/appwrite) - Secure Backend Server for Web, Mobile & Flutter Developers 🚀 AKA the 100% open-source Firebase alternative.
 *   [BuilderIO/figma-html](https://github.com/BuilderIO/figma-html) - Builder.io for Figma: AI generation, export to code, import from web
-*   [BuilderIO/mitosis](https://github.com/BuilderIO/mitosis) - Write components once, run everywhere. Compiles to Vue, React, Solid, Angular, Svelte, and more.
+*   [BuilderIO/mitosis](https://github.com/BuilderIO/mitosis) - Write components once, run everywhere. Compiles to React, Vue, Qwik, Solid, Angular, Svelte, and more.
 *   [BuilderIO/vscode](https://github.com/BuilderIO/vscode) - Builder.io for VSCode - turn designs into code!
 *   [bernaferrari/FigmaToCode](https://github.com/bernaferrari/FigmaToCode) - Generate responsive pages and apps on HTML, Tailwind, Flutter and SwiftUI.
 *   [typegoose/typegoose](https://github.com/typegoose/typegoose) - Typegoose - Define Mongoose models using TypeScript classes.
@@ -521,161 +513,10 @@
 *   [lolPants/beatsaver-reloaded](https://github.com/lolPants/beatsaver-reloaded) - BeatSaver Again
 *   [DominicMaas/TimelineExtension](https://github.com/DominicMaas/TimelineExtension) - Windows Timeline & Project Rome Web Extension
 
-## Python
-
-*   [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant) - OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.
-*   [openai/chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin) - The ChatGPT Retrieval Plugin lets you easily search and find personal or work documents by asking questions in everyday language.
-*   [awekrx/ChatGPT-MidJourney-prompt](https://github.com/awekrx/ChatGPT-MidJourney-prompt) - This is a ChatGPT based prompt generation model for MidJorney. The purpose of this model is to simplify the creation of images and increase their creativity. By introducing a partial hint, ChatGPT creates a follow-up that can be used to stimulate creativity and provide new ideas.
-*   [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - decentralising the Ai Industry, just some language model api's...
-*   [hwchase17/langchain](https://github.com/hwchase17/langchain) - ⚡ Building applications with LLMs through composability ⚡
-*   [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
-*   [FOLLGAD/Godmode-GPT](https://github.com/FOLLGAD/Godmode-GPT) - Godmode
-*   [FOLLGAD/sherlock](https://github.com/FOLLGAD/sherlock) - Personal assistant that can run commands at will
-*   [microsoft/JARVIS](https://github.com/microsoft/JARVIS) - JARVIS, a system to connect LLMs with ML community. Paper: https://arxiv.org/pdf/2303.17580.pdf
-*   [stochasticai/xturing](https://github.com/stochasticai/xturing) - Easily build, customize and control your own LLMs
-*   [lastmile-ai/llama-retrieval-plugin](https://github.com/lastmile-ai/llama-retrieval-plugin) - LLaMa retrieval plugin script using OpenAI's retrieval plugin
-*   [Jacksgong/webp-converter](https://github.com/Jacksgong/webp-converter) - Converter PNG/JPG to Webp and scan all changes
-*   [openai/evals](https://github.com/openai/evals) - Evals is a framework for evaluating LLMs and LLM systems, and an open-source registry of benchmarks.
-*   [jerryjliu/llama\_index](https://github.com/jerryjliu/llama_index) - LlamaIndex (GPT Index) is a project that provides a central interface to connect your LLM's with external data.
-*   [openai/tiktoken](https://github.com/openai/tiktoken) - tiktoken is a fast BPE tokeniser for use with OpenAI's models.
-*   [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) - Making large AI models cheaper, faster and more accessible
-*   [Logicwax/gpg-hd](https://github.com/Logicwax/gpg-hd) - A BIP-39 / seed-phrase / brain-wallet based Hierarchical Deterministic GPG / SSH key generator that also provisions OpenPGP smartcards for easy key backup and recovery.
-*   [IncideDigital/rvt2](https://github.com/IncideDigital/rvt2) - An open source framework for computer forensics
-*   [gurnec/btcrecover](https://github.com/gurnec/btcrecover) - An open source Bitcoin wallet password and seed recovery tool designed for the case where you already know most of your password/seed, but need assistance in trying different possible combinations.
-*   [SHI-Labs/Versatile-Diffusion](https://github.com/SHI-Labs/Versatile-Diffusion) - Versatile Diffusion: Text, Images and Variations All in One Diffusion Model, 2022
-*   [7eu7d7/DreamArtist-stable-diffusion](https://github.com/7eu7d7/DreamArtist-stable-diffusion) - stable diffusion webui with contrastive prompt tuning
-*   [Cog-Creators/Red-DiscordBot](https://github.com/Cog-Creators/Red-DiscordBot) - A multi-function Discord bot
-*   [chamburr/modmail](https://github.com/chamburr/modmail) - A feature-rich Discord bot for easy communication between server staff and users.
-*   [DXsmiley/mathbot](https://github.com/DXsmiley/mathbot) - Discord bot for mathematics
-*   [feffy380/prompt-morph](https://github.com/feffy380/prompt-morph) - Generate morph sequences with Stable Diffusion. Interpolate between two or more prompts and create an image at each step.
-*   [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
-*   [harubaru/discord-stable-diffusion](https://github.com/harubaru/discord-stable-diffusion) - A neat Discord bot to run Stable Diffusion locally
-*   [sharonzhou/long\_stable\_diffusion](https://github.com/sharonzhou/long_stable_diffusion) - Long-form text-to-images generation, using a pipeline of deep generative models (GPT-3 and Stable Diffusion)
-*   [Sygil-Dev/sygil-webui](https://github.com/Sygil-Dev/sygil-webui) - Stable Diffusion web UI
-*   [huggingface/diffusers](https://github.com/huggingface/diffusers) - 🤗 Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch
-*   [AutodeskAILab/Clip-Forge](https://github.com/AutodeskAILab/Clip-Forge) -
-*   [wangerzi/3d-model-convert-to-gltf](https://github.com/wangerzi/3d-model-convert-to-gltf) - Convert 3d model (STL/IGES/STEP/OBJ/FBX) to gltf and compression
-*   [wanadev/yoga](https://github.com/wanadev/yoga) - Converts and optimizes images and 3D models
-*   [microsoft/DeepSpeed](https://github.com/microsoft/DeepSpeed) - DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.
-*   [tubearchivist/tubearchivist](https://github.com/tubearchivist/tubearchivist) - Your self hosted YouTube media server
-*   [3ct0s/eclipse-grabber](https://github.com/3ct0s/eclipse-grabber) - Generate Discord Token Grabbers for both Windows and MacOS
-*   [newsbubbles/GrowF](https://github.com/newsbubbles/GrowF) - Grow Function: A 3D Stacked Bifurcating Double Deep Cellular Automata which differentiates using a Genetic Algorithm... TLDR;High Def Trees that you can mint as NFTs on Solana
-*   [jackjack-jj/pywallet](https://github.com/jackjack-jj/pywallet) -  bitcoin wallet importer/exporter
-*   [ymgve/bitcoin\_fork\_claimer](https://github.com/ymgve/bitcoin_fork_claimer) - Script for transferring/claiming your coins on various Bitcoin forks
-*   [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
-*   [newren/git-filter-repo](https://github.com/newren/git-filter-repo) - Quickly rewrite git repository history (filter-branch replacement)
-*   [EmDecay/solana-sales-watcher](https://github.com/EmDecay/solana-sales-watcher) - Watch a mint address for sales on the blockchain and report on what you see
-*   [BedrosovaYulia/NFT-minting-using-python](https://github.com/BedrosovaYulia/NFT-minting-using-python) - Minting Solana NFT using candy-machine-cli is quite expensive, so I searched and I have found a cheaper option: it is 20% cheaper!!! In the video from my chanel, I'll directly upload the image file and a metadata file to arweave.net, and then I'll show you how to mint an NFT using the Python script developed by me.
-*   [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes
-*   [Jeeaaasus/youtube-dl](https://github.com/Jeeaaasus/youtube-dl) - Automated yt-dlp Docker image
-*   [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
-*   [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
-*   [minimaxir/big-list-of-naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings) - The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data.
-*   [ipython/xkcd-font](https://github.com/ipython/xkcd-font) - The xkcd font
-*   [ActivityWatch/activitywatch](https://github.com/ActivityWatch/activitywatch) - The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused.
-*   [Inspirateur/DiscordWordCloud](https://github.com/Inspirateur/DiscordWordCloud) - A discord bot that generates word clouds for discord users.
-*   [s0md3v/Orbit](https://github.com/s0md3v/Orbit) - Blockchain Transactions Investigation Tool
-*   [smicallef/spiderfoot](https://github.com/smicallef/spiderfoot) - SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.
-*   [2qov3b/NFT-mint-bot-sol](https://github.com/2qov3b/NFT-mint-bot-sol) - NFT mint bot on Solana chain before sale.
-*   [SolanaNFTCollector/Solana-Minting-Bot](https://github.com/SolanaNFTCollector/Solana-Minting-Bot) - Solana Minting Bot for Magic Eden marketplace AUTOMATED
-*   [hummingbot/hummingbot](https://github.com/hummingbot/hummingbot) - Hummingbot is open source software that helps you build trading bots that run on any exchange or blockchain
-*   [RudeGolems/nft-discord-cropper](https://github.com/RudeGolems/nft-discord-cropper) - A discord bot to crop an NFT image living on the Solana blockchain.
-*   [0xEnrico/arweave-nft-uploader](https://github.com/0xEnrico/arweave-nft-uploader) -
-*   [custom-components/remote\_homeassistant](https://github.com/custom-components/remote_homeassistant) - Links multiple home-assistant instances together
-*   [NabuCasa/hass-nabucasa](https://github.com/NabuCasa/hass-nabucasa) - Issues related to the cloud integration in Nabu Casa
-*   [mechatroner/sublime\_rainbow\_csv](https://github.com/mechatroner/sublime_rainbow_csv) - 🌈Rainbow CSV - Sublime Text Package: Highlight columns in CSV and TSV files and run queeries in SQL-like language
-*   [home-assistant-ecosystem/home-assistant-cli](https://github.com/home-assistant-ecosystem/home-assistant-cli) - :computer: Command-line tool for Home Assistant
-*   [ToyKeeper/fuckometer](https://github.com/ToyKeeper/fuckometer) - How fucked are you right now? A tool to help you give a fuck so you can get less fucked.  Track several aspects of life and boil them down to a single number with graphs and productivity suggestions.
-*   [ollo69/ha-smartthinq-sensors](https://github.com/ollo69/ha-smartthinq-sensors) - HomeAssistant custom integration for SmartThinQ LG devices configurable with Lovelace User Interface.
-*   [ct-Open-Source/tuya-convert](https://github.com/ct-Open-Source/tuya-convert) - A collection of scripts to flash Tuya IoT devices to alternative firmwares
-*   [jlamendo/ha-sensor.owlet](https://github.com/jlamendo/ha-sensor.owlet) - Owlet Smart Sock v2/v3 Sensor Integration for HomeAssistant using the modern Owlet API.
-*   [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown.
-*   [praw-dev/asyncpraw](https://github.com/praw-dev/asyncpraw) - Async PRAW, an abbreviation for "Asynchronous Python Reddit API Wrapper", is a python package that allows for simple access to Reddit's API.
-*   [praw-dev/praw](https://github.com/praw-dev/praw) - PRAW, an acronym for "Python Reddit API Wrapper", is a python package that allows for simple access to Reddit's API.
-*   [CAB426/HomeAssistant-Owlet](https://github.com/CAB426/HomeAssistant-Owlet) - Owlet Custom Component for Home Assistant
-*   [LandGrey/pydictor](https://github.com/LandGrey/pydictor) - A powerful and useful hacker dictionary builder for a brute-force attack
-*   [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
-*   [itkfilelor/drone\_mobile](https://github.com/itkfilelor/drone_mobile) - API wrapper for Drone Mobile remote car starter.
-*   [LedgerHQ/app-monero](https://github.com/LedgerHQ/app-monero) - Monero wallet application for Ledger Nano S & X
-*   [klattimer/LGWebOSRemote](https://github.com/klattimer/LGWebOSRemote) - Command line webOS remote for LGTVs
-*   [Hari-Nagarajan/fairgame](https://github.com/Hari-Nagarajan/fairgame) - Tool to help us buy hard to find items.
-*   [berkuhlee/KeywordBot](https://github.com/berkuhlee/KeywordBot) - Keyword Notifications, similar to skype, for Discord!
-*   [home-assistant/core](https://github.com/home-assistant/core) - :house\_with\_garden: Open source home automation that puts local control and privacy first.
-*   [bmengineer-gear/RuTiTe](https://github.com/bmengineer-gear/RuTiTe) - Python script to record flashlight runtime using a Raspberry Pi and a TSL2591
-*   [parametrek/gm1020](https://github.com/parametrek/gm1020) - Cross platform utility for the Benetech GM1020 USB logging luxmeter
-*   [IBM/MicroscoPy](https://github.com/IBM/MicroscoPy) - An open-source, motorized, and modular microscope built using LEGO bricks, Arduino, Raspberry Pi and 3D printing.
-*   [PrusaOwners/OctoPrint-PrusaMeshMap](https://github.com/PrusaOwners/OctoPrint-PrusaMeshMap) - This plugin performs a mesh bed leveling operation then returns the results as an easy to read heatmap.
-*   [sbidy/wiz\_light](https://github.com/sbidy/wiz_light) - A WiZ Light integration for Home Assistant
-*   [sbidy/pywizlight](https://github.com/sbidy/pywizlight) - A python connector for WiZ devices
-*   [thp/urlwatch](https://github.com/thp/urlwatch) - Watch (parts of) webpages and get notified when something changes via e-mail, on your phone or via other means. Highly configurable.
-*   [watir/nerodia](https://github.com/watir/nerodia) - Python implementation of Watir
-*   [KilledMufasa/AmputatorBot](https://github.com/KilledMufasa/AmputatorBot) - Remove AMP from your URLs. AmputatorBot is a highly specialised Reddit and Twitter bot that automatically replies to comments, submissions and tweets containing AMP URLs with the canonical link(s). It's also available as a website and REST API. See also: https://www.reddit.com/r/AmputatorBot/comments/ehrq3z/why\_did\_i\_build\_amputatorbot/.
-*   [pushshift/api](https://github.com/pushshift/api) - Pushshift API
-*   [tribixbite/BrokenRecordBot](https://github.com/tribixbite/BrokenRecordBot) - reddit copypasta bot for subreddit wiki text
-*   [janick/ArloDownload](https://github.com/janick/ArloDownload) - Automatically download new video recordings from Arlo
-*   [CarlosGS/Cyclone-PCB-Factory](https://github.com/CarlosGS/Cyclone-PCB-Factory) - Cyclone (Circuit Cloner) is a CNC mill intended for PCB manufacturing.
-*   [tribixbite/WebPutty](https://github.com/tribixbite/WebPutty) -
-*   [tribixbite/gmvault](https://github.com/tribixbite/gmvault) - gmail backup software
-*   [glitchdotcom/WebPutty](https://github.com/glitchdotcom/WebPutty) - WebPutty is a simple CSS editing and hosting service that you can run on Google App Engine.
-
-## Julia
-
-*   [logankilpatrick/ChatGPT-Plugins-Collection](https://github.com/logankilpatrick/ChatGPT-Plugins-Collection) - An unofficial collection of Plugins for ChatGPT, in any programming language!
-
-## miscellaneous
-
-*   [LangLangShanDeNanKe/chatgpt](https://github.com/LangLangShanDeNanKe/chatgpt) - ChatGPT网址导航，分享免费好用AI网站！
-*   [altryne/awesome-ai-art-image-synthesis](https://github.com/altryne/awesome-ai-art-image-synthesis) - A list of awesome tools, ideas, prompt engineering tools, colabs, models, and helpers for the prompt designer playing with aiArt and image synthesis. Covers Dalle2, MidJourney, StableDiffusion, and open source tools.
-*   [tsparticles/templates](https://github.com/tsparticles/templates) - tsParticles website templates collection
-*   [farcasterxyz/protocol](https://github.com/farcasterxyz/protocol) - Specification of the Farcaster Protocol
-*   [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series on JavaScript. @YDKJS on twitter.
-*   [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources
-*   [kkrypt0nn/wordlists](https://github.com/kkrypt0nn/wordlists) - 📜 A collection of wordlists for many different usages.
-*   [tribixbite/solana-lb](https://github.com/tribixbite/solana-lb) -
-*   [lydiahallie/javascript-questions](https://github.com/lydiahallie/javascript-questions) - A long list of (advanced) JavaScript questions, and their explanations :sparkles:
-*   [wbkd/awesome-node-based-uis](https://github.com/wbkd/awesome-node-based-uis) - A curated list with resources about node-based UIs
-*   [windows-powertool/Powertool](https://github.com/windows-powertool/Powertool) - Windows powertool is a windows 10 and 11 utility designed to provide one click solution to reduce and trim down unnecessary burden that comes by default with windows. its used to Improve speed, remove bloatware, protect privacy, eliminate data collection, and so more.
-*   [candypay/docs](https://github.com/candypay/docs) - 📚 Documentation site for CandyPay's Public API and SDK
-*   [gapon2401/upload-files-nextjs](https://github.com/gapon2401/upload-files-nextjs) - Uploading files with NextJs + formidable + Typescript.
-*   [AnIdiotsGuide/discordjs-bot-guide](https://github.com/AnIdiotsGuide/discordjs-bot-guide) - The basic new coder friendly "idiot's guide", Created by Hindsight#2020 and maintained by the community.
-*   [torusresearch/audit](https://github.com/torusresearch/audit) - Audits done across the Torus codebases
-*   [joelparkerhenderson/stable-diffusion-macos-install-help](https://github.com/joelparkerhenderson/stable-diffusion-macos-install-help) - Stable Diffusion: macOS install help with homebrew, python, anaconda, dream, etc.
-*   [Maks-s/sd-akashic](https://github.com/Maks-s/sd-akashic) - A compendium of informations regarding Stable Diffusion (SD)
-*   [killop/anything\_about\_game](https://github.com/killop/anything_about_game) - A wonderful list of Game Development resources.
-*   [murlokito/awesome-solana-gaming](https://github.com/murlokito/awesome-solana-gaming) - 🏎️ A curated list of gaming projects building on Solana 🏎️
-*   [nh-server/switch-guide](https://github.com/nh-server/switch-guide) -
-*   [solana-mobile/solana-mobile-stack-sdk](https://github.com/solana-mobile/solana-mobile-stack-sdk) -
-*   [mikbry/awesome-webgpu](https://github.com/mikbry/awesome-webgpu) - 😎 Curated list of awesome things around WebGPU ecosystem.
-*   [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
-*   [naomi-lgbt/new-repo-template](https://github.com/naomi-lgbt/new-repo-template) - Holds the files for new repos: issue templates, pr template, workflows
-*   [TheOdinProject/curriculum](https://github.com/TheOdinProject/curriculum) - The open curriculum for learning web development
-*   [DaRockSol/solana-nft-mint-workflow-postman](https://github.com/DaRockSol/solana-nft-mint-workflow-postman) - This is my collection of postman calls to the RPC API of Solana in an order for minting an NFT with metadata.
-*   [BL0CK-X/solana-nft-collection-mint-addresses](https://github.com/BL0CK-X/solana-nft-collection-mint-addresses) - This is a public repository containing the mint addresses of popular collections on Solana. Please add and help us expand this open source project.
-*   [Quillhash/QuillAudit\_Reports](https://github.com/Quillhash/QuillAudit_Reports) - QuillAudits Smart Contracts, deFi, NFT, tokens,Dao , Dex and  DApps Audit Reports
-*   [michidk/Unity-Script-Collection](https://github.com/michidk/Unity-Script-Collection) - A maintained collection of useful & free unity scripts / library's / plugins and extensions
-*   [matchai/awesome-pinned-gists](https://github.com/matchai/awesome-pinned-gists) - 📌✨ A collection of awesome dynamic pinned gists for GitHub
-*   [YOURLS/awesome](https://github.com/YOURLS/awesome) - 🎉 A curated list of awesome things related to YOURLS
-*   [audreyfeldroy/favicon-cheat-sheet](https://github.com/audreyfeldroy/favicon-cheat-sheet) - Obsessive cheat sheet to favicon sizes/types. Please contribute! (Note: this may be in flux as I learn new things about favicon best practices.)
-*   [christiannaths/redacted-font](https://github.com/christiannaths/redacted-font) - Keep your wireframes free of distracting Lorem Ipsum.
-*   [ericandrewlewis/web-development-contract](https://github.com/ericandrewlewis/web-development-contract) - Web Development Contract
-*   [madmalik/mononoki](https://github.com/madmalik/mononoki) - a programming typeface
-*   [simonecorsi/awesome](https://github.com/simonecorsi/awesome) - 😎 Automatically generated list of ordered projects I've starred over the years! You can do your own using my action linked below!
-*   [metaplex-foundation/metaplex](https://github.com/metaplex-foundation/metaplex) - A directory of what the Metaplex Foundation works on!
-*   [ilmoi/awesome-solana-nfts](https://github.com/ilmoi/awesome-solana-nfts) - A curated list of Solana NFT protocols, repos & community tools
-*   [kcotoi/SOLSniperNFT-Releases](https://github.com/kcotoi/SOLSniperNFT-Releases) -
-*   [ShareX/CustomUploaders](https://github.com/ShareX/CustomUploaders) - ShareX custom uploaders
-*   [mbeaudru/modern-js-cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet) - Cheatsheet for the JavaScript knowledge you will frequently encounter in modern projects.
-*   [typescript-cheatsheets/react-typescript-cheatsheet-es](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet-es) - Cheatsheets para desarrolladores expertos en React que comienzan con TypeScript
-*   [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue) - 🎉 A curated list of awesome things related to Vue.js
-*   [hakluke/how-to-exit-vim](https://github.com/hakluke/how-to-exit-vim) - Below are some simple methods for exiting vim.
-*   [aderusha/DDD-Printable-Wall-Control-System](https://github.com/aderusha/DDD-Printable-Wall-Control-System) - DDD Printable Wall Control System, 3d printable organization solutions for Wall Control pegboards
-*   [mdbootstrap/Black-Friday-2022](https://github.com/mdbootstrap/Black-Friday-2022) - Black Friday & Cyber Monday Deals (UI Kits WordPress Plugins, CRMs, SEO, Courses, Books) for web developers, programmers, and software engineers.
-*   [RitikPatni/Front-End-Web-Development-Resources](https://github.com/RitikPatni/Front-End-Web-Development-Resources) - This repository contains content which will be helpful in your journey as a front-end Web Developer
-*   [tribixbite/Settlers-game-pieces](https://github.com/tribixbite/Settlers-game-pieces) - 3D printable Settlers of Catan tiles
-*   [Intrinsically-Sublime/Settlers-game-pieces](https://github.com/Intrinsically-Sublime/Settlers-game-pieces) - 3D printable Settlers of Catan tiles
-
 ## JavaScript
 
+*   [pastelsky/bundlephobia](https://github.com/pastelsky/bundlephobia) - 🏋️ Find out the cost of adding a new frontend dependency to your project
+*   [Everduin94/better-commits](https://github.com/Everduin94/better-commits) - A CLI for creating better commits following the conventional commit guidelines. Written with Typescript | ZOD | Clack
 *   [dadatom/midJourney-prompt-helper](https://github.com/dadatom/midJourney-prompt-helper) - MidJourney Prompt Helper website. Like: https://prompt.noonshot.com/
 *   [ZacharyFolk/midjourney-prompt-helper](https://github.com/ZacharyFolk/midjourney-prompt-helper) - A React app that helps generate prompts to use with MidJourney
 *   [qubyte/fetch-ponyfill](https://github.com/qubyte/fetch-ponyfill) - WHATWG fetch ponyfill
@@ -894,8 +735,173 @@
 *   [NUKnightLab/juxtapose](https://github.com/NUKnightLab/juxtapose) - JuxtaposeJS is a JavaScript library for making before/after image sliders
 *   [buccaneerai/rxjs-stats](https://github.com/buccaneerai/rxjs-stats) - Moved to @bottlenose/rxstats (https://github.com/buccaneerai/bottlenose)
 *   [open-dash/HousePanel](https://github.com/open-dash/HousePanel) - Open source highly customizable dashboard for your SmartThings home
-*   [tribixbite/meteor](https://github.com/tribixbite/meteor) - Meteor, an ultra-simple, database-everywhere, data-on-the-wire, pure-Javascript web framework.
-*   [tribixbite/Ghost.py](https://github.com/tribixbite/Ghost.py) - Webkit based scriptable web browser for python.
+
+## Jupyter Notebook
+
+*   [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
+*   [Stability-AI/StableLM](https://github.com/Stability-AI/StableLM) - StableLM: Stability AI Language Models
+*   [qunash/stable-diffusion-2-gui](https://github.com/qunash/stable-diffusion-2-gui) - Lightweight Stable Diffusion v 2.1 web UI: txt2img, img2img, depth2img, inpaint and upscale4x.
+*   [cloneofsimo/paint-with-words-sd](https://github.com/cloneofsimo/paint-with-words-sd) - Implementation of Paint-with-words with Stable Diffusion : method from eDiff-I that let you generate image from text-labeled segmentation map.
+*   [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - InvokeAI is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an industry leading WebUI, supports terminal use through a CLI, and serves as the foundation for multiple commercial products.
+*   [WongKinYiu/yolov7](https://github.com/WongKinYiu/yolov7) - Implementation of paper - YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors
+*   [karpathy/nn-zero-to-hero](https://github.com/karpathy/nn-zero-to-hero) - Neural Networks: Zero to Hero
+*   [victordibia/peacasso](https://github.com/victordibia/peacasso) - UI interface for experimenting with multimodal (text, image) models (stable diffusion).
+*   [deepmind/deepmind-research](https://github.com/deepmind/deepmind-research) - This repository contains implementations and illustrative code to accompany DeepMind publications
+*   [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
+*   [alembics/disco-diffusion](https://github.com/alembics/disco-diffusion) -
+*   [RuolinZheng08/twewy-discord-chatbot](https://github.com/RuolinZheng08/twewy-discord-chatbot) - Discord AI Chatbot using DialoGPT, trained on the game transcript of The World Ends With You
+*   [benyaminahmed/nft-image-generator](https://github.com/benyaminahmed/nft-image-generator) -
+*   [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
+*   [PacktPublishing/Machine-Learning-for-Algorithmic-Trading-Second-Edition\_Original](https://github.com/PacktPublishing/Machine-Learning-for-Algorithmic-Trading-Second-Edition_Original) - Machine Learning for Algorithmic Trading, Second Edition - published by Packt
+*   [dapperfu/python\_Meijer](https://github.com/dapperfu/python_Meijer) - Reverse engineered API for Meijer's Shopping List.
+
+## Python
+
+*   [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant) - OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.
+*   [openai/chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin) - The ChatGPT Retrieval Plugin lets you easily search and find personal or work documents by asking questions in everyday language.
+*   [awekrx/ChatGPT-MidJourney-prompt](https://github.com/awekrx/ChatGPT-MidJourney-prompt) - This is a ChatGPT based prompt generation model for MidJorney. The purpose of this model is to simplify the creation of images and increase their creativity. By introducing a partial hint, ChatGPT creates a follow-up that can be used to stimulate creativity and provide new ideas.
+*   [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - decentralising the Ai Industry, just some language model api's...
+*   [hwchase17/langchain](https://github.com/hwchase17/langchain) - ⚡ Building applications with LLMs through composability ⚡
+*   [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
+*   [FOLLGAD/Godmode-GPT](https://github.com/FOLLGAD/Godmode-GPT) - Godmode
+*   [FOLLGAD/sherlock](https://github.com/FOLLGAD/sherlock) - Personal assistant that can run commands at will
+*   [microsoft/JARVIS](https://github.com/microsoft/JARVIS) - JARVIS, a system to connect LLMs with ML community. Paper: https://arxiv.org/pdf/2303.17580.pdf
+*   [stochasticai/xturing](https://github.com/stochasticai/xturing) - Easily build, customize and control your own LLMs
+*   [lastmile-ai/llama-retrieval-plugin](https://github.com/lastmile-ai/llama-retrieval-plugin) - LLaMa retrieval plugin script using OpenAI's retrieval plugin
+*   [Jacksgong/webp-converter](https://github.com/Jacksgong/webp-converter) - Converter PNG/JPG to Webp and scan all changes
+*   [openai/evals](https://github.com/openai/evals) - Evals is a framework for evaluating LLMs and LLM systems, and an open-source registry of benchmarks.
+*   [jerryjliu/llama\_index](https://github.com/jerryjliu/llama_index) - LlamaIndex (GPT Index) is a project that provides a central interface to connect your LLM's with external data.
+*   [openai/tiktoken](https://github.com/openai/tiktoken) - tiktoken is a fast BPE tokeniser for use with OpenAI's models.
+*   [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) - Making large AI models cheaper, faster and more accessible
+*   [Logicwax/gpg-hd](https://github.com/Logicwax/gpg-hd) - A BIP-39 / seed-phrase / brain-wallet based Hierarchical Deterministic GPG / SSH key generator that also provisions OpenPGP smartcards for easy key backup and recovery.
+*   [IncideDigital/rvt2](https://github.com/IncideDigital/rvt2) - An open source framework for computer forensics
+*   [gurnec/btcrecover](https://github.com/gurnec/btcrecover) - An open source Bitcoin wallet password and seed recovery tool designed for the case where you already know most of your password/seed, but need assistance in trying different possible combinations.
+*   [SHI-Labs/Versatile-Diffusion](https://github.com/SHI-Labs/Versatile-Diffusion) - Versatile Diffusion: Text, Images and Variations All in One Diffusion Model, 2022
+*   [7eu7d7/DreamArtist-stable-diffusion](https://github.com/7eu7d7/DreamArtist-stable-diffusion) - stable diffusion webui with contrastive prompt tuning
+*   [Cog-Creators/Red-DiscordBot](https://github.com/Cog-Creators/Red-DiscordBot) - A multi-function Discord bot
+*   [chamburr/modmail](https://github.com/chamburr/modmail) - A feature-rich Discord bot for easy communication between server staff and users.
+*   [DXsmiley/mathbot](https://github.com/DXsmiley/mathbot) - Discord bot for mathematics
+*   [feffy380/prompt-morph](https://github.com/feffy380/prompt-morph) - Generate morph sequences with Stable Diffusion. Interpolate between two or more prompts and create an image at each step.
+*   [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
+*   [harubaru/discord-stable-diffusion](https://github.com/harubaru/discord-stable-diffusion) - A neat Discord bot to run Stable Diffusion locally
+*   [sharonzhou/long\_stable\_diffusion](https://github.com/sharonzhou/long_stable_diffusion) - Long-form text-to-images generation, using a pipeline of deep generative models (GPT-3 and Stable Diffusion)
+*   [Sygil-Dev/sygil-webui](https://github.com/Sygil-Dev/sygil-webui) - Stable Diffusion web UI
+*   [huggingface/diffusers](https://github.com/huggingface/diffusers) - 🤗 Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch
+*   [AutodeskAILab/Clip-Forge](https://github.com/AutodeskAILab/Clip-Forge) -
+*   [wangerzi/3d-model-convert-to-gltf](https://github.com/wangerzi/3d-model-convert-to-gltf) - Convert 3d model (STL/IGES/STEP/OBJ/FBX) to gltf and compression
+*   [wanadev/yoga](https://github.com/wanadev/yoga) - Converts and optimizes images and 3D models
+*   [microsoft/DeepSpeed](https://github.com/microsoft/DeepSpeed) - DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.
+*   [tubearchivist/tubearchivist](https://github.com/tubearchivist/tubearchivist) - Your self hosted YouTube media server
+*   [3ct0s/eclipse-grabber](https://github.com/3ct0s/eclipse-grabber) - Generate Discord Token Grabbers for both Windows and MacOS
+*   [newsbubbles/GrowF](https://github.com/newsbubbles/GrowF) - Grow Function: A 3D Stacked Bifurcating Double Deep Cellular Automata which differentiates using a Genetic Algorithm... TLDR;High Def Trees that you can mint as NFTs on Solana
+*   [jackjack-jj/pywallet](https://github.com/jackjack-jj/pywallet) -  bitcoin wallet importer/exporter
+*   [ymgve/bitcoin\_fork\_claimer](https://github.com/ymgve/bitcoin_fork_claimer) - Script for transferring/claiming your coins on various Bitcoin forks
+*   [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
+*   [newren/git-filter-repo](https://github.com/newren/git-filter-repo) - Quickly rewrite git repository history (filter-branch replacement)
+*   [EmDecay/solana-sales-watcher](https://github.com/EmDecay/solana-sales-watcher) - Watch a mint address for sales on the blockchain and report on what you see
+*   [BedrosovaYulia/NFT-minting-using-python](https://github.com/BedrosovaYulia/NFT-minting-using-python) - Minting Solana NFT using candy-machine-cli is quite expensive, so I searched and I have found a cheaper option: it is 20% cheaper!!! In the video from my chanel, I'll directly upload the image file and a metadata file to arweave.net, and then I'll show you how to mint an NFT using the Python script developed by me.
+*   [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes
+*   [Jeeaaasus/youtube-dl](https://github.com/Jeeaaasus/youtube-dl) - Automated yt-dlp Docker image
+*   [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
+*   [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
+*   [minimaxir/big-list-of-naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings) - The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data.
+*   [ipython/xkcd-font](https://github.com/ipython/xkcd-font) - The xkcd font
+*   [ActivityWatch/activitywatch](https://github.com/ActivityWatch/activitywatch) - The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused.
+*   [Inspirateur/DiscordWordCloud](https://github.com/Inspirateur/DiscordWordCloud) - A discord bot that generates word clouds for discord users.
+*   [s0md3v/Orbit](https://github.com/s0md3v/Orbit) - Blockchain Transactions Investigation Tool
+*   [smicallef/spiderfoot](https://github.com/smicallef/spiderfoot) - SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.
+*   [2qov3b/NFT-mint-bot-sol](https://github.com/2qov3b/NFT-mint-bot-sol) - NFT mint bot on Solana chain before sale.
+*   [SolanaNFTCollector/Solana-Minting-Bot](https://github.com/SolanaNFTCollector/Solana-Minting-Bot) - Solana Minting Bot for Magic Eden marketplace AUTOMATED
+*   [hummingbot/hummingbot](https://github.com/hummingbot/hummingbot) - Hummingbot is open source software that helps you build trading bots that run on any exchange or blockchain
+*   [RudeGolems/nft-discord-cropper](https://github.com/RudeGolems/nft-discord-cropper) - A discord bot to crop an NFT image living on the Solana blockchain.
+*   [0xEnrico/arweave-nft-uploader](https://github.com/0xEnrico/arweave-nft-uploader) -
+*   [custom-components/remote\_homeassistant](https://github.com/custom-components/remote_homeassistant) - Links multiple home-assistant instances together
+*   [NabuCasa/hass-nabucasa](https://github.com/NabuCasa/hass-nabucasa) - Issues related to the cloud integration in Nabu Casa
+*   [mechatroner/sublime\_rainbow\_csv](https://github.com/mechatroner/sublime_rainbow_csv) - 🌈Rainbow CSV - Sublime Text Package: Highlight columns in CSV and TSV files and run queeries in SQL-like language
+*   [home-assistant-ecosystem/home-assistant-cli](https://github.com/home-assistant-ecosystem/home-assistant-cli) - :computer: Command-line tool for Home Assistant
+*   [ToyKeeper/fuckometer](https://github.com/ToyKeeper/fuckometer) - How fucked are you right now? A tool to help you give a fuck so you can get less fucked.  Track several aspects of life and boil them down to a single number with graphs and productivity suggestions.
+*   [ollo69/ha-smartthinq-sensors](https://github.com/ollo69/ha-smartthinq-sensors) - HomeAssistant custom integration for SmartThinQ LG devices configurable with Lovelace User Interface.
+*   [ct-Open-Source/tuya-convert](https://github.com/ct-Open-Source/tuya-convert) - A collection of scripts to flash Tuya IoT devices to alternative firmwares
+*   [jlamendo/ha-sensor.owlet](https://github.com/jlamendo/ha-sensor.owlet) - Owlet Smart Sock v2/v3 Sensor Integration for HomeAssistant using the modern Owlet API.
+*   [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown.
+*   [praw-dev/asyncpraw](https://github.com/praw-dev/asyncpraw) - Async PRAW, an abbreviation for "Asynchronous Python Reddit API Wrapper", is a python package that allows for simple access to Reddit's API.
+*   [praw-dev/praw](https://github.com/praw-dev/praw) - PRAW, an acronym for "Python Reddit API Wrapper", is a python package that allows for simple access to Reddit's API.
+*   [CAB426/HomeAssistant-Owlet](https://github.com/CAB426/HomeAssistant-Owlet) - Owlet Custom Component for Home Assistant
+*   [LandGrey/pydictor](https://github.com/LandGrey/pydictor) - A powerful and useful hacker dictionary builder for a brute-force attack
+*   [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
+*   [itkfilelor/drone\_mobile](https://github.com/itkfilelor/drone_mobile) - API wrapper for Drone Mobile remote car starter.
+*   [LedgerHQ/app-monero](https://github.com/LedgerHQ/app-monero) - Monero wallet application for Ledger Nano S & X
+*   [klattimer/LGWebOSRemote](https://github.com/klattimer/LGWebOSRemote) - Command line webOS remote for LGTVs
+*   [Hari-Nagarajan/fairgame](https://github.com/Hari-Nagarajan/fairgame) - Tool to help us buy hard to find items.
+*   [berkuhlee/KeywordBot](https://github.com/berkuhlee/KeywordBot) - Keyword Notifications, similar to skype, for Discord!
+*   [home-assistant/core](https://github.com/home-assistant/core) - :house\_with\_garden: Open source home automation that puts local control and privacy first.
+*   [bmengineer-gear/RuTiTe](https://github.com/bmengineer-gear/RuTiTe) - Python script to record flashlight runtime using a Raspberry Pi and a TSL2591
+*   [parametrek/gm1020](https://github.com/parametrek/gm1020) - Cross platform utility for the Benetech GM1020 USB logging luxmeter
+*   [IBM/MicroscoPy](https://github.com/IBM/MicroscoPy) - An open-source, motorized, and modular microscope built using LEGO bricks, Arduino, Raspberry Pi and 3D printing.
+*   [PrusaOwners/OctoPrint-PrusaMeshMap](https://github.com/PrusaOwners/OctoPrint-PrusaMeshMap) - This plugin performs a mesh bed leveling operation then returns the results as an easy to read heatmap.
+*   [sbidy/wiz\_light](https://github.com/sbidy/wiz_light) - A WiZ Light integration for Home Assistant
+*   [sbidy/pywizlight](https://github.com/sbidy/pywizlight) - A python connector for WiZ devices
+*   [thp/urlwatch](https://github.com/thp/urlwatch) - Watch (parts of) webpages and get notified when something changes via e-mail, on your phone or via other means. Highly configurable.
+*   [watir/nerodia](https://github.com/watir/nerodia) - Python implementation of Watir
+*   [KilledMufasa/AmputatorBot](https://github.com/KilledMufasa/AmputatorBot) - Remove AMP from your URLs. AmputatorBot is a highly specialised Reddit and Twitter bot that automatically replies to comments, submissions and tweets containing AMP URLs with the canonical link(s). It's also available as a website and REST API. See also: https://www.reddit.com/r/AmputatorBot/comments/ehrq3z/why\_did\_i\_build\_amputatorbot/.
+*   [pushshift/api](https://github.com/pushshift/api) - Pushshift API
+*   [tribixbite/BrokenRecordBot](https://github.com/tribixbite/BrokenRecordBot) - reddit copypasta bot for subreddit wiki text
+*   [janick/ArloDownload](https://github.com/janick/ArloDownload) - Automatically download new video recordings from Arlo
+*   [CarlosGS/Cyclone-PCB-Factory](https://github.com/CarlosGS/Cyclone-PCB-Factory) - Cyclone (Circuit Cloner) is a CNC mill intended for PCB manufacturing.
+
+## Julia
+
+*   [logankilpatrick/ChatGPT-Plugins-Collection](https://github.com/logankilpatrick/ChatGPT-Plugins-Collection) - An unofficial collection of Plugins for ChatGPT, in any programming language!
+
+## miscellaneous
+
+*   [LangLangShanDeNanKe/chatgpt](https://github.com/LangLangShanDeNanKe/chatgpt) - ChatGPT网址导航，分享免费好用AI网站！
+*   [altryne/awesome-ai-art-image-synthesis](https://github.com/altryne/awesome-ai-art-image-synthesis) - A list of awesome tools, ideas, prompt engineering tools, colabs, models, and helpers for the prompt designer playing with aiArt and image synthesis. Covers Dalle2, MidJourney, StableDiffusion, and open source tools.
+*   [tsparticles/templates](https://github.com/tsparticles/templates) - tsParticles website templates collection
+*   [farcasterxyz/protocol](https://github.com/farcasterxyz/protocol) - Specification of the Farcaster Protocol
+*   [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series on JavaScript. @YDKJS on twitter.
+*   [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources
+*   [kkrypt0nn/wordlists](https://github.com/kkrypt0nn/wordlists) - 📜 A collection of wordlists for many different usages.
+*   [tribixbite/solana-lb](https://github.com/tribixbite/solana-lb) -
+*   [lydiahallie/javascript-questions](https://github.com/lydiahallie/javascript-questions) - A long list of (advanced) JavaScript questions, and their explanations :sparkles:
+*   [wbkd/awesome-node-based-uis](https://github.com/wbkd/awesome-node-based-uis) - A curated list with resources about node-based UIs
+*   [windows-powertool/Powertool](https://github.com/windows-powertool/Powertool) - Windows powertool is a windows 10 and 11 utility designed to provide one click solution to reduce and trim down unnecessary burden that comes by default with windows. its used to Improve speed, remove bloatware, protect privacy, eliminate data collection, and so more.
+*   [candypay/docs](https://github.com/candypay/docs) - 📚 Documentation site for CandyPay's Public API and SDK
+*   [gapon2401/upload-files-nextjs](https://github.com/gapon2401/upload-files-nextjs) - Uploading files with NextJs + formidable + Typescript.
+*   [AnIdiotsGuide/discordjs-bot-guide](https://github.com/AnIdiotsGuide/discordjs-bot-guide) - The basic new coder friendly "idiot's guide", Created by Hindsight#2020 and maintained by the community.
+*   [torusresearch/audit](https://github.com/torusresearch/audit) - Audits done across the Torus codebases
+*   [joelparkerhenderson/stable-diffusion-macos-install-help](https://github.com/joelparkerhenderson/stable-diffusion-macos-install-help) - Stable Diffusion: macOS install help with homebrew, python, anaconda, dream, etc.
+*   [Maks-s/sd-akashic](https://github.com/Maks-s/sd-akashic) - A compendium of informations regarding Stable Diffusion (SD)
+*   [killop/anything\_about\_game](https://github.com/killop/anything_about_game) - A wonderful list of Game Development resources.
+*   [murlokito/awesome-solana-gaming](https://github.com/murlokito/awesome-solana-gaming) - 🏎️ A curated list of gaming projects building on Solana 🏎️
+*   [nh-server/switch-guide](https://github.com/nh-server/switch-guide) -
+*   [solana-mobile/solana-mobile-stack-sdk](https://github.com/solana-mobile/solana-mobile-stack-sdk) -
+*   [mikbry/awesome-webgpu](https://github.com/mikbry/awesome-webgpu) - 😎 Curated list of awesome things around WebGPU ecosystem.
+*   [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
+*   [naomi-lgbt/new-repo-template](https://github.com/naomi-lgbt/new-repo-template) - Holds the files for new repos: issue templates, pr template, workflows
+*   [TheOdinProject/curriculum](https://github.com/TheOdinProject/curriculum) - The open curriculum for learning web development
+*   [DaRockSol/solana-nft-mint-workflow-postman](https://github.com/DaRockSol/solana-nft-mint-workflow-postman) - This is my collection of postman calls to the RPC API of Solana in an order for minting an NFT with metadata.
+*   [BL0CK-X/solana-nft-collection-mint-addresses](https://github.com/BL0CK-X/solana-nft-collection-mint-addresses) - This is a public repository containing the mint addresses of popular collections on Solana. Please add and help us expand this open source project.
+*   [Quillhash/QuillAudit\_Reports](https://github.com/Quillhash/QuillAudit_Reports) - QuillAudits Smart Contracts, deFi, NFT, tokens,Dao , Dex and  DApps Audit Reports
+*   [michidk/Unity-Script-Collection](https://github.com/michidk/Unity-Script-Collection) - A maintained collection of useful & free unity scripts / library's / plugins and extensions
+*   [matchai/awesome-pinned-gists](https://github.com/matchai/awesome-pinned-gists) - 📌✨ A collection of awesome dynamic pinned gists for GitHub
+*   [YOURLS/awesome](https://github.com/YOURLS/awesome) - 🎉 A curated list of awesome things related to YOURLS
+*   [audreyfeldroy/favicon-cheat-sheet](https://github.com/audreyfeldroy/favicon-cheat-sheet) - Obsessive cheat sheet to favicon sizes/types. Please contribute! (Note: this may be in flux as I learn new things about favicon best practices.)
+*   [christiannaths/redacted-font](https://github.com/christiannaths/redacted-font) - Keep your wireframes free of distracting Lorem Ipsum.
+*   [ericandrewlewis/web-development-contract](https://github.com/ericandrewlewis/web-development-contract) - Web Development Contract
+*   [madmalik/mononoki](https://github.com/madmalik/mononoki) - a programming typeface
+*   [simonecorsi/awesome](https://github.com/simonecorsi/awesome) - 😎 Automatically generated list of ordered projects I've starred over the years! You can do your own using my action linked below!
+*   [metaplex-foundation/metaplex](https://github.com/metaplex-foundation/metaplex) - A directory of what the Metaplex Foundation works on!
+*   [ilmoi/awesome-solana-nfts](https://github.com/ilmoi/awesome-solana-nfts) - A curated list of Solana NFT protocols, repos & community tools
+*   [kcotoi/SOLSniperNFT-Releases](https://github.com/kcotoi/SOLSniperNFT-Releases) -
+*   [ShareX/CustomUploaders](https://github.com/ShareX/CustomUploaders) - ShareX custom uploaders
+*   [mbeaudru/modern-js-cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet) - Cheatsheet for the JavaScript knowledge you will frequently encounter in modern projects.
+*   [typescript-cheatsheets/react-typescript-cheatsheet-es](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet-es) - Cheatsheets para desarrolladores expertos en React que comienzan con TypeScript
+*   [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue) - 🎉 A curated list of awesome things related to Vue.js
+*   [hakluke/how-to-exit-vim](https://github.com/hakluke/how-to-exit-vim) - Below are some simple methods for exiting vim.
+*   [aderusha/DDD-Printable-Wall-Control-System](https://github.com/aderusha/DDD-Printable-Wall-Control-System) - DDD Printable Wall Control System, 3d printable organization solutions for Wall Control pegboards
+*   [mdbootstrap/Black-Friday-2022](https://github.com/mdbootstrap/Black-Friday-2022) - Black Friday & Cyber Monday Deals (UI Kits WordPress Plugins, CRMs, SEO, Courses, Books) for web developers, programmers, and software engineers.
+*   [RitikPatni/Front-End-Web-Development-Resources](https://github.com/RitikPatni/Front-End-Web-Development-Resources) - This repository contains content which will be helpful in your journey as a front-end Web Developer
 
 ## PowerShell
 
@@ -1038,7 +1044,6 @@
 *   [LuigiVampa92/XLogger](https://github.com/LuigiVampa92/XLogger) - Xposed module that allows to sniff and record logs of NFC and Bluetooth communication on device
 *   [xtclang/xvm](https://github.com/xtclang/xvm) - Ecstasy and XVM
 *   [RBWare/Glass-App-Manager](https://github.com/RBWare/Glass-App-Manager) - Simple app manager for Google Glass
-*   [wearscript/wearscript-android](https://github.com/wearscript/wearscript-android) - JavaScript with Batteries Included for Google Glass
 
 ## Makefile
 
@@ -1057,15 +1062,12 @@
 *   [creativetimofficial/nextjs-argon-dashboard](https://github.com/creativetimofficial/nextjs-argon-dashboard) - NextJS version of Argon Dashboard React
 *   [lafeber/world-flags-sprite](https://github.com/lafeber/world-flags-sprite) - A sprite of all the worlds' flags.
 *   [alphapapa/solarized-everything-css](https://github.com/alphapapa/solarized-everything-css) - A collection of Solarized user-stylesheets for...everything?
-*   [json-api/json-api](https://github.com/json-api/json-api) - A specification for building JSON APIs
 
 ## Shell
 
 *   [CryptoManufaktur-io/solana-rpc](https://github.com/CryptoManufaktur-io/solana-rpc) - Solana RPC only node with traefik
 *   [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful personal/home server OS for self-hosting with an app store. Install on a Raspberry Pi 4, any Ubuntu/Debian system, or a VPS.
 *   [TheFrenchGhosty/TheFrenchGhostys-Ultimate-YouTube-DL-Scripts-Collection](https://github.com/TheFrenchGhosty/TheFrenchGhostys-Ultimate-YouTube-DL-Scripts-Collection) - The ultimate collection of scripts for YouTube-DL.
-*   [DDRBoxman/GlassDateDisplay](https://github.com/DDRBoxman/GlassDateDisplay) - Display the current date on Google Glass
-*   [tribixbite/WPSetup](https://github.com/tribixbite/WPSetup) - Setup files for Ubuntu
 
 ## Sass
 
@@ -1138,8 +1140,6 @@
 ## OpenSCAD
 
 *   [FrameworkComputer/ExpansionCards](https://github.com/FrameworkComputer/ExpansionCards) - Reference designs and documentation to create Expansion Cards for the Framework Laptop
-*   [fpiesik/pE-Drums](https://github.com/fpiesik/pE-Drums) - An e-drum set based on 3d-printed parts
-*   [jcrocholl/kossel](https://github.com/jcrocholl/kossel) - Mini Kossel portable delta robot 3D printer.
 
 ## AutoIt
 
@@ -1168,7 +1168,3 @@
 ## Arduino
 
 *   [RHWorkshop/TIPIC-Arduino](https://github.com/RHWorkshop/TIPIC-Arduino) - This is the Arduino code for the TIPIC Thermal Imaging Phone Camera device.
-
-## PHP
-
-*   [nehalvpatel/cgui](https://github.com/nehalvpatel/cgui) - A web interface for cgminer that is made to reduce setup time and increase productivity, featuring the famous 2 minute install.
