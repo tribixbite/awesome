@@ -43,10 +43,17 @@
 *   [AutoHotkey](#autohotkey)
 *   [Visual Basic .NET](#visual-basic-net)
 *   [R](#r)
-*   [Clojure](#clojure)
 
 ## TypeScript
 
+*   [zxing-js/library](https://github.com/zxing-js/library) - Multi-format 1D/2D barcode image processing library, usable in JavaScript ecosystem.
+*   [Bunlong/next-recaptcha](https://github.com/Bunlong/next-recaptcha) - reCAPTCHA for your next React app.
+*   [Bunlong/next-qrcode](https://github.com/Bunlong/next-qrcode) - React hooks for generating QRCode for your next React apps.
+*   [Bunlong/react-papaparse](https://github.com/Bunlong/react-papaparse) - react-papaparse is the fastest in-browser CSV (or delimited text) parser for React. It is full of useful features such as CSVReader, CSVDownloader, readString, jsonToCSV, readRemoteFile, ... etc.
+*   [Bunlong/react-screen-capture](https://github.com/Bunlong/react-screen-capture) - A tiny React library allows you to take a snapshot of the webpage's screen or part of the screen.
+*   [Bunlong/next-share](https://github.com/Bunlong/next-share) - Social media share buttons for your next React apps.
+*   [Bunlong/next-time-ago](https://github.com/Bunlong/next-time-ago) - A lightweight tiny time-ago component for your next React apps.
+*   [tomfong/simple-qr](https://github.com/tomfong/simple-qr) - Simple QR, a simple and lightweight app to scan, create and store QR codes.
 *   [kiliman/remix-params-helper](https://github.com/kiliman/remix-params-helper) - This package makes it simple to use Zod with standard URLSearchParams and FormData which are typically used in Remix apps.
 *   [vitest-dev/vitest](https://github.com/vitest-dev/vitest) - A Vite-native test framework. It's fast!
 *   [astahmer/openapi-zod-client](https://github.com/astahmer/openapi-zod-client) - Generate a zodios (typescript http client with zod validation) from an OpenAPI spec (json/yaml)
@@ -429,7 +436,7 @@
 *   [refinedev/refine](https://github.com/refinedev/refine) - Build your React-based CRUD applications, without constraints.
 *   [rowyio/rowy](https://github.com/rowyio/rowy) - Low-code backend platform. Manage database on spreadsheet-like UI and build cloud functions workflows in JS/TS, all in your browser.
 *   [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Framework to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
-*   [appwrite/appwrite](https://github.com/appwrite/appwrite) - Secure Backend Server for Web, Mobile & Flutter Developers 🚀 AKA the 100% open-source Firebase alternative.
+*   [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite is a backend platform for developing Web, Mobile, and Flutter applications. Built with the open source community and optimized for developer experience in the coding languages you love.
 *   [BuilderIO/figma-html](https://github.com/BuilderIO/figma-html) - Builder.io for Figma: AI generation, export to code, import from web
 *   [BuilderIO/mitosis](https://github.com/BuilderIO/mitosis) - Write components once, run everywhere. Compiles to React, Vue, Qwik, Solid, Angular, Svelte, and more.
 *   [BuilderIO/vscode](https://github.com/BuilderIO/vscode) - Builder.io for VSCode - turn designs into code!
@@ -612,9 +619,6 @@
 *   [sbidy/pywizlight](https://github.com/sbidy/pywizlight) - A python connector for WiZ devices
 *   [thp/urlwatch](https://github.com/thp/urlwatch) - Watch (parts of) webpages and get notified when something changes via e-mail, on your phone or via other means. Highly configurable.
 *   [watir/nerodia](https://github.com/watir/nerodia) - Python implementation of Watir
-*   [KilledMufasa/AmputatorBot](https://github.com/KilledMufasa/AmputatorBot) - Remove AMP from your URLs. AmputatorBot is a highly specialised Reddit and Twitter bot that automatically replies to comments, submissions and tweets containing AMP URLs with the canonical link(s). It's also available as a website and REST API. See also: https://www.reddit.com/r/AmputatorBot/comments/ehrq3z/why\_did\_i\_build\_amputatorbot/.
-*   [pushshift/api](https://github.com/pushshift/api) - Pushshift API
-*   [tribixbite/BrokenRecordBot](https://github.com/tribixbite/BrokenRecordBot) - reddit copypasta bot for subreddit wiki text
 
 ## JavaScript
 
@@ -835,8 +839,6 @@
 *   [oriziv/sync-files-blob-storage-ha](https://github.com/oriziv/sync-files-blob-storage-ha) -
 *   [OutsourcedGuru/octo-client](https://github.com/OutsourcedGuru/octo-client) - A Node module for remotely accessing an OctoPrint instance
 *   [kylepaulsen/ResourceOverride](https://github.com/kylepaulsen/ResourceOverride) - An extension to help you gain full control of any website by redirecting traffic, replacing, editing, or inserting new content.
-*   [NUKnightLab/juxtapose](https://github.com/NUKnightLab/juxtapose) - JuxtaposeJS is a JavaScript library for making before/after image sliders
-*   [buccaneerai/rxjs-stats](https://github.com/buccaneerai/rxjs-stats) - Moved to @bottlenose/rxstats (https://github.com/buccaneerai/bottlenose)
 
 ## Jupyter Notebook
 
@@ -995,7 +997,6 @@
 *   [RoganDawes/LOGITacker](https://github.com/RoganDawes/LOGITacker) - Enumerate and test Logitech wireless input devices for vulnerabilities with a nRF52840 radio dongle.
 *   [FABtotum/FABlin](https://github.com/FABtotum/FABlin) - The FABtotum Personal Fabricator Firmware, a Marlin derivate made to support hybrid manufacturing and digital acquisition
 *   [arendst/Tasmota](https://github.com/arendst/Tasmota) - Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at
-*   [vanbwodonk/leonardoUploader](https://github.com/vanbwodonk/leonardoUploader) - A binary command for upload .hex to Arduino Leonardo CDC bootloader.
 
 ## HTML
 
@@ -1151,7 +1152,6 @@
 *   [mslonik/Hotstrings](https://github.com/mslonik/Hotstrings) - AutoHotkey oriented GUI to Hotstrings
 *   [evilC/AppFactory](https://github.com/evilC/AppFactory) - A library for creating AHK Gui Apps with configurable hotkeys and settings.
 *   [pmb6tz/windows-desktop-switcher](https://github.com/pmb6tz/windows-desktop-switcher) - An AutoHotKey script for Windows that lets a user change virtual desktops by pressing CapsLock + \<num>.
-*   [TaranVH/2nd-keyboard](https://github.com/TaranVH/2nd-keyboard) - ALL of Taran's scripts - not just for the 2nd keyboard.
 
 ## Visual Basic .NET
 
@@ -1160,7 +1160,3 @@
 ## R
 
 *   [BorisNikulin/discord-chat-analysis](https://github.com/BorisNikulin/discord-chat-analysis) - Text analysis of a discord chat group
-
-## Clojure
-
-*   [zakwilson/ceilingbounce](https://github.com/zakwilson/ceilingbounce) - Test your flashlights and graph their performance
