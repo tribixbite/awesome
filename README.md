@@ -4,9 +4,9 @@
 
 ## Table of Contents
 
+*   [TypeScript](#typescript)
 *   [Makefile](#makefile)
 *   [PHP](#php)
-*   [TypeScript](#typescript)
 *   [JavaScript](#javascript)
 *   [Kotlin](#kotlin)
 *   [C](#c)
@@ -45,17 +45,9 @@
 *   [Visual Basic .NET](#visual-basic-net)
 *   [R](#r)
 
-## Makefile
-
-*   [teaxyz/white-paper](https://github.com/teaxyz/white-paper) - how will our protocol work?
-*   [mr-karan/notes](https://github.com/mr-karan/notes) - Collection of my byte sized notes on programming and other random topics.
-
-## PHP
-
-*   [matthiasmullie/minify](https://github.com/matthiasmullie/minify) - CSS & JavaScript minifier, in PHP. Removes whitespace, strips comments, combines files (incl. @import statements and small assets in CSS files), and optimizes/shortens a few common programming patterns.
-
 ## TypeScript
 
+*   [garronej/denoify](https://github.com/garronej/denoify) - 🦕For NPM module authors that would like to support Deno but do not want to write and maintain a port.
 *   [xiangsx/gpt4free-ts](https://github.com/xiangsx/gpt4free-ts) - This is a replication project for the typescript version of xtekky/gpt4free
 *   [jshor/symbology](https://github.com/jshor/symbology) - 🔖 Generates 1D, 2D, or composite barcodes in png, svg, or eps formats. Supports 50+ symbologies.
 *   [nuintun/qrcode](https://github.com/nuintun/qrcode) - A pure JavaScript QRCode encode and decode library.
@@ -541,6 +533,15 @@
 *   [nuxt/nuxt](https://github.com/nuxt/nuxt) - Nuxt is an intuitive and extendable way to create type-safe, performant and production-grade full-stack web apps and websites with Vue 3.
 *   [thomasloven/lovelace-auto-entities](https://github.com/thomasloven/lovelace-auto-entities) - 🔹Automatically populate the entities-list of lovelace cards
 
+## Makefile
+
+*   [teaxyz/white-paper](https://github.com/teaxyz/white-paper) - how will our protocol work?
+*   [mr-karan/notes](https://github.com/mr-karan/notes) - Collection of my byte sized notes on programming and other random topics.
+
+## PHP
+
+*   [matthiasmullie/minify](https://github.com/matthiasmullie/minify) - CSS & JavaScript minifier, in PHP. Removes whitespace, strips comments, combines files (incl. @import statements and small assets in CSS files), and optimizes/shortens a few common programming patterns.
+
 ## JavaScript
 
 *   [fastify/fastify-nextjs](https://github.com/fastify/fastify-nextjs) - React server side rendering support for Fastify with Next
@@ -932,7 +933,6 @@
 *   [parametrek/gm1020](https://github.com/parametrek/gm1020) - Cross platform utility for the Benetech GM1020 USB logging luxmeter
 *   [IBM/MicroscoPy](https://github.com/IBM/MicroscoPy) - An open-source, motorized, and modular microscope built using LEGO bricks, Arduino, Raspberry Pi and 3D printing.
 *   [PrusaOwners/OctoPrint-PrusaMeshMap](https://github.com/PrusaOwners/OctoPrint-PrusaMeshMap) - This plugin performs a mesh bed leveling operation then returns the results as an easy to read heatmap.
-*   [sbidy/wiz\_light](https://github.com/sbidy/wiz_light) - A WiZ Light integration for Home Assistant
 
 ## Jupyter Notebook
 
