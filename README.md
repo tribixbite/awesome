@@ -4,6 +4,8 @@
 
 ## Table of Contents
 
+*   [Makefile](#makefile)
+*   [PHP](#php)
 *   [TypeScript](#typescript)
 *   [JavaScript](#javascript)
 *   [Kotlin](#kotlin)
@@ -20,7 +22,6 @@
 *   [C#](#c-2)
 *   [HTML](#html)
 *   [Go](#go)
-*   [Makefile](#makefile)
 *   [CSS](#css)
 *   [Shell](#shell)
 *   [Sass](#sass)
@@ -43,6 +44,15 @@
 *   [AutoHotkey](#autohotkey)
 *   [Visual Basic .NET](#visual-basic-net)
 *   [R](#r)
+
+## Makefile
+
+*   [teaxyz/white-paper](https://github.com/teaxyz/white-paper) - how will our protocol work?
+*   [mr-karan/notes](https://github.com/mr-karan/notes) - Collection of my byte sized notes on programming and other random topics.
+
+## PHP
+
+*   [matthiasmullie/minify](https://github.com/matthiasmullie/minify) - CSS & JavaScript minifier, in PHP. Removes whitespace, strips comments, combines files (incl. @import statements and small assets in CSS files), and optimizes/shortens a few common programming patterns.
 
 ## TypeScript
 
@@ -502,7 +512,7 @@
 *   [natterstefan/nextjs-template](https://github.com/natterstefan/nextjs-template) - A practical starter template for Nextjs, which has Tailwind, Cypress, Docker, Storybook, Jest, ESLint, Prettier, and more built-in. 🚀
 *   [ibrahima92/fullstack-typescript-mern-todo](https://github.com/ibrahima92/fullstack-typescript-mern-todo) - Full-stack TypeScript App with React, Nodejs and MongoDB
 *   [tapabratadey/crypto-investment-solana-nft](https://github.com/tapabratadey/crypto-investment-solana-nft) - Crypto Trading is a web app that displays information about various cryptocurrencies, lets users create a watchlist, and mint NFTs! (Coming soon: Trade!) 📝
-*   [paulmillr/noble-ed25519](https://github.com/paulmillr/noble-ed25519) - Fastest 4KB JS implementation of ed25519 EDDSA signatures compliant with RFC8032 & ZIP215
+*   [paulmillr/noble-ed25519](https://github.com/paulmillr/noble-ed25519) - Fastest 4KB JS implementation of ed25519 EDDSA signatures compliant with RFC8032, FIPS 186-5 & ZIP215
 *   [saber-hq/saber-common](https://github.com/saber-hq/saber-common) - 🗡 Saber common utilities and libraries
 *   [vicyyn/sollectify](https://github.com/vicyyn/sollectify) - Sollectify is a creator-centric NFT marketplace where users on the platform can easily create, trade and sell non-fungible tokens (NFTs) for their unique digital items like artworks, game items and more.  Built on @solana ☀️ and @ProjectSerum
 *   [jferrer/expo-solana-wallet](https://github.com/jferrer/expo-solana-wallet) - Cross-Platform Solana Wallet built with Expo and Solana/web3.js
@@ -777,7 +787,6 @@
 *   [ArweaveTeam/arweave](https://github.com/ArweaveTeam/arweave) - The Arweave server and App Developer Toolkit.
 *   [RoganDawes/LOGITacker](https://github.com/RoganDawes/LOGITacker) - Enumerate and test Logitech wireless input devices for vulnerabilities with a nRF52840 radio dongle.
 *   [FABtotum/FABlin](https://github.com/FABtotum/FABlin) - The FABtotum Personal Fabricator Firmware, a Marlin derivate made to support hybrid manufacturing and digital acquisition
-*   [arendst/Tasmota](https://github.com/arendst/Tasmota) - Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at
 
 ## miscellaneous
 
@@ -924,7 +933,6 @@
 *   [IBM/MicroscoPy](https://github.com/IBM/MicroscoPy) - An open-source, motorized, and modular microscope built using LEGO bricks, Arduino, Raspberry Pi and 3D printing.
 *   [PrusaOwners/OctoPrint-PrusaMeshMap](https://github.com/PrusaOwners/OctoPrint-PrusaMeshMap) - This plugin performs a mesh bed leveling operation then returns the results as an easy to read heatmap.
 *   [sbidy/wiz\_light](https://github.com/sbidy/wiz_light) - A WiZ Light integration for Home Assistant
-*   [sbidy/pywizlight](https://github.com/sbidy/pywizlight) - A python connector for WiZ devices
 
 ## Jupyter Notebook
 
@@ -964,7 +972,7 @@
 *   [berthubert/googerteller](https://github.com/berthubert/googerteller) - audible feedback on just how much your browsing feeds into google
 *   [f3d-app/f3d](https://github.com/f3d-app/f3d) - Fast and minimalist 3D viewer.
 *   [bkaradzic/bgfx](https://github.com/bkaradzic/bgfx) - Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style rendering library.
-*   [typesense/typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
+*   [typesense/typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
 *   [deepmind/code\_contests](https://github.com/deepmind/code_contests) -
 *   [yuzu-emu/yuzu](https://github.com/yuzu-emu/yuzu) - Nintendo Switch Emulator
 *   [HASwitchPlate/openHASP](https://github.com/HASwitchPlate/openHASP) - HomeAutomation Switchplate based on lvgl for ESP32
@@ -1048,10 +1056,6 @@
 *   [solana-labs/solana-ping-api](https://github.com/solana-labs/solana-ping-api) - solana ping api server
 *   [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative
 *   [zincsearch/zincsearch](https://github.com/zincsearch/zincsearch) - ZincSearch . A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
-
-## Makefile
-
-*   [mr-karan/notes](https://github.com/mr-karan/notes) - Collection of my byte sized notes on programming and other random topics.
 
 ## CSS
 
