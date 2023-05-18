@@ -69,7 +69,7 @@
 
 ## Go
 
-*   [owasp-amass/amass](https://github.com/owasp-amass/amass) - In-depth Attack Surface Mapping and Asset Discovery
+*   [owasp-amass/amass](https://github.com/owasp-amass/amass) - In-depth attack surface mapping and asset discovery
 *   [m1guelpf/chatgpt-discord](https://github.com/m1guelpf/chatgpt-discord) - Run your own GPTChat Discord bot, with a single command!
 *   [harveynw/blokechain](https://github.com/harveynw/blokechain) - Golang Bitcoin Protocol
 *   [imgproxy/imgproxy](https://github.com/imgproxy/imgproxy) - Fast and secure standalone server for resizing and converting remote images
