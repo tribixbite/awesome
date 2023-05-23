@@ -116,7 +116,7 @@
 *   [streamich/react-use](https://github.com/streamich/react-use) - React Hooks — 👍
 *   [denoland/fresh](https://github.com/denoland/fresh) - The next-gen web framework.
 *   [open-cli-tools/concurrently](https://github.com/open-cli-tools/concurrently) - Run commands concurrently. Like `npm run watch-js &amp; npm run watch-less` but better.
-*   [garronej/ts-ci](https://github.com/garronej/ts-ci) - 🚀 A starter for TS projects meant to be published on NPM.
+*   [garronej/ts-ci](https://github.com/garronej/ts-ci) - 🚀 A project starter for module publisher
 *   [snyk-snippets/modern-npm-package](https://github.com/snyk-snippets/modern-npm-package) - An npm package for demonstration purposes using TypeScript to build for both the ECMAScript Module format (i.e. ESM or ES Module) and CommonJS Module format. It can be used in Node.js and browser applications.
 *   [egoist/tsup](https://github.com/egoist/tsup) - The simplest and fastest way to bundle your TypeScript libraries.
 *   [TimMikeladze/tsup-react-package-starter](https://github.com/TimMikeladze/tsup-react-package-starter) - Create, build & publish React packages with ease. Typescript, CSS, Jest & Storybook support out of the box. Integrates with Github releases and automatically publishes to NPM. Code is built using tsup.
@@ -1114,7 +1114,7 @@
 *   [metaplex-foundation/get-collection](https://github.com/metaplex-foundation/get-collection) - Rust and TypeScript example code for finding all members from a collection id.
 *   [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 *   [matter-labs/zksync](https://github.com/matter-labs/zksync) - zkSync: trustless scaling and privacy engine for Ethereum
-*   [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Application to comfortably monitor your network traffic
+*   [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Application to comfortably monitor your Internet traffic
 *   [Bonfida/agnostic-orderbook](https://github.com/Bonfida/agnostic-orderbook) -
 *   [Bonfida/bonfida-utils](https://github.com/Bonfida/bonfida-utils) - Collection of different utilities in use across various Bonfida projects
 *   [Bonfida/name-tokenizer](https://github.com/Bonfida/name-tokenizer) - Tokenize a domain name into an NFT
