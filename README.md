@@ -760,7 +760,7 @@
 *   [chakra-ui/frontity-chakra-ui-theme](https://github.com/chakra-ui/frontity-chakra-ui-theme) - A Frontity theme built with Chakra UI
 *   [creativetimofficial/argon-dashboard-chakra](https://github.com/creativetimofficial/argon-dashboard-chakra) -
 *   [ceteio/chakra-capsize](https://github.com/ceteio/chakra-capsize) - The power of capsize inside Chakra UI
-*   [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀
+*   [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀
 *   [creativetimofficial/notus-react](https://github.com/creativetimofficial/notus-react) - Notus React: Free Tailwind CSS UI Kit and Admin
 *   [BetterDiscord/BetterDiscord](https://github.com/BetterDiscord/BetterDiscord) - Better Discord enhances Discord desktop app with new features.
 *   [nextapps-de/spotlight](https://github.com/nextapps-de/spotlight) - Web's most easy to integrate lightbox gallery library. Super-lightweight, outstanding performance, no dependencies.
