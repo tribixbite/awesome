@@ -306,7 +306,7 @@
 *   [thirdweb-dev/solana](https://github.com/thirdweb-dev/solana) - Thirdweb Solana SDK
 *   [thekevinscott/UpscalerJS](https://github.com/thekevinscott/UpscalerJS) - Image Upscaling in Javascript. Increase image resolution up to 4x using Tensorflow.js.
 *   [helius-labs/helius-rpc-proxy](https://github.com/helius-labs/helius-rpc-proxy) - This repo hosts a one-click-deploy Cloudflare worker that proxies RPC requests to Helius.
-*   [erictik/midjourney-api](https://github.com/erictik/midjourney-api) - Node.js client for the unofficial MidJourney API.
+*   [erictik/midjourney-api](https://github.com/erictik/midjourney-api) - MidJourney API. Unofficial Node.js client
 *   [erictik/midjourney-ui](https://github.com/erictik/midjourney-ui) - Midjourney UI is an open source AI painting UI based on Midjourney
 *   [maotoumao/midjourney-downloader](https://github.com/maotoumao/midjourney-downloader) - A script to download ALL Midjourney Images🎇
 *   [chriswells0/node-typescript-template](https://github.com/chriswells0/node-typescript-template) - A complete Node.js project template using TypeScript and following general best practices.
@@ -729,7 +729,7 @@
 *   [TNG/momo-scheduler](https://github.com/TNG/momo-scheduler) - A scheduler that persists jobs in MongoDB
 *   [agenda/agenda](https://github.com/agenda/agenda) - Lightweight job scheduling for Node.js
 *   [cronhub/crontab](https://github.com/cronhub/crontab) - ⏰   Cron expression generator
-*   [taskforcesh/bullmq](https://github.com/taskforcesh/bullmq) - BullMQ - Premium Message Queue for NodeJS based on Redis
+*   [taskforcesh/bullmq](https://github.com/taskforcesh/bullmq) - BullMQ - Message Queue and Batch processing for NodeJS and Python based on Redis
 *   [hellochar/hellochar.com](https://github.com/hellochar/hellochar.com) - website
 *   [pallavJha/tscron](https://github.com/pallavJha/tscron) - tscron is a library for cron in Typescript.
 *   [xpepermint/mongodb-cron](https://github.com/xpepermint/mongodb-cron) - MongoDB collection as crontab
