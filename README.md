@@ -234,7 +234,6 @@
 *   [nextjs-opinionated/nextjs-opinionated](https://github.com/nextjs-opinionated/nextjs-opinionated) - Next.js boilerplate with: typescript, next.js, tailwindcss, storybook, jest, eslint, prettifier, react hook form, zod and react-query
 *   [toptal/picasso](https://github.com/toptal/picasso) - Toptal UI components library
 *   [toptal/keycodes](https://github.com/toptal/keycodes) - Easy visualizer for JavaScript KeyCodes
-*   [benduran/turbo-tools](https://github.com/benduran/turbo-tools) - A collection of TurboRepo CLI tools to test, lint, build, version and publish packages in your Turborepo monorepo
 *   [projen/projen](https://github.com/projen/projen) - A new generation of project generators
 *   [changesets/changesets](https://github.com/changesets/changesets) - 🦋       A way to manage your versioning and changelogs with a focus on monorepos
 *   [Blue-Terra/solana-rpc-proxy](https://github.com/Blue-Terra/solana-rpc-proxy) - 🦾 A simple containerized Solana RPC proxy micro-service. Useful for injecting request headers, rate limiting and masking RPC apis.
@@ -675,6 +674,7 @@
 *   [welldone-software/react-component-splitter](https://github.com/welldone-software/react-component-splitter) - React VSCode Extension that splits long components into shorter, more readable subcomponents
 *   [isaacs/rimraf](https://github.com/isaacs/rimraf) - A `rm -rf` util for nodejs
 *   [sindresorhus/slugify](https://github.com/sindresorhus/slugify) - Slugify a string
+*   [benduran/turbo-tools](https://github.com/benduran/turbo-tools) - A collection of TurboRepo CLI tools to test, lint, build, version and publish packages in your Turborepo monorepo
 *   [drojdjou/J3D](https://github.com/drojdjou/J3D) - J3D - WebGL demos & experiments
 *   [validatorjs/validator.js](https://github.com/validatorjs/validator.js) - String validation
 *   [DrkSephy/es6-cheatsheet](https://github.com/DrkSephy/es6-cheatsheet) - ES2015 \[ES6] cheatsheet containing tips, tricks, best practices and code snippets
@@ -756,7 +756,7 @@
 *   [kevinfigueira/dashboardadmin](https://github.com/kevinfigueira/dashboardadmin) -
 *   [BraianVaylet/buildspace-epic-nfts-ui](https://github.com/BraianVaylet/buildspace-epic-nfts-ui) - 🐲 Epic NFTs \[UI] - Proyecto que te permitirá conectar tu billetera y acuñar un NFT, podrás revender el NFT en OpenSea. El NFT en sí se puede personalizar
 *   [creativetimofficial/purity-ui-dashboard](https://github.com/creativetimofficial/purity-ui-dashboard) - Purity UI Dashboard - Free and Open Source Chakra UI Dashboard
-*   [ferdianar/ferionic-dashboard-dark-mode](https://github.com/ferdianar/ferionic-dashboard-dark-mode) - Dashboard made complete with skeleton structure and dark mode switcher. Using localstorage and api.. On Progress Development
+*   [ferdianarid/ferionic-dashboard-dark-mode](https://github.com/ferdianarid/ferionic-dashboard-dark-mode) - Dashboard made complete with skeleton structure and dark mode switcher. Using localstorage and api.. On Progress Development
 *   [horizon-ui/horizon-ui-chakra](https://github.com/horizon-ui/horizon-ui-chakra) - Horizon UI JavaScript ⭐️ The trendiest & innovative Open Source Admin Template for Chakra UI & React!
 *   [creativetimofficial/vision-ui-dashboard-chakra](https://github.com/creativetimofficial/vision-ui-dashboard-chakra) -
 *   [mdx-js/mdx](https://github.com/mdx-js/mdx) - Markdown for the component era
@@ -1176,7 +1176,7 @@
 ## Shell
 
 *   [CryptoManufaktur-io/solana-rpc](https://github.com/CryptoManufaktur-io/solana-rpc) - Solana RPC only node with traefik
-*   [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful personal/home server OS for self-hosting with an app store. Install on a Raspberry Pi 4, any Ubuntu/Debian system, or a VPS.
+*   [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful personal/home server OS for self-hosting with an app store. Buy a pre-built Umbrel Home with umbrelOS, or install on a Raspberry Pi 4, any Ubuntu/Debian system, or a VPS.
 *   [TheFrenchGhosty/TheFrenchGhostys-Ultimate-YouTube-DL-Scripts-Collection](https://github.com/TheFrenchGhosty/TheFrenchGhostys-Ultimate-YouTube-DL-Scripts-Collection) - The ultimate collection of scripts for YouTube-DL.
 
 ## Sass
