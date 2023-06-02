@@ -396,7 +396,7 @@
 *   [Grape-Labs/grape-drive](https://github.com/Grape-Labs/grape-drive) -
 *   [mynftgg/website](https://github.com/mynftgg/website) -
 *   [draffle-io/draffle](https://github.com/draffle-io/draffle) - dRaffle is a decentralized raffle protocol on Solana
-*   [mattermost/mattermost](https://github.com/mattermost/mattermost) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle.
+*   [mattermost/mattermost](https://github.com/mattermost/mattermost) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..
 *   [DeployDAO/solana-program-registry](https://github.com/DeployDAO/solana-program-registry) - Verified builds of Solana ecosystem projects.
 *   [GlassEaters/hydra](https://github.com/GlassEaters/hydra) - Collective account pooling, fan out wallet, dao treasury
 *   [solana-labs/dapp-scaffold](https://github.com/solana-labs/dapp-scaffold) - Scaffolding for a dapp built on Solana
