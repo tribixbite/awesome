@@ -47,6 +47,7 @@
 
 ## TypeScript
 
+*   [AmesingFlank/taichi.js](https://github.com/AmesingFlank/taichi.js) - Modern GPU Compute and Rendering in Javascript
 *   [anttiviljami/openapi-backend](https://github.com/anttiviljami/openapi-backend) - Build, Validate, Route, Authenticate and Mock using OpenAPI
 *   [jest-community/vscode-jest](https://github.com/jest-community/vscode-jest) - The optimal flow for Jest based testing in VS Code
 *   [argos-ci/jest-puppeteer](https://github.com/argos-ci/jest-puppeteer) - Run tests using Jest & Puppeteer 🎪✨
@@ -465,7 +466,7 @@
 *   [dvikas/nextjs-graphql-adminpanel](https://github.com/dvikas/nextjs-graphql-adminpanel) - Admin panel built with NextJS(Typescript), Material UI, Apollo Client & GraphQL. In the backend, Prisma 2 with Nexus and Mysql is used.
 *   [SoftwareBrothers/adminjs](https://github.com/SoftwareBrothers/adminjs) - AdminJS is an admin panel for apps written in node.js
 *   [pankod/superplate](https://github.com/pankod/superplate) -  A well-structured production-ready frontend boilerplate with Typescript, React Testing Library, styled-component, React Query, .env, Axios, Bundle Analyzer, Prettier and 30+ plugins. superplate creates projects for React.js, Next.js, and refine. https://pankod.github.io/superplate/
-*   [refinedev/refine](https://github.com/refinedev/refine) - Build your React-based CRUD applications, without constraints.
+*   [refinedev/refine](https://github.com/refinedev/refine) - Build your React-based CRUD applications, without constraints. 🌟 Star to support our work!
 *   [rowyio/rowy](https://github.com/rowyio/rowy) - Low-code backend platform. Manage database on spreadsheet-like UI and build cloud functions workflows in JS/TS, all in your browser.
 *   [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Framework to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
 *   [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build Fast. Scale Big. All in One Place.
@@ -1128,7 +1129,6 @@
 *   [benyaminahmed/nft-image-generator](https://github.com/benyaminahmed/nft-image-generator) -
 *   [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
 *   [PacktPublishing/Machine-Learning-for-Algorithmic-Trading-Second-Edition\_Original](https://github.com/PacktPublishing/Machine-Learning-for-Algorithmic-Trading-Second-Edition_Original) - Machine Learning for Algorithmic Trading, Second Edition - published by Packt
-*   [dapperfu/python\_Meijer](https://github.com/dapperfu/python_Meijer) - Reverse engineered API for Meijer's Shopping List.
 
 ## Julia
 
