@@ -31,6 +31,7 @@
 *   [Vue](#vue)
 *   [Lua](#lua)
 *   [Solidity](#solidity)
+*   [MDX](#mdx)
 *   [SCSS](#scss)
 *   [Mustache](#mustache)
 *   [Elm](#elm)
@@ -348,7 +349,6 @@
 *   [samchon/typia](https://github.com/samchon/typia) - Super-fast Runtime validator (type checker) with only one line
 *   [sjinks/node-fetch-retry-ts](https://github.com/sjinks/node-fetch-retry-ts) - Adds retry functionality to fetch()
 *   [react-hook-form/resolvers](https://github.com/react-hook-form/resolvers) - 📋 Validation resolvers: Yup, Zod, AJV, Joi, Superstruct, Vest, class-validator, io-ts, typanion, Ajv, TypeBox and nope.
-*   [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app
 *   [epiphone/routing-controllers-openapi](https://github.com/epiphone/routing-controllers-openapi) - Runtime OpenAPI v3 schema generation for routing-controllers.
 *   [drwpow/openapi-typescript](https://github.com/drwpow/openapi-typescript) - Generate TypeScript types from OpenAPI 3 specs
 *   [candypay/nft-sdk](https://github.com/candypay/nft-sdk) - 🏄‍♂️ CandyPay NFT SDK lets you effortlessly create NFT minting functions for Candy Machine v2 collections.
@@ -1210,6 +1210,10 @@
 
 *   [Uniswap/permit2](https://github.com/Uniswap/permit2) - 🔑🔑🔑 next generation token approvals mechanism
 *   [ProjectOpenSea/operator-filter-registry](https://github.com/ProjectOpenSea/operator-filter-registry) -
+
+## MDX
+
+*   [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app
 
 ## SCSS
 
