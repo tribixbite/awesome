@@ -19,8 +19,9 @@
 *   [Go](#go)
 *   [Makefile](#makefile)
 *   [PHP](#php)
-*   [Jupyter Notebook](#jupyter-notebook)
+*   [MDX](#mdx)
 *   [Julia](#julia)
+*   [Jupyter Notebook](#jupyter-notebook)
 *   [PowerShell](#powershell)
 *   [SystemVerilog](#systemverilog)
 *   [Rust](#rust)
@@ -31,7 +32,6 @@
 *   [Vue](#vue)
 *   [Lua](#lua)
 *   [Solidity](#solidity)
-*   [MDX](#mdx)
 *   [SCSS](#scss)
 *   [Mustache](#mustache)
 *   [Elm](#elm)
@@ -1115,9 +1115,17 @@
 
 *   [matthiasmullie/minify](https://github.com/matthiasmullie/minify) - CSS & JavaScript minifier, in PHP. Removes whitespace, strips comments, combines files (incl. @import statements and small assets in CSS files), and optimizes/shortens a few common programming patterns.
 
-## Jupyter Notebook
+## MDX
 
 *   [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
+*   [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app
+
+## Julia
+
+*   [logankilpatrick/ChatGPT-Plugins-Collection](https://github.com/logankilpatrick/ChatGPT-Plugins-Collection) - An unofficial collection of Plugins for ChatGPT, in any programming language!
+
+## Jupyter Notebook
+
 *   [Stability-AI/StableLM](https://github.com/Stability-AI/StableLM) - StableLM: Stability AI Language Models
 *   [qunash/stable-diffusion-2-gui](https://github.com/qunash/stable-diffusion-2-gui) - Lightweight Stable Diffusion v 2.1 web UI: txt2img, img2img, depth2img, inpaint and upscale4x.
 *   [cloneofsimo/paint-with-words-sd](https://github.com/cloneofsimo/paint-with-words-sd) - Implementation of Paint-with-words with Stable Diffusion : method from eDiff-I that let you generate image from text-labeled segmentation map.
@@ -1131,10 +1139,6 @@
 *   [RuolinZheng08/twewy-discord-chatbot](https://github.com/RuolinZheng08/twewy-discord-chatbot) - Discord AI Chatbot using DialoGPT, trained on the game transcript of The World Ends With You
 *   [benyaminahmed/nft-image-generator](https://github.com/benyaminahmed/nft-image-generator) -
 *   [PacktPublishing/Machine-Learning-for-Algorithmic-Trading-Second-Edition\_Original](https://github.com/PacktPublishing/Machine-Learning-for-Algorithmic-Trading-Second-Edition_Original) - Machine Learning for Algorithmic Trading, Second Edition - published by Packt
-
-## Julia
-
-*   [logankilpatrick/ChatGPT-Plugins-Collection](https://github.com/logankilpatrick/ChatGPT-Plugins-Collection) - An unofficial collection of Plugins for ChatGPT, in any programming language!
 
 ## PowerShell
 
@@ -1210,10 +1214,6 @@
 
 *   [Uniswap/permit2](https://github.com/Uniswap/permit2) - 🔑🔑🔑 next generation token approvals mechanism
 *   [ProjectOpenSea/operator-filter-registry](https://github.com/ProjectOpenSea/operator-filter-registry) -
-
-## MDX
-
-*   [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app
 
 ## SCSS
 
