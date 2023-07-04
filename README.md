@@ -114,7 +114,7 @@
 *   [thirdweb-dev/solana](https://github.com/thirdweb-dev/solana) - Thirdweb Solana SDK
 *   [thekevinscott/UpscalerJS](https://github.com/thekevinscott/UpscalerJS) - Image Upscaling in Javascript. Increase image resolution up to 4x using Tensorflow.js.
 *   [helius-labs/helius-rpc-proxy](https://github.com/helius-labs/helius-rpc-proxy) - This repo hosts a one-click-deploy Cloudflare worker that proxies RPC requests to Helius.
-*   [erictik/midjourney-client](https://github.com/erictik/midjourney-client) - MidJourney client. Unofficial Node.js client
+*   [erictik/midjourney-api](https://github.com/erictik/midjourney-api) - MidJourney client. Unofficial Node.js client
 *   [erictik/midjourney-ui](https://github.com/erictik/midjourney-ui) - Midjourney UI is an open source AI painting UI based on Midjourney
 *   [maotoumao/midjourney-downloader](https://github.com/maotoumao/midjourney-downloader) - A script to download ALL Midjourney Images🎇
 *   [chriswells0/node-typescript-template](https://github.com/chriswells0/node-typescript-template) - A complete Node.js project template using TypeScript and following general best practices.
@@ -827,7 +827,7 @@
 *   [chakra-ui/frontity-chakra-ui-theme](https://github.com/chakra-ui/frontity-chakra-ui-theme) - A Frontity theme built with Chakra UI
 *   [creativetimofficial/argon-dashboard-chakra](https://github.com/creativetimofficial/argon-dashboard-chakra) -
 *   [ceteio/chakra-capsize](https://github.com/ceteio/chakra-capsize) - The power of capsize inside Chakra UI
-*   [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀
+*   [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀
 *   [creativetimofficial/notus-react](https://github.com/creativetimofficial/notus-react) - Notus React: Free Tailwind CSS UI Kit and Admin
 *   [BetterDiscord/BetterDiscord](https://github.com/BetterDiscord/BetterDiscord) - Better Discord enhances Discord desktop app with new features.
 *   [nextapps-de/spotlight](https://github.com/nextapps-de/spotlight) - Web's most easy to integrate lightbox gallery library. Super-lightweight, outstanding performance, no dependencies.
