@@ -279,7 +279,7 @@
 *   [solana-labs/solana-pay](https://github.com/solana-labs/solana-pay) - A new standard for decentralized payments.
 *   [thiswallz/react-cyber-elements](https://github.com/thiswallz/react-cyber-elements) - Library with cyber punk icons / shapes.
 *   [bluesky-social/atproto](https://github.com/bluesky-social/atproto) - Social networking technology created by Bluesky
-*   [synzen/MonitoRSS](https://github.com/synzen/MonitoRSS) - Discord RSS bot (formerly known as Discord.RSS) with customizable feeds. https://monitorss.xyz
+*   [synzen/MonitoRSS](https://github.com/synzen/MonitoRSS) - MonitoRSS RSS bot (formerly known as Discord.RSS) with customizable feeds. https://monitorss.xyz
 *   [samchon/typia](https://github.com/samchon/typia) - Super-easy/fast Runtime validator
 *   [sjinks/node-fetch-retry-ts](https://github.com/sjinks/node-fetch-retry-ts) - Adds retry functionality to fetch()
 *   [react-hook-form/resolvers](https://github.com/react-hook-form/resolvers) - 📋 Validation resolvers: Yup, Zod, AJV, Joi, Superstruct, Vest, class-validator, io-ts, typanion, Ajv, TypeBox and nope.
