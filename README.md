@@ -364,7 +364,7 @@
 *   [dimitropoulos/react-ui-roundup](https://github.com/dimitropoulos/react-ui-roundup) - A one-stop-shop for comparing the features of all the best React frameworks.  Useful for designers and engineers alike!
 *   [vedantnn71/create-chakra](https://github.com/vedantnn71/create-chakra) - 🌈 cli tool to scaffold chakra ui projects, without wasting time
 *   [MA-Ahmad/templatesKart](https://github.com/MA-Ahmad/templatesKart) - A powerful set of fully responsive and accessible ChakraUI React components and projects list
-*   [naver/billboard.js](https://github.com/naver/billboard.js) - :bar\_chart: Re-usable, easy interface JavaScript chart library based on D3.js
+*   [naver/billboard.js](https://github.com/naver/billboard.js) -  📊 Re-usable, easy interface JavaScript chart library based on D3.js
 *   [workbenchapp/solana-workbench](https://github.com/workbenchapp/solana-workbench) - Your one-stop shop for developing on Solana
 *   [kin-labs/kinetic](https://github.com/kin-labs/kinetic) -
 *   [jeffreylanters/react-unity-webgl](https://github.com/jeffreylanters/react-unity-webgl) - React Unity WebGL provides a modern solution for embedding Unity WebGL builds in your React Application while providing advanced APIs for two way communication and interaction between Unity and React.
