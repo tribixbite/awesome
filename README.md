@@ -190,7 +190,7 @@
 *   [elbywan/wretch](https://github.com/elbywan/wretch) - A tiny wrapper built around fetch with an intuitive syntax. :candy:
 *   [rileytomasek/zodix](https://github.com/rileytomasek/zodix) - Zod utilities for Remix loaders and actions.
 *   [octet-stream/then-busboy](https://github.com/octet-stream/then-busboy) - Promise-based wrapper around Busboy. Processes multipart/form-data request body and returns it in a single object.
-*   [rafasofizada/pechkin](https://github.com/rafasofizada/pechkin) - Pechkin is a modern, asynchronous, flexible and configurable Node.js library for handling file uploads (i.e. multipart/form-data requests), written in TypeScript.
+*   [rafasofizada/pechkin](https://github.com/rafasofizada/pechkin) - Asynchronous Node.js file upload (multipart/form-data) handling. Highly configurable, flexible, written in TypeScript.
 *   [octet-stream/form-data-encoder](https://github.com/octet-stream/form-data-encoder) - Encode FormData content into the multipart/form-data format
 *   [octet-stream/form-data](https://github.com/octet-stream/form-data) - Spec-compliant FormData implementation for Node.js
 *   [upload-io/upload-js](https://github.com/upload-io/upload-js) - Upload.js | Lightweight File Upload Library for Upload.io
