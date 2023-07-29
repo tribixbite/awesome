@@ -525,7 +525,7 @@
 *   [pixijs/pixijs](https://github.com/pixijs/pixijs) - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
 *   [themesberg/flowbite-react](https://github.com/themesberg/flowbite-react) - Official React components built for Flowbite and Tailwind CSS
 *   [whyour/qinglong](https://github.com/whyour/qinglong) - 支持 Python3、JavaScript、Shell、Typescript 的定时任务管理平台（Timed task management platform supporting Python3, JavaScript, Shell, Typescript）
-*   [privatenumber/tasuku](https://github.com/privatenumber/tasuku) - ✅ タスク — The minimal task runner for Node.js
+*   [privatenumber/tasuku](https://github.com/privatenumber/tasuku) - ✅ タスク — The minimal task visualizer for Node.js
 *   [listr2/listr2](https://github.com/listr2/listr2) - NodeJS Task List derived from the best! Create beautiful CLI interfaces via easy and logical to implement task lists that feel alive and interactive.
 *   [vagnersabadi/ionic-task-planner-app](https://github.com/vagnersabadi/ionic-task-planner-app) - :sunglasses: A beautiful task planner app design made in ionic 5.
 *   [libsugar/sugar.js](https://github.com/libsugar/sugar.js) - Like syntactic sugar, but is library
@@ -1084,7 +1084,7 @@
 ## Zig
 
 *   [lithdew/solana-zig](https://github.com/lithdew/solana-zig) - Write Solana programs in Zig.
-*   [hexops/mach](https://github.com/hexops/mach) - Mach is a game engine & graphics toolkit for the future.
+*   [hexops/mach](https://github.com/hexops/mach) - zig game engine & graphics toolkit
 *   [mkeeter/futureproof](https://github.com/mkeeter/futureproof) - A live editor for fragment shaders, powered by Neovim, WebGPU, and Zig!
 
 ## Go
