@@ -577,7 +577,6 @@
 *   [solana-developers/solana-cookbook](https://github.com/solana-developers/solana-cookbook) -
 *   [natterstefan/nextjs-template](https://github.com/natterstefan/nextjs-template) - A practical starter template for Nextjs, which has Tailwind, Cypress, Docker, Storybook, Jest, ESLint, Prettier, and more built-in. 🚀
 *   [ibrahima92/fullstack-typescript-mern-todo](https://github.com/ibrahima92/fullstack-typescript-mern-todo) - Full-stack TypeScript App with React, Nodejs and MongoDB
-*   [tapabratadey/crypto-investment-solana-nft](https://github.com/tapabratadey/crypto-investment-solana-nft) - Crypto Trading is a web app that displays information about various cryptocurrencies, lets users create a watchlist, and mint NFTs! (Coming soon: Trade!) 📝
 *   [saber-hq/saber-common](https://github.com/saber-hq/saber-common) - 🗡 Saber common utilities and libraries
 *   [vicyyn/sollectify](https://github.com/vicyyn/sollectify) - Sollectify is a creator-centric NFT marketplace where users on the platform can easily create, trade and sell non-fungible tokens (NFTs) for their unique digital items like artworks, game items and more.  Built on @solana ☀️ and @ProjectSerum
 *   [jferrer/expo-solana-wallet](https://github.com/jferrer/expo-solana-wallet) - Cross-Platform Solana Wallet built with Expo and Solana/web3.js
@@ -961,6 +960,7 @@
 *   [jonbloom/stonkbot](https://github.com/jonbloom/stonkbot) -
 *   [tylerburleigh/nike-buy-bot](https://github.com/tylerburleigh/nike-buy-bot) - A bot using Node.js / puppeteer that buys a Nike shoe when it drops
 *   [dkkocab/WebSiteBot\_PS5](https://github.com/dkkocab/WebSiteBot_PS5) - This is a bot that will buy a PS5 through Walmart. It's written in python and uses selenium to interact with web pages. *WORK IN PROGRESS*
+*   [oriziv/sync-files-blob-storage-ha](https://github.com/oriziv/sync-files-blob-storage-ha) -
 
 ## Java
 
