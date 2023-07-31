@@ -490,7 +490,6 @@
 *   [nftstorage/metaplex-auth](https://github.com/nftstorage/metaplex-auth) - A client library for nft.storage designed for metaplex NFT uploads
 *   [SimonHoiberg/saas-template](https://github.com/SimonHoiberg/saas-template) - SaaS template for AWS, Amplify, React, NextJS and Chakra
 *   [freeCodeCamp/100DaysOfCode-discord-bot](https://github.com/freeCodeCamp/100DaysOfCode-discord-bot) - A Discord bot created for the 100 Days of Code challenge.
-*   [jarrodwatts/trello-clone](https://github.com/jarrodwatts/trello-clone) - A fully functional Trello Clone using Next.JS with AWS Amplify, as well as TypeScript and Material UI.
 *   [rakannimer/todolist-amplify-nextjs](https://github.com/rakannimer/todolist-amplify-nextjs) - A server-rendered realtime collaborative todo list app with Next.js and AWS Amplify.
 *   [statikdev/sol-mint-list](https://github.com/statikdev/sol-mint-list) - tool to retrieve mint tokens with metadata from the Solana blockchain.
 *   [wonka-labs/wonka-js](https://github.com/wonka-labs/wonka-js) - Wonka JS is the easiest way to mint Metaplex's Candy Machine NFTs with APIs.
@@ -601,6 +600,7 @@
 *   [awslabs/fhir-works-on-aws-deployment](https://github.com/awslabs/fhir-works-on-aws-deployment) - A serverless implementation of the FHIR standard that enables users to focus more on their business needs/uniqueness rather than the FHIR specification
 *   [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
 *   [philipmulcahy/azad](https://github.com/philipmulcahy/azad) - amazon order history reporter chrome extension
+*   [jorenvandeweyer/snitch-bot](https://github.com/jorenvandeweyer/snitch-bot) - Discord bot that listen for certain strings in messages to tell you about them.
 
 ## Python
 
