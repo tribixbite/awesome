@@ -559,7 +559,7 @@
 *   [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
 *   [mapikit/meta-system](https://github.com/mapikit/meta-system) - A system to be any system.
 *   [airbnb/visx](https://github.com/airbnb/visx) - 🐯 visx | visualization components
-*   [salvia-kit/salvia-kit](https://github.com/salvia-kit/salvia-kit) - Provides 9 Free Beautiful dashboard templates built with Tailwind CSS for React, Next.js, Svelte, Vue and Nuxt.js
+*   [salvia-kit/salvia-kit](https://github.com/salvia-kit/salvia-kit) - Provides 10 Free Beautiful dashboard templates built with Tailwind CSS for React, Next.js, Svelte, Solid, Angular, Vue and Nuxt.js
 *   [wclr/yalc](https://github.com/wclr/yalc) - Work with yarn/npm packages locally like a boss.
 *   [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 *   [awslabs/fhir-works-on-aws-deployment](https://github.com/awslabs/fhir-works-on-aws-deployment) - A serverless implementation of the FHIR standard that enables users to focus more on their business needs/uniqueness rather than the FHIR specification
@@ -754,7 +754,7 @@
 *   [JakeChampion/fetch](https://github.com/JakeChampion/fetch) - A window.fetch JavaScript polyfill.
 *   [davila7/code-gpt-docs](https://github.com/davila7/code-gpt-docs) - Docusaurus page
 *   [round/Twitter-Links-beta](https://github.com/round/Twitter-Links-beta) - A browser extension to show the latest tweets that link to the current page.
-*   [TimMikeladze/tsup-react-package-starter](https://github.com/TimMikeladze/tsup-react-package-starter) - Create, build & publish React packages with ease. Typescript, PostCSS, Vitest & Storybook support out of the box. Integrates with Github releases and automatically publishes to NPM. Code is built using tsup.
+*   [TimMikeladze/tsup-react-package-starter](https://github.com/TimMikeladze/tsup-react-package-starter) - 📦 Create, build & publish React packages with ease. Typescript, PostCSS, Vitest & Storybook support out of the box. Integrates with Github releases and automatically publishes to NPM. Code is built using tsup.
 *   [sindresorhus/np](https://github.com/sindresorhus/np) - A better `npm publish`
 *   [webpack-contrib/webpack-bundle-analyzer](https://github.com/webpack-contrib/webpack-bundle-analyzer) - Webpack plugin and CLI utility that represents bundle content as convenient interactive zoomable treemap
 *   [transloadit/uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
@@ -851,7 +851,6 @@
 *   [fraserxu/react-chartist](https://github.com/fraserxu/react-chartist) - ⚛ React component for Chartist.js
 *   [Automattic/node-canvas](https://github.com/Automattic/node-canvas) - Node canvas is a Cairo backed Canvas implementation for NodeJS.
 *   [digitallyinduced/thin-backend](https://github.com/digitallyinduced/thin-backend) - 🔥 Thin Backend is a Blazing Fast, Universal Web App Backend for Making Realtime Single Page Apps
-*   [salvia-kit/dashboard-v1-nextjs](https://github.com/salvia-kit/dashboard-v1-nextjs) - Salvia-kit dashboard template v1 with Next.js
 *   [kevinfigueira/dashboardadmin](https://github.com/kevinfigueira/dashboardadmin) -
 *   [BraianVaylet/buildspace-epic-nfts-ui](https://github.com/BraianVaylet/buildspace-epic-nfts-ui) - 🐲 Epic NFTs \[UI] - Proyecto que te permitirá conectar tu billetera y acuñar un NFT, podrás revender el NFT en OpenSea. El NFT en sí se puede personalizar
 *   [creativetimofficial/purity-ui-dashboard](https://github.com/creativetimofficial/purity-ui-dashboard) - Purity UI Dashboard - Free and Open Source Chakra UI Dashboard
@@ -961,6 +960,7 @@
 *   [jonbloom/stonkbot](https://github.com/jonbloom/stonkbot) -
 *   [tylerburleigh/nike-buy-bot](https://github.com/tylerburleigh/nike-buy-bot) - A bot using Node.js / puppeteer that buys a Nike shoe when it drops
 *   [dkkocab/WebSiteBot\_PS5](https://github.com/dkkocab/WebSiteBot_PS5) - This is a bot that will buy a PS5 through Walmart. It's written in python and uses selenium to interact with web pages. *WORK IN PROGRESS*
+*   [oriziv/sync-files-blob-storage-ha](https://github.com/oriziv/sync-files-blob-storage-ha) -
 
 ## Java
 
