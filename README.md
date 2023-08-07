@@ -47,6 +47,7 @@
 
 ## TypeScript
 
+*   [TheNaubit/Minimal-Express-Zod-Api-Boilerplate](https://github.com/TheNaubit/Minimal-Express-Zod-Api-Boilerplate) - 📝 A minimal Express Zod API boilerplate, ready to clone and build!
 *   [motleylabs/nightmarket-oss](https://github.com/motleylabs/nightmarket-oss) - A Solana NFT marketplace built and owned by the community.
 *   [motleylabs/mtly-nightmarket](https://github.com/motleylabs/mtly-nightmarket) - An easy to use TypeScript API for interacting with the nightmarket.io marketplace contract.
 *   [mortuary-inc/mortuary-burn](https://github.com/mortuary-inc/mortuary-burn) -
@@ -960,7 +961,6 @@
 *   [jonbloom/stonkbot](https://github.com/jonbloom/stonkbot) -
 *   [tylerburleigh/nike-buy-bot](https://github.com/tylerburleigh/nike-buy-bot) - A bot using Node.js / puppeteer that buys a Nike shoe when it drops
 *   [dkkocab/WebSiteBot\_PS5](https://github.com/dkkocab/WebSiteBot_PS5) - This is a bot that will buy a PS5 through Walmart. It's written in python and uses selenium to interact with web pages. *WORK IN PROGRESS*
-*   [oriziv/sync-files-blob-storage-ha](https://github.com/oriziv/sync-files-blob-storage-ha) -
 
 ## Java
 
