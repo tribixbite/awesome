@@ -756,7 +756,7 @@
 *   [JakeChampion/fetch](https://github.com/JakeChampion/fetch) - A window.fetch JavaScript polyfill.
 *   [davila7/code-gpt-docs](https://github.com/davila7/code-gpt-docs) - Docusaurus page
 *   [round/Twitter-Links-beta](https://github.com/round/Twitter-Links-beta) - A browser extension to show the latest tweets that link to the current page.
-*   [TimMikeladze/tsup-react-package-starter](https://github.com/TimMikeladze/tsup-react-package-starter) - 📦 Develop & publish React packages with ease. Typescript, PostCSS, Vitest & Storybook support out of the box. Integrates with Github releases and automatically publishes to NPM. Code is built using tsup.
+*   [TimMikeladze/tsup-react-package-starter](https://github.com/TimMikeladze/tsup-react-package-starter) - 📦 Develop & publish React or Typescript packages with ease. PostCSS, Vitest & Storybook support out of the box. Integrates with Github releases and automatically publishes to NPM. Code is built using tsup.
 *   [sindresorhus/np](https://github.com/sindresorhus/np) - A better `npm publish`
 *   [webpack-contrib/webpack-bundle-analyzer](https://github.com/webpack-contrib/webpack-bundle-analyzer) - Webpack plugin and CLI utility that represents bundle content as convenient interactive zoomable treemap
 *   [transloadit/uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
