@@ -67,7 +67,7 @@
 *   [jonnydgreen/nifty-lil-tricks-monitoring](https://github.com/jonnydgreen/nifty-lil-tricks-monitoring) - A selection of nifty lil tricks for all things monitoring
 *   [open-telemetry/opentelemetry-js](https://github.com/open-telemetry/opentelemetry-js) - OpenTelemetry JavaScript Client
 *   [JS-DevTools/npm-publish](https://github.com/JS-DevTools/npm-publish) - GitHub Action to publish to NPM
-*   [alexop1000/RoZod](https://github.com/alexop1000/RoZod) -
+*   [alexop1000/RoZod](https://github.com/alexop1000/RoZod) - A TypeScript wrapper for the Roblox API
 *   [Shopify/blockchain-components](https://github.com/Shopify/blockchain-components) - Blockchain related React UI components for Shopify storefronts
 *   [Stability-AI/StableStudio](https://github.com/Stability-AI/StableStudio) - Community interface for generative AI
 *   [sandboxnu/searchneu](https://github.com/sandboxnu/searchneu) - Search over Classes, Professors and Employees at NEU!
@@ -154,7 +154,7 @@
 *   [elbywan/wretch](https://github.com/elbywan/wretch) - A tiny wrapper built around fetch with an intuitive syntax. :candy:
 *   [rileytomasek/zodix](https://github.com/rileytomasek/zodix) - Zod utilities for Remix loaders and actions.
 *   [octet-stream/then-busboy](https://github.com/octet-stream/then-busboy) - Promise-based wrapper around Busboy. Processes multipart/form-data request body and returns it in a single object.
-*   [rafasofizada/pechkin](https://github.com/rafasofizada/pechkin) - Asynchronous Node.js file upload (multipart/form-data) handling. Highly configurable, flexible, written in TypeScript.
+*   [rafasofizada/pechkin](https://github.com/rafasofizada/pechkin) - Asynchronous Node.js file upload (multipart/form-data) handling.
 *   [octet-stream/form-data-encoder](https://github.com/octet-stream/form-data-encoder) - Encode FormData content into the multipart/form-data format
 *   [octet-stream/form-data](https://github.com/octet-stream/form-data) - Spec-compliant FormData implementation for Node.js
 *   [upload-io/upload-js](https://github.com/upload-io/upload-js) - Upload.js | Lightweight File Upload Library for Upload.io
@@ -1006,6 +1006,7 @@
 *   [AnIdiotsGuide/discordjs-bot-guide](https://github.com/AnIdiotsGuide/discordjs-bot-guide) - The basic new coder friendly "idiot's guide", Created by Hindsight#2020 and maintained by the community.
 *   [joelparkerhenderson/stable-diffusion-macos-install-help](https://github.com/joelparkerhenderson/stable-diffusion-macos-install-help) - Stable Diffusion: macOS install help with homebrew, python, anaconda, dream, etc.
 *   [Maks-s/sd-akashic](https://github.com/Maks-s/sd-akashic) - A compendium of informations regarding Stable Diffusion (SD)
+*   [natmlx/natdevice](https://github.com/natmlx/natdevice) - High performance, cross-platform media device streaming for Unity Engine.
 *   [killop/anything\_about\_game](https://github.com/killop/anything_about_game) - A wonderful list of Game Development resources.
 *   [murlokito/awesome-solana-gaming](https://github.com/murlokito/awesome-solana-gaming) - 🏎️ A curated list of gaming projects building on Solana 🏎️
 *   [nh-server/switch-guide](https://github.com/nh-server/switch-guide) -
@@ -1072,7 +1073,6 @@
 *   [natmlx/natml-unity](https://github.com/natmlx/natml-unity) - High performance, cross-platform machine learning for Unity Engine. Register at https://hub.natml.ai
 *   [DarkRiftNetworking/DarkRift](https://github.com/DarkRiftNetworking/DarkRift) - DarkRift Networking by Unordinal
 *   [nftport/sample-unity3D-nft-metaverse-template](https://github.com/nftport/sample-unity3D-nft-metaverse-template) - Adv. Playground : Gallery - Customizable Unity Template
-*   [natmlx/natdevice](https://github.com/natmlx/natdevice) - High performance, cross-platform media device streaming for Unity Engine. Register at https://hub.natml.ai
 *   [Unity-Technologies/ml-agents](https://github.com/Unity-Technologies/ml-agents) - The Unity Machine Learning Agents Toolkit (ML-Agents) is an open-source project that enables games and simulations to serve as environments for training intelligent agents using deep reinforcement learning and imitation learning.
 *   [sttz/trimmer](https://github.com/sttz/trimmer) - An editor, build and player configuration framework for the Unity game engine.
 *   [Banana4Life/Drillromantik](https://github.com/Banana4Life/Drillromantik) -
