@@ -77,7 +77,7 @@
 *   [nass59/turborepo-nextjs](https://github.com/nass59/turborepo-nextjs) - TurboRepo with NextJS | Storybook
 *   [morinokami/next-zodenv](https://github.com/morinokami/next-zodenv) - next-zodenv makes dealing with environment variables in Next.js safer.
 *   [thirdweb-dev/solana](https://github.com/thirdweb-dev/solana) - Thirdweb Solana SDK
-*   [thekevinscott/UpscalerJS](https://github.com/thekevinscott/UpscalerJS) - Image Upscaling & Enhancement in Javascript. Increase image resolution up to 4x using Tensorflow.js. Deblur, denoise, and more.
+*   [thekevinscott/UpscalerJS](https://github.com/thekevinscott/UpscalerJS) - Enhance Images with Javascript and AI. Increase resolution, retouch, denoise, and more. Open Source, Browser & Node Compatible, MIT License.
 *   [helius-labs/helius-rpc-proxy](https://github.com/helius-labs/helius-rpc-proxy) - This repo hosts a one-click-deploy Cloudflare worker that proxies RPC requests to Helius.
 *   [erictik/midjourney-api](https://github.com/erictik/midjourney-api) - MidJourney client. Unofficial Node.js client
 *   [erictik/midjourney-ui](https://github.com/erictik/midjourney-ui) - Midjourney UI is an open source AI painting UI based on Midjourney
