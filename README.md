@@ -47,6 +47,10 @@
 
 ## TypeScript
 
+*   [MarkSackerberg/sol-metadata-update-preparer](https://github.com/MarkSackerberg/sol-metadata-update-preparer) -
+*   [MarkSackerberg/umi-cmv3-ui-inofficial](https://github.com/MarkSackerberg/umi-cmv3-ui-inofficial) -
+*   [solana-labs/solana-payments-app](https://github.com/solana-labs/solana-payments-app) - Solana Pay for Commerce Platforms
+*   [trankhacvy/cnft-tools](https://github.com/trankhacvy/cnft-tools) - A collection of no-code tools that allow you to interact with Compressed NFTs.
 *   [metaplex-foundation/mpl-bubblegum](https://github.com/metaplex-foundation/mpl-bubblegum) - Create and manage Metaplex compressed NFTs
 *   [metaplex-foundation/compression-read-api-js-examples](https://github.com/metaplex-foundation/compression-read-api-js-examples) -
 *   [loopcreativeandy/video-tutorial-resources](https://github.com/loopcreativeandy/video-tutorial-resources) -
@@ -573,6 +577,7 @@
 
 ## JavaScript
 
+*   [metaplex-foundation/developer-hub](https://github.com/metaplex-foundation/developer-hub) - \[WIP] One place for all Metaplex developer resources
 *   [MNisarAli/Metrics-Webapp](https://github.com/MNisarAli/Metrics-Webapp) - A single-page web application (SPA) that allows users to check world continents/countries' information, e.g; Population, Flags, Longitude, Latitude, etc.
 *   [fastify/light-my-request](https://github.com/fastify/light-my-request) - Fake HTTP injection library
 *   [Yakabuff/redarc](https://github.com/Yakabuff/redarc) - Collection of tools to view, search and create Reddit archives
@@ -804,8 +809,6 @@
 *   [not-an-aardvark/snoowrap](https://github.com/not-an-aardvark/snoowrap) - A JavaScript wrapper for the reddit API
 *   [vladikoff/chromeos-apk](https://github.com/vladikoff/chromeos-apk) - ☢️  Run Android Apps in Chrome OS OR Chrome in OS X, Linux and Windows.
 *   [bropat/ioBroker.eusec](https://github.com/bropat/ioBroker.eusec) - This ioBroker adapter allows to control Eufy security devices by connecting to the Eufy cloud servers.
-*   [brainwalletX/brainwalletX.github.io](https://github.com/brainwalletX/brainwalletX.github.io) - Brainwallet site
-*   [bitcoinjs/bip39](https://github.com/bitcoinjs/bip39) - JavaScript implementation of Bitcoin BIP39: Mnemonic code for generating deterministic keys
 
 ## miscellaneous
 
@@ -976,9 +979,6 @@
 *   [CAB426/HomeAssistant-Owlet](https://github.com/CAB426/HomeAssistant-Owlet) - Owlet Custom Component for Home Assistant
 *   [LandGrey/pydictor](https://github.com/LandGrey/pydictor) - A powerful and useful hacker dictionary builder for a brute-force attack
 *   [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
-*   [itkfilelor/drone\_mobile](https://github.com/itkfilelor/drone_mobile) - API wrapper for Drone Mobile remote car starter.
-*   [LedgerHQ/app-monero](https://github.com/LedgerHQ/app-monero) - Monero wallet application for Ledger Nano S & X
-*   [klattimer/LGWebOSRemote](https://github.com/klattimer/LGWebOSRemote) - Command line webOS remote for LGTVs
 
 ## C
 
