@@ -47,6 +47,7 @@
 
 ## TypeScript
 
+*   [256hax/solana-anchor-react-minimal-example](https://github.com/256hax/solana-anchor-react-minimal-example) - Solana, Anchor, Metaplex, React Minimal Example. Out of the Box, easy to start!
 *   [MarkSackerberg/sol-metadata-update-preparer](https://github.com/MarkSackerberg/sol-metadata-update-preparer) -
 *   [MarkSackerberg/umi-cmv3-ui-inofficial](https://github.com/MarkSackerberg/umi-cmv3-ui-inofficial) -
 *   [solana-labs/solana-payments-app](https://github.com/solana-labs/solana-payments-app) - Solana Pay for Commerce Platforms
@@ -808,7 +809,6 @@
 *   [claudioc/jingo](https://github.com/claudioc/jingo) - Node.js based Wiki
 *   [not-an-aardvark/snoowrap](https://github.com/not-an-aardvark/snoowrap) - A JavaScript wrapper for the reddit API
 *   [vladikoff/chromeos-apk](https://github.com/vladikoff/chromeos-apk) - ☢️  Run Android Apps in Chrome OS OR Chrome in OS X, Linux and Windows.
-*   [bropat/ioBroker.eusec](https://github.com/bropat/ioBroker.eusec) - This ioBroker adapter allows to control Eufy security devices by connecting to the Eufy cloud servers.
 
 ## miscellaneous
 
