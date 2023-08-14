@@ -47,6 +47,7 @@
 
 ## TypeScript
 
+*   [TipLink/opos-outliers](https://github.com/TipLink/opos-outliers) - This project was built for the Only Possible on Solana hackathon to showcase the power of compressed NFTs and TipLink.
 *   [256hax/solana-anchor-react-minimal-example](https://github.com/256hax/solana-anchor-react-minimal-example) - Solana, Anchor, Metaplex, React Minimal Example. Out of the Box, easy to start!
 *   [MarkSackerberg/sol-metadata-update-preparer](https://github.com/MarkSackerberg/sol-metadata-update-preparer) -
 *   [MarkSackerberg/umi-cmv3-ui-inofficial](https://github.com/MarkSackerberg/umi-cmv3-ui-inofficial) -
@@ -978,7 +979,6 @@
 *   [praw-dev/praw](https://github.com/praw-dev/praw) - PRAW, an acronym for "Python Reddit API Wrapper", is a python package that allows for simple access to Reddit's API.
 *   [CAB426/HomeAssistant-Owlet](https://github.com/CAB426/HomeAssistant-Owlet) - Owlet Custom Component for Home Assistant
 *   [LandGrey/pydictor](https://github.com/LandGrey/pydictor) - A powerful and useful hacker dictionary builder for a brute-force attack
-*   [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
 
 ## C
 
