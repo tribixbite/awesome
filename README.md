@@ -166,7 +166,7 @@
 *   [rafasofizada/pechkin](https://github.com/rafasofizada/pechkin) - Asynchronous Node.js file upload (multipart/form-data) handling.
 *   [octet-stream/form-data-encoder](https://github.com/octet-stream/form-data-encoder) - Encode FormData content into the multipart/form-data format
 *   [octet-stream/form-data](https://github.com/octet-stream/form-data) - Spec-compliant FormData implementation for Node.js
-*   [upload-io/upload-js](https://github.com/upload-io/upload-js) - Upload.js | Lightweight File Upload Library for Upload.io
+*   [bytescale/upload-js](https://github.com/bytescale/upload-js) - Upload.js | Lightweight File Upload Library for Upload.io
 *   [devconcept/multer-gridfs-storage](https://github.com/devconcept/multer-gridfs-storage) - 🍃 GridFS storage engine for Multer to store uploaded files directly to MongoDb
 *   [maraisr/meros](https://github.com/maraisr/meros) - 🪢 A fast utility that makes reading multipart responses simple
 *   [cstrnt/next-multiparty](https://github.com/cstrnt/next-multiparty) - Easy & Simple File Uploads for Next.js
