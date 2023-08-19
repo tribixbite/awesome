@@ -144,7 +144,7 @@
 *   [olup/zod-chatgpt](https://github.com/olup/zod-chatgpt) -
 *   [chubbyts/chubbyts-petstore](https://github.com/chubbyts/chubbyts-petstore) - An api skeleton using mongodb for chubbyts-framework.
 *   [weegigs/wee-events](https://github.com/weegigs/wee-events) - A light weight CQRS system for typescript
-*   [prosepilot/trpc-openapi](https://github.com/prosepilot/trpc-openapi) - OpenAPI support for tRPC 🧩
+*   [jlalmes/trpc-openapi](https://github.com/jlalmes/trpc-openapi) - OpenAPI support for tRPC 🧩
 *   [chubbyts/chubbyts-framework](https://github.com/chubbyts/chubbyts-framework) - A minimal, highly performant middleware PSR-15 inspired function based microframework built with as little complexity as possible, aimed primarily at those developers who want to understand all the vendors they use.
 *   [ts-rest/ts-rest](https://github.com/ts-rest/ts-rest) - RPC-like client, contract, and server implementation for a pure REST API
 *   [grammyjs/grammY](https://github.com/grammyjs/grammY) - The Telegram Bot Framework.
