@@ -47,6 +47,7 @@
 
 ## TypeScript
 
+*   [phantom/deep-link-demo-app](https://github.com/phantom/deep-link-demo-app) -
 *   [TipLink/opos-outliers](https://github.com/TipLink/opos-outliers) - This project was built for the Only Possible on Solana hackathon to showcase the power of compressed NFTs and TipLink.
 *   [256hax/solana-anchor-react-minimal-example](https://github.com/256hax/solana-anchor-react-minimal-example) - Solana, Anchor, Metaplex, React Minimal Example. Out of the Box, easy to start!
 *   [MarkSackerberg/sol-metadata-update-preparer](https://github.com/MarkSackerberg/sol-metadata-update-preparer) -
@@ -671,7 +672,7 @@
 *   [gemmysocial/raffle-api-public](https://github.com/gemmysocial/raffle-api-public) - Open source backend for Gemmy raffle tool
 *   [portsmouth/Trinity](https://github.com/portsmouth/Trinity) - Programmable 3D fluid simulator running in WebGL.
 *   [tomayac/SVGcode](https://github.com/tomayac/SVGcode) - Convert color bitmap images to color SVG vector images.
-*   [feathericons/feather](https://github.com/feathericons/feather) - Simply beautiful open source icons
+*   [feathericons/feather](https://github.com/feathericons/feather) - Simply beautiful open-source icons
 *   [rebassjs/rebass](https://github.com/rebassjs/rebass) - :atom\_symbol: React primitive UI components built with styled-system.
 *   [Crossmint/sheets-no-code-minter](https://github.com/Crossmint/sheets-no-code-minter) - Google Sheets Implementation against the Mint API
 *   [creationix/jsonparse](https://github.com/creationix/jsonparse) - A streaming JSON parser written in pure JavaScript for node.js
@@ -809,7 +810,6 @@
 *   [sudheerj/reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions) - List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!
 *   [claudioc/jingo](https://github.com/claudioc/jingo) - Node.js based Wiki
 *   [not-an-aardvark/snoowrap](https://github.com/not-an-aardvark/snoowrap) - A JavaScript wrapper for the reddit API
-*   [vladikoff/chromeos-apk](https://github.com/vladikoff/chromeos-apk) - ☢️  Run Android Apps in Chrome OS OR Chrome in OS X, Linux and Windows.
 
 ## miscellaneous
 
