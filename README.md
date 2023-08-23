@@ -47,6 +47,8 @@
 
 ## TypeScript
 
+*   [painedpineapple/cnft-solana-scripts](https://github.com/painedpineapple/cnft-solana-scripts) -
+*   [qudo-code/compressed-bananas](https://github.com/qudo-code/compressed-bananas) -
 *   [helius-labs/helius-sdk](https://github.com/helius-labs/helius-sdk) -
 *   [solana-developers/compressed-nfts](https://github.com/solana-developers/compressed-nfts) - Example code to use compressed NFTs (using state compression) on Solana
 *   [hauchu1998/governance-ui](https://github.com/hauchu1998/governance-ui) -
@@ -112,7 +114,7 @@
 *   [Bunlong/react-papaparse](https://github.com/Bunlong/react-papaparse) - react-papaparse is the fastest in-browser CSV (or delimited text) parser for React. It is full of useful features such as CSVReader, CSVDownloader, readString, jsonToCSV, readRemoteFile, ... etc.
 *   [Bunlong/react-screen-capture](https://github.com/Bunlong/react-screen-capture) - A tiny React library allows you to take a snapshot of the webpage's screen or part of the screen.
 *   [Bunlong/next-share](https://github.com/Bunlong/next-share) - Social media share buttons for your next React apps.
-*   [Bunlong/next-time-ago](https://github.com/Bunlong/next-time-ago) - A lightweight tiny time-ago component for your next React apps.
+*   [Bunlong/next-timeago](https://github.com/Bunlong/next-timeago) - React timeago component for your next React apps.
 *   [tomfong/simple-qr](https://github.com/tomfong/simple-qr) - Simple QR, a simple and lightweight app to scan, create and store QR codes.
 *   [kiliman/remix-params-helper](https://github.com/kiliman/remix-params-helper) - This package makes it simple to use Zod with standard URLSearchParams and FormData which are typically used in Remix apps.
 *   [vitest-dev/vitest](https://github.com/vitest-dev/vitest) - A Vite-native test framework. It's fast!
@@ -893,7 +895,6 @@
 *   [typescript-cheatsheets/react](https://github.com/typescript-cheatsheets/react) - Cheatsheets for experienced React developers getting started with TypeScript
 *   [iamadamdev/bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass Paywalls web browser extension for Chrome and Firefox.
 *   [sudheerj/reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions) - List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!
-*   [claudioc/jingo](https://github.com/claudioc/jingo) - Node.js based Wiki
 
 ## PHP
 
@@ -996,7 +997,6 @@
 *   [ollo69/ha-smartthinq-sensors](https://github.com/ollo69/ha-smartthinq-sensors) - HomeAssistant custom integration for SmartThinQ LG devices configurable with Lovelace User Interface.
 *   [ct-Open-Source/tuya-convert](https://github.com/ct-Open-Source/tuya-convert) - A collection of scripts to flash Tuya IoT devices to alternative firmwares
 *   [jlamendo/ha-sensor.owlet](https://github.com/jlamendo/ha-sensor.owlet) - Owlet Smart Sock v2/v3 Sensor Integration for HomeAssistant using the modern Owlet API.
-*   [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown.
 
 ## C
 
