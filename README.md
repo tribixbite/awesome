@@ -47,6 +47,7 @@
 
 ## TypeScript
 
+*   [trankhacvy/solana-nextjs-starter](https://github.com/trankhacvy/solana-nextjs-starter) - A Solana-powered Next.js boilerplate app for building efficient and scalable web applications.
 *   [painedpineapple/cnft-solana-scripts](https://github.com/painedpineapple/cnft-solana-scripts) -
 *   [qudo-code/compressed-bananas](https://github.com/qudo-code/compressed-bananas) -
 *   [helius-labs/helius-sdk](https://github.com/helius-labs/helius-sdk) -
@@ -996,7 +997,6 @@
 *   [ToyKeeper/fuckometer](https://github.com/ToyKeeper/fuckometer) - How fucked are you right now? A tool to help you give a fuck so you can get less fucked.  Track several aspects of life and boil them down to a single number with graphs and productivity suggestions.
 *   [ollo69/ha-smartthinq-sensors](https://github.com/ollo69/ha-smartthinq-sensors) - HomeAssistant custom integration for SmartThinQ LG devices configurable with Lovelace User Interface.
 *   [ct-Open-Source/tuya-convert](https://github.com/ct-Open-Source/tuya-convert) - A collection of scripts to flash Tuya IoT devices to alternative firmwares
-*   [jlamendo/ha-sensor.owlet](https://github.com/jlamendo/ha-sensor.owlet) - Owlet Smart Sock v2/v3 Sensor Integration for HomeAssistant using the modern Owlet API.
 
 ## C
 
