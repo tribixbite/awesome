@@ -294,7 +294,7 @@
 *   [lachlanhawthorne/tamagui-supabase-todos-quickstart](https://github.com/lachlanhawthorne/tamagui-supabase-todos-quickstart) - Tamagui with Supabase, Expo, Next.js, Solito and Jotai
 *   [amosbastian/nx-expo-nextjs-tamagui](https://github.com/amosbastian/nx-expo-nextjs-tamagui) - Nx, Tamagui, Solito, Expo & Next.js example template
 *   [bonnguyenitc/react-native-starter](https://github.com/bonnguyenitc/react-native-starter) - 🚀🚀 A RN Boilerplate high scalability, full features to starter a new your app. Let's BUILD 🚀🚀 ADD new component everyday
-*   [tamagui/tamagui](https://github.com/tamagui/tamagui) - The fastest React styling library that just happens to work on native, too.
+*   [tamagui/tamagui](https://github.com/tamagui/tamagui) - The fastest React style library just happens to work on native, too.
 *   [GeekyAnts/NativeBase](https://github.com/GeekyAnts/NativeBase) - Mobile-first, accessible components for React Native & Web to build consistent UI across Android, iOS and Web.
 *   [triggerdotdev/jsonhero-web](https://github.com/triggerdotdev/jsonhero-web) - JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀. Built with 💜 by the Trigger.dev team.
 *   [taye/interact.js](https://github.com/taye/interact.js) - JavaScript drag and drop, resizing and multi-touch gestures with inertia and snapping for modern browsers (and also IE9+)
@@ -436,7 +436,6 @@
 *   [react-component/tree](https://github.com/react-component/tree) - React Tree
 *   [hauptrolle/chakra-templates](https://github.com/hauptrolle/chakra-templates) - A growing collection of responsive Chakra UI Templates ready to drop into your React project.
 *   [BuilderIO/builder](https://github.com/BuilderIO/builder) - Drag and drop headless CMS for React, Vue, Svelte, Qwik, and more
-*   [kodingdotninja/chakra-icons](https://github.com/kodingdotninja/chakra-icons) - Transform SVGs to React Chakra UI \<Icon /> ✨
 *   [BearStudio/start-ui-web](https://github.com/BearStudio/start-ui-web) - 🚀 Start UI \[web] is an opinionated UI starter with ⚛️  React, ▲ NextJS,  ⚡️ Chakra UI,  ⚛️  TanStack Query & 🐜  Formiz — From the 🐻  BearStudio Team
 *   [sozonome/nextarter-chakra](https://github.com/sozonome/nextarter-chakra) - battery packed template / boilerplate to initialize Next.js app with Chakra UI & Typescript setup ✨
 *   [dimitropoulos/react-ui-roundup](https://github.com/dimitropoulos/react-ui-roundup) - A one-stop-shop for comparing the features of all the best React frameworks.  Useful for designers and engineers alike!
@@ -878,6 +877,7 @@
 *   [ceteio/chakra-capsize](https://github.com/ceteio/chakra-capsize) - The power of capsize inside Chakra UI
 *   [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀
 *   [creativetimofficial/notus-react](https://github.com/creativetimofficial/notus-react) - Notus React: Free Tailwind CSS UI Kit and Admin
+*   [kodingdotninja/chakra-icons](https://github.com/kodingdotninja/chakra-icons) - Transform SVGs to React Chakra UI \<Icon /> ✨
 *   [BetterDiscord/BetterDiscord](https://github.com/BetterDiscord/BetterDiscord) - Better Discord enhances Discord desktop app with new features.
 *   [nextapps-de/spotlight](https://github.com/nextapps-de/spotlight) - Web's most easy to integrate lightbox gallery library. Super-lightweight, outstanding performance, no dependencies.
 *   [dimsemenov/PhotoSwipe](https://github.com/dimsemenov/PhotoSwipe) - JavaScript image gallery for mobile and desktop, modular, framework independent
