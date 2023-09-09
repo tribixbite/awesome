@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+*   [Elixir](#elixir)
 *   [Python](#python)
 *   [TypeScript](#typescript)
 *   [Dart](#dart)
@@ -44,6 +45,10 @@
 *   [AutoIt](#autoit)
 *   [AutoHotkey](#autohotkey)
 *   [Visual Basic .NET](#visual-basic-net)
+
+## Elixir
+
+*   [cbh123/emoji](https://github.com/cbh123/emoji) - Make emojis for slack using AI
 
 ## Python
 
@@ -765,7 +770,6 @@
 *   [mbeaudru/modern-js-cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet) - Cheatsheet for the JavaScript knowledge you will frequently encounter in modern projects.
 *   [typescript-cheatsheets/react-typescript-cheatsheet-es](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet-es) - Cheatsheets para desarrolladores expertos en React que comienzan con TypeScript
 *   [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue) - 🎉 A curated list of awesome things related to Vue.js
-*   [hakluke/how-to-exit-vim](https://github.com/hakluke/how-to-exit-vim) - Below are some simple methods for exiting vim.
 
 ## JavaScript
 
