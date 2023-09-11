@@ -1061,7 +1061,7 @@
 
 *   [ripmeapp2/ripme](https://github.com/ripmeapp2/ripme) - Downloads albums in bulk
 *   [storyofdavid/Android-WorkoutTracker](https://github.com/storyofdavid/Android-WorkoutTracker) - Free to use demo repo of an android workout tracker application
-*   [arjun23496/BluetoothPeripheral](https://github.com/arjun23496/BluetoothPeripheral) -
+*   [arjunkaruvally/BluetoothPeripheral](https://github.com/arjunkaruvally/BluetoothPeripheral) -
 *   [solana-developers/dapp-scaffold-react-native](https://github.com/solana-developers/dapp-scaffold-react-native) - dApp scaffold for react native apps
 *   [fusetools/react-native-unity2](https://github.com/fusetools/react-native-unity2) - Embed Unity content in your React Native app!
 *   [azesmway/react-native-unity](https://github.com/azesmway/react-native-unity) -
