@@ -51,6 +51,7 @@
 
 ## TypeScript
 
+*   [steven-tey/dub](https://github.com/steven-tey/dub) - An open-source link shortener with built-in analytics + free custom domains.
 *   [TreeFarmer/embed-table](https://github.com/TreeFarmer/embed-table) - Easily make nice looking text tables for Discord's embed fields and descriptions.
 *   [fastly/next-compute-js](https://github.com/fastly/next-compute-js) - Run Next.js on Compute@Edge
 *   [pmcelhaney/counterfact](https://github.com/pmcelhaney/counterfact) - OpenAPI / Swagger to TypeScript generator and mock server
@@ -827,7 +828,6 @@
 *   [mdbootstrap/Black-Friday-2022](https://github.com/mdbootstrap/Black-Friday-2022) - Black Friday & Cyber Monday Deals (UI Kits WordPress Plugins, CRMs, SEO, Courses, Books) for web developers, programmers, and software engineers.
 *   [RitikPatni/Front-End-Web-Development-Resources](https://github.com/RitikPatni/Front-End-Web-Development-Resources) - This repository contains content which will be helpful in your journey as a front-end Web Developer
 *   [tribixbite/Settlers-game-pieces](https://github.com/tribixbite/Settlers-game-pieces) - 3D printable Settlers of Catan tiles
-*   [Intrinsically-Sublime/Settlers-game-pieces](https://github.com/Intrinsically-Sublime/Settlers-game-pieces) - 3D printable Settlers of Catan tiles
 
 ## JavaScript
 
