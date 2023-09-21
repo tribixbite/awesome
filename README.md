@@ -218,7 +218,7 @@
 *   [lachlanhawthorne/tamagui-supabase-todos-quickstart](https://github.com/lachlanhawthorne/tamagui-supabase-todos-quickstart) - Tamagui with Supabase, Expo, Next.js, Solito and Jotai
 *   [amosbastian/nx-expo-nextjs-tamagui](https://github.com/amosbastian/nx-expo-nextjs-tamagui) - Nx, Tamagui, Solito, Expo & Next.js example template
 *   [bonnguyenitc/react-native-starter](https://github.com/bonnguyenitc/react-native-starter) - 🚀🚀 A RN Boilerplate high scalability, full features to starter a new your app. Let's BUILD 🚀🚀 ADD new component everyday
-*   [tamagui/tamagui](https://github.com/tamagui/tamagui) - The fastest React style library just happens to work on native, too.
+*   [tamagui/tamagui](https://github.com/tamagui/tamagui) - A style library, UI kit, and optimizing compiler that makes React run faster - on both native and web
 *   [GeekyAnts/NativeBase](https://github.com/GeekyAnts/NativeBase) - Mobile-first, accessible components for React Native & Web to build consistent UI across Android, iOS and Web.
 *   [triggerdotdev/jsonhero-web](https://github.com/triggerdotdev/jsonhero-web) - JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀. Built with 💜 by the Trigger.dev team.
 *   [taye/interact.js](https://github.com/taye/interact.js) - JavaScript drag and drop, resizing and multi-touch gestures with inertia and snapping for modern browsers (and also IE9+)
@@ -388,7 +388,6 @@
 *   [raydium-io/raydium-frontend](https://github.com/raydium-io/raydium-frontend) - Raydium Frontend V2
 *   [raydium-io/raydium-sdk](https://github.com/raydium-io/raydium-sdk) - An SDK for building applications on top of Raydium.
 *   [openocean-finance/openocean-api](https://github.com/openocean-finance/openocean-api) - openocean sdk
-*   [cardinal-labs/staking](https://github.com/cardinal-labs/staking) - Cardinal staking encompasses a suite of contracts for issuing and staking NFTs and FTs on Solana. The simple program is a stake pool that tracks total stake duration and plugs into arbitrary reward distributors for rewarding staking.
 *   [gemworks/gem-farm](https://github.com/gemworks/gem-farm) - Configurable staking for NFT Projects on Solana
 *   [solana-labs/break](https://github.com/solana-labs/break) - Break Solana Game
 *   [GenesysGo/shadow-drive](https://github.com/GenesysGo/shadow-drive) -
@@ -831,6 +830,7 @@
 *   [aderusha/DDD-Printable-Wall-Control-System](https://github.com/aderusha/DDD-Printable-Wall-Control-System) - DDD Printable Wall Control System, 3d printable organization solutions for Wall Control pegboards
 *   [mdbootstrap/Black-Friday-2022](https://github.com/mdbootstrap/Black-Friday-2022) - Black Friday & Cyber Monday Deals (UI Kits WordPress Plugins, CRMs, SEO, Courses, Books) for web developers, programmers, and software engineers.
 *   [RitikPatni/Front-End-Web-Development-Resources](https://github.com/RitikPatni/Front-End-Web-Development-Resources) - This repository contains content which will be helpful in your journey as a front-end Web Developer
+*   [tribixbite/Settlers-game-pieces](https://github.com/tribixbite/Settlers-game-pieces) - 3D printable Settlers of Catan tiles
 
 ## JavaScript
 
