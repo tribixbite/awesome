@@ -260,7 +260,6 @@
 *   [identity-com/cryptid](https://github.com/identity-com/cryptid) - Solana DID-aware on-chain signer and wallet integrations
 *   [metaplex-foundation/solita](https://github.com/metaplex-foundation/solita) - Genrates an SDK API from solana contract IDL.
 *   [coral-xyz/xnft](https://github.com/coral-xyz/xnft) - 🚀 Executable NFT Protocol and Marketplace
-*   [solana-nft-programs/minting-ui](https://github.com/solana-nft-programs/minting-ui) - Cardinal minting UI is a simple interface for minting tokens on Solana. Typically this uses a version of one or more metaplex candy-machine deployments but can also use other minting contracts as well.
 *   [Metapass/metapass-v2](https://github.com/Metapass/metapass-v2) - Onchain NFT ticketing for events, live on @0xPolygon and @Solana
 *   [weiran-zsd/dts-cli](https://github.com/weiran-zsd/dts-cli) - Zero-config CLI for TypeScript package development
 *   [NiGhTTraX/ts-monorepo](https://github.com/NiGhTTraX/ts-monorepo) - Template for setting up a TypeScript monorepo
@@ -341,7 +340,7 @@
 *   [project-serum/oyster-swap](https://github.com/project-serum/oyster-swap) -
 *   [metaplex-foundation/js](https://github.com/metaplex-foundation/js) - A JavaScript SDK for interacting with Metaplex's programs
 *   [StrataFoundation/strata](https://github.com/StrataFoundation/strata) - Strata Protocol is an open-source protocol to launch tokens around a person, project, idea, or collective on Solana.
-*   [solana-nft-programs/staking-ui](https://github.com/solana-nft-programs/staking-ui) - The UI for staking NFTs on Solana. Cardinal staking UI can be treated as an admin interface for stake pools hosted by cardinal-staking as well as a barebones end-user staking UI
+*   [solana-nft-programs/staking-ui](https://github.com/solana-nft-programs/staking-ui) - The UI for staking NFTs on Solana.Staking UI can be treated as an admin interface for stake pools as well as a barebones end-user staking UI
 *   [game-ci/unity-builder](https://github.com/game-ci/unity-builder) - Build Unity projects for different platforms
 *   [JamesIves/github-pages-deploy-action](https://github.com/JamesIves/github-pages-deploy-action) - 🚀 Automatically deploy your project to GitHub Pages using GitHub Actions. This action can be configured to push your production-ready code into any branch you'd like.
 *   [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy.
@@ -733,6 +732,7 @@
 *   [CarlosGS/Cyclone-PCB-Factory](https://github.com/CarlosGS/Cyclone-PCB-Factory) - Cyclone (Circuit Cloner) is a CNC mill intended for PCB manufacturing.
 *   [tribixbite/WebPutty](https://github.com/tribixbite/WebPutty) -
 *   [tribixbite/gmvault](https://github.com/tribixbite/gmvault) - gmail backup software
+*   [glitchdotcom/WebPutty](https://github.com/glitchdotcom/WebPutty) - WebPutty is a simple CSS editing and hosting service that you can run on Google App Engine.
 
 ## Dart
 
