@@ -4,9 +4,9 @@
 
 ## Table of Contents
 
+*   [TypeScript](#typescript)
 *   [Svelte](#svelte)
 *   [Elixir](#elixir)
-*   [TypeScript](#typescript)
 *   [Python](#python)
 *   [Dart](#dart)
 *   [C#](#c)
@@ -50,17 +50,9 @@
 *   [Clojure](#clojure)
 *   [Arduino](#arduino)
 
-## Svelte
-
-*   [inngest/typedwebhook.tools](https://github.com/inngest/typedwebhook.tools) - A webhook testing tool for checking payloads, with automatic type generation
-
-## Elixir
-
-*   [phoenixframework/phoenix](https://github.com/phoenixframework/phoenix) - Peace of mind from prototype to production
-*   [cbh123/emoji](https://github.com/cbh123/emoji) - Make emojis for slack using AI
-
 ## TypeScript
 
+*   [crhistianramirez/react-hook-form-chakra](https://github.com/crhistianramirez/react-hook-form-chakra) - Chakra UI bindings for react-hook-form
 *   [steven-tey/dub](https://github.com/steven-tey/dub) - An open-source link shortener with built-in analytics + free custom domains.
 *   [TreeFarmer/embed-table](https://github.com/TreeFarmer/embed-table) - Easily make nice looking text tables for Discord's embed fields and descriptions.
 *   [fastly/next-compute-js](https://github.com/fastly/next-compute-js) - Run Next.js on Compute@Edge
@@ -609,6 +601,15 @@
 *   [luludotdev/beatsaver-reloaded](https://github.com/luludotdev/beatsaver-reloaded) - BeatSaver Again
 *   [DominicMaas/TimelineExtension](https://github.com/DominicMaas/TimelineExtension) - Windows Timeline & Project Rome Web Extension
 
+## Svelte
+
+*   [inngest/typedwebhook.tools](https://github.com/inngest/typedwebhook.tools) - A webhook testing tool for checking payloads, with automatic type generation
+
+## Elixir
+
+*   [phoenixframework/phoenix](https://github.com/phoenixframework/phoenix) - Peace of mind from prototype to production
+*   [cbh123/emoji](https://github.com/cbh123/emoji) - Make emojis for slack using AI
+
 ## Python
 
 *   [Pythagora-io/gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) - Dev tool that writes scalable apps from scratch while the developer oversees the implementation
@@ -733,7 +734,6 @@
 *   [CarlosGS/Cyclone-PCB-Factory](https://github.com/CarlosGS/Cyclone-PCB-Factory) - Cyclone (Circuit Cloner) is a CNC mill intended for PCB manufacturing.
 *   [tribixbite/WebPutty](https://github.com/tribixbite/WebPutty) -
 *   [tribixbite/gmvault](https://github.com/tribixbite/gmvault) - gmail backup software
-*   [glitchdotcom/WebPutty](https://github.com/glitchdotcom/WebPutty) - WebPutty is a simple CSS editing and hosting service that you can run on Google App Engine.
 
 ## Dart
 
