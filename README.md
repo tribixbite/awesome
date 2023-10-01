@@ -4,18 +4,18 @@
 
 ## Table of Contents
 
+*   [C++](#c)
 *   [TypeScript](#typescript)
 *   [Svelte](#svelte)
 *   [Elixir](#elixir)
 *   [Python](#python)
 *   [Dart](#dart)
-*   [C#](#c)
+*   [C#](#c-1)
 *   [miscellaneous](#miscellaneous)
 *   [JavaScript](#javascript)
 *   [Rust](#rust)
 *   [PHP](#php)
-*   [C](#c-1)
-*   [C++](#c-2)
+*   [C](#c-2)
 *   [Kotlin](#kotlin)
 *   [Java](#java)
 *   [Shell](#shell)
@@ -49,6 +49,30 @@
 *   [R](#r)
 *   [Clojure](#clojure)
 *   [Arduino](#arduino)
+
+## C++
+
+*   [sanni/cartreader](https://github.com/sanni/cartreader) - A shield for the Arduino Mega that can back up video game cartridges.
+*   [c0re100/qBittorrent-Enhanced-Edition](https://github.com/c0re100/qBittorrent-Enhanced-Edition) - \[Unofficial] qBittorrent Enhanced, based on qBittorrent
+*   [XorTroll/emuiibo](https://github.com/XorTroll/emuiibo) - Virtual amiibo (amiibo emulation) system for Nintendo Switch
+*   [AmusementClub/vs-mlrt](https://github.com/AmusementClub/vs-mlrt) - Efficient CPU/GPU/Vulkan ML Runtimes for VapourSynth (with built-in support for waifu2x, DPIR, RealESRGANv2/v3, Real-CUGAN, RIFE and more!)
+*   [codingo/DNSCewl](https://github.com/codingo/DNSCewl) - A DNS Bruteforcing Wordlist Generator
+*   [AaronFeng753/Waifu2x-Extension-GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI) - Video, Image and GIF upscale/enlarge(Super-Resolution) and Video frame interpolation. Achieved with Waifu2x,  Real-ESRGAN, Real-CUGAN, RTX Video Super Resolution VSR, SRMD, RealSR, Anime4K, RIFE, IFRNet, CAIN, DAIN,  and ACNet.
+*   [opencv/opencv](https://github.com/opencv/opencv) - Open Source Computer Vision Library
+*   [mongodb/mongo](https://github.com/mongodb/mongo) - The MongoDB Database
+*   [NerdLang/nerd](https://github.com/NerdLang/nerd) - 🔱 Javascript's God Mode. No VM. No Bytecode. No GC. Just native binaries.
+*   [shajen/rtl-sdr-scanner-cpp](https://github.com/shajen/rtl-sdr-scanner-cpp) -
+*   [berthubert/googerteller](https://github.com/berthubert/googerteller) - audible feedback on just how much your browsing feeds into google
+*   [f3d-app/f3d](https://github.com/f3d-app/f3d) - Fast and minimalist 3D viewer.
+*   [bkaradzic/bgfx](https://github.com/bkaradzic/bgfx) - Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style rendering library.
+*   [typesense/typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
+*   [google-deepmind/code\_contests](https://github.com/google-deepmind/code_contests) -
+*   [yuzu-emu/yuzu](https://github.com/yuzu-emu/yuzu) - Nintendo Switch emulator
+*   [HASwitchPlate/openHASP](https://github.com/HASwitchPlate/openHASP) - HomeAutomation Switchplate based on lvgl for ESP32
+*   [esphome/esphome](https://github.com/esphome/esphome) - ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems.
+*   [mozilla/DeepSpeech](https://github.com/mozilla/DeepSpeech) - DeepSpeech is an open source embedded (offline, on-device) speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers.
+*   [projectM-visualizer/projectm](https://github.com/projectM-visualizer/projectm) - projectM - Cross-platform Music Visualization Library. Open-source and Milkdrop-compatible.
+*   [x64dbg/x64dbg](https://github.com/x64dbg/x64dbg) - An open-source user mode debugger for Windows. Optimized for reverse engineering and malware analysis.
 
 ## TypeScript
 
@@ -507,7 +531,7 @@
 *   [refinedev/refine](https://github.com/refinedev/refine) - Build your React-based CRUD applications, without constraints. 🌟 Star to support our work!
 *   [rowyio/rowy](https://github.com/rowyio/rowy) - Low-code backend platform. Manage database on spreadsheet-like UI and build cloud functions workflows in JS/TS, all in your browser.
 *   [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
-*   [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build Fast. Scale Big. All in One Place. Cloud is now available in public beta. 🌩
+*   [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds\_
 *   [BuilderIO/figma-html](https://github.com/BuilderIO/figma-html) - Builder.io for Figma: AI generation, export to code, import from web
 *   [BuilderIO/mitosis](https://github.com/BuilderIO/mitosis) - Write components once, run everywhere. Compiles to React, Vue, Qwik, Solid, Angular, Svelte, and more.
 *   [BuilderIO/vscode](https://github.com/BuilderIO/vscode) - Builder.io for VSCode - turn designs into code!
@@ -830,7 +854,6 @@
 *   [aderusha/DDD-Printable-Wall-Control-System](https://github.com/aderusha/DDD-Printable-Wall-Control-System) - DDD Printable Wall Control System, 3d printable organization solutions for Wall Control pegboards
 *   [mdbootstrap/Black-Friday-2022](https://github.com/mdbootstrap/Black-Friday-2022) - Black Friday & Cyber Monday Deals (UI Kits WordPress Plugins, CRMs, SEO, Courses, Books) for web developers, programmers, and software engineers.
 *   [RitikPatni/Front-End-Web-Development-Resources](https://github.com/RitikPatni/Front-End-Web-Development-Resources) - This repository contains content which will be helpful in your journey as a front-end Web Developer
-*   [tribixbite/Settlers-game-pieces](https://github.com/tribixbite/Settlers-game-pieces) - 3D printable Settlers of Catan tiles
 
 ## JavaScript
 
@@ -1133,29 +1156,6 @@
 *   [vanbwodonk/leonardoUploader](https://github.com/vanbwodonk/leonardoUploader) - A binary command for upload .hex to Arduino Leonardo CDC bootloader.
 *   [oblitum/Interception](https://github.com/oblitum/Interception) - The Interception API aims to build a portable programming interface that allows one to intercept and control a range of input devices.
 *   [zapta/misc](https://github.com/zapta/misc) - Miscelenous
-
-## C++
-
-*   [c0re100/qBittorrent-Enhanced-Edition](https://github.com/c0re100/qBittorrent-Enhanced-Edition) - \[Unofficial] qBittorrent Enhanced, based on qBittorrent
-*   [XorTroll/emuiibo](https://github.com/XorTroll/emuiibo) - Virtual amiibo (amiibo emulation) system for Nintendo Switch
-*   [AmusementClub/vs-mlrt](https://github.com/AmusementClub/vs-mlrt) - Efficient CPU/GPU/Vulkan ML Runtimes for VapourSynth (with built-in support for waifu2x, DPIR, RealESRGANv2/v3, Real-CUGAN, RIFE and more!)
-*   [codingo/DNSCewl](https://github.com/codingo/DNSCewl) - A DNS Bruteforcing Wordlist Generator
-*   [AaronFeng753/Waifu2x-Extension-GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI) - Video, Image and GIF upscale/enlarge(Super-Resolution) and Video frame interpolation. Achieved with Waifu2x,  Real-ESRGAN, Real-CUGAN, RTX Video Super Resolution VSR, SRMD, RealSR, Anime4K, RIFE, IFRNet, CAIN, DAIN,  and ACNet.
-*   [opencv/opencv](https://github.com/opencv/opencv) - Open Source Computer Vision Library
-*   [mongodb/mongo](https://github.com/mongodb/mongo) - The MongoDB Database
-*   [NerdLang/nerd](https://github.com/NerdLang/nerd) - 🔱 Javascript's God Mode. No VM. No Bytecode. No GC. Just native binaries.
-*   [shajen/rtl-sdr-scanner-cpp](https://github.com/shajen/rtl-sdr-scanner-cpp) -
-*   [berthubert/googerteller](https://github.com/berthubert/googerteller) - audible feedback on just how much your browsing feeds into google
-*   [f3d-app/f3d](https://github.com/f3d-app/f3d) - Fast and minimalist 3D viewer.
-*   [bkaradzic/bgfx](https://github.com/bkaradzic/bgfx) - Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style rendering library.
-*   [typesense/typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
-*   [google-deepmind/code\_contests](https://github.com/google-deepmind/code_contests) -
-*   [yuzu-emu/yuzu](https://github.com/yuzu-emu/yuzu) - Nintendo Switch emulator
-*   [HASwitchPlate/openHASP](https://github.com/HASwitchPlate/openHASP) - HomeAutomation Switchplate based on lvgl for ESP32
-*   [esphome/esphome](https://github.com/esphome/esphome) - ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems.
-*   [mozilla/DeepSpeech](https://github.com/mozilla/DeepSpeech) - DeepSpeech is an open source embedded (offline, on-device) speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers.
-*   [projectM-visualizer/projectm](https://github.com/projectM-visualizer/projectm) - projectM - Cross-platform Music Visualization Library. Open-source and Milkdrop-compatible.
-*   [x64dbg/x64dbg](https://github.com/x64dbg/x64dbg) - An open-source user mode debugger for Windows. Optimized for reverse engineering and malware analysis.
 
 ## Kotlin
 
