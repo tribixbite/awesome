@@ -231,7 +231,7 @@
 *   [jferrer/solacademy-wallet](https://github.com/jferrer/solacademy-wallet) - Boilerplate to build Cross-Platform Apps with Expo, React Native & Solana Web3
 *   [iway1/react-ts-form](https://github.com/iway1/react-ts-form) -
 *   [LunatiqueCoder/luna](https://github.com/LunatiqueCoder/luna) - Luna - a React Native + Next.js template. Built with TypeScript :heart:
-*   [chen-rn/CUA](https://github.com/chen-rn/CUA) - (deprecated for t4stack) create-universal-app(CUA) is an opinionated template for creating fullstack universal apps (Expo, Next, tRPC, Prisma, Clerk, Solito, Tamagui)
+*   [chen-rn/CUA](https://github.com/chen-rn/CUA) - (no longer maintained) create-universal-app(CUA) is an opinionated template for creating fullstack universal apps (Expo, Next, tRPC, Prisma, Clerk, Solito, Tamagui)
 *   [ivopr/tamagui-expo](https://github.com/ivopr/tamagui-expo) - An Expo template with Tamagui
 *   [dohomi/tamagui-kitchen-sink](https://github.com/dohomi/tamagui-kitchen-sink) - Home of tamagui-extras, a component library which extends Tamagui with additional features..
 *   [nandorojo/solito](https://github.com/nandorojo/solito) - 🧍‍♂️ React Native + Next.js, unified.
