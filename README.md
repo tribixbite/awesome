@@ -1170,7 +1170,7 @@
 ## Rust
 
 *   [metaplex-foundation/mpl-bubblegum](https://github.com/metaplex-foundation/mpl-bubblegum) - Create and manage Metaplex compressed NFTs
-*   [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is a declarative GUI toolkit to build native user interfaces for applications that are written in Rust, C++, or JavaScript.
+*   [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is a declarative GUI toolkit to build native user interfaces for Rust, C++, or JavaScript apps.
 *   [sigoden/aichat](https://github.com/sigoden/aichat) - Using ChatGPT/GPT-3.5/GPT-4 in the terminal.
 *   [blockworks-foundation/mango-v4](https://github.com/blockworks-foundation/mango-v4) - mango-v4 monorepo, contains program, ts client, and py client
 *   [CaviesLabs/hamsterswap-program](https://github.com/CaviesLabs/hamsterswap-program) -
