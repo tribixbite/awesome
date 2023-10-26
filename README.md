@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+*   [Blade](#blade)
 *   [HTML](#html)
 *   [TypeScript](#typescript)
 *   [Python](#python)
@@ -49,6 +50,10 @@
 *   [Visual Basic .NET](#visual-basic-net)
 *   [R](#r)
 *   [Clojure](#clojure)
+
+## Blade
+
+*   [discordlookup/discordlookup](https://github.com/discordlookup/discordlookup) - DiscordLookup | Get more out of Discord with Discord Lookup! Snowflake Decoder, Guild List with Stats, Invite Info and more...
 
 ## HTML
 
@@ -292,7 +297,7 @@
 *   [juliencrn/usehooks-ts](https://github.com/juliencrn/usehooks-ts) - React hook library, ready to use, written in Typescript.
 *   [nygardk/react-share](https://github.com/nygardk/react-share) - Social media share buttons and share counts for React
 *   [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure and prevent secret leaks.
-*   [sjmc11/tourguide-js](https://github.com/sjmc11/tourguide-js) - TourGuide is a Javascript library written for creating user tours and on-boarding steps for your apps.
+*   [sjmc11/tourguide-js](https://github.com/sjmc11/tourguide-js) - TourGuide is a Javascript library for creating user tours and on-boarding steps for your apps.
 *   [PLhery/node-twitter-api-v2](https://github.com/PLhery/node-twitter-api-v2) - Strongly typed, full-featured, light, versatile yet powerful Twitter API v1.1 and v2 client for Node.js.
 *   [twitterjs/twitter.js](https://github.com/twitterjs/twitter.js) - A Node.js and TypeScript library for interacting with Twitter API v2
 *   [wbkd/react-flow](https://github.com/wbkd/react-flow) - Highly customizable library for building an interactive node-based UI, workflow editor, flow chart or static diagram
@@ -881,7 +886,6 @@
 *   [HASwitchPlate/openHASP](https://github.com/HASwitchPlate/openHASP) - HomeAutomation Switchplate based on lvgl for ESP32
 *   [esphome/esphome](https://github.com/esphome/esphome) - ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems.
 *   [mozilla/DeepSpeech](https://github.com/mozilla/DeepSpeech) - DeepSpeech is an open source embedded (offline, on-device) speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers.
-*   [projectM-visualizer/projectm](https://github.com/projectM-visualizer/projectm) - projectM - Cross-platform Music Visualization Library. Open-source and Milkdrop-compatible.
 
 ## Svelte
 
