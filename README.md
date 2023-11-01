@@ -583,7 +583,7 @@
 *   [sjmc11/tourguide-js](https://github.com/sjmc11/tourguide-js) - TourGuide is a Javascript library for creating user tours and on-boarding steps for your apps.
 *   [PLhery/node-twitter-api-v2](https://github.com/PLhery/node-twitter-api-v2) - Strongly typed, full-featured, light, versatile yet powerful Twitter API v1.1 and v2 client for Node.js.
 *   [twitterjs/twitter.js](https://github.com/twitterjs/twitter.js) - A Node.js and TypeScript library for interacting with Twitter API v2
-*   [wbkd/react-flow](https://github.com/wbkd/react-flow) - Highly customizable library for building an interactive node-based UI, workflow editor, flow chart or static diagram
+*   [xyflow/react-flow](https://github.com/xyflow/react-flow) - Highly customizable library for building an interactive node-based UI, workflow editor, flow chart or static diagram
 *   [openblocks-dev/openblocks](https://github.com/openblocks-dev/openblocks) - 🔥 🔥 🔥 The Open Source Retool Alternative
 *   [solana-labs/solana-pay](https://github.com/solana-labs/solana-pay) - A new standard for decentralized payments.
 *   [thiswallz/react-cyber-elements](https://github.com/thiswallz/react-cyber-elements) - Library with cyber punk icons / shapes.
@@ -1135,7 +1135,7 @@
 *   [kkrypt0nn/wordlists](https://github.com/kkrypt0nn/wordlists) - 📜 A collection of wordlists for many different usages
 *   [tribixbite/solana-lb](https://github.com/tribixbite/solana-lb) -
 *   [lydiahallie/javascript-questions](https://github.com/lydiahallie/javascript-questions) - A long list of (advanced) JavaScript questions, and their explanations :sparkles:
-*   [wbkd/awesome-node-based-uis](https://github.com/wbkd/awesome-node-based-uis) - A curated list with resources about node-based UIs
+*   [xyflow/awesome-node-based-uis](https://github.com/xyflow/awesome-node-based-uis) - A curated list with resources about node-based UIs
 *   [windows-powertool/Powertool](https://github.com/windows-powertool/Powertool) - Windows powertool is a windows 10 and 11 utility designed to provide one click solution to reduce and trim down unnecessary burden that comes by default with windows. its used to Improve speed, remove bloatware, protect privacy, eliminate data collection, and so more.
 *   [candypay/docs](https://github.com/candypay/docs) - 📚 Documentation site for CandyPay's Public API and SDK
 *   [gapon2401/upload-files-nextjs](https://github.com/gapon2401/upload-files-nextjs) - Uploading files with NextJs + formidable + Typescript.
