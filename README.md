@@ -53,6 +53,7 @@
 
 ## JavaScript
 
+*   [mightymeld/welcome](https://github.com/mightymeld/welcome) -
 *   [ddupont808/GPT-4V-Act](https://github.com/ddupont808/GPT-4V-Act) - AI agent using GPT-4V(ision) capable of using a mouse/keyboard to interact with web UI
 *   [svg/svgo](https://github.com/svg/svgo) - ⚙️ Node.js tool for optimizing SVG files
 *   [kogosoftwarellc/open-api](https://github.com/kogosoftwarellc/open-api) - A Monorepo of various packages to power OpenAPI in node
@@ -417,7 +418,7 @@
 *   [Shopify/blockchain-components](https://github.com/Shopify/blockchain-components) - Blockchain related React UI components for Shopify storefronts
 *   [Stability-AI/StableStudio](https://github.com/Stability-AI/StableStudio) - Community interface for generative AI
 *   [sandboxnu/searchneu](https://github.com/sandboxnu/searchneu) - Search over Classes, Professors and Employees at NEU!
-*   [Xunnamius/next-test-api-route-handler](https://github.com/Xunnamius/next-test-api-route-handler) - :rocket::sparkles: Confidently unit test your Next.js API routes/handlers in an isolated Next.js-like environment
+*   [Xunnamius/next-test-api-route-handler](https://github.com/Xunnamius/next-test-api-route-handler) - :rocket::sparkles: Confidently unit and integration test your Next.js API routes/handlers in an isolated Next.js-like environment
 *   [stepci/stepci](https://github.com/stepci/stepci) - Automated API Testing and Quality Assurance
 *   [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 *   [nass59/turborepo-nextjs](https://github.com/nass59/turborepo-nextjs) - TurboRepo with NextJS | Storybook
@@ -1172,7 +1173,6 @@
 *   [hakluke/how-to-exit-vim](https://github.com/hakluke/how-to-exit-vim) - Below are some simple methods for exiting vim.
 *   [aderusha/DDD-Printable-Wall-Control-System](https://github.com/aderusha/DDD-Printable-Wall-Control-System) - DDD Printable Wall Control System, 3d printable organization solutions for Wall Control pegboards
 *   [mdbootstrap/Black-Friday-2022](https://github.com/mdbootstrap/Black-Friday-2022) - Black Friday & Cyber Monday Deals (UI Kits WordPress Plugins, CRMs, SEO, Courses, Books) for web developers, programmers, and software engineers.
-*   [RitikPatni/Front-End-Web-Development-Resources](https://github.com/RitikPatni/Front-End-Web-Development-Resources) - This repository contains content which will be helpful in your journey as a front-end Web Developer
 
 ## C++
 
