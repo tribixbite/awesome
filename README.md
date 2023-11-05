@@ -358,7 +358,6 @@
 *   [CarlosZiegler/zodios-stack](https://github.com/CarlosZiegler/zodios-stack) -
 *   [lzehrung/zod-express-openapi-routes](https://github.com/lzehrung/zod-express-openapi-routes) - POC for cozy API validation, typing, and OpenAPI/swagger schema generation with zodios and express
 *   [LorisSigrist/zocker](https://github.com/LorisSigrist/zocker) - Generate realistic mock-data from your `zod` schemas
-*   [brandovidal/node-prisma-mongo-skeleton](https://github.com/brandovidal/node-prisma-mongo-skeleton) - Node Typescript Prisma Mongo Skeleton with Supertest and SwaggerUI
 *   [honojs/hono](https://github.com/honojs/hono) - Lightweight, Ultrafast, Web Standards
 *   [ShooTeX/guesser](https://github.com/ShooTeX/guesser) - The Guesser Framework
 *   [seasonedcc/domain-functions](https://github.com/seasonedcc/domain-functions) - Decouple your business logic from your framework. With first-class type inference from end to end.
@@ -418,7 +417,7 @@
 *   [Shopify/blockchain-components](https://github.com/Shopify/blockchain-components) - Blockchain related React UI components for Shopify storefronts
 *   [Stability-AI/StableStudio](https://github.com/Stability-AI/StableStudio) - Community interface for generative AI
 *   [sandboxnu/searchneu](https://github.com/sandboxnu/searchneu) - Search over Classes, Professors and Employees at NEU!
-*   [Xunnamius/next-test-api-route-handler](https://github.com/Xunnamius/next-test-api-route-handler) - :rocket::sparkles: Confidently unit and integration test your Next.js API routes/handlers in an isolated Next.js-like environment
+*   [Xunnamius/next-test-api-route-handler](https://github.com/Xunnamius/next-test-api-route-handler) - ⚡ Confidently unit and integration test your Next.js API routes/handlers in an isolated Next.js-like environment
 *   [stepci/stepci](https://github.com/stepci/stepci) - Automated API Testing and Quality Assurance
 *   [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 *   [nass59/turborepo-nextjs](https://github.com/nass59/turborepo-nextjs) - TurboRepo with NextJS | Storybook
@@ -1173,6 +1172,7 @@
 *   [hakluke/how-to-exit-vim](https://github.com/hakluke/how-to-exit-vim) - Below are some simple methods for exiting vim.
 *   [aderusha/DDD-Printable-Wall-Control-System](https://github.com/aderusha/DDD-Printable-Wall-Control-System) - DDD Printable Wall Control System, 3d printable organization solutions for Wall Control pegboards
 *   [mdbootstrap/Black-Friday-2022](https://github.com/mdbootstrap/Black-Friday-2022) - Black Friday & Cyber Monday Deals (UI Kits WordPress Plugins, CRMs, SEO, Courses, Books) for web developers, programmers, and software engineers.
+*   [RitikPatni/Front-End-Web-Development-Resources](https://github.com/RitikPatni/Front-End-Web-Development-Resources) - This repository contains content which will be helpful in your journey as a front-end Web Developer
 
 ## C++
 
