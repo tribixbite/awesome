@@ -4,17 +4,17 @@
 
 ## Table of Contents
 
+*   [C](#c)
 *   [JavaScript](#javascript)
 *   [Go](#go)
 *   [Kotlin](#kotlin)
 *   [Java](#java)
 *   [TypeScript](#typescript)
 *   [Astro](#astro)
-*   [C#](#c)
+*   [C#](#c-1)
 *   [Python](#python)
 *   [Blade](#blade)
 *   [HTML](#html)
-*   [C](#c-1)
 *   [miscellaneous](#miscellaneous)
 *   [C++](#c-2)
 *   [Svelte](#svelte)
@@ -50,6 +50,26 @@
 *   [AutoHotkey](#autohotkey)
 *   [Visual Basic .NET](#visual-basic-net)
 *   [R](#r)
+
+## C
+
+*   [ToyKeeper/anduril](https://github.com/ToyKeeper/anduril) - Anduril 2 Flashlight Firmware and FSM UI Toolkit
+*   [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
+*   [starryalley/Anduril2](https://github.com/starryalley/Anduril2) - my Anduril2 fork that provides much more features
+*   [libvips/libvips](https://github.com/libvips/libvips) - A fast image processing library with low memory needs.
+*   [libusb/hidapi](https://github.com/libusb/hidapi) - A Simple cross-platform library for communicating with HID devices
+*   [security-geeks/oclHashcat](https://github.com/security-geeks/oclHashcat) - World's fastest and most advanced GPGPU-based password recovery utility
+*   [hashcat/hashcat](https://github.com/hashcat/hashcat) - World's fastest and most advanced password recovery utility
+*   [lvaccaro/truecrack](https://github.com/lvaccaro/truecrack) - TrueCrack is a brute-force password cracker for TrueCrypt (Copyrigth) volumes. It works on Linux and it is optimized for Nvidia Cuda technology.
+*   [sabrogden/Ditto](https://github.com/sabrogden/Ditto) - Ditto is an extension to the Windows Clipboard. You copy something to the Clipboard and Ditto takes what you copied and stores it in a database to retrieve at a later time.
+*   [Flipper-XFW/Xtreme-Firmware](https://github.com/Flipper-XFW/Xtreme-Firmware) - The Dom amongst the Flipper Zero Firmware. Give your Flipper the power and freedom it is really craving. Let it show you its true form. Dont delay, switch to the one and only true Master today!
+*   [DarkFlippers/unleashed-firmware](https://github.com/DarkFlippers/unleashed-firmware) - Flipper Zero Unleashed Firmware
+*   [mcf-rocks/solanity](https://github.com/mcf-rocks/solanity) - Solanity - Solana GPU Address Grinder
+*   [avaneev/prvhash](https://github.com/avaneev/prvhash) - PRVHASH - Pseudo-Random-Value Hash. Hash functions, PRNG with unlimited period, randomness extractor. (Codename Gradilac/Градилак)
+*   [ArweaveTeam/arweave](https://github.com/ArweaveTeam/arweave) - The Arweave server and App Developer Toolkit.
+*   [RoganDawes/LOGITacker](https://github.com/RoganDawes/LOGITacker) - Enumerate and test Logitech wireless input devices for vulnerabilities with a nRF52840 radio dongle.
+*   [FABtotum/FABlin](https://github.com/FABtotum/FABlin) - The FABtotum Personal Fabricator Firmware, a Marlin derivate made to support hybrid manufacturing and digital acquisition
+*   [arendst/Tasmota](https://github.com/arendst/Tasmota) - Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at
 
 ## JavaScript
 
@@ -1088,25 +1108,6 @@
 *   [jglovier/gifs](https://github.com/jglovier/gifs) - :joy: :camera: :sparkler: Storage place for all mah gifs.
 *   [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
 
-## C
-
-*   [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
-*   [starryalley/Anduril2](https://github.com/starryalley/Anduril2) - my Anduril2 fork that provides much more features
-*   [libvips/libvips](https://github.com/libvips/libvips) - A fast image processing library with low memory needs.
-*   [libusb/hidapi](https://github.com/libusb/hidapi) - A Simple cross-platform library for communicating with HID devices
-*   [security-geeks/oclHashcat](https://github.com/security-geeks/oclHashcat) - World's fastest and most advanced GPGPU-based password recovery utility
-*   [hashcat/hashcat](https://github.com/hashcat/hashcat) - World's fastest and most advanced password recovery utility
-*   [lvaccaro/truecrack](https://github.com/lvaccaro/truecrack) - TrueCrack is a brute-force password cracker for TrueCrypt (Copyrigth) volumes. It works on Linux and it is optimized for Nvidia Cuda technology.
-*   [sabrogden/Ditto](https://github.com/sabrogden/Ditto) - Ditto is an extension to the Windows Clipboard. You copy something to the Clipboard and Ditto takes what you copied and stores it in a database to retrieve at a later time.
-*   [Flipper-XFW/Xtreme-Firmware](https://github.com/Flipper-XFW/Xtreme-Firmware) - The Dom amongst the Flipper Zero Firmware. Give your Flipper the power and freedom it is really craving. Let it show you its true form. Dont delay, switch to the one and only true Master today!
-*   [DarkFlippers/unleashed-firmware](https://github.com/DarkFlippers/unleashed-firmware) - Flipper Zero Unleashed Firmware
-*   [mcf-rocks/solanity](https://github.com/mcf-rocks/solanity) - Solanity - Solana GPU Address Grinder
-*   [avaneev/prvhash](https://github.com/avaneev/prvhash) - PRVHASH - Pseudo-Random-Value Hash. Hash functions, PRNG with unlimited period, randomness extractor. (Codename Gradilac/Градилак)
-*   [ArweaveTeam/arweave](https://github.com/ArweaveTeam/arweave) - The Arweave server and App Developer Toolkit.
-*   [RoganDawes/LOGITacker](https://github.com/RoganDawes/LOGITacker) - Enumerate and test Logitech wireless input devices for vulnerabilities with a nRF52840 radio dongle.
-*   [FABtotum/FABlin](https://github.com/FABtotum/FABlin) - The FABtotum Personal Fabricator Firmware, a Marlin derivate made to support hybrid manufacturing and digital acquisition
-*   [arendst/Tasmota](https://github.com/arendst/Tasmota) - Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at
-
 ## miscellaneous
 
 *   [alvarop/usb\_c\_cable\_tester](https://github.com/alvarop/usb_c_cable_tester) -
@@ -1172,7 +1173,6 @@
 *   [hakluke/how-to-exit-vim](https://github.com/hakluke/how-to-exit-vim) - Below are some simple methods for exiting vim.
 *   [aderusha/DDD-Printable-Wall-Control-System](https://github.com/aderusha/DDD-Printable-Wall-Control-System) - DDD Printable Wall Control System, 3d printable organization solutions for Wall Control pegboards
 *   [mdbootstrap/Black-Friday-2022](https://github.com/mdbootstrap/Black-Friday-2022) - Black Friday & Cyber Monday Deals (UI Kits WordPress Plugins, CRMs, SEO, Courses, Books) for web developers, programmers, and software engineers.
-*   [RitikPatni/Front-End-Web-Development-Resources](https://github.com/RitikPatni/Front-End-Web-Development-Resources) - This repository contains content which will be helpful in your journey as a front-end Web Developer
 
 ## C++
 
