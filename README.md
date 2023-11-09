@@ -378,7 +378,7 @@
 *   [CarlosZiegler/zodios-stack](https://github.com/CarlosZiegler/zodios-stack) -
 *   [lzehrung/zod-express-openapi-routes](https://github.com/lzehrung/zod-express-openapi-routes) - POC for cozy API validation, typing, and OpenAPI/swagger schema generation with zodios and express
 *   [LorisSigrist/zocker](https://github.com/LorisSigrist/zocker) - Generate realistic mock-data from your `zod` schemas
-*   [honojs/hono](https://github.com/honojs/hono) - Lightweight, Ultrafast, Web Standards
+*   [honojs/hono](https://github.com/honojs/hono) - Fast, Lightweight, Web-standards
 *   [ShooTeX/guesser](https://github.com/ShooTeX/guesser) - The Guesser Framework
 *   [seasonedcc/domain-functions](https://github.com/seasonedcc/domain-functions) - Decouple your business logic from your framework. With first-class type inference from end to end.
 *   [Briggybros/styled-window-portal](https://github.com/Briggybros/styled-window-portal) - A react portal which creates a new window and supports styled-components
