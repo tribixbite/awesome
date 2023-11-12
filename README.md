@@ -1010,7 +1010,7 @@
 *   [scottleibrand/gpt-summarizer](https://github.com/scottleibrand/gpt-summarizer) - Extract text from PDF, summarize each section w/ GPT, and provide a summarized outline of the paper
 *   [internetarchive/iacopilot](https://github.com/internetarchive/iacopilot) - Summarize and ask questions about items in the Internet Archive
 *   [jiggy-ai/hn\_summary](https://github.com/jiggy-ai/hn_summary) - Summarizes top stories from Hacker News using a large language model and post them to a Telegram channel.
-*   [Kav-K/GPTDiscord](https://github.com/Kav-K/GPTDiscord) - A robust, all-in-one GPT3 interface for Discord. ChatGPT-style conversations, image generation, AI-moderation, custom indexes/knowledgebase, youtube summarizer, and more!
+*   [Kav-K/GPTDiscord](https://github.com/Kav-K/GPTDiscord) - A robust, all-in-one GPT interface for Discord. ChatGPT-style conversations, image generation, AI-moderation, custom indexes/knowledgebase, youtube summarizer, and more!
 *   [weanalyze/workcell](https://github.com/weanalyze/workcell) - ⚡ Instantly turn your python function into web app.
 *   [serp-ai/ChatGPT-Plugins](https://github.com/serp-ai/ChatGPT-Plugins) - Repo for giving ChatGPT the ability to use web browsing, python code execution, and custom plugins
 *   [lencx/chat-todo-plugin](https://github.com/lencx/chat-todo-plugin) - ✅ ChatGPT Plugin for managing a TODO list
