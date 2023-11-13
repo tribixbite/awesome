@@ -791,7 +791,7 @@
 *   [microsoft/SandDance](https://github.com/microsoft/SandDance) - Visually explore, understand, and present your data.
 *   [reactchartjs/react-chartjs-2](https://github.com/reactchartjs/react-chartjs-2) - React components for Chart.js, the most popular charting library
 *   [penrose/penrose](https://github.com/penrose/penrose) - Create beautiful diagrams just by typing notation in plain text.
-*   [thi-ng/umbrella](https://github.com/thi-ng/umbrella) - ⛱  Broadly scoped ecosystem & mono-repository of 184 TypeScript projects (plus 145+ examples) for general purpose, functional, data driven development
+*   [thi-ng/umbrella](https://github.com/thi-ng/umbrella) - ⛱  Broadly scoped ecosystem & mono-repository of 184 TypeScript projects (and 147 examples) for general purpose, functional, data driven development
 *   [nftstorage/metaplex-auth](https://github.com/nftstorage/metaplex-auth) - A client library for nft.storage designed for metaplex NFT uploads
 *   [SimonHoiberg/saas-template](https://github.com/SimonHoiberg/saas-template) - SaaS template for AWS, Amplify, React, NextJS and Chakra
 *   [freeCodeCamp/100DaysOfCode-discord-bot](https://github.com/freeCodeCamp/100DaysOfCode-discord-bot) - A Discord bot created for the 100 Days of Code challenge.
