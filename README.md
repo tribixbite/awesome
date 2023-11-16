@@ -507,7 +507,7 @@
 *   [gustavomorinaga/next-plate](https://github.com/gustavomorinaga/next-plate) - 🦸‍♀️ A super template for Next.js with a pack of incredible tools
 *   [csandman/chakra-react-select](https://github.com/csandman/chakra-react-select) - A Chakra UI themed wrapper for the popular library React Select
 *   [Hyperting/hypertheme-editor](https://github.com/Hyperting/hypertheme-editor) - Most advanced visual theme editor for Chakra-UI
-*   [plasmicapp/plasmic](https://github.com/plasmicapp/plasmic) - Visual page builder and web design tool for any website or web app tech stack
+*   [plasmicapp/plasmic](https://github.com/plasmicapp/plasmic) - Visual builder for React. Build apps, websites, and content. Integrate with your codebase.
 *   [prevwong/craft.js](https://github.com/prevwong/craft.js) - 🚀 A React Framework for building extensible drag and drop page editors
 *   [react-dnd/react-dnd](https://github.com/react-dnd/react-dnd) - Drag and Drop for React
 *   [premieroctet/openchakra](https://github.com/premieroctet/openchakra) - ⚡️ Full-featured visual editor and code generator for React using Chakra UI
