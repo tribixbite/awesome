@@ -502,7 +502,7 @@
 *   [microsoft/SandDance](https://github.com/microsoft/SandDance) - Visually explore, understand, and present your data.
 *   [reactchartjs/react-chartjs-2](https://github.com/reactchartjs/react-chartjs-2) - React components for Chart.js, the most popular charting library
 *   [penrose/penrose](https://github.com/penrose/penrose) - Create beautiful diagrams just by typing notation in plain text.
-*   [thi-ng/umbrella](https://github.com/thi-ng/umbrella) - ⛱  Broadly scoped ecosystem & mono-repository of 184 TypeScript projects (and 147 examples) for general purpose, functional, data driven development
+*   [thi-ng/umbrella](https://github.com/thi-ng/umbrella) - ⛱  Broadly scoped ecosystem & mono-repository of 185 TypeScript projects (and 147 examples) for general purpose, functional, data driven development
 *   [nftstorage/metaplex-auth](https://github.com/nftstorage/metaplex-auth) - A client library for nft.storage designed for metaplex NFT uploads
 *   [SimonHoiberg/saas-template](https://github.com/SimonHoiberg/saas-template) - SaaS template for AWS, Amplify, React, NextJS and Chakra
 *   [freeCodeCamp/100DaysOfCode-discord-bot](https://github.com/freeCodeCamp/100DaysOfCode-discord-bot) - A Discord bot created for the 100 Days of Code challenge.
@@ -526,7 +526,7 @@
 *   [dvikas/nextjs-graphql-adminpanel](https://github.com/dvikas/nextjs-graphql-adminpanel) - Admin panel built with NextJS(Typescript), Material UI, Apollo Client & GraphQL. In the backend, Prisma 2 with Nexus and Mysql is used.
 *   [SoftwareBrothers/adminjs](https://github.com/SoftwareBrothers/adminjs) - AdminJS is an admin panel for apps written in node.js
 *   [pankod/superplate](https://github.com/pankod/superplate) -  A well-structured production-ready frontend boilerplate with Typescript, React Testing Library, styled-component, React Query, .env, Axios, Bundle Analyzer, Prettier and 30+ plugins. superplate creates projects for React.js, Next.js, and refine. https://pankod.github.io/superplate/
-*   [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibilty.
+*   [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
 *   [rowyio/rowy](https://github.com/rowyio/rowy) - Low-code backend platform. Manage database on spreadsheet-like UI and build cloud functions workflows in JS/TS, all in your browser.
 *   [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
 *   [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds\_
