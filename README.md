@@ -114,7 +114,7 @@
 *   [jest-community/vscode-jest](https://github.com/jest-community/vscode-jest) - The optimal flow for Jest based testing in VS Code
 *   [argos-ci/jest-puppeteer](https://github.com/argos-ci/jest-puppeteer) - Run tests using Jest & Puppeteer 🎪✨
 *   [alexjoverm/typescript-library-starter](https://github.com/alexjoverm/typescript-library-starter) - Starter kit with zero-config for building a library in TypeScript, featuring RollupJS, Jest, Prettier, TSLint, Semantic Release, and more!
-*   [jonnydgreen/nifty-lil-tricks-monitoring](https://github.com/jonnydgreen/nifty-lil-tricks-monitoring) - A selection of nifty lil tricks for all things monitoring
+*   [nifty-lil-tricks/monitoring](https://github.com/nifty-lil-tricks/monitoring) - A selection of nifty lil tricks for all things monitoring
 *   [open-telemetry/opentelemetry-js](https://github.com/open-telemetry/opentelemetry-js) - OpenTelemetry JavaScript Client
 *   [JS-DevTools/npm-publish](https://github.com/JS-DevTools/npm-publish) - GitHub Action to publish to NPM
 *   [AlroviOfficial/RoZod](https://github.com/AlroviOfficial/RoZod) - A TypeScript wrapper for the Roblox API
