@@ -52,6 +52,7 @@
 
 ## TypeScript
 
+*   [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 *   [privatenumber/pkgroll](https://github.com/privatenumber/pkgroll) - 📦 🍣 Next-gen package bundler for TypeScript & ESM
 *   [helmetjs/helmet](https://github.com/helmetjs/helmet) - Help secure Express apps with various HTTP headers
 *   [TerribleDev/example-ts-cli](https://github.com/TerribleDev/example-ts-cli) - An example repo of a CLI built with typescript, esbuild, commander, and ora
@@ -467,7 +468,7 @@
 *   [adazzle/react-data-grid](https://github.com/adazzle/react-data-grid) - Feature-rich and customizable data grid React component
 *   [grid-js/gridjs](https://github.com/grid-js/gridjs) - Advanced table plugin
 *   [komarovalexander/ka-table](https://github.com/komarovalexander/ka-table) - Lightweight MIT React Table component with Sorting, Filtering, Grouping, Virtualization, Editing and many more
-*   [glideapps/glide-data-grid](https://github.com/glideapps/glide-data-grid) - 🦝 Glide Data Grid is a no compromise, outrageously react fast data grid with rich rendering, first class accessibility, and full TypeScript support.
+*   [glideapps/glide-data-grid](https://github.com/glideapps/glide-data-grid) - 🚀 Glide Data Grid is a no compromise, outrageously react fast data grid with rich rendering, first class accessibility, and full TypeScript support.
 *   [hustcc/timeago-react](https://github.com/hustcc/timeago-react) - :clock8: Simple and efficient react component to format date with `*** time ago` statement. eg: '3 hours ago'.
 *   [statico/jsgrids](https://github.com/statico/jsgrids) - 📦 🔍 👀   A comparison tool to compare JavaScript data grid and spreadsheet libraries
 *   [ag-grid/ag-grid](https://github.com/ag-grid/ag-grid) - The best JavaScript Data Table for building Enterprise Applications. Supports React / Angular / Vue / Plain JavaScript.
@@ -620,6 +621,7 @@
 
 ## JavaScript
 
+*   [popcorn-official/popcorn-desktop](https://github.com/popcorn-official/popcorn-desktop) - Popcorn Time is a multi-platform, free software BitTorrent client that includes an integrated media player ( Windows / Mac / Linux ) A Butter-Project Fork
 *   [indutny/elliptic](https://github.com/indutny/elliptic) - Fast Elliptic Curve Cryptography in plain javascript
 *   [nerfies/nerfies.github.io](https://github.com/nerfies/nerfies.github.io) -
 *   [everettsouthwick/embetter](https://github.com/everettsouthwick/embetter) - Embed better with embetter. Replaces social media links from Instagram, Threads, TikTok, Twitter, and premium editorials like The Atlantic, Bloomberg, The New York Times, Rolling Stone, The Wall Street Journal, and The Washington Post with embed-friendly alternatives on Discord.
@@ -866,7 +868,6 @@
 *   [jonbloom/stonkbot](https://github.com/jonbloom/stonkbot) -
 *   [tylerburleigh/nike-buy-bot](https://github.com/tylerburleigh/nike-buy-bot) - A bot using Node.js / puppeteer that buys a Nike shoe when it drops
 *   [dkkocab/WebSiteBot\_PS5](https://github.com/dkkocab/WebSiteBot_PS5) - This is a bot that will buy a PS5 through Walmart. It's written in python and uses selenium to interact with web pages. *WORK IN PROGRESS*
-*   [oriziv/sync-files-blob-storage-ha](https://github.com/oriziv/sync-files-blob-storage-ha) -
 
 ## Python
 
@@ -1051,7 +1052,6 @@
 *   [typescript-cheatsheets/react-typescript-cheatsheet-es](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet-es) - Cheatsheets para desarrolladores expertos en React que comienzan con TypeScript
 *   [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue) - 🎉 A curated list of awesome things related to Vue.js
 *   [hakluke/how-to-exit-vim](https://github.com/hakluke/how-to-exit-vim) - Below are some simple methods for exiting vim.
-*   [aderusha/DDD-Printable-Wall-Control-System](https://github.com/aderusha/DDD-Printable-Wall-Control-System) - DDD Printable Wall Control System, 3d printable organization solutions for Wall Control pegboards
 
 ## Elm
 
@@ -1321,7 +1321,7 @@
 
 ## Dockerfile
 
-*   [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white\_check\_mark:  The Node.js best practices list (July 2023)
+*   [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white\_check\_mark:  The Node.js best practices list (December 2023)
 
 ## Vue
 
