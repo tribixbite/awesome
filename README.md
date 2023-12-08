@@ -218,6 +218,7 @@
 *   [webpack-contrib/webpack-bundle-analyzer](https://github.com/webpack-contrib/webpack-bundle-analyzer) - Webpack plugin and CLI utility that represents bundle content as convenient interactive zoomable treemap
 *   [transloadit/uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
 *   [imaya/zlib.js](https://github.com/imaya/zlib.js) - compact zlib, deflate, inflate, zip library in JavaScript
+*   [tsparticles/react](https://github.com/tsparticles/react) - React tsParticles official component
 *   [shelljs/shx](https://github.com/shelljs/shx) - Portable Shell Commands for Node
 *   [excalith/dev-cheats](https://github.com/excalith/dev-cheats) - A community-driven interactive cheatsheet for various command line tools that provides a handy reference for developers
 *   [depcheck/depcheck](https://github.com/depcheck/depcheck) - Check your npm module for unused dependencies
@@ -609,7 +610,6 @@
 *   [devconcept/multer-gridfs-storage](https://github.com/devconcept/multer-gridfs-storage) - 🍃 GridFS storage engine for Multer to store uploaded files directly to MongoDb
 *   [maraisr/meros](https://github.com/maraisr/meros) - 🪢 A fast utility that makes reading multipart responses simple
 *   [cstrnt/next-multiparty](https://github.com/cstrnt/next-multiparty) - Easy & Simple File Uploads for Next.js
-*   [tsparticles/react](https://github.com/tsparticles/react) - React tsParticles official component
 *   [amrebrahem22/Discord-GithubBot](https://github.com/amrebrahem22/Discord-GithubBot) - Discord Github bot to listen for issues created on github, and comments
 *   [ilmoi/my-versioned-program](https://github.com/ilmoi/my-versioned-program) -
 *   [yihau/solana-web3-demo](https://github.com/yihau/solana-web3-demo) - a quick demo for solana web3
