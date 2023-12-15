@@ -52,6 +52,9 @@
 
 ## TypeScript
 
+*   [GoogleChromeLabs/squoosh](https://github.com/GoogleChromeLabs/squoosh) - Make images smaller using best-in-class codecs, right in the browser.
+*   [rohit-gohri/redocusaurus](https://github.com/rohit-gohri/redocusaurus) - OpenAPI for Docusaurus with Redoc
+*   [zombiQWERTY/redoc-try-it-out](https://github.com/zombiQWERTY/redoc-try-it-out) - Add Try It Out option on Redoc with working options
 *   [acrazing/dpdm](https://github.com/acrazing/dpdm) - Detect circular dependencies in your TypeScript projects.
 *   [KirianCaumes/In-Flames-Closet](https://github.com/KirianCaumes/In-Flames-Closet) - A NextJs project to handle a database of images, about the history of the band "In Flames" through their artworks. 🔥#NextJs #React
 *   [skypackjs/package-check](https://github.com/skypackjs/package-check) - A quality score checker for npm packages.
@@ -181,7 +184,7 @@
 *   [RobinTail/express-zod-api](https://github.com/RobinTail/express-zod-api) - A Typescript library to help you get an API server up and running with I/O schema validation and custom middlewares in minutes.
 *   [pheralb/slug](https://github.com/pheralb/slug) - 🌱 An open-source URL shortener built with T3 Stack.
 *   [astahmer/transformer](https://github.com/astahmer/transformer) - Takes an input (ex: TS) and ouputs to destination format (ex: Zod/JSON/Open API Schemas)
-*   [ChatGPTNextWebTeam/ChatGPT-Next-Web](https://github.com/ChatGPTNextWebTeam/ChatGPT-Next-Web) - A well-designed cross-platform ChatGPT UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT 应用。
+*   [ChatGPTNextWeb/ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) - A well-designed cross-platform ChatGPT UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT 应用。
 *   [dabit3/nextjs-chatgpt-plugin-starter](https://github.com/dabit3/nextjs-chatgpt-plugin-starter) - ChatGPT plugin starter project using Next.js
 *   [transitive-bullshit/chatgpt-plugin-ts](https://github.com/transitive-bullshit/chatgpt-plugin-ts) - Everything you need to start building ChatGPT Plugins in JS/TS 🔥
 *   [hughlv/artspell](https://github.com/hughlv/artspell) - Midjourney Prompt Builder
@@ -620,7 +623,6 @@
 *   [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 *   [awslabs/fhir-works-on-aws-deployment](https://github.com/awslabs/fhir-works-on-aws-deployment) - A serverless implementation of the FHIR standard that enables users to focus more on their business needs/uniqueness rather than the FHIR specification
 *   [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
-*   [philipmulcahy/azad](https://github.com/philipmulcahy/azad) - amazon order history reporter chrome extension
 
 ## JavaScript
 
@@ -866,7 +868,6 @@
 *   [iamadamdev/bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass Paywalls web browser extension for Chrome and Firefox.
 *   [sudheerj/reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions) - List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!
 *   [claudioc/jingo](https://github.com/claudioc/jingo) - Node.js based Wiki
-*   [not-an-aardvark/snoowrap](https://github.com/not-an-aardvark/snoowrap) - A JavaScript wrapper for the reddit API
 
 ## SCSS
 
@@ -998,7 +999,6 @@
 *   [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown.
 *   [praw-dev/asyncpraw](https://github.com/praw-dev/asyncpraw) - Async PRAW, an abbreviation for "Asynchronous Python Reddit API Wrapper", is a python package that allows for simple access to Reddit's API.
 *   [praw-dev/praw](https://github.com/praw-dev/praw) - PRAW, an acronym for "Python Reddit API Wrapper", is a python package that allows for simple access to Reddit's API.
-*   [LandGrey/pydictor](https://github.com/LandGrey/pydictor) - A powerful and useful hacker dictionary builder for a brute-force attack
 
 ## Rust
 
