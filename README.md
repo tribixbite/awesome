@@ -55,6 +55,7 @@
 
 ## TypeScript
 
+*   [jetbridge/cdk-nextjs](https://github.com/jetbridge/cdk-nextjs) - Deploy a NextJS application using AWS CDK
 *   [httptoolkit/httptoolkit-desktop](https://github.com/httptoolkit/httptoolkit-desktop) - Electron wrapper to build and distribute HTTP Toolkit for the desktop
 *   [APKLab/APKLab](https://github.com/APKLab/APKLab) - Android Reverse-Engineering Workbench for VS Code
 *   [honojs/examples](https://github.com/honojs/examples) - Examples using Hono.
@@ -1467,7 +1468,6 @@
 
 *   [FrameworkComputer/ExpansionCards](https://github.com/FrameworkComputer/ExpansionCards) - Reference designs and documentation to create Expansion Cards for the Framework Laptop
 *   [fpiesik/pE-Drums](https://github.com/fpiesik/pE-Drums) - An e-drum set based on 3d-printed parts
-*   [jcrocholl/kossel](https://github.com/jcrocholl/kossel) - Mini Kossel portable delta robot 3D printer.
 
 ## AutoIt
 
