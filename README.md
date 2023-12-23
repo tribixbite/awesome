@@ -116,7 +116,7 @@
 *   [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.
 *   [firecamp-dev/firecamp](https://github.com/firecamp-dev/firecamp) - Developer-first OpenSource API DevTool, Postman/Insomnia alternative.
 *   [clickvote/clickvote](https://github.com/clickvote/clickvote) - Add upvotes, likes, and reviews to any context ⭐️
-*   [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Survey Toolbox
+*   [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Survey Platform
 *   [owid/owid-grapher](https://github.com/owid/owid-grapher) - A platform for creating interactive data visualizations
 *   [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
 *   [crhistianramirez/react-hook-form-chakra](https://github.com/crhistianramirez/react-hook-form-chakra) - Chakra UI bindings for react-hook-form
@@ -417,7 +417,7 @@
 *   [react-component/tree](https://github.com/react-component/tree) - React Tree
 *   [hauptrolle/chakra-templates](https://github.com/hauptrolle/chakra-templates) - A growing collection of responsive Chakra UI Templates ready to drop into your React project.
 *   [BuilderIO/builder](https://github.com/BuilderIO/builder) - Drag and drop headless CMS for React, Vue, Svelte, Qwik, and more
-*   [BearStudio/start-ui-web](https://github.com/BearStudio/start-ui-web) - 🚀 Start UI \[web] is an opinionated UI starter with ⚛️  React, ▲ NextJS,  ⚡️ Chakra UI,  ⚛️  TanStack Query & 🐜  Formiz — From the 🐻  BearStudio Team
+*   [BearStudio/start-ui-web](https://github.com/BearStudio/start-ui-web) - 🚀 Start UI \[web] is an opinionated UI starter with 🟦 TypeScript, ⚛️ React, ⚫️ NextJS, ⚡️ Chakra UI, 🟦 tRPC, ▲ Prisma, 🏖️ TanStack Query, 📕 Storybook, 🎭 Playwright, 🐜 Formiz◽From the 🐻  BearStudio Team
 *   [sozonome/nextarter-chakra](https://github.com/sozonome/nextarter-chakra) - battery packed template / boilerplate to initialize Next.js app with Chakra UI & Typescript setup ✨
 *   [dimitropoulos/react-ui-roundup](https://github.com/dimitropoulos/react-ui-roundup) - A one-stop-shop for comparing the features of all the best React frameworks.  Useful for designers and engineers alike!
 *   [vedantnn71/create-chakra](https://github.com/vedantnn71/create-chakra) - 🌈 cli tool to scaffold chakra ui projects, without wasting time
