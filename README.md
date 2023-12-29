@@ -120,7 +120,7 @@
 *   [owid/owid-grapher](https://github.com/owid/owid-grapher) - A platform for creating interactive data visualizations
 *   [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
 *   [crhistianramirez/react-hook-form-chakra](https://github.com/crhistianramirez/react-hook-form-chakra) - Chakra UI bindings for react-hook-form
-*   [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure for modern marketing teams.
+*   [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure.
 *   [TreeFarmer/embed-table](https://github.com/TreeFarmer/embed-table) - Easily make nice looking text tables for Discord's embed fields and descriptions.
 *   [fastly/next-compute-js](https://github.com/fastly/next-compute-js) - Run Next.js on Fastly Compute
 *   [pmcelhaney/counterfact](https://github.com/pmcelhaney/counterfact) - OpenAPI / Swagger to TypeScript generator and mock server
@@ -193,7 +193,7 @@
 *   [Bunlong/next-qrcode](https://github.com/Bunlong/next-qrcode) - React hooks for generating QRCode for your next React apps.
 *   [Bunlong/react-papaparse](https://github.com/Bunlong/react-papaparse) - react-papaparse is the fastest in-browser CSV (or delimited text) parser for React. It is full of useful features such as CSVReader, CSVDownloader, readString, jsonToCSV, readRemoteFile, ... etc.
 *   [Bunlong/react-screen-capture](https://github.com/Bunlong/react-screen-capture) - A tiny React library allows you to take a snapshot of the webpage's screen or part of the screen.
-*   [Bunlong/next-share](https://github.com/Bunlong/next-share) - Social media share buttons for your next React apps.
+*   [Bunlong/next-share](https://github.com/Bunlong/next-share) - Social media share buttons and share counts for your next React apps.
 *   [Bunlong/next-timeago](https://github.com/Bunlong/next-timeago) - React timeago component for your next React apps.
 *   [tomfong/simple-qr](https://github.com/tomfong/simple-qr) - Simple QR, a simple and lightweight app to scan, create and store QR codes.
 *   [kiliman/remix-params-helper](https://github.com/kiliman/remix-params-helper) - This package makes it simple to use Zod with standard URLSearchParams and FormData which are typically used in Remix apps.
