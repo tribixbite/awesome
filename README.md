@@ -51,6 +51,7 @@
 *   [R](#r)
 *   [Clojure](#clojure)
 *   [Arduino](#arduino)
+*   [G-code](#g-code)
 
 ## Rust
 
@@ -393,7 +394,7 @@
 *   [TheSharks/WildBeast](https://github.com/TheSharks/WildBeast) - Feature-rich Discord bot framework
 *   [FireDiscordBot/bot](https://github.com/FireDiscordBot/bot) - A Discord bot for all your needs. With memes, utilities, moderation & more, Fire is the only bot you'll need.
 *   [discohook/site](https://github.com/discohook/site) - The easiest way to build and send Discord messages using webhooks
-*   [WillSnowdon/react-shadow-drive](https://github.com/WillSnowdon/react-shadow-drive) - Basic react hook and some utils for Shadow Drive
+*   [bitslurp/react-shadow-drive](https://github.com/bitslurp/react-shadow-drive) - Basic react hook and some utils for Shadow Drive
 *   [tusharjo/mockzilla](https://github.com/tusharjo/mockzilla) - The fastest way to mock API calls for your React / Vue.js / Angular apps for FREE!.
 *   [project-serum/oyster-swap](https://github.com/project-serum/oyster-swap) -
 *   [metaplex-foundation/js](https://github.com/metaplex-foundation/js) - A JavaScript SDK for interacting with Metaplex's programs
@@ -800,7 +801,6 @@
 *   [pushshift/api](https://github.com/pushshift/api) - Pushshift API
 *   [tribixbite/BrokenRecordBot](https://github.com/tribixbite/BrokenRecordBot) - reddit copypasta bot for subreddit wiki text
 *   [janick/ArloDownload](https://github.com/janick/ArloDownload) - Automatically download new video recordings from Arlo
-*   [CarlosGS/Cyclone-PCB-Factory](https://github.com/CarlosGS/Cyclone-PCB-Factory) - Cyclone (Circuit Cloner) is a CNC mill intended for PCB manufacturing.
 
 ## Shell
 
@@ -1492,3 +1492,7 @@
 ## Arduino
 
 *   [RHWorkshop/TIPIC-Arduino](https://github.com/RHWorkshop/TIPIC-Arduino) - This is the Arduino code for the TIPIC Thermal Imaging Phone Camera device.
+
+## G-code
+
+*   [CarlosGS/Cyclone-PCB-Factory](https://github.com/CarlosGS/Cyclone-PCB-Factory) - Cyclone (Circuit Cloner) is a CNC mill intended for PCB manufacturing.
