@@ -445,7 +445,7 @@
 *   [raydium-io/raydium-ui](https://github.com/raydium-io/raydium-ui) - Raydium Frontend V1
 *   [raydium-io/raydium-frontend](https://github.com/raydium-io/raydium-frontend) - Raydium Frontend V2
 *   [raydium-io/raydium-sdk](https://github.com/raydium-io/raydium-sdk) - An SDK for building applications on top of Raydium.
-*   [openocean-finance/openocean-api](https://github.com/openocean-finance/openocean-api) - openocean sdk
+*   [openocean-finance/OpenOcean-API](https://github.com/openocean-finance/OpenOcean-API) - openocean sdk
 *   [gemworks/gem-farm](https://github.com/gemworks/gem-farm) - Configurable staking for NFT Projects on Solana
 *   [solana-labs/break](https://github.com/solana-labs/break) - Break Solana Game
 *   [GenesysGo/shadow-drive](https://github.com/GenesysGo/shadow-drive) -
