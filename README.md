@@ -20,12 +20,13 @@
 *   [Go](#go)
 *   [Astro](#astro)
 *   [C#](#c-2)
-*   [PHP](#php)
+*   [Blade](#blade)
 *   [HTML](#html)
 *   [Svelte](#svelte)
 *   [Elixir](#elixir)
 *   [Dart](#dart)
 *   [Gherkin](#gherkin)
+*   [PHP](#php)
 *   [Zig](#zig)
 *   [Makefile](#makefile)
 *   [MDX](#mdx)
@@ -1321,11 +1322,9 @@
 *   [evilC/AutoHotInterception](https://github.com/evilC/AutoHotInterception) - An AutoHotkey wrapper for the Interception driver
 *   [KyleJFischer/SpartanController](https://github.com/KyleJFischer/SpartanController) - Control your computer via a text file. I recommend a command from IFTTT to update the text file.
 
-## PHP
+## Blade
 
 *   [discordlookup/discordlookup](https://github.com/discordlookup/discordlookup) - DiscordLookup | Get more out of Discord with Discord Lookup! Snowflake Decoder, Guild List with Stats, Invite Info and more...
-*   [mledoze/countries](https://github.com/mledoze/countries) - World countries in JSON, CSV, XML and Yaml. Any help is welcome!
-*   [matthiasmullie/minify](https://github.com/matthiasmullie/minify) - CSS & JavaScript minifier, in PHP. Removes whitespace, strips comments, combines files (incl. @import statements and small assets in CSS files), and optimizes/shortens a few common programming patterns.
 
 ## HTML
 
@@ -1364,6 +1363,11 @@
 ## Gherkin
 
 *   [camaraproject/EdgeCloud](https://github.com/camaraproject/EdgeCloud) - Repository to describe, develop, document and test the EdgeCloud API family
+
+## PHP
+
+*   [mledoze/countries](https://github.com/mledoze/countries) - World countries in JSON, CSV, XML and Yaml. Any help is welcome!
+*   [matthiasmullie/minify](https://github.com/matthiasmullie/minify) - CSS & JavaScript minifier, in PHP. Removes whitespace, strips comments, combines files (incl. @import statements and small assets in CSS files), and optimizes/shortens a few common programming patterns.
 
 ## Zig
 
