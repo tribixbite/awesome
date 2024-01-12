@@ -556,6 +556,7 @@
 *   [Jannchie/anichart.js](https://github.com/Jannchie/anichart.js) - Easily create data visualization animation videos
 *   [carbon-design-system/carbon-charts](https://github.com/carbon-design-system/carbon-charts) - :bar\_chart: :chart\_with\_upwards\_trend:⠀Robust dataviz framework implemented using D3 & typescript
 *   [reaviz/reaviz](https://github.com/reaviz/reaviz) - 📊 Data visualization library for React. Maintained by @goodcodeus.
+*   [FormidableLabs/victory](https://github.com/FormidableLabs/victory) - A collection of composable React components for building interactive data visualizations
 *   [plouc/nivo](https://github.com/plouc/nivo) - nivo provides a rich set of dataviz components, built on top of the awesome d3 and React libraries
 *   [rumble-charts/rumble-charts](https://github.com/rumble-charts/rumble-charts) - React components for building composable and flexible charts
 *   [ssthouse/tree-chart](https://github.com/ssthouse/tree-chart) - Flexible tree chart using Canvas and Svg, powered by D3.js; ✅Support Vue, Vue3 and React;
@@ -894,7 +895,6 @@
 *   [martpie/next-transpile-modules](https://github.com/martpie/next-transpile-modules) - Next.js plugin to transpile code from node\_modules. Please see: https://github.com/martpie/next-transpile-modules/issues/291
 *   [c3js/c3](https://github.com/c3js/c3) - :bar\_chart: A D3-based reusable chart library
 *   [jwilber/roughViz](https://github.com/jwilber/roughViz) - Reusable JavaScript library for creating sketchy/hand-drawn styled charts in the browser.
-*   [FormidableLabs/victory](https://github.com/FormidableLabs/victory) - A collection of composable React components for building interactive data visualizations
 *   [apexcharts/react-apexcharts](https://github.com/apexcharts/react-apexcharts) - 📊 React Component for ApexCharts
 *   [plotly/react-plotly.js](https://github.com/plotly/react-plotly.js) - A plotly.js React component from Plotly 📈
 *   [dc-js/dc.js](https://github.com/dc-js/dc.js) - Multi-Dimensional charting built to work natively with crossfilter rendered with d3.js
