@@ -44,6 +44,7 @@
 *   [F#](#f)
 *   [Markdown](#markdown)
 *   [Cuda](#cuda)
+*   [Erlang](#erlang)
 *   [OpenSCAD](#openscad)
 *   [AutoIt](#autoit)
 *   [AutoHotkey](#autohotkey)
@@ -258,7 +259,7 @@
 *   [toptal/picasso](https://github.com/toptal/picasso) - Toptal UI components library
 *   [isaacs/rimraf](https://github.com/isaacs/rimraf) - A `rm -rf` util for nodejs
 *   [toptal/keycodes](https://github.com/toptal/keycodes) - Easy visualizer for JavaScript KeyCodes
-*   [projen/projen](https://github.com/projen/projen) - A new generation of project generators
+*   [projen/projen](https://github.com/projen/projen) - Rapidly build modern applications with advanced configuration management
 *   [changesets/changesets](https://github.com/changesets/changesets) - 🦋       A way to manage your versioning and changelogs with a focus on monorepos
 *   [Blue-Terra/solana-rpc-proxy](https://github.com/Blue-Terra/solana-rpc-proxy) - 🦾 A simple containerized Solana RPC proxy micro-service. Useful for injecting request headers, rate limiting and masking RPC apis.
 *   [everlastingsong/solsandbox](https://github.com/everlastingsong/solsandbox) -
@@ -1285,7 +1286,6 @@
 *   [DarkFlippers/unleashed-firmware](https://github.com/DarkFlippers/unleashed-firmware) - Flipper Zero Unleashed Firmware
 *   [mcf-rocks/solanity](https://github.com/mcf-rocks/solanity) - Solanity - Solana GPU Address Grinder
 *   [avaneev/prvhash](https://github.com/avaneev/prvhash) - PRVHASH - Pseudo-Random-Value Hash. Hash functions, PRNG with unlimited period, randomness extractor, and a glimpse into abyss. (inline C/C++) (Codename Gradilac/Градилак)
-*   [ArweaveTeam/arweave](https://github.com/ArweaveTeam/arweave) - The Arweave server and App Developer Toolkit.
 *   [RoganDawes/LOGITacker](https://github.com/RoganDawes/LOGITacker) - Enumerate and test Logitech wireless input devices for vulnerabilities with a nRF52840 radio dongle.
 *   [FABtotum/FABlin](https://github.com/FABtotum/FABlin) - The FABtotum Personal Fabricator Firmware, a Marlin derivate made to support hybrid manufacturing and digital acquisition
 *   [arendst/Tasmota](https://github.com/arendst/Tasmota) - Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at
@@ -1461,6 +1461,10 @@
 ## Cuda
 
 *   [ChorusOne/solanity](https://github.com/ChorusOne/solanity) - GPU based Solana ed25519 vanity key scanner.
+
+## Erlang
+
+*   [ArweaveTeam/arweave](https://github.com/ArweaveTeam/arweave) - The Arweave server and App Developer Toolkit.
 
 ## OpenSCAD
 
