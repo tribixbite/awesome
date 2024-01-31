@@ -768,7 +768,7 @@
 *   [react-component/tween-one](https://github.com/react-component/tween-one) - Animate One React Element
 *   [Wondermarin/react-color-palette](https://github.com/Wondermarin/react-color-palette) - 🎨 Lightweight Color Picker component for React.
 *   [jaywcjlove/react-hotkeys](https://github.com/jaywcjlove/react-hotkeys) - React component to listen to keydown and keyup keyboard events, defining and  dispatching keyboard shortcuts.
-*   [solana-labs/wallet-adapter](https://github.com/solana-labs/wallet-adapter) - Modular TypeScript wallet adapters and components for Solana applications.
+*   [anza-xyz/wallet-adapter](https://github.com/anza-xyz/wallet-adapter) - Modular TypeScript wallet adapters and components for Solana applications.
 *   [project-serum/serum-ts](https://github.com/project-serum/serum-ts) - Project Serum TypeScript monorepo
 *   [heavy-duty/platform](https://github.com/heavy-duty/platform) - Monorepository of Heavy Duty Builders.
 *   [gootools/glasseater](https://github.com/gootools/glasseater) - Tools that eat glass so you don't have to
