@@ -315,7 +315,7 @@
 
 ## TypeScript
 
-*   [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - 🏓  The open-source monitoring platform with incident management  🏓
+*   [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - 🏓  The open-source website & API monitoring platform  🏓
 *   [maweiche/solana\_token\_extensions](https://github.com/maweiche/solana_token_extensions) - Basic build to interact with solana token extensions
 *   [solana-developers/create-solana-dapp](https://github.com/solana-developers/create-solana-dapp) - CLI for creating Solana dApps on the fly
 *   [lwojcik/react-tridi-wrapper](https://github.com/lwojcik/react-tridi-wrapper) - 360-degree image viewer as a React component
