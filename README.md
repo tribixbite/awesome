@@ -4,9 +4,9 @@
 
 ## Table of Contents
 
+*   [TypeScript](#typescript)
 *   [Go](#go)
 *   [Vue](#vue)
-*   [TypeScript](#typescript)
 *   [JavaScript](#javascript)
 *   [Rust](#rust)
 *   [C++](#c)
@@ -50,42 +50,9 @@
 *   [AutoHotkey](#autohotkey)
 *   [Visual Basic .NET](#visual-basic-net)
 
-## Go
-
-*   [pb33f/openapi-changes](https://github.com/pb33f/openapi-changes) - The world's sexiest OpenAPI breaking changes detector. Discover what changed between two OpenAPI specs, or a single spec over time. Supports OpenAPI 3.1, 3.0 and Swagger
-*   [sei-protocol/sei-db](https://github.com/sei-protocol/sei-db) -
-*   [orb-community/orb](https://github.com/orb-community/orb) - Orb is a dynamic network observability platform with agent fleet orchestration and data pipelines with OpenTelemetry
-*   [keyval-dev/odigos](https://github.com/keyval-dev/odigos) - Distributed tracing without code changes. 🚀 Instantly monitor any application using OpenTelemetry and eBPF
-*   [owasp-amass/amass](https://github.com/owasp-amass/amass) - In-depth attack surface mapping and asset discovery
-*   [m1guelpf/chatgpt-discord](https://github.com/m1guelpf/chatgpt-discord) - Run your own GPTChat Discord bot, with a single command!
-*   [harveynw/blokechain](https://github.com/harveynw/blokechain) - Subset of the bitcoin protocol in Golang
-*   [imgproxy/imgproxy](https://github.com/imgproxy/imgproxy) - Fast and secure standalone server for resizing and converting remote images
-*   [h2non/imaginary](https://github.com/h2non/imaginary) - Fast, simple, scalable, Docker-ready HTTP microservice for high-level image processing
-*   [SpatiumPortae/portal](https://github.com/SpatiumPortae/portal) - Portal is a quick and easy command-line file transfer utility from any computer to another 🌌 ✨
-*   [HowRareIs/solproxy](https://github.com/HowRareIs/solproxy) - HowRare Solana RPC proxy is there to allow project creators to freely route Solana RPC calls to different Solana nodes utilizing prioritization and capping.
-*   [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Protect and discover secrets using Gitleaks 🔑
-*   [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
-*   [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
-*   [projectdiscovery/katana](https://github.com/projectdiscovery/katana) - A next-generation crawling and spidering framework.
-*   [CryoByte33/steam-deck-utilities](https://github.com/CryoByte33/steam-deck-utilities) - A utility to improve performance and help manage storage on Steam Deck.
-*   [botlabs-gg/yagpdb](https://github.com/botlabs-gg/yagpdb) - Yet another general purpose discord bot
-*   [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
-*   [solana-labs/solana-ping-api](https://github.com/solana-labs/solana-ping-api) - solana ping api server
-*   [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative
-*   [zincsearch/zincsearch](https://github.com/zincsearch/zincsearch) - ZincSearch . A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
-
-## Vue
-
-*   [scalar/scalar](https://github.com/scalar/scalar) - Beautiful API references from Swagger/OpenAPI files ✨
-*   [2501babe/revoken](https://github.com/2501babe/revoken) - web ui to revoke solana token approvals
-*   [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful home server OS for self-hosting with an app store. Buy a pre-built Umbrel Home with umbrelOS, or install on a Raspberry Pi 4, any Ubuntu/Debian system, or a VPS.
-*   [mynftgg/nft-project](https://github.com/mynftgg/nft-project) - Game code for mynftgg
-*   [paul-schaaf/spl-token-ui](https://github.com/paul-schaaf/spl-token-ui) - Interface for creating and managing SPL Tokens
-*   [Alaanor/beatlist](https://github.com/Alaanor/beatlist) - Beatlist is an app to manage playlists and beatmaps for the game Beat Saber.
-*   [samatt/herbivore](https://github.com/samatt/herbivore) - Packet sniffing made simple
-
 ## TypeScript
 
+*   [LIT-Protocol/js-sdk](https://github.com/LIT-Protocol/js-sdk) - The Lit Protocol SDK provides developers with a framework for implementing Lit functionality into their own applications.
 *   [markdoc/markdoc](https://github.com/markdoc/markdoc) - A powerful, flexible, Markdown-based authoring framework.
 *   [epistemichorse/poll.blue](https://github.com/epistemichorse/poll.blue) -
 *   [WilfredAlmeida/capi](https://github.com/WilfredAlmeida/capi) - Solana cNFT API as a Service
@@ -681,6 +648,39 @@
 *   [jorenvandeweyer/snitch-bot](https://github.com/jorenvandeweyer/snitch-bot) - Discord bot that listen for certain strings in messages to tell you about them.
 *   [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Intuitive Vue Framework.
 *   [thomasloven/lovelace-auto-entities](https://github.com/thomasloven/lovelace-auto-entities) - 🔹Automatically populate the entities-list of lovelace cards
+
+## Go
+
+*   [pb33f/openapi-changes](https://github.com/pb33f/openapi-changes) - The world's sexiest OpenAPI breaking changes detector. Discover what changed between two OpenAPI specs, or a single spec over time. Supports OpenAPI 3.1, 3.0 and Swagger
+*   [sei-protocol/sei-db](https://github.com/sei-protocol/sei-db) -
+*   [orb-community/orb](https://github.com/orb-community/orb) - Orb is a dynamic network observability platform with agent fleet orchestration and data pipelines with OpenTelemetry
+*   [keyval-dev/odigos](https://github.com/keyval-dev/odigos) - Distributed tracing without code changes. 🚀 Instantly monitor any application using OpenTelemetry and eBPF
+*   [owasp-amass/amass](https://github.com/owasp-amass/amass) - In-depth attack surface mapping and asset discovery
+*   [m1guelpf/chatgpt-discord](https://github.com/m1guelpf/chatgpt-discord) - Run your own GPTChat Discord bot, with a single command!
+*   [harveynw/blokechain](https://github.com/harveynw/blokechain) - Subset of the bitcoin protocol in Golang
+*   [imgproxy/imgproxy](https://github.com/imgproxy/imgproxy) - Fast and secure standalone server for resizing and converting remote images
+*   [h2non/imaginary](https://github.com/h2non/imaginary) - Fast, simple, scalable, Docker-ready HTTP microservice for high-level image processing
+*   [SpatiumPortae/portal](https://github.com/SpatiumPortae/portal) - Portal is a quick and easy command-line file transfer utility from any computer to another 🌌 ✨
+*   [HowRareIs/solproxy](https://github.com/HowRareIs/solproxy) - HowRare Solana RPC proxy is there to allow project creators to freely route Solana RPC calls to different Solana nodes utilizing prioritization and capping.
+*   [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Protect and discover secrets using Gitleaks 🔑
+*   [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
+*   [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
+*   [projectdiscovery/katana](https://github.com/projectdiscovery/katana) - A next-generation crawling and spidering framework.
+*   [CryoByte33/steam-deck-utilities](https://github.com/CryoByte33/steam-deck-utilities) - A utility to improve performance and help manage storage on Steam Deck.
+*   [botlabs-gg/yagpdb](https://github.com/botlabs-gg/yagpdb) - Yet another general purpose discord bot
+*   [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
+*   [solana-labs/solana-ping-api](https://github.com/solana-labs/solana-ping-api) - solana ping api server
+*   [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative
+*   [zincsearch/zincsearch](https://github.com/zincsearch/zincsearch) - ZincSearch . A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
+
+## Vue
+
+*   [scalar/scalar](https://github.com/scalar/scalar) - Beautiful API references from Swagger/OpenAPI files ✨
+*   [2501babe/revoken](https://github.com/2501babe/revoken) - web ui to revoke solana token approvals
+*   [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful home server OS for self-hosting with an app store. Buy a pre-built Umbrel Home with umbrelOS, or install on a Raspberry Pi 4, any Ubuntu/Debian system, or a VPS.
+*   [mynftgg/nft-project](https://github.com/mynftgg/nft-project) - Game code for mynftgg
+*   [paul-schaaf/spl-token-ui](https://github.com/paul-schaaf/spl-token-ui) - Interface for creating and managing SPL Tokens
+*   [Alaanor/beatlist](https://github.com/Alaanor/beatlist) - Beatlist is an app to manage playlists and beatmaps for the game Beat Saber.
 
 ## JavaScript
 
