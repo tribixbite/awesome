@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+*   [Handlebars](#handlebars)
 *   [TypeScript](#typescript)
 *   [JavaScript](#javascript)
 *   [C++](#c)
@@ -49,6 +50,10 @@
 *   [AutoIt](#autoit)
 *   [AutoHotkey](#autohotkey)
 *   [Visual Basic .NET](#visual-basic-net)
+
+## Handlebars
+
+*   [cooperativamental/soda-additional-templates](https://github.com/cooperativamental/soda-additional-templates) - Additional Templates for the Soda Machine
 
 ## TypeScript
 
@@ -1164,7 +1169,6 @@
 *   [praw-dev/praw](https://github.com/praw-dev/praw) - PRAW, an acronym for "Python Reddit API Wrapper", is a python package that allows for simple access to Reddit's API.
 *   [LandGrey/pydictor](https://github.com/LandGrey/pydictor) - A powerful and useful hacker dictionary builder for a brute-force attack
 *   [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
-*   [itkfilelor/drone\_mobile](https://github.com/itkfilelor/drone_mobile) - API wrapper for Drone Mobile remote car starter.
 
 ## Rust
 
