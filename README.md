@@ -81,7 +81,7 @@
 *   [wasp-lang/wasp](https://github.com/wasp-lang/wasp) - The fastest way to develop full-stack web apps with React & Node.js.
 *   [zhangrenyang/chatgpt](https://github.com/zhangrenyang/chatgpt) - A free AI assistant that supports GPT-4,支持GPT-4的免费AI助手
 *   [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) - A Blazing Fast AI Gateway. Route to 100+ LLMs with 1 fast & friendly API.
-*   [pubkeyapp/pubkey-link](https://github.com/pubkeyapp/pubkey-link) - PubKey Link is the first Solana Discord bot that supports cNFTs. Free and open source.
+*   [pubkeyapp/pubkey-link-v1](https://github.com/pubkeyapp/pubkey-link-v1) - PubKey Link is the first Solana Discord bot that supports cNFTs. Free and open source. **DEPRECATED** Check https://github.com/pubkeyapp/pubkey-link
 *   [jetbridge/cdk-nextjs](https://github.com/jetbridge/cdk-nextjs) - Deploy a NextJS application using AWS CDK
 *   [httptoolkit/httptoolkit-desktop](https://github.com/httptoolkit/httptoolkit-desktop) - Electron wrapper to build and distribute HTTP Toolkit for the desktop
 *   [APKLab/APKLab](https://github.com/APKLab/APKLab) - Android Reverse-Engineering Workbench for VS Code
