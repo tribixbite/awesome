@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+*   [Python](#python)
 *   [PHP](#php)
 *   [TypeScript](#typescript)
 *   [Dockerfile](#dockerfile)
@@ -12,7 +13,6 @@
 *   [JavaScript](#javascript)
 *   [C++](#c)
 *   [C#](#c-1)
-*   [Python](#python)
 *   [Rust](#rust)
 *   [Elm](#elm)
 *   [HTML](#html)
@@ -50,6 +50,126 @@
 *   [AutoIt](#autoit)
 *   [AutoHotkey](#autohotkey)
 *   [Visual Basic .NET](#visual-basic-net)
+
+## Python
+
+*   [google/magika](https://github.com/google/magika) - Detect file content types with deep learning
+*   [defilogist/tensor-trade-py](https://github.com/defilogist/tensor-trade-py) - Python Client for the Tensor Trade markeplace API
+*   [henrytirla/Decentralized-Exchange-Trading-Scripts](https://github.com/henrytirla/Decentralized-Exchange-Trading-Scripts) - Useful scripts to automate trading on different DEX
+*   [KurtBestor/Hitomi-Downloader](https://github.com/KurtBestor/Hitomi-Downloader) - :cake: Desktop utility to download images/videos/music/text from various websites, and more.
+*   [rmenon1008/mockupgen](https://github.com/rmenon1008/mockupgen) - Quickly generate a 3D device mockup from a screenshot
+*   [isislab-unisa/3Dify](https://github.com/isislab-unisa/3Dify) - Automatic avatar generator from 2D image
+*   [xxlong0/Wonder3D](https://github.com/xxlong0/Wonder3D) - Single Image to 3D using Cross-Domain Diffusion
+*   [facebookresearch/pifuhd](https://github.com/facebookresearch/pifuhd) - High-Resolution 3D Human Digitization from A Single Image.
+*   [zocker-160/pihole-blocklist](https://github.com/zocker-160/pihole-blocklist) - My personal all-in-one anti-Microsoft and anti-Google (and more) pihole blocklist.
+*   [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) - Instant voice cloning by MyShell.
+*   [Furniel/Apk-Changer](https://github.com/Furniel/Apk-Changer) - Command line program for modifying apk files
+*   [dwisiswant0/apkleaks](https://github.com/dwisiswant0/apkleaks) - Scanning APK file for URIs, endpoints & secrets.
+*   [quark-engine/quark-engine](https://github.com/quark-engine/quark-engine) - Dig Vulnerabilities in the BlackBox
+*   [microsoft/promptbase](https://github.com/microsoft/promptbase) - All things prompt engineering
+*   [JJTech0130/pypush](https://github.com/JJTech0130/pypush) - Cross-platform iMessage POC
+*   [cbh123/narrator](https://github.com/cbh123/narrator) - David Attenborough narrates your life
+*   [Kav-K/Described](https://github.com/Kav-K/Described) - Automatically describe images sent by users on popular media platforms, incredibly useful for the visually impaired and for complicated imagery.
+*   [meltano/meltano](https://github.com/meltano/meltano) - Meltano: the declarative code-first data integration engine that powers your wildest data and ML-powered product ideas. Say goodbye to writing, maintaining, and scaling your own API integrations.
+*   [lukasHoel/text2room](https://github.com/lukasHoel/text2room) - Text2Room generates textured 3D meshes from a given text prompt using 2D text-to-image models (ICCV2023).
+*   [GitGuardian/ggshield](https://github.com/GitGuardian/ggshield) - Find and fix 360+ types of hardcoded secrets and 70+ types of infrastructure-as-code misconfigurations.
+*   [confident-ai/deepeval](https://github.com/confident-ai/deepeval) - The Evaluation Framework for LLMs
+*   [swirlai/swirl-search](https://github.com/swirlai/swirl-search) - Swirl is open-source software that uses AI to simultaneously search multiple content and data sources, finds the best results using a reader LLM, then prompts Generative AI, enabling you to get answers from your own data.
+*   [ZachNagengast/LAION-Dalle-Scraper](https://github.com/ZachNagengast/LAION-Dalle-Scraper) - Pipeline to scrape prompt + image url pairs from LAION `share-dalle-3` discord channel
+*   [Pythagora-io/gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) - Dev tool that writes scalable apps from scratch while the developer oversees the implementation
+*   [Gozargah/Marzban](https://github.com/Gozargah/Marzban) - Unified GUI Censorship Resistant Solution Powered by Xray
+*   [prayas-arora/web-scraper-fallingrain](https://github.com/prayas-arora/web-scraper-fallingrain) - Web Scraper to prepare a CSV file containing State, City, Latitude, Longitude, Elevation, Estimated Population from fallingrain.com
+*   [dataprofessor/langchain-ask-the-doc](https://github.com/dataprofessor/langchain-ask-the-doc) - Ask the Doc app built using Langchain and Streamlit.
+*   [mikf/gallery-dl](https://github.com/mikf/gallery-dl) - Command-line program to download image galleries and collections from several image hosting sites
+*   [Yakabuff/redarc](https://github.com/Yakabuff/redarc) - Reddit archiver
+*   [llm-workflow-engine/llm-workflow-engine](https://github.com/llm-workflow-engine/llm-workflow-engine) - Power CLI and Workflow manager for LLMs (core package)
+*   [logspace-ai/langflow](https://github.com/logspace-ai/langflow) - ⛓️ Langflow is a dynamic graph where each node is an executable unit. Its modular and interactive design fosters rapid experimentation and prototyping, pushing hard on the limits of creativity.
+*   [theSamPadilla/blockchain-infra-decentralization-metrics](https://github.com/theSamPadilla/blockchain-infra-decentralization-metrics) -
+*   [DivergentAI/dreamGPT](https://github.com/DivergentAI/dreamGPT) - Leverage hallucinations from Large Language Models (LLMs) for novelty-driven explorations.
+*   [maschere/pyjop](https://github.com/maschere/pyjop) - Official JOY OF PROGRAMMING Python Interface. https://store.steampowered.com/app/2216770
+*   [deforum-art/sd-webui-deforum](https://github.com/deforum-art/sd-webui-deforum) - Deforum extension for AUTOMATIC1111's Stable Diffusion webui
+*   [Kilvoctu/aiyabot](https://github.com/Kilvoctu/aiyabot) - A neat Discord bot for AUTOMATIC1111's Web UI
+*   [Haste171/langchain-chatbot](https://github.com/Haste171/langchain-chatbot) - AI Chatbot for analyzing/extracting information from data in conversational format.
+*   [JaidedAI/EasyOCR](https://github.com/JaidedAI/EasyOCR) - Ready-to-use OCR with 80+ supported languages and all popular writing scripts including Latin, Chinese, Arabic, Devanagari, Cyrillic and etc.
+*   [openai/shap-e](https://github.com/openai/shap-e) - Generate 3D objects conditioned on text or images
+*   [SilentSibilance/2Dto3D-MidjourneyAI](https://github.com/SilentSibilance/2Dto3D-MidjourneyAI) - Converts 2D images generated by MidjourneyAI into 3D models. Places the models in virtual space to create auto-generated environments.
+*   [George-iam/Midjourney\_api](https://github.com/George-iam/Midjourney_api) - unofficial Midjourney API
+*   [longd3/mj-remit](https://github.com/longd3/mj-remit) - a Discord bot that allows anyone on a server to interact with Midjourney Bot
+*   [ausbitbank/ChatGPTDiscord](https://github.com/ausbitbank/ChatGPTDiscord) - Discord bot for interacting with ChatGPT's API by OpenAI
+*   [TheExplainthis/ChatGPT-Discord-Bot](https://github.com/TheExplainthis/ChatGPT-Discord-Bot) - This is a repository that allows you to integrate ChatGPT into Discord.
+*   [Zero6992/chatGPT-discord-bot](https://github.com/Zero6992/chatGPT-discord-bot) - Integrate ChatGPT into your own discord bot
+*   [scottleibrand/gpt-summarizer](https://github.com/scottleibrand/gpt-summarizer) - Extract text from PDF, summarize each section w/ GPT, and provide a summarized outline of the paper
+*   [internetarchive/iacopilot](https://github.com/internetarchive/iacopilot) - Summarize and ask questions about items in the Internet Archive
+*   [jiggy-ai/hn\_summary](https://github.com/jiggy-ai/hn_summary) - Summarizes top stories from Hacker News using a large language model and post them to a Telegram channel.
+*   [Kav-K/GPTDiscord](https://github.com/Kav-K/GPTDiscord) - A robust, all-in-one GPT interface for Discord. ChatGPT-style conversations, image generation, AI-moderation, custom indexes/knowledgebase, youtube summarizer, and more!
+*   [weanalyze/workcell](https://github.com/weanalyze/workcell) - ⚡ Instantly turn your python function into web app.
+*   [serp-ai/ChatGPT-Plugins](https://github.com/serp-ai/ChatGPT-Plugins) - Repo for giving ChatGPT the ability to use web browsing, python code execution, and custom plugins
+*   [lencx/chat-todo-plugin](https://github.com/lencx/chat-todo-plugin) - ✅ ChatGPT Plugin for managing a TODO list
+*   [marticliment/WingetUI](https://github.com/marticliment/WingetUI) - WingetUI: A better UI for your package managers
+*   [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant) - OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.
+*   [openai/chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin) - The ChatGPT Retrieval Plugin lets you easily find personal or work documents by asking questions in natural language.
+*   [awekrx/ChatGPT-MidJourney-prompt](https://github.com/awekrx/ChatGPT-MidJourney-prompt) - This is a ChatGPT based prompt generation model for MidJorney. The purpose of this model is to simplify the creation of images and increase their creativity. By introducing a partial hint, ChatGPT creates a follow-up that can be used to stimulate creativity and provide new ideas.
+*   [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
+*   [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
+*   [FOLLGAD/Godmode-GPT](https://github.com/FOLLGAD/Godmode-GPT) - Godmode
+*   [FOLLGAD/sherlock](https://github.com/FOLLGAD/sherlock) - Personal assistant that can run commands at will
+*   [microsoft/JARVIS](https://github.com/microsoft/JARVIS) - JARVIS, a system to connect LLMs with ML community. Paper: https://arxiv.org/pdf/2303.17580.pdf
+*   [stochasticai/xTuring](https://github.com/stochasticai/xTuring) - Build, customize and control you own LLMs. From data pre-processing to fine-tuning, xTuring provides an easy way to personalize open-source LLMs. Join our discord community: https://discord.gg/TgHXuSJEk6
+*   [lastmile-ai/llama-retrieval-plugin](https://github.com/lastmile-ai/llama-retrieval-plugin) - LLaMa retrieval plugin script using OpenAI's retrieval plugin
+*   [Jacksgong/webp-converter](https://github.com/Jacksgong/webp-converter) - Converter PNG/JPG to Webp and scan all changes
+*   [openai/evals](https://github.com/openai/evals) - Evals is a framework for evaluating LLMs and LLM systems, and an open-source registry of benchmarks.
+*   [run-llama/llama\_index](https://github.com/run-llama/llama_index) - LlamaIndex (formerly GPT Index) is a data framework for your LLM applications
+*   [openai/tiktoken](https://github.com/openai/tiktoken) - tiktoken is a fast BPE tokeniser for use with OpenAI's models.
+*   [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) - Making large AI models cheaper, faster and more accessible
+*   [Logicwax/gpg-hd](https://github.com/Logicwax/gpg-hd) - A BIP-39 / seed-phrase / brain-wallet based Hierarchical Deterministic GPG / SSH key generator that also provisions OpenPGP smartcards for easy key backup and recovery.
+*   [IncideDigital/rvt2](https://github.com/IncideDigital/rvt2) - An open source framework for computer forensics
+*   [gurnec/btcrecover](https://github.com/gurnec/btcrecover) - An open source Bitcoin wallet password and seed recovery tool designed for the case where you already know most of your password/seed, but need assistance in trying different possible combinations.
+*   [SHI-Labs/Versatile-Diffusion](https://github.com/SHI-Labs/Versatile-Diffusion) - Versatile Diffusion: Text, Images and Variations All in One Diffusion Model, arXiv 2022 / ICCV 2023
+*   [IrisRainbowNeko/DreamArtist-stable-diffusion](https://github.com/IrisRainbowNeko/DreamArtist-stable-diffusion) - stable diffusion webui with contrastive prompt tuning
+*   [Cog-Creators/Red-DiscordBot](https://github.com/Cog-Creators/Red-DiscordBot) - A multi-function Discord bot
+*   [chamburr/modmail](https://github.com/chamburr/modmail) - A feature-rich Discord bot for easy communication between server staff and users.
+*   [DXsmiley/mathbot](https://github.com/DXsmiley/mathbot) - Discord bot for mathematics
+*   [feffy380/prompt-morph](https://github.com/feffy380/prompt-morph) - Generate morph sequences with Stable Diffusion. Interpolate between two or more prompts and create an image at each step.
+*   [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
+*   [harubaru/discord-stable-diffusion](https://github.com/harubaru/discord-stable-diffusion) - A neat Discord bot to run Stable Diffusion locally
+*   [sharonzhou/long\_stable\_diffusion](https://github.com/sharonzhou/long_stable_diffusion) - Long-form text-to-images generation, using a pipeline of deep generative models (GPT-3 and Stable Diffusion)
+*   [Sygil-Dev/sygil-webui](https://github.com/Sygil-Dev/sygil-webui) - Stable Diffusion web UI
+*   [huggingface/diffusers](https://github.com/huggingface/diffusers) - 🤗 Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch
+*   [AutodeskAILab/Clip-Forge](https://github.com/AutodeskAILab/Clip-Forge) -
+*   [wangerzi/3d-model-convert-to-gltf](https://github.com/wangerzi/3d-model-convert-to-gltf) - Convert 3d model (STL/IGES/STEP/OBJ/FBX) to gltf and compression
+*   [wanadev/yoga](https://github.com/wanadev/yoga) - Converts and optimizes images and 3D models
+*   [microsoft/DeepSpeed](https://github.com/microsoft/DeepSpeed) - DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.
+*   [tubearchivist/tubearchivist](https://github.com/tubearchivist/tubearchivist) - Your self hosted YouTube media server
+*   [3ct0s/eclipse-grabber](https://github.com/3ct0s/eclipse-grabber) - Generate Discord Token Grabbers for both Windows and MacOS
+*   [newsbubbles/GrowF](https://github.com/newsbubbles/GrowF) - Grow Function: A 3D Stacked Bifurcating Double Deep Cellular Automata which differentiates using a Genetic Algorithm... TLDR;High Def Trees that you can mint as NFTs on Solana
+*   [jackjack-jj/pywallet](https://github.com/jackjack-jj/pywallet) -  bitcoin wallet importer/exporter
+*   [ymgve/bitcoin\_fork\_claimer](https://github.com/ymgve/bitcoin_fork_claimer) - Script for transferring/claiming your coins on various Bitcoin forks
+*   [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
+*   [newren/git-filter-repo](https://github.com/newren/git-filter-repo) - Quickly rewrite git repository history (filter-branch replacement)
+*   [EmDecay/solana-sales-watcher](https://github.com/EmDecay/solana-sales-watcher) - Watch a mint address for sales on the blockchain and report on what you see
+*   [BedrosovaYulia/NFT-minting-using-python](https://github.com/BedrosovaYulia/NFT-minting-using-python) - Minting Solana NFT using candy-machine-cli is quite expensive, so I searched and I have found a cheaper option: it is 20% cheaper!!! In the video from my chanel, I'll directly upload the image file and a metadata file to arweave.net, and then I'll show you how to mint an NFT using the Python script developed by me.
+*   [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes
+*   [Jeeaaasus/youtube-dl](https://github.com/Jeeaaasus/youtube-dl) - Automated yt-dlp Docker image
+*   [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
+*   [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
+*   [minimaxir/big-list-of-naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings) - The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data.
+*   [ipython/xkcd-font](https://github.com/ipython/xkcd-font) - The xkcd font
+*   [ActivityWatch/activitywatch](https://github.com/ActivityWatch/activitywatch) - The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused.
+*   [Inspirateur/DiscordWordCloud](https://github.com/Inspirateur/DiscordWordCloud) - A discord bot that generates word clouds for discord users.
+*   [s0md3v/Orbit](https://github.com/s0md3v/Orbit) - Blockchain Transactions Investigation Tool
+*   [smicallef/spiderfoot](https://github.com/smicallef/spiderfoot) - SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.
+*   [2qov3b/NFT-mint-bot-sol](https://github.com/2qov3b/NFT-mint-bot-sol) - NFT mint bot on Solana chain before sale.
+*   [SolanaNFTCollector/Solana-Minting-Bot](https://github.com/SolanaNFTCollector/Solana-Minting-Bot) - Solana Minting Bot for Magic Eden marketplace AUTOMATED
+*   [hummingbot/hummingbot](https://github.com/hummingbot/hummingbot) - Open source software that helps you create and deploy high-frequency crypto trading bots
+*   [RudeGolems/nft-discord-cropper](https://github.com/RudeGolems/nft-discord-cropper) - A discord bot to crop an NFT image living on the Solana blockchain.
+*   [0xEnrico/arweave-nft-uploader](https://github.com/0xEnrico/arweave-nft-uploader) -
+*   [custom-components/remote\_homeassistant](https://github.com/custom-components/remote_homeassistant) - Links multiple home-assistant instances together
+*   [NabuCasa/hass-nabucasa](https://github.com/NabuCasa/hass-nabucasa) - Issues related to the cloud integration in Nabu Casa
+*   [mechatroner/sublime\_rainbow\_csv](https://github.com/mechatroner/sublime_rainbow_csv) - 🌈Rainbow CSV - Sublime Text Package: Highlight columns in CSV and TSV files and run queeries in SQL-like language
+*   [home-assistant-ecosystem/home-assistant-cli](https://github.com/home-assistant-ecosystem/home-assistant-cli) - :computer: Command-line tool for Home Assistant
+*   [ToyKeeper/fuckometer](https://github.com/ToyKeeper/fuckometer) - How fucked are you right now? A tool to help you give a fuck so you can get less fucked.  Track several aspects of life and boil them down to a single number with graphs and productivity suggestions.
+*   [ollo69/ha-smartthinq-sensors](https://github.com/ollo69/ha-smartthinq-sensors) - HomeAssistant custom integration for SmartThinQ LG devices configurable with Lovelace User Interface.
+*   [ct-Open-Source/tuya-convert](https://github.com/ct-Open-Source/tuya-convert) - A collection of scripts to flash Tuya IoT devices to alternative firmwares
 
 ## PHP
 
@@ -1059,126 +1179,6 @@
 *   [allartprotocol/unity-solana-wallet](https://github.com/allartprotocol/unity-solana-wallet) - The First Open-Source Unity-Solana Wallet with NFT support
 *   [furkandeveloper/EasyCronJob](https://github.com/furkandeveloper/EasyCronJob) - This repository provides easy cron job to your application on IHostedService.
 *   [MonkeDAO/observer](https://github.com/MonkeDAO/observer) - A command-line tracking tool for Solana-based NFT marketplaces and a metadata scraper for Metaplex protocol.
-
-## Python
-
-*   [defilogist/tensor-trade-py](https://github.com/defilogist/tensor-trade-py) - Python Client for the Tensor Trade markeplace API
-*   [henrytirla/Decentralized-Exchange-Trading-Scripts](https://github.com/henrytirla/Decentralized-Exchange-Trading-Scripts) - Useful scripts to automate trading on different DEX
-*   [KurtBestor/Hitomi-Downloader](https://github.com/KurtBestor/Hitomi-Downloader) - :cake: Desktop utility to download images/videos/music/text from various websites, and more.
-*   [rmenon1008/mockupgen](https://github.com/rmenon1008/mockupgen) - Quickly generate a 3D device mockup from a screenshot
-*   [isislab-unisa/3Dify](https://github.com/isislab-unisa/3Dify) - Automatic avatar generator from 2D image
-*   [xxlong0/Wonder3D](https://github.com/xxlong0/Wonder3D) - Single Image to 3D using Cross-Domain Diffusion
-*   [facebookresearch/pifuhd](https://github.com/facebookresearch/pifuhd) - High-Resolution 3D Human Digitization from A Single Image.
-*   [zocker-160/pihole-blocklist](https://github.com/zocker-160/pihole-blocklist) - My personal all-in-one anti-Microsoft and anti-Google (and more) pihole blocklist.
-*   [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) - Instant voice cloning by MyShell.
-*   [Furniel/Apk-Changer](https://github.com/Furniel/Apk-Changer) - Command line program for modifying apk files
-*   [dwisiswant0/apkleaks](https://github.com/dwisiswant0/apkleaks) - Scanning APK file for URIs, endpoints & secrets.
-*   [quark-engine/quark-engine](https://github.com/quark-engine/quark-engine) - Dig Vulnerabilities in the BlackBox
-*   [microsoft/promptbase](https://github.com/microsoft/promptbase) - All things prompt engineering
-*   [JJTech0130/pypush](https://github.com/JJTech0130/pypush) - Cross-platform iMessage POC
-*   [cbh123/narrator](https://github.com/cbh123/narrator) - David Attenborough narrates your life
-*   [Kav-K/Described](https://github.com/Kav-K/Described) - Automatically describe images sent by users on popular media platforms, incredibly useful for the visually impaired and for complicated imagery.
-*   [meltano/meltano](https://github.com/meltano/meltano) - Meltano: the declarative code-first data integration engine that powers your wildest data and ML-powered product ideas. Say goodbye to writing, maintaining, and scaling your own API integrations.
-*   [lukasHoel/text2room](https://github.com/lukasHoel/text2room) - Text2Room generates textured 3D meshes from a given text prompt using 2D text-to-image models (ICCV2023).
-*   [GitGuardian/ggshield](https://github.com/GitGuardian/ggshield) - Find and fix 360+ types of hardcoded secrets and 70+ types of infrastructure-as-code misconfigurations.
-*   [confident-ai/deepeval](https://github.com/confident-ai/deepeval) - The Evaluation Framework for LLMs
-*   [swirlai/swirl-search](https://github.com/swirlai/swirl-search) - Swirl is open-source software that uses AI to simultaneously search multiple content and data sources, finds the best results using a reader LLM, then prompts Generative AI, enabling you to get answers from your own data.
-*   [ZachNagengast/LAION-Dalle-Scraper](https://github.com/ZachNagengast/LAION-Dalle-Scraper) - Pipeline to scrape prompt + image url pairs from LAION `share-dalle-3` discord channel
-*   [Pythagora-io/gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) - Dev tool that writes scalable apps from scratch while the developer oversees the implementation
-*   [Gozargah/Marzban](https://github.com/Gozargah/Marzban) - Unified GUI Censorship Resistant Solution Powered by Xray
-*   [prayas-arora/web-scraper-fallingrain](https://github.com/prayas-arora/web-scraper-fallingrain) - Web Scraper to prepare a CSV file containing State, City, Latitude, Longitude, Elevation, Estimated Population from fallingrain.com
-*   [dataprofessor/langchain-ask-the-doc](https://github.com/dataprofessor/langchain-ask-the-doc) - Ask the Doc app built using Langchain and Streamlit.
-*   [mikf/gallery-dl](https://github.com/mikf/gallery-dl) - Command-line program to download image galleries and collections from several image hosting sites
-*   [Yakabuff/redarc](https://github.com/Yakabuff/redarc) - Reddit archiver
-*   [llm-workflow-engine/llm-workflow-engine](https://github.com/llm-workflow-engine/llm-workflow-engine) - Power CLI and Workflow manager for LLMs (core package)
-*   [logspace-ai/langflow](https://github.com/logspace-ai/langflow) - ⛓️ Langflow is a dynamic graph where each node is an executable unit. Its modular and interactive design fosters rapid experimentation and prototyping, pushing hard on the limits of creativity.
-*   [theSamPadilla/blockchain-infra-decentralization-metrics](https://github.com/theSamPadilla/blockchain-infra-decentralization-metrics) -
-*   [DivergentAI/dreamGPT](https://github.com/DivergentAI/dreamGPT) - Leverage hallucinations from Large Language Models (LLMs) for novelty-driven explorations.
-*   [maschere/pyjop](https://github.com/maschere/pyjop) - Official JOY OF PROGRAMMING Python Interface. https://store.steampowered.com/app/2216770
-*   [deforum-art/sd-webui-deforum](https://github.com/deforum-art/sd-webui-deforum) - Deforum extension for AUTOMATIC1111's Stable Diffusion webui
-*   [Kilvoctu/aiyabot](https://github.com/Kilvoctu/aiyabot) - A neat Discord bot for AUTOMATIC1111's Web UI
-*   [Haste171/langchain-chatbot](https://github.com/Haste171/langchain-chatbot) - AI Chatbot for analyzing/extracting information from data in conversational format.
-*   [JaidedAI/EasyOCR](https://github.com/JaidedAI/EasyOCR) - Ready-to-use OCR with 80+ supported languages and all popular writing scripts including Latin, Chinese, Arabic, Devanagari, Cyrillic and etc.
-*   [openai/shap-e](https://github.com/openai/shap-e) - Generate 3D objects conditioned on text or images
-*   [SilentSibilance/2Dto3D-MidjourneyAI](https://github.com/SilentSibilance/2Dto3D-MidjourneyAI) - Converts 2D images generated by MidjourneyAI into 3D models. Places the models in virtual space to create auto-generated environments.
-*   [George-iam/Midjourney\_api](https://github.com/George-iam/Midjourney_api) - unofficial Midjourney API
-*   [longd3/mj-remit](https://github.com/longd3/mj-remit) - a Discord bot that allows anyone on a server to interact with Midjourney Bot
-*   [ausbitbank/ChatGPTDiscord](https://github.com/ausbitbank/ChatGPTDiscord) - Discord bot for interacting with ChatGPT's API by OpenAI
-*   [TheExplainthis/ChatGPT-Discord-Bot](https://github.com/TheExplainthis/ChatGPT-Discord-Bot) - This is a repository that allows you to integrate ChatGPT into Discord.
-*   [Zero6992/chatGPT-discord-bot](https://github.com/Zero6992/chatGPT-discord-bot) - Integrate ChatGPT into your own discord bot
-*   [scottleibrand/gpt-summarizer](https://github.com/scottleibrand/gpt-summarizer) - Extract text from PDF, summarize each section w/ GPT, and provide a summarized outline of the paper
-*   [internetarchive/iacopilot](https://github.com/internetarchive/iacopilot) - Summarize and ask questions about items in the Internet Archive
-*   [jiggy-ai/hn\_summary](https://github.com/jiggy-ai/hn_summary) - Summarizes top stories from Hacker News using a large language model and post them to a Telegram channel.
-*   [Kav-K/GPTDiscord](https://github.com/Kav-K/GPTDiscord) - A robust, all-in-one GPT interface for Discord. ChatGPT-style conversations, image generation, AI-moderation, custom indexes/knowledgebase, youtube summarizer, and more!
-*   [weanalyze/workcell](https://github.com/weanalyze/workcell) - ⚡ Instantly turn your python function into web app.
-*   [serp-ai/ChatGPT-Plugins](https://github.com/serp-ai/ChatGPT-Plugins) - Repo for giving ChatGPT the ability to use web browsing, python code execution, and custom plugins
-*   [lencx/chat-todo-plugin](https://github.com/lencx/chat-todo-plugin) - ✅ ChatGPT Plugin for managing a TODO list
-*   [marticliment/WingetUI](https://github.com/marticliment/WingetUI) - WingetUI: A better UI for your package managers
-*   [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant) - OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.
-*   [openai/chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin) - The ChatGPT Retrieval Plugin lets you easily find personal or work documents by asking questions in natural language.
-*   [awekrx/ChatGPT-MidJourney-prompt](https://github.com/awekrx/ChatGPT-MidJourney-prompt) - This is a ChatGPT based prompt generation model for MidJorney. The purpose of this model is to simplify the creation of images and increase their creativity. By introducing a partial hint, ChatGPT creates a follow-up that can be used to stimulate creativity and provide new ideas.
-*   [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
-*   [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
-*   [FOLLGAD/Godmode-GPT](https://github.com/FOLLGAD/Godmode-GPT) - Godmode
-*   [FOLLGAD/sherlock](https://github.com/FOLLGAD/sherlock) - Personal assistant that can run commands at will
-*   [microsoft/JARVIS](https://github.com/microsoft/JARVIS) - JARVIS, a system to connect LLMs with ML community. Paper: https://arxiv.org/pdf/2303.17580.pdf
-*   [stochasticai/xTuring](https://github.com/stochasticai/xTuring) - Build, customize and control you own LLMs. From data pre-processing to fine-tuning, xTuring provides an easy way to personalize open-source LLMs. Join our discord community: https://discord.gg/TgHXuSJEk6
-*   [lastmile-ai/llama-retrieval-plugin](https://github.com/lastmile-ai/llama-retrieval-plugin) - LLaMa retrieval plugin script using OpenAI's retrieval plugin
-*   [Jacksgong/webp-converter](https://github.com/Jacksgong/webp-converter) - Converter PNG/JPG to Webp and scan all changes
-*   [openai/evals](https://github.com/openai/evals) - Evals is a framework for evaluating LLMs and LLM systems, and an open-source registry of benchmarks.
-*   [run-llama/llama\_index](https://github.com/run-llama/llama_index) - LlamaIndex (formerly GPT Index) is a data framework for your LLM applications
-*   [openai/tiktoken](https://github.com/openai/tiktoken) - tiktoken is a fast BPE tokeniser for use with OpenAI's models.
-*   [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) - Making large AI models cheaper, faster and more accessible
-*   [Logicwax/gpg-hd](https://github.com/Logicwax/gpg-hd) - A BIP-39 / seed-phrase / brain-wallet based Hierarchical Deterministic GPG / SSH key generator that also provisions OpenPGP smartcards for easy key backup and recovery.
-*   [IncideDigital/rvt2](https://github.com/IncideDigital/rvt2) - An open source framework for computer forensics
-*   [gurnec/btcrecover](https://github.com/gurnec/btcrecover) - An open source Bitcoin wallet password and seed recovery tool designed for the case where you already know most of your password/seed, but need assistance in trying different possible combinations.
-*   [SHI-Labs/Versatile-Diffusion](https://github.com/SHI-Labs/Versatile-Diffusion) - Versatile Diffusion: Text, Images and Variations All in One Diffusion Model, arXiv 2022 / ICCV 2023
-*   [IrisRainbowNeko/DreamArtist-stable-diffusion](https://github.com/IrisRainbowNeko/DreamArtist-stable-diffusion) - stable diffusion webui with contrastive prompt tuning
-*   [Cog-Creators/Red-DiscordBot](https://github.com/Cog-Creators/Red-DiscordBot) - A multi-function Discord bot
-*   [chamburr/modmail](https://github.com/chamburr/modmail) - A feature-rich Discord bot for easy communication between server staff and users.
-*   [DXsmiley/mathbot](https://github.com/DXsmiley/mathbot) - Discord bot for mathematics
-*   [feffy380/prompt-morph](https://github.com/feffy380/prompt-morph) - Generate morph sequences with Stable Diffusion. Interpolate between two or more prompts and create an image at each step.
-*   [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
-*   [harubaru/discord-stable-diffusion](https://github.com/harubaru/discord-stable-diffusion) - A neat Discord bot to run Stable Diffusion locally
-*   [sharonzhou/long\_stable\_diffusion](https://github.com/sharonzhou/long_stable_diffusion) - Long-form text-to-images generation, using a pipeline of deep generative models (GPT-3 and Stable Diffusion)
-*   [Sygil-Dev/sygil-webui](https://github.com/Sygil-Dev/sygil-webui) - Stable Diffusion web UI
-*   [huggingface/diffusers](https://github.com/huggingface/diffusers) - 🤗 Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch
-*   [AutodeskAILab/Clip-Forge](https://github.com/AutodeskAILab/Clip-Forge) -
-*   [wangerzi/3d-model-convert-to-gltf](https://github.com/wangerzi/3d-model-convert-to-gltf) - Convert 3d model (STL/IGES/STEP/OBJ/FBX) to gltf and compression
-*   [wanadev/yoga](https://github.com/wanadev/yoga) - Converts and optimizes images and 3D models
-*   [microsoft/DeepSpeed](https://github.com/microsoft/DeepSpeed) - DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.
-*   [tubearchivist/tubearchivist](https://github.com/tubearchivist/tubearchivist) - Your self hosted YouTube media server
-*   [3ct0s/eclipse-grabber](https://github.com/3ct0s/eclipse-grabber) - Generate Discord Token Grabbers for both Windows and MacOS
-*   [newsbubbles/GrowF](https://github.com/newsbubbles/GrowF) - Grow Function: A 3D Stacked Bifurcating Double Deep Cellular Automata which differentiates using a Genetic Algorithm... TLDR;High Def Trees that you can mint as NFTs on Solana
-*   [jackjack-jj/pywallet](https://github.com/jackjack-jj/pywallet) -  bitcoin wallet importer/exporter
-*   [ymgve/bitcoin\_fork\_claimer](https://github.com/ymgve/bitcoin_fork_claimer) - Script for transferring/claiming your coins on various Bitcoin forks
-*   [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
-*   [newren/git-filter-repo](https://github.com/newren/git-filter-repo) - Quickly rewrite git repository history (filter-branch replacement)
-*   [EmDecay/solana-sales-watcher](https://github.com/EmDecay/solana-sales-watcher) - Watch a mint address for sales on the blockchain and report on what you see
-*   [BedrosovaYulia/NFT-minting-using-python](https://github.com/BedrosovaYulia/NFT-minting-using-python) - Minting Solana NFT using candy-machine-cli is quite expensive, so I searched and I have found a cheaper option: it is 20% cheaper!!! In the video from my chanel, I'll directly upload the image file and a metadata file to arweave.net, and then I'll show you how to mint an NFT using the Python script developed by me.
-*   [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes
-*   [Jeeaaasus/youtube-dl](https://github.com/Jeeaaasus/youtube-dl) - Automated yt-dlp Docker image
-*   [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
-*   [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
-*   [minimaxir/big-list-of-naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings) - The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data.
-*   [ipython/xkcd-font](https://github.com/ipython/xkcd-font) - The xkcd font
-*   [ActivityWatch/activitywatch](https://github.com/ActivityWatch/activitywatch) - The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused.
-*   [Inspirateur/DiscordWordCloud](https://github.com/Inspirateur/DiscordWordCloud) - A discord bot that generates word clouds for discord users.
-*   [s0md3v/Orbit](https://github.com/s0md3v/Orbit) - Blockchain Transactions Investigation Tool
-*   [smicallef/spiderfoot](https://github.com/smicallef/spiderfoot) - SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.
-*   [2qov3b/NFT-mint-bot-sol](https://github.com/2qov3b/NFT-mint-bot-sol) - NFT mint bot on Solana chain before sale.
-*   [SolanaNFTCollector/Solana-Minting-Bot](https://github.com/SolanaNFTCollector/Solana-Minting-Bot) - Solana Minting Bot for Magic Eden marketplace AUTOMATED
-*   [hummingbot/hummingbot](https://github.com/hummingbot/hummingbot) - Open source software that helps you create and deploy high-frequency crypto trading bots
-*   [RudeGolems/nft-discord-cropper](https://github.com/RudeGolems/nft-discord-cropper) - A discord bot to crop an NFT image living on the Solana blockchain.
-*   [0xEnrico/arweave-nft-uploader](https://github.com/0xEnrico/arweave-nft-uploader) -
-*   [custom-components/remote\_homeassistant](https://github.com/custom-components/remote_homeassistant) - Links multiple home-assistant instances together
-*   [NabuCasa/hass-nabucasa](https://github.com/NabuCasa/hass-nabucasa) - Issues related to the cloud integration in Nabu Casa
-*   [mechatroner/sublime\_rainbow\_csv](https://github.com/mechatroner/sublime_rainbow_csv) - 🌈Rainbow CSV - Sublime Text Package: Highlight columns in CSV and TSV files and run queeries in SQL-like language
-*   [home-assistant-ecosystem/home-assistant-cli](https://github.com/home-assistant-ecosystem/home-assistant-cli) - :computer: Command-line tool for Home Assistant
-*   [ToyKeeper/fuckometer](https://github.com/ToyKeeper/fuckometer) - How fucked are you right now? A tool to help you give a fuck so you can get less fucked.  Track several aspects of life and boil them down to a single number with graphs and productivity suggestions.
-*   [ollo69/ha-smartthinq-sensors](https://github.com/ollo69/ha-smartthinq-sensors) - HomeAssistant custom integration for SmartThinQ LG devices configurable with Lovelace User Interface.
-*   [ct-Open-Source/tuya-convert](https://github.com/ct-Open-Source/tuya-convert) - A collection of scripts to flash Tuya IoT devices to alternative firmwares
-*   [jlamendo/ha-sensor.owlet](https://github.com/jlamendo/ha-sensor.owlet) - Owlet Smart Sock v2/v3 Sensor Integration for HomeAssistant using the modern Owlet API.
 
 ## Rust
 
