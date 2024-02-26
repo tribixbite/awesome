@@ -118,7 +118,7 @@
 *   [lastmile-ai/llama-retrieval-plugin](https://github.com/lastmile-ai/llama-retrieval-plugin) - LLaMa retrieval plugin script using OpenAI's retrieval plugin
 *   [Jacksgong/webp-converter](https://github.com/Jacksgong/webp-converter) - Converter PNG/JPG to Webp and scan all changes
 *   [openai/evals](https://github.com/openai/evals) - Evals is a framework for evaluating LLMs and LLM systems, and an open-source registry of benchmarks.
-*   [run-llama/llama\_index](https://github.com/run-llama/llama_index) - LlamaIndex (formerly GPT Index) is a data framework for your LLM applications
+*   [run-llama/llama\_index](https://github.com/run-llama/llama_index) - LlamaIndex is a data framework for your LLM applications
 *   [openai/tiktoken](https://github.com/openai/tiktoken) - tiktoken is a fast BPE tokeniser for use with OpenAI's models.
 *   [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) - Making large AI models cheaper, faster and more accessible
 *   [Logicwax/gpg-hd](https://github.com/Logicwax/gpg-hd) - A BIP-39 / seed-phrase / brain-wallet based Hierarchical Deterministic GPG / SSH key generator that also provisions OpenPGP smartcards for easy key backup and recovery.
@@ -1161,7 +1161,7 @@
 ## C\#
 
 *   [solana-developers/solana\_game\_preset](https://github.com/solana-developers/solana_game_preset) - A npx preset with anchor program and multiple clients
-*   [DevxStudio/Phoenix-Clipper-Malware](https://github.com/DevxStudio/Phoenix-Clipper-Malware) - 💸 Hiden Clipper + Auto-Run + Hiden Installer + ByPass Antiviruses, wallets in clipboard (btc,bch,eth,xmr,xrp,xlm,nec,ltc,doge,dash,trx,zcash,bnb...)
+*   [DevxStudio/Phoenix-Clipper-Malware](https://github.com/DevxStudio/Phoenix-Clipper-Malware) - 💸 Hiden Clipper + Auto-Run + Hiden Installer + ByPass Antiviruses, wallets in clipboard (btc,bch,eth,ton,xmr,xrp,xlm,nec,ltc,doge,dash,trx,zcash,bnb...)
 *   [microsoft/devhome](https://github.com/microsoft/devhome) - The new Dev Home experience for Windows!
 *   [solana-developers/solana-game-examples](https://github.com/solana-developers/solana-game-examples) -
 *   [CrazyGamesCom/unity-optimizations-package](https://github.com/CrazyGamesCom/unity-optimizations-package) -
