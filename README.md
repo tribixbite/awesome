@@ -516,7 +516,7 @@
 *   [ivanoats/nextweather](https://github.com/ivanoats/nextweather) - Weather station data focused on wind and tide for human powered watercraft
 *   [jellydn/next-validations](https://github.com/jellydn/next-validations) - NextJS API Validations,  support Zod, Yup, Fastest-Validator, Joi, and more
 *   [openapi-library/OpenAPIValidators](https://github.com/openapi-library/OpenAPIValidators) - Use Jest or Chai to assert that HTTP responses satisfy an OpenAPI spec
-*   [atonoy/solana-suite](https://github.com/atonoy/solana-suite) - To develop Solana applications easily, even for beginners
+*   [fukaoi/solana-suite](https://github.com/fukaoi/solana-suite) - To develop Solana applications easily, even for beginners
 *   [discordjs/discord-api-types](https://github.com/discordjs/discord-api-types) - Up to date Discord API Typings, versioned by the API version
 *   [nvh95/jest-preview](https://github.com/nvh95/jest-preview) - Debug your Jest tests. Effortlessly.🛠🖼
 *   [AmesingFlank/taichi.js](https://github.com/AmesingFlank/taichi.js) - Modern GPU Compute and Rendering in Javascript
@@ -676,7 +676,7 @@
 *   [cipherstash-archive/cipherstash.js](https://github.com/cipherstash-archive/cipherstash.js) - CipherStash clients for JavaScript and TypeScript
 *   [Stonks-Luma-Liberty/GuiltySpark](https://github.com/Stonks-Luma-Liberty/GuiltySpark) - Solana NFT wallet monitor discord bot
 *   [bhagyamudgal/soltok](https://github.com/bhagyamudgal/soltok) - A react web app to find spl-tokens with same or similar token name or symbol on the solana blockchain
-*   [atonoy/smart-token-tool](https://github.com/atonoy/smart-token-tool) - SPL Token/ NFT  issue tool on solana blockchain by React
+*   [fukaoi/smart-token-tool](https://github.com/fukaoi/smart-token-tool) - SPL Token/ NFT  issue tool on solana blockchain by React
 *   [orca-so/typescript-sdk](https://github.com/orca-so/typescript-sdk) - The Orca SDK contains a set of simple to use APIs to allow developers to integrate with the Orca platform.
 *   [dao-xyz/borsh-ts](https://github.com/dao-xyz/borsh-ts) - ⚡️fast TypeScript implementation of Borsh serialization format
 *   [lndgalante/solutils](https://github.com/lndgalante/solutils) - React Hooks and Helpers for Solana
