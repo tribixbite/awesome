@@ -733,7 +733,7 @@
 
 *   [Tyrrrz/LightBulb](https://github.com/Tyrrrz/LightBulb) - Reduces eye strain by adjusting gamma based on the current time
 *   [solana-developers/solana\_game\_preset](https://github.com/solana-developers/solana_game_preset) - A npx preset with anchor program and multiple clients
-*   [DevxStudio/Phoenix-Clipper-Malware](https://github.com/DevxStudio/Phoenix-Clipper-Malware) - 💸 Hiden Clipper + Auto-Run + Hiden Installer + ByPass Antiviruses, wallets in clipboard (btc,bch,eth,ton,xmr,xrp,xlm,nec,ltc,doge,dash,trx,zcash,bnb...)
+*   [DevxStudio/Phoenix-Clipper-Malware](https://github.com/DevxStudio/Phoenix-Clipper-Malware) - 💸 Hiden Clipper + Auto-Run + Hiden Installer + ByPass Antiviruses, wallets in clipboard (btc,bch,eth,ton,xmr,xrp,xlm,nec,ltc,doge,dash,trx,zcash,bnb,ton...)
 *   [microsoft/devhome](https://github.com/microsoft/devhome) - The new Dev Home experience for Windows!
 *   [solana-developers/solana-game-examples](https://github.com/solana-developers/solana-game-examples) -
 *   [CrazyGamesCom/unity-optimizations-package](https://github.com/CrazyGamesCom/unity-optimizations-package) -
