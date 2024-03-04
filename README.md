@@ -58,6 +58,7 @@
 
 ## TypeScript
 
+*   [fedorerd/c-boxes](https://github.com/fedorerd/c-boxes) -
 *   [serwist/serwist](https://github.com/serwist/serwist) - A Swiss Army knife for service workers.
 *   [thedonmon/cnft-cli](https://github.com/thedonmon/cnft-cli) - CLI For cNFTs on Solana
 *   [calibreapp/image-actions](https://github.com/calibreapp/image-actions) - A Github Action that automatically compresses JPEGs, PNGs and WebPs in Pull Requests.
@@ -80,7 +81,6 @@
 *   [markdoc/markdoc](https://github.com/markdoc/markdoc) - A powerful, flexible, Markdown-based authoring framework.
 *   [epistemichorse/poll.blue](https://github.com/epistemichorse/poll.blue) -
 *   [WilfredAlmeida/capi](https://github.com/WilfredAlmeida/capi) - Solana cNFT API as a Service
-*   [WilfredAlmeida/LightDAS](https://github.com/WilfredAlmeida/LightDAS) - Lightweight DAS for Solana
 *   [pubkeyapp/solana-keygen-worker](https://github.com/pubkeyapp/solana-keygen-worker) - Example on how to grind a Solana keypair using a web worker
 *   [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - 🏓  The open-source website & API monitoring platform  🏓
 *   [maweiche/solana\_token\_extensions](https://github.com/maweiche/solana_token_extensions) - Basic build to interact with solana token extensions
@@ -1277,7 +1277,6 @@
 *   [mdbootstrap/Black-Friday-2023](https://github.com/mdbootstrap/Black-Friday-2023) - Black Friday & Cyber Monday Deals (UI Kits WordPress Plugins, CRMs, SEO, Courses, Books) for web developers, programmers, and software engineers.
 *   [RitikPatni/Front-End-Web-Development-Resources](https://github.com/RitikPatni/Front-End-Web-Development-Resources) - This repository contains content which will be helpful in your journey as a front-end Web Developer
 *   [tribixbite/Settlers-game-pieces](https://github.com/tribixbite/Settlers-game-pieces) - 3D printable Settlers of Catan tiles
-*   [Intrinsically-Sublime/Settlers-game-pieces](https://github.com/Intrinsically-Sublime/Settlers-game-pieces) - 3D printable Settlers of Catan tiles
 
 ## Handlebars
 
@@ -1288,6 +1287,7 @@
 *   [levicook/derive-keys-please](https://github.com/levicook/derive-keys-please) -
 *   [cavemanloverboy/multigrind](https://github.com/cavemanloverboy/multigrind) -
 *   [pipXBT/Vanaddy](https://github.com/pipXBT/Vanaddy) - Solana Vanity Address Generator
+*   [WilfredAlmeida/LightDAS](https://github.com/WilfredAlmeida/LightDAS) - Lightweight DAS for Solana
 *   [vi/websocat](https://github.com/vi/websocat) - Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions
 *   [0xlarry/byo\_mint](https://github.com/0xlarry/byo_mint) - A compressed NFT mint program on Solana.
 *   [shuttle-hq/shuttle](https://github.com/shuttle-hq/shuttle) - Build & ship backends without writing any infrastructure files.
