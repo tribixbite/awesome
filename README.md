@@ -93,7 +93,7 @@
 *   [neplextech/edge-ui](https://github.com/neplextech/edge-ui) - Internal components library based on shadcn-ui
 *   [owenventer/galleria](https://github.com/owenventer/galleria) - Helius Portfolio Viewer
 *   [helius-labs/galleria](https://github.com/helius-labs/galleria) - An open source portfolio viewer that is built on top of Helius's DAS API.
-*   [fdundjer/solana-sniper-bot](https://github.com/fdundjer/solana-sniper-bot) - Solana Sniper Bot - Proof of Concept
+*   [snipe-it-com/solana-sniper-bot](https://github.com/snipe-it-com/solana-sniper-bot) - Solana Sniper Bot - Proof of Concept
 *   [chainsona/genesysgo-dagger-dashboard](https://github.com/chainsona/genesysgo-dagger-dashboard) - GenesysGo D.A.G.G.E.R. Testnet Dashboard alternative
 *   [amilz/proof-of-x](https://github.com/amilz/proof-of-x) - Real-time rewards for on-chain events 🏆 2023 Sandstorm Hackathon Winner
 *   [solana-labs/solana-web3.js](https://github.com/solana-labs/solana-web3.js) - Solana JavaScript SDK
