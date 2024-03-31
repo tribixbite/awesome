@@ -80,7 +80,7 @@
 *   [buttercup/buttercup-core](https://github.com/buttercup/buttercup-core) - :tophat: The mighty NodeJS password vault
 *   [BasedHardware/Whomane](https://github.com/BasedHardware/Whomane) - An open source wearable with camera
 *   [fedorerd/c-boxes](https://github.com/fedorerd/c-boxes) -
-*   [serwist/serwist](https://github.com/serwist/serwist) - A Swiss Army knife for service workers.
+*   [serwist/serwist](https://github.com/serwist/serwist) - A Swiss Army knife for service workers. This is a mirror of Serwist's GitLab repository.
 *   [thedonmon/cnft-cli](https://github.com/thedonmon/cnft-cli) - CLI For cNFTs on Solana
 *   [calibreapp/image-actions](https://github.com/calibreapp/image-actions) - A Github Action that automatically compresses JPEGs, PNGs and WebPs in Pull Requests.
 *   [pubkeyapp/solana-wallet-adapter-mantine-ui](https://github.com/pubkeyapp/solana-wallet-adapter-mantine-ui) - This is a Mantine wrapper for the Solana Wallet Adapter.
