@@ -251,7 +251,7 @@
 *   [TuringAI-Team/chatgpt-discord-bot](https://github.com/TuringAI-Team/chatgpt-discord-bot) - The ultimate AI-powered Discord bot
 *   [ritz078/transform](https://github.com/ritz078/transform) - A polyglot web converter.
 *   [kaimallea/isMobile](https://github.com/kaimallea/isMobile) - A simple JS library that detects mobile devices.
-*   [TBD54566975/web5-js](https://github.com/TBD54566975/web5-js) - An SDK for building decentralized web apps with DIDs, VCs, and DWNs.
+*   [TBD54566975/web5-js](https://github.com/TBD54566975/web5-js) - Monorepo for the Web5 JS TypeScript implementation
 *   [garronej/denoify](https://github.com/garronej/denoify) - 🦕For NPM module authors that would like to support Deno but do not want to write and maintain a port.
 *   [xiangsx/gpt4free-ts](https://github.com/xiangsx/gpt4free-ts) - Providing a free OpenAI GPT-4 API !   This is a replication project for the typescript version of xtekky/gpt4free
 *   [jshor/symbology](https://github.com/jshor/symbology) - 🔖 Generates 1D, 2D, or composite barcodes in png, svg, or eps formats. Supports 50+ symbologies.
