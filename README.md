@@ -309,7 +309,7 @@
 *   [ivopr/tamagui-expo](https://github.com/ivopr/tamagui-expo) - An Expo template with Tamagui
 *   [dohomi/tamagui-kitchen-sink](https://github.com/dohomi/tamagui-kitchen-sink) - Home of tamagui-extras, a component library which extends Tamagui with additional features..
 *   [nandorojo/solito](https://github.com/nandorojo/solito) - 🧍‍♂️ React Native + Next.js, unified.
-*   [lachlanhawthorne/tamagui-supabase-todos-quickstart](https://github.com/lachlanhawthorne/tamagui-supabase-todos-quickstart) - Tamagui with Supabase, Expo, Next.js, Solito and Jotai
+*   [lachlanhawthorne/tamagui-supabase-todos-starter](https://github.com/lachlanhawthorne/tamagui-supabase-todos-starter) - Tamagui with Supabase, Expo, Next.js, Solito and Jotai
 *   [amosbastian/nx-expo-nextjs-tamagui](https://github.com/amosbastian/nx-expo-nextjs-tamagui) - Nx, Tamagui, Solito, Expo & Next.js example template
 *   [bonnguyenitc/react-native-starter](https://github.com/bonnguyenitc/react-native-starter) - React Native Template - v0.72.5 (Always latest RN version) high scalability, full features for start new application. Let's BUILD 🚀🚀🚀
 *   [tamagui/tamagui](https://github.com/tamagui/tamagui) - Style React fast with 100% parity on React Native, an optional UI kit, and optimizing compiler.
