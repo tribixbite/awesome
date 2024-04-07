@@ -54,6 +54,7 @@
 
 ## Rust
 
+*   [HardhatChad/ore-cli](https://github.com/HardhatChad/ore-cli) -
 *   [HardhatChad/ore](https://github.com/HardhatChad/ore) -
 *   [railwayapp/nixpacks](https://github.com/railwayapp/nixpacks) - App source + Nix packages + Docker = Image
 *   [dimensionhq/volt](https://github.com/dimensionhq/volt) - An experimental package management tool for JavaScript. Upto 30x faster installation of dependencies using pre-flattened dependency trees.
@@ -1227,7 +1228,6 @@
 *   [bropat/ioBroker.eusec](https://github.com/bropat/ioBroker.eusec) - This ioBroker adapter allows to control Eufy security devices by connecting to the Eufy cloud servers.
 *   [brainwalletX/brainwalletX.github.io](https://github.com/brainwalletX/brainwalletX.github.io) - Brainwallet site
 *   [bitcoinjs/bip39](https://github.com/bitcoinjs/bip39) - JavaScript implementation of Bitcoin BIP39: Mnemonic code for generating deterministic keys
-*   [jonbloom/stonkbot](https://github.com/jonbloom/stonkbot) -
 
 ## Go
 
