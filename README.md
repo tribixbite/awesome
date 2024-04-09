@@ -71,7 +71,7 @@
 *   [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 *   [metaplex-foundation/mpl-bubblegum](https://github.com/metaplex-foundation/mpl-bubblegum) - Create and manage Metaplex compressed NFTs
 *   [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is a declarative GUI toolkit to build native user interfaces for Rust, C++, or JavaScript apps.
-*   [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one CLI tool for 10+ AI platforms, including OpenAI(ChatGPT), Gemini, Claude, Mistral, LocalAI, Ollama, VertexAI, Ernie, Qianwen...
+*   [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one CLI Copilot for 10+ AI platforms, including OpenAI, Gemini, Claude, Mistral, Ollama, VertexAI, Ernie, Qianwen...
 *   [blockworks-foundation/mango-v4](https://github.com/blockworks-foundation/mango-v4) - mango-v4 monorepo, contains program, ts client, and py client
 *   [CaviesLabs/hamsterswap-program](https://github.com/CaviesLabs/hamsterswap-program) -
 *   [metaplex-foundation/metaplex-program-library](https://github.com/metaplex-foundation/metaplex-program-library) - Smart contracts maintained by the Metaplex team
@@ -996,7 +996,7 @@
 *   [metaplex-foundation/developer-hub](https://github.com/metaplex-foundation/developer-hub) - One place for all Metaplex developer resources
 *   [MNisarAli/Metrics-Webapp](https://github.com/MNisarAli/Metrics-Webapp) - A single-page web application (SPA) that allows users to check world continents/countries' information, e.g; Population, Flags, Longitude, Latitude, etc.
 *   [fastify/light-my-request](https://github.com/fastify/light-my-request) - Fake HTTP injection library
-*   [logspace-ai/langflow](https://github.com/logspace-ai/langflow) - ⛓️ Langflow is a dynamic graph where each node is an executable unit. Its modular and interactive design fosters rapid experimentation and prototyping, pushing hard on the limits of creativity.
+*   [langflow-ai/langflow](https://github.com/langflow-ai/langflow) - ⛓️ Langflow is a dynamic graph where each node is an executable unit. Its modular and interactive design fosters rapid experimentation and prototyping, pushing hard on the limits of creativity.
 *   [kristianmandrup/vault-ai](https://github.com/kristianmandrup/vault-ai) - OP Vault ChatGPT: Give ChatGPT long-term memory using the OP Stack (OpenAI + Pinecone Vector Database). Upload your own custom knowledge base files (PDF, txt, etc) using a simple React frontend.
 *   [Tanza3D/reddark](https://github.com/Tanza3D/reddark) - reddark, but it's in realtime
 *   [bartonhammond/snowflake](https://github.com/bartonhammond/snowflake) - :snowflake: A React-Native Android iOS Starter App/ BoilerPlate / Example with Redux, RN Router,  & Jest with the Snowflake Hapi Server running locally or on RedHat OpenShift for the backend, or a Parse Server running locally or remotely on Heroku
