@@ -74,7 +74,7 @@
 *   [aspen-cloud/triplit](https://github.com/aspen-cloud/triplit) - A full-stack, syncing database that runs on both server and client. Pluggable storage (indexeddb, sqlite, durable objects), syncs over websockets, and works with your favorite framework (React, Solid, Vue, Svelte).
 *   [Irys-xyz/js-sdk](https://github.com/Irys-xyz/js-sdk) - JS SDK for Bundlr
 *   [seamapi/prefixed-api-key](https://github.com/seamapi/prefixed-api-key) - Module for generating a prefixed API Key
-*   [Markeljan/Web3GPT](https://github.com/Markeljan/Web3GPT) - deploy smart contracts using natural language
+*   [Markeljan/web3-gpt](https://github.com/Markeljan/web3-gpt) - deploy smart contracts using natural language
 *   [trailofbits/vscode-weaudit](https://github.com/trailofbits/vscode-weaudit) - Create code bookmarks and code highlights with a click.
 *   [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) - Script to get your site indexed on Google in less than 48 hours
 *   [fxhash/fxhash-website](https://github.com/fxhash/fxhash-website) - fxhash front-end, nextjs
@@ -160,7 +160,6 @@
 *   [TreeFarmer/embed-table](https://github.com/TreeFarmer/embed-table) - Easily make nice looking text tables for Discord's embed fields and descriptions.
 *   [fastly/next-compute-js](https://github.com/fastly/next-compute-js) - Run Next.js on Fastly Compute
 *   [pmcelhaney/counterfact](https://github.com/pmcelhaney/counterfact) - OpenAPI / Swagger to TypeScript generator and mock server
-*   [helius-labs/xray](https://github.com/helius-labs/xray) - A human-readable Solana transaction explorer powered by Helius.
 *   [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
 *   [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev is the open source background jobs platform for TypeScript.
 *   [trankhacvy/solana-nextjs-starter](https://github.com/trankhacvy/solana-nextjs-starter) - A Solana-powered Next.js boilerplate app for building efficient and scalable web applications.
@@ -1334,6 +1333,7 @@
 *   [CriticalMoments/CMSaasStarter](https://github.com/CriticalMoments/CMSaasStarter) - A modern SaaS template/boilerplate built with SvelteKit, Tailwind, and Supabase. Includes marketing page, blog, subscriptions, auth, user dashboard, user settings, pricing page, and more.
 *   [flo-bit/image2fake3d](https://github.com/flo-bit/image2fake3d) - show a fake 3d effect in the browser from an image with a depth map
 *   [inngest/typedwebhook.tools](https://github.com/inngest/typedwebhook.tools) - A webhook testing tool for checking payloads, with automatic type generation
+*   [helius-labs/xray](https://github.com/helius-labs/xray) - A human-readable Solana transaction explorer powered by Helius.
 
 ## C++
 
