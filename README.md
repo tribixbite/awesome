@@ -509,7 +509,7 @@
 *   [pb33f/openapi-changes](https://github.com/pb33f/openapi-changes) - The world's sexiest OpenAPI breaking changes detector. Discover what changed between two OpenAPI specs, or a single spec over time. Supports OpenAPI 3.1, 3.0 and Swagger
 *   [sei-protocol/sei-db](https://github.com/sei-protocol/sei-db) -
 *   [orb-community/orb](https://github.com/orb-community/orb) - Orb is a dynamic network observability platform with agent fleet orchestration and data pipelines with OpenTelemetry
-*   [keyval-dev/odigos](https://github.com/keyval-dev/odigos) - Distributed tracing without code changes. 🚀 Instantly monitor any application using OpenTelemetry and eBPF
+*   [odigos-io/odigos](https://github.com/odigos-io/odigos) - Distributed tracing without code changes. 🚀 Instantly monitor any application using OpenTelemetry and eBPF
 *   [owasp-amass/amass](https://github.com/owasp-amass/amass) - In-depth attack surface mapping and asset discovery
 *   [m1guelpf/chatgpt-discord](https://github.com/m1guelpf/chatgpt-discord) - Run your own GPTChat Discord bot, with a single command!
 *   [harveynw/blokechain](https://github.com/harveynw/blokechain) - Subset of the bitcoin protocol in Golang
