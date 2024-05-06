@@ -939,7 +939,7 @@
 *   [react-component/tree](https://github.com/react-component/tree) - React Tree
 *   [hauptrolle/chakra-templates](https://github.com/hauptrolle/chakra-templates) - A growing collection of responsive Chakra UI Templates ready to drop into your React project.
 *   [BuilderIO/builder](https://github.com/BuilderIO/builder) - Drag and drop headless CMS for React, Vue, Svelte, Qwik, and more
-*   [BearStudio/start-ui-web](https://github.com/BearStudio/start-ui-web) - 🚀 Start UI \[web] is an opinionated UI starter with 🟦 TypeScript, ⚛️ React, ⚫️ NextJS, ⚡️ Chakra UI, 🟦 tRPC, ▲ Prisma, 🏖️ TanStack Query, 📕 Storybook, 🎭 Playwright, 🐜 Formiz◽From the 🐻  BearStudio Team
+*   [BearStudio/start-ui-web](https://github.com/BearStudio/start-ui-web) - 🚀 Start UI \[web] is an opinionated UI starter with 🟦 TypeScript, ⚛️ React, ⚫️ NextJS, ⚡️ Chakra UI, 🟦 tRPC, ▲ Prisma, 🏖️ TanStack Query, 📕 Storybook, 🎭 Playwright,📋 React Hook Form,◽From the 🐻  BearStudio Team
 *   [sozonome/nextarter-chakra](https://github.com/sozonome/nextarter-chakra) - battery packed template / boilerplate to initialize Next.js app with Chakra UI & Typescript setup ✨
 *   [dimitropoulos/react-ui-roundup](https://github.com/dimitropoulos/react-ui-roundup) - A one-stop-shop for comparing the features of all the best React frameworks.  Useful for designers and engineers alike!
 *   [nvedant/create-chakra](https://github.com/nvedant/create-chakra) - 🌈 cli tool to scaffold chakra ui projects, without wasting time
