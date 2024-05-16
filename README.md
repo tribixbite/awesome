@@ -624,7 +624,7 @@
 *   [nextui-org/nextui](https://github.com/nextui-org/nextui) - 🚀   Beautiful, fast and modern React UI library.
 *   [StefanTerdell/zod-to-json-schema](https://github.com/StefanTerdell/zod-to-json-schema) - Converts Zod schemas to Json schemas
 *   [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Open-source VS Code and JetBrains extensions that enable you to easily create your own modular AI software development system
-*   [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open platform for building developer portals
+*   [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open framework for building developer portals
 *   [CarlosZiegler/zodios-stack](https://github.com/CarlosZiegler/zodios-stack) -
 *   [lzehrung/zod-express-openapi-routes](https://github.com/lzehrung/zod-express-openapi-routes) - POC for cozy API validation, typing, and OpenAPI/swagger schema generation with Zod and Express
 *   [LorisSigrist/zocker](https://github.com/LorisSigrist/zocker) - Generate realistic mock-data from your `zod` schemas
