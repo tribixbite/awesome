@@ -10,6 +10,7 @@
 *   [C#](#c)
 *   [TypeScript](#typescript)
 *   [JavaScript](#javascript)
+*   [Dockerfile](#dockerfile)
 *   [Rust](#rust)
 *   [Dart](#dart)
 *   [HTML](#html)
@@ -22,7 +23,6 @@
 *   [PHP](#php)
 *   [Kotlin](#kotlin)
 *   [Ruby](#ruby)
-*   [Dockerfile](#dockerfile)
 *   [Handlebars](#handlebars)
 *   [Elm](#elm)
 *   [CSS](#css)
@@ -90,7 +90,6 @@
 *   [spoo-me/url-shortener](https://github.com/spoo-me/url-shortener) - spoo.me is a free and easy-to-use URL shortener that lets you create short links for any website. You can choose your own alias, set a password, and limit the number of clicks.
 *   [HyperGAI/HPT](https://github.com/HyperGAI/HPT) - HPT - Open Multimodal LLMs from HyperGAI
 *   [IntelLabs/fastRAG](https://github.com/IntelLabs/fastRAG) - Efficient Retrieval Augmentation and Generation Framework
-*   [pathwaycom/llm-app](https://github.com/pathwaycom/llm-app) - LLM App templates for RAG, knowledge mining, and stream analytics. Ready to run with Docker,⚡in sync with your data sources.
 *   [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A Gradio web UI for Large Language Models. Supports transformers, GPTQ, AWQ, EXL2, llama.cpp (GGUF), Llama models.
 *   [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - Unify Efficient Fine-Tuning of 100+ LLMs
 *   [OpenAccess-AI-Collective/axolotl](https://github.com/OpenAccess-AI-Collective/axolotl) - Go ahead and axolotl questions
@@ -1309,6 +1308,12 @@
 *   [tribixbite/meteor](https://github.com/tribixbite/meteor) - Meteor, an ultra-simple, database-everywhere, data-on-the-wire, pure-Javascript web framework.
 *   [tribixbite/Ghost.py](https://github.com/tribixbite/Ghost.py) - Webkit based scriptable web browser for python.
 
+## Dockerfile
+
+*   [pathwaycom/llm-app](https://github.com/pathwaycom/llm-app) - LLM App templates for RAG, knowledge mining, and stream analytics. Ready to run with Docker,⚡in sync with your data sources.
+*   [Somi-AI/flowiseai-railway](https://github.com/Somi-AI/flowiseai-railway) - Flowise AI Railway Template that come with pre-configured persisted volume, PostGIS & private networking.
+*   [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white\_check\_mark:  The Node.js best practices list (February 2024)
+
 ## Rust
 
 *   [fire-scale/pregrind.sol](https://github.com/fire-scale/pregrind.sol) - We grind Solana keys for you so you don't have to wait.
@@ -1540,11 +1545,6 @@
 ## Ruby
 
 *   [toy/image\_optim](https://github.com/toy/image_optim) - Optimize images using multiple utilities
-
-## Dockerfile
-
-*   [Somi-AI/flowiseai-railway](https://github.com/Somi-AI/flowiseai-railway) - Flowise AI Railway Template that come with pre-configured persisted volume, PostGIS & private networking.
-*   [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white\_check\_mark:  The Node.js best practices list (February 2024)
 
 ## Handlebars
 
