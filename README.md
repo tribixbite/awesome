@@ -5,15 +5,15 @@
 ## Table of Contents
 
 *   [TypeScript](#typescript)
-*   [miscellaneous](#miscellaneous)
+*   [HTML](#html)
 *   [Go](#go)
 *   [Python](#python)
+*   [miscellaneous](#miscellaneous)
 *   [C#](#c)
 *   [JavaScript](#javascript)
 *   [Dockerfile](#dockerfile)
 *   [Rust](#rust)
 *   [Dart](#dart)
-*   [HTML](#html)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [Shell](#shell)
 *   [C](#c-1)
@@ -58,7 +58,10 @@
 
 ## TypeScript
 
-*   [hudy9x/namviek](https://github.com/hudy9x/namviek) - A free task management with ai support for small startup
+*   [symphony-hq/symphony](https://github.com/symphony-hq/symphony) - Write programs you can talk to.
+*   [raidendotai/openv0](https://github.com/raidendotai/openv0) - AI generated UI components
+*   [htmlstreamofficial/preline](https://github.com/htmlstreamofficial/preline) - Preline UI is an open-source set of prebuilt UI components based on the utility-first Tailwind CSS framework.
+*   [hudy9x/namviek](https://github.com/hudy9x/namviek) - The open-source project manager for tiny teams
 *   [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - AI chat for every model.
 *   [thedevs-network/kutt](https://github.com/thedevs-network/kutt) - Free Modern URL Shortener.
 *   [run-llama/create-llama](https://github.com/run-llama/create-llama) - The easiest way to get started with LlamaIndex
@@ -713,92 +716,36 @@
 *   [luludotdev/beatsaver-reloaded](https://github.com/luludotdev/beatsaver-reloaded) - BeatSaver Again
 *   [DominicMaas/TimelineExtension](https://github.com/DominicMaas/TimelineExtension) - Windows Timeline & Project Rome Web Extension
 
-## miscellaneous
+## HTML
 
-*   [elder-plinius/L1B3RT45](https://github.com/elder-plinius/L1B3RT45) - J41LBR34K PR0MPT5 F0R 4LL M4J0R LLM5
-*   [738/awesome-url-shortener](https://github.com/738/awesome-url-shortener) - 🔗 A curated list of awesome url shortener
-*   [relink2013/Awesome-Self-hosting-for-the-whole-family](https://github.com/relink2013/Awesome-Self-hosting-for-the-whole-family) - An Awesome List of apps that can be self hosted that your family can actually use without frustration.
-*   [humanloop/awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt) - Curated list of awesome tools, demos, docs for ChatGPT and GPT-3
-*   [cqcore/Data-OSINT](https://github.com/cqcore/Data-OSINT) - You can find links to data acquisition websites.
-*   [railwayapp-templates/plausible](https://github.com/railwayapp-templates/plausible) - One-click template for self-hosting Plausible on Railway!
-*   [ethlimo/documentation](https://github.com/ethlimo/documentation) - Infrastructure documentation
-*   [tribixbite/zk-merkle-tree](https://github.com/tribixbite/zk-merkle-tree) - JavaScript library for anonymous voting on Ethereum blockchain using zero-knowledge proof
-*   [MallocArray/airgradient\_esphome](https://github.com/MallocArray/airgradient_esphome) - ESPHome definition for an AirGradient DIY device to send data to HomeAssistant and AirGradient servers
-*   [dgaust/esphome\_files](https://github.com/dgaust/esphome_files) -
-*   [itteco/oembed-api](https://github.com/itteco/oembed-api) - Open public oEmbed API for open source projects and embeds publishers
-*   [defilogist/awesome-solana-airdrops](https://github.com/defilogist/awesome-solana-airdrops) - Listing and guides for upcoming Solana aidrops
-*   [oxygen-updater/build-props](https://github.com/oxygen-updater/build-props) - Collection of `build.prop` files or `getprop` outputs of OnePlus devices
-*   [DevxStudio/Phoenix-Clipper-Malware](https://github.com/DevxStudio/Phoenix-Clipper-Malware) -
-*   [FBlackBox/BlackBox](https://github.com/FBlackBox/BlackBox) - BlackBox is a virtual engine, it can clone and run virtual application on Android,  users don't have to install APK file to run the application on devices. BlackBox control all virtual applications, so you can do anything you want by using BlackBox.
-*   [sarwar-asik/Error-solve](https://github.com/sarwar-asik/Error-solve) - Errors I Experienced and Their Solutions.
-*   [ibrahimcesar/vscode-extensions-pack-nextjs-webdev](https://github.com/ibrahimcesar/vscode-extensions-pack-nextjs-webdev) - ⚡  Opinionated extension pack to a great experience and performance on developing web application in VS Code with NextJS
-*   [msaaddev/frontend-resources](https://github.com/msaaddev/frontend-resources) - A list of frontend resources from very basic to advance. Feel free to add new resources!
-*   [GenesysGo/shdw-improvement-proposals](https://github.com/GenesysGo/shdw-improvement-proposals) - Shdw IMprovement Proposals (SIMPs) describe proposed and accepted changes to SHDW.
-*   [BrowserWorks/Waterfox](https://github.com/BrowserWorks/Waterfox) - The official Waterfox 💧 source code repository
-*   [alvarop/usb\_c\_cable\_tester](https://github.com/alvarop/usb_c_cable_tester) -
-*   [phantom/docs](https://github.com/phantom/docs) -
-*   [slowmist/Blockchain-dark-forest-selfguard-handbook](https://github.com/slowmist/Blockchain-dark-forest-selfguard-handbook) - Blockchain dark forest selfguard handbook. Master these, master the security of your cryptocurrency.
-*   [JushBJJ/Mr.-Ranedeer-AI-Tutor](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor) - A GPT-4 AI Tutor Prompt for customizable personalized learning experiences.
-*   [Dormidera/WordList-Compendium](https://github.com/Dormidera/WordList-Compendium) - Personal compilation of wordlists & dictionaries for everything. Users, passwords, directories, files, vulnerabilities, fuzzing, injections, wordlists of tools, etc.
-*   [jnv/lists](https://github.com/jnv/lists) - The definitive list of lists (of lists) curated on GitHub and elsewhere
-*   [oxnr/awesome-analytics](https://github.com/oxnr/awesome-analytics) - A curated list of analytics frameworks, software and other tools.
-*   [oxnr/awesome-bigdata](https://github.com/oxnr/awesome-bigdata) - A curated list of awesome big data frameworks, ressources and other awesomeness.
-*   [willwulfken/MidJourney-Styles-and-Keywords-Reference](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference) - A reference containing Styles and Keywords that you can use with MidJourney AI. There are also pages showing resolution comparison, image weights, and much more!
-*   [Midgard-Public/Midgard-Theory-Of-Layer-Separated-Midjourney-Prompting](https://github.com/Midgard-Public/Midgard-Theory-Of-Layer-Separated-Midjourney-Prompting) - A repository for version controlling Midgard's Theory Of Layer Separated Midjourney Prompting
-*   [chatgpt-prompts/ChatGPT-Midjourney-Prompt-Generator](https://github.com/chatgpt-prompts/ChatGPT-Midjourney-Prompt-Generator) - This turns ChatGPT into a prompt generating machine that acceps only predefined inputs and responds with only predefined outputs.
-*   [jesselau76/GPT-Prompts](https://github.com/jesselau76/GPT-Prompts) - Useful GPT Prompts
-*   [imaurer/awesome-llm-json](https://github.com/imaurer/awesome-llm-json) - Resource list for generating JSON using LLMs via function calling, tools, CFG. Libraries, Models, Notebooks, etc.
-*   [Jeadie/awesome-chatgpt-plugins](https://github.com/Jeadie/awesome-chatgpt-plugins) - A curated list of awesome ChatGPT plugins, demos and Posts
-*   [GerevAI/awesome-chatgpt-plugins](https://github.com/GerevAI/awesome-chatgpt-plugins) - An up-to-date collection of ChatGPT plugins and evolvements
-*   [robatwilliams/awesome-webhid](https://github.com/robatwilliams/awesome-webhid) - Curated list of resources relating to the WebHID (Human Interface Device) API
-*   [LangLangShanDeNanKe/chatgpt](https://github.com/LangLangShanDeNanKe/chatgpt) - ChatGPT网址导航，分享免费好用AI网站！
-*   [altryne/awesome-ai-art-image-synthesis](https://github.com/altryne/awesome-ai-art-image-synthesis) - A list of awesome tools, ideas, prompt engineering tools, colabs, models, and helpers for the prompt designer playing with aiArt and image synthesis. Covers Dalle2, MidJourney, StableDiffusion, and open source tools.
-*   [tsparticles/templates](https://github.com/tsparticles/templates) - tsParticles website templates collection
-*   [farcasterxyz/protocol](https://github.com/farcasterxyz/protocol) - Specification of the Farcaster Protocol
-*   [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series on JavaScript. @YDKJS on twitter.
-*   [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources
-*   [kkrypt0nn/wordlists](https://github.com/kkrypt0nn/wordlists) - 📜 A collection of wordlists for many different usages
-*   [tribixbite/solana-lb](https://github.com/tribixbite/solana-lb) -
-*   [lydiahallie/javascript-questions](https://github.com/lydiahallie/javascript-questions) - A long list of (advanced) JavaScript questions, and their explanations :sparkles:
-*   [xyflow/awesome-node-based-uis](https://github.com/xyflow/awesome-node-based-uis) - A curated list with resources about node-based UIs
-*   [windows-powertool/Powertool](https://github.com/windows-powertool/Powertool) - Windows powertool is a windows 10 and 11 utility designed to provide one click solution to reduce and trim down unnecessary burden that comes by default with windows. its used to Improve speed, remove bloatware, protect privacy, eliminate data collection, and so more.
-*   [candypay/docs](https://github.com/candypay/docs) - 📚 Documentation site for CandyPay's Public API and SDK
-*   [gapon2401/upload-files-nextjs](https://github.com/gapon2401/upload-files-nextjs) - Uploading files with NextJs + formidable + Typescript.
-*   [AnIdiotsGuide/discordjs-bot-guide](https://github.com/AnIdiotsGuide/discordjs-bot-guide) - The basic new coder friendly "idiot's guide", Created by Hindsight#2020 and maintained by the community.
-*   [joelparkerhenderson/stable-diffusion-macos-install-help](https://github.com/joelparkerhenderson/stable-diffusion-macos-install-help) - Stable Diffusion: macOS install help with homebrew, python, anaconda, dream, etc.
-*   [Maks-s/sd-akashic](https://github.com/Maks-s/sd-akashic) - A compendium of informations regarding Stable Diffusion (SD)
-*   [natmlx/natdevice](https://github.com/natmlx/natdevice) - High performance, cross-platform media device streaming for Unity Engine.
-*   [killop/anything\_about\_game](https://github.com/killop/anything_about_game) - A wonderful list of Game Development resources.
-*   [hoakbuilds/awesome-solana-gaming](https://github.com/hoakbuilds/awesome-solana-gaming) - 🏎️ A curated list of gaming projects building on Solana 🏎️
-*   [nh-server/switch-guide](https://github.com/nh-server/switch-guide) -
-*   [solana-mobile/solana-mobile-stack-sdk](https://github.com/solana-mobile/solana-mobile-stack-sdk) -
-*   [mikbry/awesome-webgpu](https://github.com/mikbry/awesome-webgpu) - 😎 Curated list of awesome things around WebGPU ecosystem.
-*   [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
-*   [DaRockSol/solana-nft-mint-workflow-postman](https://github.com/DaRockSol/solana-nft-mint-workflow-postman) - This is my collection of postman calls to the RPC API of Solana in an order for minting an NFT with metadata.
-*   [BL0CK-X/solana-nft-collection-mint-addresses](https://github.com/BL0CK-X/solana-nft-collection-mint-addresses) - This is a public repository containing the mint addresses of popular collections on Solana. Please add and help us expand this open source project.
-*   [Quillhash/QuillAudit\_Reports](https://github.com/Quillhash/QuillAudit_Reports) - QuillAudits Smart Contracts, deFi, NFT, tokens,Dao , Dex and  DApps Audit Reports
-*   [michidk/Unity-Script-Collection](https://github.com/michidk/Unity-Script-Collection) - A maintained collection of useful & free unity scripts / library's / plugins and extensions
-*   [matchai/awesome-pinned-gists](https://github.com/matchai/awesome-pinned-gists) - 📌✨ A collection of awesome dynamic pinned gists for GitHub
-*   [YOURLS/awesome](https://github.com/YOURLS/awesome) - 🎉 A curated list of awesome things related to YOURLS
-*   [audreyfeldroy/favicon-cheat-sheet](https://github.com/audreyfeldroy/favicon-cheat-sheet) - Obsessive cheat sheet to favicon sizes/types. Please contribute! (Note: this may be in flux as I learn new things about favicon best practices.)
-*   [christiannaths/redacted-font](https://github.com/christiannaths/redacted-font) - Keep your wireframes free of distracting Lorem Ipsum.
-*   [ericandrewlewis/web-development-contract](https://github.com/ericandrewlewis/web-development-contract) - Web Development Contract
-*   [madmalik/mononoki](https://github.com/madmalik/mononoki) - a programming typeface
-*   [simonecorsi/awesome](https://github.com/simonecorsi/awesome) - 😎 Automatically generated list of ordered projects I've starred over the years! You can do your own using my action linked below!
-*   [metaplex-foundation/metaplex](https://github.com/metaplex-foundation/metaplex) - A directory of what the Metaplex Foundation works on!
-*   [ilmoi/awesome-solana-nfts](https://github.com/ilmoi/awesome-solana-nfts) - A curated list of Solana NFT protocols, repos & community tools
-*   [kcotoi/SOLSniperNFT-Releases](https://github.com/kcotoi/SOLSniperNFT-Releases) -
-*   [ShareX/CustomUploaders](https://github.com/ShareX/CustomUploaders) - ShareX custom uploaders
-*   [mbeaudru/modern-js-cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet) - Cheatsheet for the JavaScript knowledge you will frequently encounter in modern projects.
-*   [typescript-cheatsheets/react-typescript-cheatsheet-es](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet-es) - Cheatsheets para desarrolladores expertos en React que comienzan con TypeScript
-*   [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue) - 🎉 A curated list of awesome things related to Vue.js
-*   [hakluke/how-to-exit-vim](https://github.com/hakluke/how-to-exit-vim) - Below are some simple methods for exiting vim.
-*   [aderusha/DDD-Printable-Wall-Control-System](https://github.com/aderusha/DDD-Printable-Wall-Control-System) - DDD Printable Wall Control System, 3d printable organization solutions for Wall Control pegboards
-*   [mdbootstrap/Black-Friday-2023](https://github.com/mdbootstrap/Black-Friday-2023) - Black Friday & Cyber Monday Deals (UI Kits WordPress Plugins, CRMs, SEO, Courses, Books) for web developers, programmers, and software engineers.
-*   [RitikPatni/Front-End-Web-Development-Resources](https://github.com/RitikPatni/Front-End-Web-Development-Resources) - This repository contains content which will be helpful in your journey as a front-end Web Developer
+*   [thedevdojo/pines](https://github.com/thedevdojo/pines) - The Pines UI library
+*   [ahmadbilaldev/langui](https://github.com/ahmadbilaldev/langui) - UI for your AI. Open Source Tailwind components tailored for your GPT, generative AI, and LLM projects.
+*   [iv-org/invidious.io](https://github.com/iv-org/invidious.io) - The Invidious.io website
+*   [Lomusire/FreeGPT-4](https://github.com/Lomusire/FreeGPT-4) - FreeGPT-4 is an AI Assistant Discord Bot providing Unlimited access to popular AI models like ChatGPT, GPT-4, Sage, and Claude. Enjoy engaging AI-driven conversations in Discord using simple commands. Join our server or invite the bot to yours for a unique AI experience, all for free!
+*   [2501babe/2501babe.github.io](https://github.com/2501babe/2501babe.github.io) - personal site
+*   [MiyakoYakota/search.0t.rocks](https://github.com/MiyakoYakota/search.0t.rocks) -
+*   [bartlomiejzuber/use-open-window](https://github.com/bartlomiejzuber/use-open-window) - React hook for open links in separate windows ✔️
+*   [N3evin/AmiiboAPI](https://github.com/N3evin/AmiiboAPI) - A RESTful API for amiibo.
+*   [kosyachniy/dev](https://github.com/kosyachniy/dev) - Development tools
+*   [lilnasy/scribblyscrobbly](https://github.com/lilnasy/scribblyscrobbly) - a web page to tidy up apple music and spotify streaming history for last.fm
+*   [FineFindus/artem](https://github.com/FineFindus/artem) - Convert images from multiple formats (jpg, png, webp, etc…) to ASCII art, written in Rust
+*   [littleark/githut](https://github.com/littleark/githut) - Visualization of data from github archive.
+*   [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
+*   [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot) - An advanced discord music bot, supports Spotify, Soundcloud, YouTube with Shuffling, Volume Control and Web Dashboard with Slash Commands support!
+*   [Clueless-Community/seamless-ui](https://github.com/Clueless-Community/seamless-ui) - The next gen UI made with simple HTML and Tailwind CSS. It's compatible with simple HTML, CSS static website or a React, Vue, Angular or Next.js Complex app. Zero JS and no-plugins installed.
+*   [ollyhsu/termius-cracked](https://github.com/ollyhsu/termius-cracked) - Terminus Cracked Version
+*   [anubra266/chakra-play](https://github.com/anubra266/chakra-play) - 🤽‍♀️ An advanced online playground for Chakra UI
+*   [MyMiniFactory/stl2gltf](https://github.com/MyMiniFactory/stl2gltf) - Convert STL to glb
+*   [TanStack/react-charts](https://github.com/TanStack/react-charts) - ⚛️ Simple, immersive & interactive charts for React
+*   [trickytibo/next\_solana\_nft2mint](https://github.com/trickytibo/next_solana_nft2mint) - A package to easily find the next hyped solana nft to mint.
+*   [vasturiano/3d-force-graph](https://github.com/vasturiano/3d-force-graph) - 3D force-directed graph component using ThreeJS/WebGL
+*   [themesberg/flowbite](https://github.com/themesberg/flowbite) - Open-source UI component library and front-end development framework based on Tailwind CSS
+*   [jglovier/gifs](https://github.com/jglovier/gifs) - :joy: :camera: :sparkler: Storage place for all mah gifs.
+*   [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
 
 ## Go
 
+*   [getzep/zep](https://github.com/getzep/zep) - Zep: Long-Term Memory for ‍AI Assistants.
 *   [championswimmer/onepixel\_backend](https://github.com/championswimmer/onepixel_backend) -
 *   [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3, Mistral, Gemma, and other large language models.
 *   [casibase/casibase](https://github.com/casibase/casibase) - ⚡️Open-source AI LangChain-like RAG (Retrieval-Augmented Generation) knowledge database with web UI and Enterprise SSO⚡️, supports OpenAI, Azure, LLaMA, Google Gemini, HuggingFace, Claude, Grok, etc., chat bot demo: https://demo.casibase.com, admin UI demo: https://demo-admin.casibase.com
@@ -828,6 +775,7 @@
 
 ## Python
 
+*   [weaviate/Verba](https://github.com/weaviate/Verba) - Retrieval Augmented Generation (RAG) chatbot powered by Weaviate
 *   [spoo-me/url-shortener](https://github.com/spoo-me/url-shortener) - spoo.me is a free and easy-to-use URL shortener that lets you create short links for any website. You can choose your own alias, set a password, and limit the number of clicks.
 *   [HyperGAI/HPT](https://github.com/HyperGAI/HPT) - HPT - Open Multimodal LLMs from HyperGAI
 *   [IntelLabs/fastRAG](https://github.com/IntelLabs/fastRAG) - Efficient Retrieval Augmentation and Generation Framework
@@ -843,7 +791,7 @@
 *   [dolph/dictionary](https://github.com/dolph/dictionary) - A list of the most popular English words.
 *   [lancedb/lancedb](https://github.com/lancedb/lancedb) - Developer-friendly, serverless vector database for AI applications. Easily add long-term memory to your LLM apps!
 *   [jw782cn/RepoChat-200k](https://github.com/jw782cn/RepoChat-200k) - ⚡Chat with GitHub Repo Using 200k context window of Claude instead of RAG!⚡
-*   [jakobdylanc/discord-llm-chatbot](https://github.com/jakobdylanc/discord-llm-chatbot) - llmcord.py • Talk to LLMs with your friends!
+*   [jakobdylanc/discord-llm-chatbot](https://github.com/jakobdylanc/discord-llm-chatbot) - llmcord.py • Talk to LLMs with your friends! (Supports OpenAI GPT-4, ollama and many more)
 *   [anthropics/anthropic-tools](https://github.com/anthropics/anthropic-tools) -
 *   [jimmc414/1filellm](https://github.com/jimmc414/1filellm) - Specify a github or local repo, github pull request,  arXiv or Sci-Hub paper, Youtube transcript or documentation URL on the web and scrape into a text file and clipboard  for easier LLM ingestion
 *   [Reddidgy/RepoToTextForLLMs](https://github.com/Reddidgy/RepoToTextForLLMs) - Automate the analysis of GitHub repositories for LLMs with RepoToTextForLLMs. Fetch READMEs, structure, and non-binary files efficiently. Outputs include analysis prompts to aid in comprehensive repo evaluation
@@ -994,8 +942,90 @@
 *   [pushshift/api](https://github.com/pushshift/api) - Pushshift API
 *   [tribixbite/BrokenRecordBot](https://github.com/tribixbite/BrokenRecordBot) - reddit copypasta bot for subreddit wiki text
 *   [janick/ArloDownload](https://github.com/janick/ArloDownload) - Automatically download new video recordings from Arlo
-*   [tribixbite/WebPutty](https://github.com/tribixbite/WebPutty) -
-*   [tribixbite/gmvault](https://github.com/tribixbite/gmvault) - gmail backup software
+
+## miscellaneous
+
+*   [elder-plinius/L1B3RT45](https://github.com/elder-plinius/L1B3RT45) - J41LBR34K PR0MPT5 F0R 4LL M4J0R LLM5
+*   [738/awesome-url-shortener](https://github.com/738/awesome-url-shortener) - 🔗 A curated list of awesome url shortener
+*   [relink2013/Awesome-Self-hosting-for-the-whole-family](https://github.com/relink2013/Awesome-Self-hosting-for-the-whole-family) - An Awesome List of apps that can be self hosted that your family can actually use without frustration.
+*   [humanloop/awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt) - Curated list of awesome tools, demos, docs for ChatGPT and GPT-3
+*   [cqcore/Data-OSINT](https://github.com/cqcore/Data-OSINT) - You can find links to data acquisition websites.
+*   [railwayapp-templates/plausible](https://github.com/railwayapp-templates/plausible) - One-click template for self-hosting Plausible on Railway!
+*   [ethlimo/documentation](https://github.com/ethlimo/documentation) - Infrastructure documentation
+*   [tribixbite/zk-merkle-tree](https://github.com/tribixbite/zk-merkle-tree) - JavaScript library for anonymous voting on Ethereum blockchain using zero-knowledge proof
+*   [MallocArray/airgradient\_esphome](https://github.com/MallocArray/airgradient_esphome) - ESPHome definition for an AirGradient DIY device to send data to HomeAssistant and AirGradient servers
+*   [dgaust/esphome\_files](https://github.com/dgaust/esphome_files) -
+*   [itteco/oembed-api](https://github.com/itteco/oembed-api) - Open public oEmbed API for open source projects and embeds publishers
+*   [defilogist/awesome-solana-airdrops](https://github.com/defilogist/awesome-solana-airdrops) - Listing and guides for upcoming Solana aidrops
+*   [oxygen-updater/build-props](https://github.com/oxygen-updater/build-props) - Collection of `build.prop` files or `getprop` outputs of OnePlus devices
+*   [DevxStudio/Phoenix-Clipper-Malware](https://github.com/DevxStudio/Phoenix-Clipper-Malware) -
+*   [FBlackBox/BlackBox](https://github.com/FBlackBox/BlackBox) - BlackBox is a virtual engine, it can clone and run virtual application on Android,  users don't have to install APK file to run the application on devices. BlackBox control all virtual applications, so you can do anything you want by using BlackBox.
+*   [sarwar-asik/Error-solve](https://github.com/sarwar-asik/Error-solve) - Errors I Experienced and Their Solutions.
+*   [ibrahimcesar/vscode-extensions-pack-nextjs-webdev](https://github.com/ibrahimcesar/vscode-extensions-pack-nextjs-webdev) - ⚡  Opinionated extension pack to a great experience and performance on developing web application in VS Code with NextJS
+*   [msaaddev/frontend-resources](https://github.com/msaaddev/frontend-resources) - A list of frontend resources from very basic to advance. Feel free to add new resources!
+*   [GenesysGo/shdw-improvement-proposals](https://github.com/GenesysGo/shdw-improvement-proposals) - Shdw IMprovement Proposals (SIMPs) describe proposed and accepted changes to SHDW.
+*   [BrowserWorks/Waterfox](https://github.com/BrowserWorks/Waterfox) - The official Waterfox 💧 source code repository
+*   [alvarop/usb\_c\_cable\_tester](https://github.com/alvarop/usb_c_cable_tester) -
+*   [phantom/docs](https://github.com/phantom/docs) -
+*   [slowmist/Blockchain-dark-forest-selfguard-handbook](https://github.com/slowmist/Blockchain-dark-forest-selfguard-handbook) - Blockchain dark forest selfguard handbook. Master these, master the security of your cryptocurrency.
+*   [JushBJJ/Mr.-Ranedeer-AI-Tutor](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor) - A GPT-4 AI Tutor Prompt for customizable personalized learning experiences.
+*   [Dormidera/WordList-Compendium](https://github.com/Dormidera/WordList-Compendium) - Personal compilation of wordlists & dictionaries for everything. Users, passwords, directories, files, vulnerabilities, fuzzing, injections, wordlists of tools, etc.
+*   [jnv/lists](https://github.com/jnv/lists) - The definitive list of lists (of lists) curated on GitHub and elsewhere
+*   [oxnr/awesome-analytics](https://github.com/oxnr/awesome-analytics) - A curated list of analytics frameworks, software and other tools.
+*   [oxnr/awesome-bigdata](https://github.com/oxnr/awesome-bigdata) - A curated list of awesome big data frameworks, ressources and other awesomeness.
+*   [willwulfken/MidJourney-Styles-and-Keywords-Reference](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference) - A reference containing Styles and Keywords that you can use with MidJourney AI. There are also pages showing resolution comparison, image weights, and much more!
+*   [Midgard-Public/Midgard-Theory-Of-Layer-Separated-Midjourney-Prompting](https://github.com/Midgard-Public/Midgard-Theory-Of-Layer-Separated-Midjourney-Prompting) - A repository for version controlling Midgard's Theory Of Layer Separated Midjourney Prompting
+*   [chatgpt-prompts/ChatGPT-Midjourney-Prompt-Generator](https://github.com/chatgpt-prompts/ChatGPT-Midjourney-Prompt-Generator) - This turns ChatGPT into a prompt generating machine that acceps only predefined inputs and responds with only predefined outputs.
+*   [jesselau76/GPT-Prompts](https://github.com/jesselau76/GPT-Prompts) - Useful GPT Prompts
+*   [imaurer/awesome-llm-json](https://github.com/imaurer/awesome-llm-json) - Resource list for generating JSON using LLMs via function calling, tools, CFG. Libraries, Models, Notebooks, etc.
+*   [Jeadie/awesome-chatgpt-plugins](https://github.com/Jeadie/awesome-chatgpt-plugins) - A curated list of awesome ChatGPT plugins, demos and Posts
+*   [GerevAI/awesome-chatgpt-plugins](https://github.com/GerevAI/awesome-chatgpt-plugins) - An up-to-date collection of ChatGPT plugins and evolvements
+*   [robatwilliams/awesome-webhid](https://github.com/robatwilliams/awesome-webhid) - Curated list of resources relating to the WebHID (Human Interface Device) API
+*   [LangLangShanDeNanKe/chatgpt](https://github.com/LangLangShanDeNanKe/chatgpt) - ChatGPT网址导航，分享免费好用AI网站！
+*   [altryne/awesome-ai-art-image-synthesis](https://github.com/altryne/awesome-ai-art-image-synthesis) - A list of awesome tools, ideas, prompt engineering tools, colabs, models, and helpers for the prompt designer playing with aiArt and image synthesis. Covers Dalle2, MidJourney, StableDiffusion, and open source tools.
+*   [tsparticles/templates](https://github.com/tsparticles/templates) - tsParticles website templates collection
+*   [farcasterxyz/protocol](https://github.com/farcasterxyz/protocol) - Specification of the Farcaster Protocol
+*   [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series on JavaScript. @YDKJS on twitter.
+*   [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources
+*   [kkrypt0nn/wordlists](https://github.com/kkrypt0nn/wordlists) - 📜 A collection of wordlists for many different usages
+*   [tribixbite/solana-lb](https://github.com/tribixbite/solana-lb) -
+*   [lydiahallie/javascript-questions](https://github.com/lydiahallie/javascript-questions) - A long list of (advanced) JavaScript questions, and their explanations :sparkles:
+*   [xyflow/awesome-node-based-uis](https://github.com/xyflow/awesome-node-based-uis) - A curated list with resources about node-based UIs
+*   [windows-powertool/Powertool](https://github.com/windows-powertool/Powertool) - Windows powertool is a windows 10 and 11 utility designed to provide one click solution to reduce and trim down unnecessary burden that comes by default with windows. its used to Improve speed, remove bloatware, protect privacy, eliminate data collection, and so more.
+*   [candypay/docs](https://github.com/candypay/docs) - 📚 Documentation site for CandyPay's Public API and SDK
+*   [gapon2401/upload-files-nextjs](https://github.com/gapon2401/upload-files-nextjs) - Uploading files with NextJs + formidable + Typescript.
+*   [AnIdiotsGuide/discordjs-bot-guide](https://github.com/AnIdiotsGuide/discordjs-bot-guide) - The basic new coder friendly "idiot's guide", Created by Hindsight#2020 and maintained by the community.
+*   [joelparkerhenderson/stable-diffusion-macos-install-help](https://github.com/joelparkerhenderson/stable-diffusion-macos-install-help) - Stable Diffusion: macOS install help with homebrew, python, anaconda, dream, etc.
+*   [Maks-s/sd-akashic](https://github.com/Maks-s/sd-akashic) - A compendium of informations regarding Stable Diffusion (SD)
+*   [natmlx/natdevice](https://github.com/natmlx/natdevice) - High performance, cross-platform media device streaming for Unity Engine.
+*   [killop/anything\_about\_game](https://github.com/killop/anything_about_game) - A wonderful list of Game Development resources.
+*   [hoakbuilds/awesome-solana-gaming](https://github.com/hoakbuilds/awesome-solana-gaming) - 🏎️ A curated list of gaming projects building on Solana 🏎️
+*   [nh-server/switch-guide](https://github.com/nh-server/switch-guide) -
+*   [solana-mobile/solana-mobile-stack-sdk](https://github.com/solana-mobile/solana-mobile-stack-sdk) -
+*   [mikbry/awesome-webgpu](https://github.com/mikbry/awesome-webgpu) - 😎 Curated list of awesome things around WebGPU ecosystem.
+*   [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
+*   [DaRockSol/solana-nft-mint-workflow-postman](https://github.com/DaRockSol/solana-nft-mint-workflow-postman) - This is my collection of postman calls to the RPC API of Solana in an order for minting an NFT with metadata.
+*   [BL0CK-X/solana-nft-collection-mint-addresses](https://github.com/BL0CK-X/solana-nft-collection-mint-addresses) - This is a public repository containing the mint addresses of popular collections on Solana. Please add and help us expand this open source project.
+*   [Quillhash/QuillAudit\_Reports](https://github.com/Quillhash/QuillAudit_Reports) - QuillAudits Smart Contracts, deFi, NFT, tokens,Dao , Dex and  DApps Audit Reports
+*   [michidk/Unity-Script-Collection](https://github.com/michidk/Unity-Script-Collection) - A maintained collection of useful & free unity scripts / library's / plugins and extensions
+*   [matchai/awesome-pinned-gists](https://github.com/matchai/awesome-pinned-gists) - 📌✨ A collection of awesome dynamic pinned gists for GitHub
+*   [YOURLS/awesome](https://github.com/YOURLS/awesome) - 🎉 A curated list of awesome things related to YOURLS
+*   [audreyfeldroy/favicon-cheat-sheet](https://github.com/audreyfeldroy/favicon-cheat-sheet) - Obsessive cheat sheet to favicon sizes/types. Please contribute! (Note: this may be in flux as I learn new things about favicon best practices.)
+*   [christiannaths/redacted-font](https://github.com/christiannaths/redacted-font) - Keep your wireframes free of distracting Lorem Ipsum.
+*   [ericandrewlewis/web-development-contract](https://github.com/ericandrewlewis/web-development-contract) - Web Development Contract
+*   [madmalik/mononoki](https://github.com/madmalik/mononoki) - a programming typeface
+*   [simonecorsi/awesome](https://github.com/simonecorsi/awesome) - 😎 Automatically generated list of ordered projects I've starred over the years! You can do your own using my action linked below!
+*   [metaplex-foundation/metaplex](https://github.com/metaplex-foundation/metaplex) - A directory of what the Metaplex Foundation works on!
+*   [ilmoi/awesome-solana-nfts](https://github.com/ilmoi/awesome-solana-nfts) - A curated list of Solana NFT protocols, repos & community tools
+*   [kcotoi/SOLSniperNFT-Releases](https://github.com/kcotoi/SOLSniperNFT-Releases) -
+*   [ShareX/CustomUploaders](https://github.com/ShareX/CustomUploaders) - ShareX custom uploaders
+*   [mbeaudru/modern-js-cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet) - Cheatsheet for the JavaScript knowledge you will frequently encounter in modern projects.
+*   [typescript-cheatsheets/react-typescript-cheatsheet-es](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet-es) - Cheatsheets para desarrolladores expertos en React que comienzan con TypeScript
+*   [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue) - 🎉 A curated list of awesome things related to Vue.js
+*   [hakluke/how-to-exit-vim](https://github.com/hakluke/how-to-exit-vim) - Below are some simple methods for exiting vim.
+*   [aderusha/DDD-Printable-Wall-Control-System](https://github.com/aderusha/DDD-Printable-Wall-Control-System) - DDD Printable Wall Control System, 3d printable organization solutions for Wall Control pegboards
+*   [mdbootstrap/Black-Friday-2023](https://github.com/mdbootstrap/Black-Friday-2023) - Black Friday & Cyber Monday Deals (UI Kits WordPress Plugins, CRMs, SEO, Courses, Books) for web developers, programmers, and software engineers.
+*   [RitikPatni/Front-End-Web-Development-Resources](https://github.com/RitikPatni/Front-End-Web-Development-Resources) - This repository contains content which will be helpful in your journey as a front-end Web Developer
 
 ## C\#
 
@@ -1306,8 +1336,6 @@
 *   [NUKnightLab/juxtapose](https://github.com/NUKnightLab/juxtapose) - JuxtaposeJS is a JavaScript library for making before/after image sliders
 *   [buccaneerai/rxjs-stats](https://github.com/buccaneerai/rxjs-stats) - Moved to @bottlenose/rxstats (https://github.com/buccaneerai/bottlenose)
 *   [open-dash/HousePanel](https://github.com/open-dash/HousePanel) - Open source highly customizable dashboard for your SmartThings home
-*   [tribixbite/meteor](https://github.com/tribixbite/meteor) - Meteor, an ultra-simple, database-everywhere, data-on-the-wire, pure-Javascript web framework.
-*   [tribixbite/Ghost.py](https://github.com/tribixbite/Ghost.py) - Webkit based scriptable web browser for python.
 
 ## Dockerfile
 
@@ -1364,31 +1392,6 @@
 *   [vedfi/mondroid](https://github.com/vedfi/mondroid) - Mongodb Client w/ Flutter
 *   [MaximeBeasse/KeyDecoder](https://github.com/MaximeBeasse/KeyDecoder) - KeyDecoder app lets you use your smartphone or tablet to decode your mechanical keys in seconds.
 
-## HTML
-
-*   [iv-org/invidious.io](https://github.com/iv-org/invidious.io) - The Invidious.io website
-*   [Lomusire/FreeGPT-4](https://github.com/Lomusire/FreeGPT-4) - FreeGPT-4 is an AI Assistant Discord Bot providing Unlimited access to popular AI models like ChatGPT, GPT-4, Sage, and Claude. Enjoy engaging AI-driven conversations in Discord using simple commands. Join our server or invite the bot to yours for a unique AI experience, all for free!
-*   [2501babe/2501babe.github.io](https://github.com/2501babe/2501babe.github.io) - personal site
-*   [MiyakoYakota/search.0t.rocks](https://github.com/MiyakoYakota/search.0t.rocks) -
-*   [bartlomiejzuber/use-open-window](https://github.com/bartlomiejzuber/use-open-window) - React hook for open links in separate windows ✔️
-*   [N3evin/AmiiboAPI](https://github.com/N3evin/AmiiboAPI) - A RESTful API for amiibo.
-*   [kosyachniy/dev](https://github.com/kosyachniy/dev) - Development tools
-*   [lilnasy/scribblyscrobbly](https://github.com/lilnasy/scribblyscrobbly) - a web page to tidy up apple music and spotify streaming history for last.fm
-*   [FineFindus/artem](https://github.com/FineFindus/artem) - Convert images from multiple formats (jpg, png, webp, etc…) to ASCII art, written in Rust
-*   [littleark/githut](https://github.com/littleark/githut) - Visualization of data from github archive.
-*   [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
-*   [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot) - An advanced discord music bot, supports Spotify, Soundcloud, YouTube with Shuffling, Volume Control and Web Dashboard with Slash Commands support!
-*   [Clueless-Community/seamless-ui](https://github.com/Clueless-Community/seamless-ui) - The next gen UI made with simple HTML and Tailwind CSS. It's compatible with simple HTML, CSS static website or a React, Vue, Angular or Next.js Complex app. Zero JS and no-plugins installed.
-*   [ollyhsu/termius-cracked](https://github.com/ollyhsu/termius-cracked) - Terminus Cracked Version
-*   [anubra266/chakra-play](https://github.com/anubra266/chakra-play) - 🤽‍♀️ An advanced online playground for Chakra UI
-*   [MyMiniFactory/stl2gltf](https://github.com/MyMiniFactory/stl2gltf) - Convert STL to glb
-*   [TanStack/react-charts](https://github.com/TanStack/react-charts) - ⚛️ Simple, immersive & interactive charts for React
-*   [trickytibo/next\_solana\_nft2mint](https://github.com/trickytibo/next_solana_nft2mint) - A package to easily find the next hyped solana nft to mint.
-*   [vasturiano/3d-force-graph](https://github.com/vasturiano/3d-force-graph) - 3D force-directed graph component using ThreeJS/WebGL
-*   [themesberg/flowbite](https://github.com/themesberg/flowbite) - Open-source UI component library and front-end development framework based on Tailwind CSS
-*   [jglovier/gifs](https://github.com/jglovier/gifs) - :joy: :camera: :sparkler: Storage place for all mah gifs.
-*   [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
-
 ## Jupyter Notebook
 
 *   [anthropics/anthropic-cookbook](https://github.com/anthropics/anthropic-cookbook) - A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
@@ -1419,7 +1422,6 @@
 *   [d3/d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar\_chart::chart\_with\_upwards\_trend::tada:
 *   [TheFrenchGhosty/TheFrenchGhostys-Ultimate-YouTube-DL-Scripts-Collection](https://github.com/TheFrenchGhosty/TheFrenchGhostys-Ultimate-YouTube-DL-Scripts-Collection) - The ultimate collection of scripts for YouTube-DL.
 *   [DDRBoxman/GlassDateDisplay](https://github.com/DDRBoxman/GlassDateDisplay) - Display the current date on Google Glass
-*   [tribixbite/WPSetup](https://github.com/tribixbite/WPSetup) - Setup files for Ubuntu
 
 ## C
 
@@ -1520,7 +1522,6 @@
 *   [discordlookup/discordlookup](https://github.com/discordlookup/discordlookup) - DiscordLookup | Get more out of Discord with Discord Lookup! Snowflake Decoder, Guild List with Stats, Invite Info and more...
 *   [mledoze/countries](https://github.com/mledoze/countries) - World countries in JSON, CSV, XML and Yaml. Any help is welcome!
 *   [matthiasmullie/minify](https://github.com/matthiasmullie/minify) - CSS & JavaScript minifier, in PHP. Removes whitespace, strips comments, combines files (incl. @import statements and small assets in CSS files), and optimizes/shortens a few common programming patterns.
-*   [nehalvpatel/cgui](https://github.com/nehalvpatel/cgui) - A web interface for cgminer that is made to reduce setup time and increase productivity, featuring the famous 2 minute install.
 
 ## Kotlin
 
@@ -1675,7 +1676,6 @@
 
 *   [FrameworkComputer/ExpansionCards](https://github.com/FrameworkComputer/ExpansionCards) - Reference designs and documentation to create Expansion Cards for the Framework Laptop
 *   [fpiesik/pE-Drums](https://github.com/fpiesik/pE-Drums) - An e-drum set based on 3d-printed parts
-*   [jcrocholl/kossel](https://github.com/jcrocholl/kossel) - Mini Kossel portable delta robot 3D printer.
 
 ## AutoIt
 
