@@ -384,7 +384,7 @@
 *   [LorisSigrist/zocker](https://github.com/LorisSigrist/zocker) - Generate realistic mock-data from your `zod` schemas
 *   [honojs/hono](https://github.com/honojs/hono) - Web Framework built on Web Standards
 *   [ShooTeX/guesser](https://github.com/ShooTeX/guesser) - The Guesser Framework
-*   [seasonedcc/domain-functions](https://github.com/seasonedcc/domain-functions) - Decouple your business logic from your framework. With first-class type inference from end to end.
+*   [seasonedcc/composable-functions](https://github.com/seasonedcc/composable-functions) - Types and functions to make composition easy and safe
 *   [Briggybros/styled-window-portal](https://github.com/Briggybros/styled-window-portal) - A react portal which creates a new window and supports styled-components
 *   [RyanNerd/react-new-improved-window](https://github.com/RyanNerd/react-new-improved-window) - React New and Improved Window popup using the window.open API
 *   [quillforms/quillforms](https://github.com/quillforms/quillforms) - Open Source TypeForm Alternative Based on React JS and Typescript | Best Typeform Clone |  Conversational Multi Step Form
@@ -1405,8 +1405,8 @@
 
 *   [fire-scale/pregrind.sol](https://github.com/fire-scale/pregrind.sol) - We grind Solana keys for you so you don't have to wait.
 *   [tonyke-bot/ore-miner](https://github.com/tonyke-bot/ore-miner) - ORE Miner built on top of Jito bundle with both CPU and GPU support.
-*   [HardhatChad/ore-cli](https://github.com/HardhatChad/ore-cli) -
-*   [HardhatChad/ore](https://github.com/HardhatChad/ore) -
+*   [regolith-labs/ore-cli](https://github.com/regolith-labs/ore-cli) -
+*   [regolith-labs/ore](https://github.com/regolith-labs/ore) -
 *   [railwayapp/nixpacks](https://github.com/railwayapp/nixpacks) - App source + Nix packages + Docker = Image
 *   [dimensionhq/volt](https://github.com/dimensionhq/volt) - An experimental package management tool for JavaScript. Upto 30x faster installation of dependencies using pre-flattened dependency trees.
 *   [moonrepo/starbase](https://github.com/moonrepo/starbase) - Framework for building performant command line applications and developer tools.
