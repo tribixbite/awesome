@@ -1434,7 +1434,7 @@
 ## HTML
 
 *   [thedevdojo/pines](https://github.com/thedevdojo/pines) - The Pines UI library
-*   [ahmadbilaldev/langui](https://github.com/ahmadbilaldev/langui) - UI for your AI. Open Source Tailwind components tailored for your GPT, generative AI, and LLM projects.
+*   [LangbaseInc/langui](https://github.com/LangbaseInc/langui) - UI for your AI. Open Source Tailwind components tailored for your GPT, generative AI, and LLM projects.
 *   [iv-org/invidious.io](https://github.com/iv-org/invidious.io) - The Invidious.io website
 *   [Lomusire/FreeGPT-4](https://github.com/Lomusire/FreeGPT-4) - FreeGPT-4 is an AI Assistant Discord Bot providing Unlimited access to popular AI models like ChatGPT, GPT-4, Sage, and Claude. Enjoy engaging AI-driven conversations in Discord using simple commands. Join our server or invite the bot to yours for a unique AI experience, all for free!
 *   [2501babe/2501babe.github.io](https://github.com/2501babe/2501babe.github.io) - personal site
