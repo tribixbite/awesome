@@ -284,7 +284,7 @@
 *   [moinulmoin/chadnext](https://github.com/moinulmoin/chadnext) - ChadNext - Quick Starter Template for your Next project includes Next.js 14 App router, Shadcn UI, LuciaAuth, Prisma, Server Actions, Stripe, Internationalization and more.
 *   [TheEdoRan/next-safe-action](https://github.com/TheEdoRan/next-safe-action) - Type safe and validated Server Actions in your Next.js (App Router) project.
 *   [ciscoheat/sveltekit-superforms](https://github.com/ciscoheat/sveltekit-superforms) - Making SvelteKit forms a pleasure to use!
-*   [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - The open source Tines alternative. Automate security workflows at scale with code and no-code.
+*   [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - The open source Tines / Splunk SOAR alternative.
 *   [duplojs/duplojs-zod-accelerator](https://github.com/duplojs/duplojs-zod-accelerator) -
 *   [prisma/prisma-examples](https://github.com/prisma/prisma-examples) -  🚀 Ready-to-run Prisma example projects
 *   [telegraf/telegraf](https://github.com/telegraf/telegraf) - Modern Telegram Bot Framework for Node.js
@@ -327,7 +327,7 @@
 *   [aspen-cloud/triplit](https://github.com/aspen-cloud/triplit) - A full-stack, syncing database that runs on both server and client. Pluggable storage (indexeddb, sqlite, durable objects), syncs over websockets, and works with your favorite framework (React, Solid, Vue, Svelte).
 *   [Irys-xyz/js-sdk](https://github.com/Irys-xyz/js-sdk) - JS SDK for Bundlr
 *   [seamapi/prefixed-api-key](https://github.com/seamapi/prefixed-api-key) - Module for generating a prefixed API Key
-*   [Markeljan/web3-gpt](https://github.com/Markeljan/web3-gpt) - deploy smart contracts using natural language
+*   [Markeljan/web3-gpt](https://github.com/Markeljan/web3-gpt) - Develop and deploy smart contracts using natural language.
 *   [trailofbits/vscode-weaudit](https://github.com/trailofbits/vscode-weaudit) - Create code bookmarks and code highlights with a click.
 *   [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) - Script to get your site indexed on Google in less than 48 hours
 *   [fxhash/fxhash-website](https://github.com/fxhash/fxhash-website) - fxhash front-end, nextjs
