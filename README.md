@@ -1412,7 +1412,7 @@
 *   [timschneeb/awesome-shizuku](https://github.com/timschneeb/awesome-shizuku) - Curated list of awesome Android apps making use of Shizuku
 *   [kyrolabs/awesome-langchain](https://github.com/kyrolabs/awesome-langchain) - 😎 Awesome list of tools and projects with the awesome LangChain framework
 *   [spacebarchat/spacebarchat](https://github.com/spacebarchat/spacebarchat) - 📬 Spacebar is a free open source selfhostable discord compatible communication platform
-*   [elder-plinius/L1B3RT45](https://github.com/elder-plinius/L1B3RT45) - J41LBR34K PR0MPT5 F0R 4LL M4J0R LLM5
+*   [elder-plinius/L1B3RT45](https://github.com/elder-plinius/L1B3RT45) - JAILBREAK PROMPTS FOR ALL MAJOR AI MODELS
 *   [738/awesome-url-shortener](https://github.com/738/awesome-url-shortener) - 🔗 A curated list of awesome url shortener
 *   [pathwaycom/llm-app](https://github.com/pathwaycom/llm-app) - LLM App templates for RAG, knowledge mining, and stream analytics. Ready to run with Docker,⚡in sync with your data sources.
 *   [relink2013/Awesome-Self-hosting-for-the-whole-family](https://github.com/relink2013/Awesome-Self-hosting-for-the-whole-family) - An Awesome List of apps that can be self hosted that your family can actually use without frustration.
@@ -1598,7 +1598,7 @@
 *   [microsoft/devhome](https://github.com/microsoft/devhome) - The new Dev Home experience for Windows!
 *   [solana-developers/solana-game-examples](https://github.com/solana-developers/solana-game-examples) -
 *   [CrazyGamesCom/unity-optimizations-package](https://github.com/CrazyGamesCom/unity-optimizations-package) -
-*   [marticliment/WingetUI](https://github.com/marticliment/WingetUI) - WingetUI: The Graphical Interface for your package managers
+*   [marticliment/WingetUI](https://github.com/marticliment/WingetUI) - WingetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
 *   [reddy2004/7Zip-And-TrueCrypt-Password-Cracker](https://github.com/reddy2004/7Zip-And-TrueCrypt-Password-Cracker) - A password checking tool for finding out forgotten passwords for 7Zip files and TrueCrypt volumes.
 *   [lostindark/DriverStoreExplorer](https://github.com/lostindark/DriverStoreExplorer) - Driver Store Explorer \[RAPR]
 *   [SHOEGAZEssb/Last.fm-Scrubbler-WPF](https://github.com/SHOEGAZEssb/Last.fm-Scrubbler-WPF) - Manual Last.fm scrobbling for when a service (or you!) failed to scrobble.
