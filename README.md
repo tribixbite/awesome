@@ -4,9 +4,11 @@
 
 ## Table of Contents
 
+*   [MDX](#mdx)
+*   [TypeScript](#typescript)
+*   [Rich Text Format](#rich-text-format)
 *   [Svelte](#svelte)
 *   [Lua](#lua)
-*   [TypeScript](#typescript)
 *   [miscellaneous](#miscellaneous)
 *   [Rust](#rust)
 *   [Go](#go)
@@ -33,7 +35,6 @@
 *   [Gherkin](#gherkin)
 *   [Zig](#zig)
 *   [Makefile](#makefile)
-*   [MDX](#mdx)
 *   [Julia](#julia)
 *   [PowerShell](#powershell)
 *   [SystemVerilog](#systemverilog)
@@ -53,23 +54,15 @@
 *   [Visual Basic .NET](#visual-basic-net)
 *   [R](#r)
 
-## Svelte
+## MDX
 
-*   [TZGyn/shortener](https://github.com/TZGyn/shortener) - Link shortener/redirects with analytics
-*   [hcengineering/platform](https://github.com/hcengineering/platform) - Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)
-*   [CriticalMoments/CMSaasStarter](https://github.com/CriticalMoments/CMSaasStarter) - A modern SaaS template/boilerplate built with SvelteKit, Tailwind, and Supabase. Includes marketing page, blog, subscriptions, auth, user dashboard, user settings, pricing page, and more.
-*   [flo-bit/image2fake3d](https://github.com/flo-bit/image2fake3d) - show a fake 3d effect in the browser from an image with a depth map
-*   [inngest/typedwebhook.tools](https://github.com/inngest/typedwebhook.tools) - A webhook testing tool for checking payloads, with automatic type generation
-*   [helius-labs/xray](https://github.com/helius-labs/xray) - A human-readable Solana transaction explorer powered by Helius.
-
-## Lua
-
-*   [Kong/kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native API Gateway and AI Gateway.
-*   [ArchiveTeam/reddit-grab](https://github.com/ArchiveTeam/reddit-grab) - Grabbing everything from reddit.
-*   [Jaliborc/Bagnon](https://github.com/Jaliborc/Bagnon) - Single window displays for you items
+*   [spleafy/prismane-website](https://github.com/spleafy/prismane-website) -
+*   [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
 
 ## TypeScript
 
+*   [phosphor-icons/homepage](https://github.com/phosphor-icons/homepage) - The homepage of Phosphor Icons, a flexible icon family for everyone
+*   [prismaneui/prismane](https://github.com/prismaneui/prismane) - Prismane is an innovative have-it-all React UI library
 *   [unjs/nitro](https://github.com/unjs/nitro) - Next Generation Server Toolkit. Create web servers with everything you need and deploy them wherever you prefer.
 *   [google/playground-elements](https://github.com/google/playground-elements) - Serverless coding environments for the web.
 *   [apollo-elements/apollo-elements](https://github.com/apollo-elements/apollo-elements) - 🚀🌛 Use the Launch Platform 👩‍🚀👨‍🚀
@@ -775,6 +768,25 @@
 *   [thomasloven/lovelace-auto-entities](https://github.com/thomasloven/lovelace-auto-entities) - 🔹Automatically populate the entities-list of lovelace cards
 *   [luludotdev/beatsaver-reloaded](https://github.com/luludotdev/beatsaver-reloaded) - BeatSaver Again
 
+## Rich Text Format
+
+*   [langchain-ai/opengpts](https://github.com/langchain-ai/opengpts) -
+
+## Svelte
+
+*   [TZGyn/shortener](https://github.com/TZGyn/shortener) - Link shortener/redirects with analytics
+*   [hcengineering/platform](https://github.com/hcengineering/platform) - Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)
+*   [CriticalMoments/CMSaasStarter](https://github.com/CriticalMoments/CMSaasStarter) - A modern SaaS template/boilerplate built with SvelteKit, Tailwind, and Supabase. Includes marketing page, blog, subscriptions, auth, user dashboard, user settings, pricing page, and more.
+*   [flo-bit/image2fake3d](https://github.com/flo-bit/image2fake3d) - show a fake 3d effect in the browser from an image with a depth map
+*   [inngest/typedwebhook.tools](https://github.com/inngest/typedwebhook.tools) - A webhook testing tool for checking payloads, with automatic type generation
+*   [helius-labs/xray](https://github.com/helius-labs/xray) - A human-readable Solana transaction explorer powered by Helius.
+
+## Lua
+
+*   [Kong/kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native API Gateway and AI Gateway.
+*   [ArchiveTeam/reddit-grab](https://github.com/ArchiveTeam/reddit-grab) - Grabbing everything from reddit.
+*   [Jaliborc/Bagnon](https://github.com/Jaliborc/Bagnon) - Single window displays for you items
+
 ## miscellaneous
 
 *   [web-padawan/awesome-lit](https://github.com/web-padawan/awesome-lit) - A curated list of awesome Lit resources.
@@ -1437,7 +1449,6 @@
 *   [sbidy/wiz\_light](https://github.com/sbidy/wiz_light) - A WiZ Light integration for Home Assistant
 *   [sbidy/pywizlight](https://github.com/sbidy/pywizlight) - A python connector for WiZ devices
 *   [thp/urlwatch](https://github.com/thp/urlwatch) - Watch (parts of) webpages and get notified when something changes via e-mail, on your phone or via other means. Highly configurable.
-*   [watir/nerodia](https://github.com/watir/nerodia) - Python implementation of Watir
 
 ## Shell
 
@@ -1631,8 +1642,6 @@
 *   [MonkeDAO/observer](https://github.com/MonkeDAO/observer) - A command-line tracking tool for Solana-based NFT marketplaces and a metadata scraper for Metaplex protocol.
 *   [Tyrrrz/DiscordChatExporter](https://github.com/Tyrrrz/DiscordChatExporter) - Exports Discord chat logs to a file
 *   [JumpmanSr/BailOutMode](https://github.com/JumpmanSr/BailOutMode) - BailOutMode, a Beat Saber mod that automatically switches to no fail instead of ending a song.
-*   [bsmg/ModAssistant](https://github.com/bsmg/ModAssistant) - Simple Beat Saber Mod Installer
-*   [Tichau/FileConverter](https://github.com/Tichau/FileConverter) - File Converter is a very simple tool which allows you to convert and compress files using the context menu in windows explorer.
 
 ## Dart
 
@@ -1712,10 +1721,6 @@
 *   [teaxyz/white-paper](https://github.com/teaxyz/white-paper) - how will the protocol work?
 *   [mr-karan/notes](https://github.com/mr-karan/notes) - Collection of my byte sized notes on programming and other random topics.
 
-## MDX
-
-*   [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
-
 ## Julia
 
 *   [logankilpatrick/ChatGPT-Plugins-Collection](https://github.com/logankilpatrick/ChatGPT-Plugins-Collection) - An unofficial collection of Plugins for ChatGPT, in any programming language!
@@ -1740,7 +1745,6 @@
 *   [paul-schaaf/spl-token-ui](https://github.com/paul-schaaf/spl-token-ui) - Interface for creating and managing SPL Tokens
 *   [Alaanor/beatlist](https://github.com/Alaanor/beatlist) - Beatlist is an app to manage playlists and beatmaps for the game Beat Saber.
 *   [samatt/herbivore](https://github.com/samatt/herbivore) - Packet sniffing made simple
-*   [ui-discord/ubiquiti-name-generator](https://github.com/ui-discord/ubiquiti-name-generator) - A silly tool to make up product names that Ubiquiti may or may not release
 
 ## Solidity
 
