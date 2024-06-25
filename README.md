@@ -89,7 +89,6 @@
 *   [dataelement/bisheng](https://github.com/dataelement/bisheng) - Bisheng is an open LLM devops platform for next generation AI applications.
 *   [activeloopai/deeplake](https://github.com/activeloopai/deeplake) - Database for AI. Store Vectors, Images, Texts, Videos, etc. Use with LLMs/LangChain. Store, query, version, & visualize any AI data. Stream data in real-time to PyTorch/TensorFlow. https://activeloop.ai
 *   [BerriAI/litellm](https://github.com/BerriAI/litellm) - Call all LLM APIs using the OpenAI format. Use Bedrock, Azure, OpenAI, Cohere, Anthropic, Ollama, Sagemaker, HuggingFace, Replicate (100+ LLMs)
-*   [chatchat-space/Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat) - Langchain-Chatchat（原Langchain-ChatGLM）基于 Langchain 与 ChatGLM 等语言模型的本地知识库问答 | Langchain-Chatchat (formerly langchain-ChatGLM), local knowledge based LLM (like ChatGLM) QA app with langchain
 *   [Lin-Rexter/AI\_Hub\_Discord-Bot](https://github.com/Lin-Rexter/AI_Hub_Discord-Bot) - Discord bot with Gemini, GPT-4, Microsoft Copilot, Claude, Llama 3, Stable Diffusion 3, Bing Image Creator, DALL·E 3, Other AI Applications
 *   [lss233/chatgpt-mirai-qq-bot](https://github.com/lss233/chatgpt-mirai-qq-bot) - 🚀 一键部署！真正的 AI 聊天机器人！支持ChatGPT、文心一言、讯飞星火、Bing、Bard、ChatGLM、POE，多账号，人设调教，虚拟女仆、图片渲染、语音发送 | 支持 QQ、Telegram、Discord、微信 等平台
 *   [danny-avila/rag\_api](https://github.com/danny-avila/rag_api) - ID-based RAG FastAPI: Integration with Langchain and PostgreSQL/pgvector
@@ -325,6 +324,7 @@
 *   [telegraf/telegraf](https://github.com/telegraf/telegraf) - Modern Telegram Bot Framework for Node.js
 *   [Chainlit/chainlit](https://github.com/Chainlit/chainlit) - Build Conversational AI in minutes ⚡️
 *   [mayooear/gpt4-pdf-chatbot-langchain](https://github.com/mayooear/gpt4-pdf-chatbot-langchain) - GPT4 & LangChain Chatbot for large PDF docs
+*   [chatchat-space/Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat) - Langchain-Chatchat（原Langchain-ChatGLM）基于 Langchain 与 ChatGLM 等语言模型的本地知识库问答 | Langchain-Chatchat (formerly langchain-ChatGLM), local knowledge based LLM (like ChatGLM) QA app with langchain
 *   [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
 *   [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
 *   [zckly/wove](https://github.com/zckly/wove) - Wove is a tool for building long-running workflows with LLMs.
@@ -1109,7 +1109,7 @@
 *   [qubyte/fetch-ponyfill](https://github.com/qubyte/fetch-ponyfill) - WHATWG fetch ponyfill
 *   [sindresorhus/generator-nm](https://github.com/sindresorhus/generator-nm) - Scaffold out a node module
 *   [JakeChampion/fetch](https://github.com/JakeChampion/fetch) - A window.fetch JavaScript polyfill.
-*   [davila7/code-gpt-docs](https://github.com/davila7/code-gpt-docs) - Docusaurus page
+*   [JudiniLabs/code-gpt-docs](https://github.com/JudiniLabs/code-gpt-docs) - Docusaurus page
 *   [round/Twitter-Links-beta](https://github.com/round/Twitter-Links-beta) - A browser extension to show the latest tweets that link to the current page.
 *   [sindresorhus/np](https://github.com/sindresorhus/np) - A better `npm publish`
 *   [webpack-contrib/webpack-bundle-analyzer](https://github.com/webpack-contrib/webpack-bundle-analyzer) - Webpack plugin and CLI utility that represents bundle content as convenient interactive zoomable treemap
@@ -1153,7 +1153,7 @@
 *   [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs
 *   [animir/node-rate-limiter-flexible](https://github.com/animir/node-rate-limiter-flexible) - Atomic counters and rate limiting tools. Limit resource access at any scale.
 *   [discord-tickets/bot](https://github.com/discord-tickets/bot) - The most popular open-source and self-hosted ticket management bot for Discord - a free alternative to the premium and white-label plans of other popular ticketing bots.
-*   [acacode/swagger-typescript-api](https://github.com/acacode/swagger-typescript-api) - TypeScript API generator via Swagger scheme
+*   [acacode/swagger-typescript-api](https://github.com/acacode/swagger-typescript-api) - Generate the API Client for Fetch or Axios from an OpenAPI Specification
 *   [dropzone-ui/file-upload-server-side](https://github.com/dropzone-ui/file-upload-server-side) - Server side implemntation for uploading files
 *   [ashutosh1919/react-awesome-loaders](https://github.com/ashutosh1919/react-awesome-loaders) - 🚀  High quality, super responsive and completely customisable Loading Animations to insert into your website with single line of code.
 *   [gisioraelvis/nextjs-dnd-fileupload-code](https://github.com/gisioraelvis/nextjs-dnd-fileupload-code) -
