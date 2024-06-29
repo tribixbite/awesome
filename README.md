@@ -46,7 +46,7 @@
 *   [Jinja](#jinja)
 *   [ReScript](#rescript)
 *   [F#](#f)
-*   [Markdown](#markdown)
+*   [JSON](#json)
 *   [Cuda](#cuda)
 *   [Erlang](#erlang)
 *   [OpenSCAD](#openscad)
@@ -1867,7 +1867,7 @@
 
 *   [darklang/dark](https://github.com/darklang/dark) - Darklang main repo, including language, backend, and infra
 
-## Markdown
+## JSON
 
 *   [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
 
