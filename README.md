@@ -468,7 +468,7 @@
 *   [RicardoGEsteves/omniscient](https://github.com/RicardoGEsteves/omniscient) - Cutting-edge Full-stack AI Platform delivered as a SaaS (Software as a Service). Built on a robust technology stack, integrated with powerful APIs such as OpenAI and Replicate, offers a seamless experience for code generation, conversation simulation, image creation, music composition, and video generation.
 *   [abdfnx/botway](https://github.com/abdfnx/botway) - 🤖 Generate, build, handle and deploy your own AI Bot with your favorite language, for Discord, or Telegram, or even Slack
 *   [aspen-cloud/triplit](https://github.com/aspen-cloud/triplit) - A full-stack, syncing database that runs on both server and client. Pluggable storage (indexeddb, sqlite, durable objects), syncs over websockets, and works with your favorite framework (React, Solid, Vue, Svelte).
-*   [Irys-xyz/js-sdk](https://github.com/Irys-xyz/js-sdk) - JS SDK for Bundlr
+*   [Irys-xyz/js-sdk](https://github.com/Irys-xyz/js-sdk) - JS SDK for Irys
 *   [seamapi/prefixed-api-key](https://github.com/seamapi/prefixed-api-key) - Module for generating a prefixed API Key
 *   [Markeljan/web3-gpt](https://github.com/Markeljan/web3-gpt) - Develop and deploy smart contracts using natural language.
 *   [trailofbits/vscode-weaudit](https://github.com/trailofbits/vscode-weaudit) - Create code bookmarks and code highlights with a click.
@@ -1152,7 +1152,7 @@
 *   [webgrip/PuttyGPT](https://github.com/webgrip/PuttyGPT) - Full Spectrum AI
 *   [Josh-XT/AGiXT](https://github.com/Josh-XT/AGiXT) - AGiXT is a dynamic AI Agent Automation Platform that seamlessly orchestrates instruction management and complex task execution across diverse AI providers. Combining adaptive memory, smart features, and a versatile plugin system, AGiXT delivers efficient and comprehensive AI solutions.
 *   [yoheinakajima/babyagi](https://github.com/yoheinakajima/babyagi) -
-*   [Bunsly/HomeHarvest](https://github.com/Bunsly/HomeHarvest) - Python package for real estate scraping of MLS listing data
+*   [Bunsly/HomeHarvest](https://github.com/Bunsly/HomeHarvest) - Python package for scraping real estate property data
 *   [OpenBMB/RepoAgent](https://github.com/OpenBMB/RepoAgent) - An LLM-powered repository agent designed to assist developers and teams in generating documentation and understanding repositories quickly.
 *   [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 *   [ParclLabs/parcllabs-python](https://github.com/ParclLabs/parcllabs-python) - We're on a mission to create the world's best API developer experience and community for housing data.  Our SDK is designed to supercharge your API experience and accelerate your time to insight. It enables you to efficiently pull the data you need, analyze it, and visualize your findings.
