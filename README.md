@@ -5,8 +5,8 @@
 ## Table of Contents
 
 *   [Python](#python)
-*   [MDX](#mdx)
 *   [TypeScript](#typescript)
+*   [MDX](#mdx)
 *   [JavaScript](#javascript)
 *   [Svelte](#svelte)
 *   [Java](#java)
@@ -57,6 +57,7 @@
 
 ## Python
 
+*   [freelabz/secator](https://github.com/freelabz/secator) - secator - the pentester's swiss knife
 *   [ScrapeGraphAI/Scrapegraph-LabLabAI-Hackathon](https://github.com/ScrapeGraphAI/Scrapegraph-LabLabAI-Hackathon) - Code for the streamlit demo of Scrapegraph-ai for GPT4-hackaton
 *   [prvnsingh/LLM-WebToGraph](https://github.com/prvnsingh/LLM-WebToGraph) - It is project which uses transformer to scrape the web and LLM to retrieve the identity from the text and store it in neo4j.
 *   [Weyaxi/scrape-open-llm-leaderboard](https://github.com/Weyaxi/scrape-open-llm-leaderboard) - Scrape and export data from the Open LLM Leaderboard.
@@ -118,7 +119,7 @@
 *   [Wildric-Auric/MidJourney-Wrapper](https://github.com/Wildric-Auric/MidJourney-Wrapper) - MidJourney wrapper in Discord.
 *   [rapmd73/Companion](https://github.com/rapmd73/Companion) - A discord chat bot utilizing AI in a fun and whimsical way. Provides some moderation tools as well.
 *   [zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt) - Interact with your documents using the power of GPT, 100% privately, no data leaks
-*   [VinciGit00/Scrapegraph-ai](https://github.com/VinciGit00/Scrapegraph-ai) - Python scraper based on AI
+*   [ScrapeGraphAI/Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai) - Python scraper based on AI
 *   [budtmo/docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported and video recording
 *   [weaviate/Verba](https://github.com/weaviate/Verba) - Retrieval Augmented Generation (RAG) chatbot powered by Weaviate
 *   [spoo-me/url-shortener](https://github.com/spoo-me/url-shortener) - spoo.me is a free and easy-to-use URL shortener that lets you create short links for any website. You can choose your own alias, set a password, and limit the number of clicks.
@@ -285,16 +286,10 @@
 *   [thp/urlwatch](https://github.com/thp/urlwatch) - Watch (parts of) webpages and get notified when something changes via e-mail, on your phone or via other means. Highly configurable.
 *   [watir/nerodia](https://github.com/watir/nerodia) - Python implementation of Watir
 *   [KilledMufasa/AmputatorBot](https://github.com/KilledMufasa/AmputatorBot) - Remove AMP from your URLs. AmputatorBot is a highly specialised Reddit and Twitter bot that automatically replies to comments, submissions and tweets containing AMP URLs with the canonical link(s). It's also available as a website and REST API. See also: https://www.reddit.com/r/AmputatorBot/comments/ehrq3z/why\_did\_i\_build\_amputatorbot/.
-*   [pushshift/api](https://github.com/pushshift/api) - Pushshift API
-
-## MDX
-
-*   [mintlify/starter](https://github.com/mintlify/starter) - 📖 The starter kit for your Mintlify docs
-*   [spleafy/prismane-website](https://github.com/spleafy/prismane-website) -
-*   [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
 
 ## TypeScript
 
+*   [ParclFinance/v3-keepers-ts](https://github.com/ParclFinance/v3-keepers-ts) - Example TypeScript keeper bots for parcl-v3
 *   [ymtszw/link-preview](https://github.com/ymtszw/link-preview) - "link-preview" service on Cloudflare Workers
 *   [LemonDouble/chatgpt-serverless-discord-bot](https://github.com/LemonDouble/chatgpt-serverless-discord-bot) - ChatGPT API와 AWS Lambda를 이용하여 Serverless Discord Bot을 만들 수 있는 템플릿입니다.
 *   [LucasB25/AikouAI](https://github.com/LucasB25/AikouAI) - A Discord bot capable of fulfilling your artificial intelligence needs.
@@ -376,7 +371,7 @@
 *   [hc-oss/react-multi-select-component](https://github.com/hc-oss/react-multi-select-component) - Lightweight (~5KB gzipped) multiple selection dropdown component
 *   [mlomb/chat-analytics](https://github.com/mlomb/chat-analytics) - Generate interactive, beautiful and insightful chat analysis reports
 *   [Licoy/ChatGPT-Midjourney](https://github.com/Licoy/ChatGPT-Midjourney) - 🍭 一键拥有你自己的 ChatGPT+Midjourney 网页服务 | Own your own ChatGPT+Midjourney web service with one click
-*   [rjmacarthy/twinny](https://github.com/rjmacarthy/twinny) - The most no-nonsense, locally or API-hosted AI code completion plugin for Visual Studio Code - like GitHub Copilot but completely free and 100% private.
+*   [twinnydotdev/twinny](https://github.com/twinnydotdev/twinny) - The most no-nonsense, locally or API-hosted AI code completion plugin for Visual Studio Code - like GitHub Copilot but completely free and 100% private.
 *   [kevinthedang/discord-ollama](https://github.com/kevinthedang/discord-ollama) - Discord Bot that utilizes Ollama to interact with any Large Language Models to talk with users and allow them to host/create their own models.
 *   [symphony-hq/symphony](https://github.com/symphony-hq/symphony) - Write programs you can talk to.
 *   [raidendotai/openv0](https://github.com/raidendotai/openv0) - AI generated UI components
@@ -1032,6 +1027,12 @@
 *   [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Intuitive Vue Framework.
 *   [thomasloven/lovelace-auto-entities](https://github.com/thomasloven/lovelace-auto-entities) - 🔹Automatically populate the entities-list of lovelace cards
 *   [luludotdev/beatsaver-reloaded](https://github.com/luludotdev/beatsaver-reloaded) - BeatSaver Again
+
+## MDX
+
+*   [mintlify/starter](https://github.com/mintlify/starter) - 📖 The starter kit for your Mintlify docs
+*   [spleafy/prismane-website](https://github.com/spleafy/prismane-website) -
+*   [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
 
 ## JavaScript
 
@@ -1769,7 +1770,7 @@
 *   [microsoft/devhome](https://github.com/microsoft/devhome) - The new Dev Home experience for Windows!
 *   [solana-developers/solana-game-examples](https://github.com/solana-developers/solana-game-examples) -
 *   [CrazyGamesCom/unity-optimizations-package](https://github.com/CrazyGamesCom/unity-optimizations-package) -
-*   [marticliment/WingetUI](https://github.com/marticliment/WingetUI) - WingetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
+*   [marticliment/UniGetUI](https://github.com/marticliment/UniGetUI) - UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
 *   [reddy2004/7Zip-And-TrueCrypt-Password-Cracker](https://github.com/reddy2004/7Zip-And-TrueCrypt-Password-Cracker) - A password checking tool for finding out forgotten passwords for 7Zip files and TrueCrypt volumes.
 *   [lostindark/DriverStoreExplorer](https://github.com/lostindark/DriverStoreExplorer) - Driver Store Explorer \[RAPR]
 *   [SHOEGAZEssb/Last.fm-Scrubbler-WPF](https://github.com/SHOEGAZEssb/Last.fm-Scrubbler-WPF) - Manual Last.fm scrobbling for when a service (or you!) failed to scrobble.
@@ -1895,7 +1896,6 @@
 *   [mslonik/Hotstrings](https://github.com/mslonik/Hotstrings) - AutoHotkey oriented GUI to Hotstrings
 *   [evilC/AppFactory](https://github.com/evilC/AppFactory) - A library for creating AHK Gui Apps with configurable hotkeys and settings.
 *   [pmb6tz/windows-desktop-switcher](https://github.com/pmb6tz/windows-desktop-switcher) - An AutoHotKey script for Windows that lets a user change virtual desktops by pressing CapsLock + \<num>.
-*   [TaranVH/2nd-keyboard](https://github.com/TaranVH/2nd-keyboard) - ALL of Taran's scripts - not just for the 2nd keyboard.
 
 ## Visual Basic .NET
 
