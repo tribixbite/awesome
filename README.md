@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+*   [Groovy](#groovy)
 *   [Rust](#rust)
 *   [C++](#c)
 *   [TypeScript](#typescript)
@@ -53,6 +54,10 @@
 *   [AutoIt](#autoit)
 *   [AutoHotkey](#autohotkey)
 *   [Visual Basic .NET](#visual-basic-net)
+
+## Groovy
+
+*   [NationalSecurityAgency/skills-service](https://github.com/NationalSecurityAgency/skills-service) - SkillTree is a micro-learning gamification platform supporting the rapid integration of a gamified tool training approach into new and existing applications.
 
 ## Rust
 
@@ -1848,7 +1853,6 @@
 *   [mynftgg/nft-project](https://github.com/mynftgg/nft-project) - Game code for mynftgg
 *   [paul-schaaf/spl-token-ui](https://github.com/paul-schaaf/spl-token-ui) - Interface for creating and managing SPL Tokens
 *   [Alaanor/beatlist](https://github.com/Alaanor/beatlist) - Beatlist is an app to manage playlists and beatmaps for the game Beat Saber.
-*   [samatt/herbivore](https://github.com/samatt/herbivore) - Packet sniffing made simple
 
 ## Solidity
 
