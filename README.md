@@ -876,7 +876,7 @@
 *   [exiled-apes/candy-machine-mint](https://github.com/exiled-apes/candy-machine-mint) - Fork, config, customize and ship your own candy machine mint app on your own domain, ultra fast.
 *   [milktoastlab/SolanaNFTBot](https://github.com/milktoastlab/SolanaNFTBot) - A helpful bot for tracking your Solana NFT project on discord channels.
 *   [aws-powertools/powertools-lambda-typescript](https://github.com/aws-powertools/powertools-lambda-typescript) - Powertools is a developer toolkit to implement Serverless best practices and increase developer velocity.
-*   [wevm/wagmi](https://github.com/wevm/wagmi) - React Hooks for Ethereum
+*   [wevm/wagmi](https://github.com/wevm/wagmi) - Reactive primitives for Ethereum apps
 *   [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
 *   [gdagundaridze/rtk-query-toptal-example](https://github.com/gdagundaridze/rtk-query-toptal-example) -
 *   [remix-run/remix](https://github.com/remix-run/remix) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
@@ -940,7 +940,7 @@
 *   [devchat-ai/workflows](https://github.com/devchat-ai/workflows) - DevChat workflows (the `sys` directory)
 *   [evalplus/evalplus](https://github.com/evalplus/evalplus) - Rigourous evaluation of LLM-synthesized code - NeurIPS 2023
 *   [llmware-ai/llmware](https://github.com/llmware-ai/llmware) - Unified framework for building enterprise RAG pipelines with small, specialized models
-*   [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R) - Supabase for RAG - Build and scale production-ready user facing AI apps
+*   [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R) - The Supabase for RAG - R2R lets you build, scale, and manage user-facing Retrieval-Augmented Generation applications
 *   [robocorp/example-langchain-data-ingestion](https://github.com/robocorp/example-langchain-data-ingestion) - Schedule and run your Python RAG data loaders in cloud with Robocorp Control Room
 *   [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
 *   [zilliztech/VectorDBBench](https://github.com/zilliztech/VectorDBBench) - A Benchmark Tool for VectorDB
