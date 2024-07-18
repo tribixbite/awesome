@@ -1645,7 +1645,7 @@
 *   [pathwaycom/llm-app](https://github.com/pathwaycom/llm-app) - Dynamic RAG for enterprise. Ready to run with Docker,⚡in sync with Sharepoint, Google Drive, S3, Kafka, PostgreSQL, real-time data APIs, and more.
 *   [relink2013/Awesome-Self-hosting-for-the-whole-family](https://github.com/relink2013/Awesome-Self-hosting-for-the-whole-family) - An Awesome List of apps that can be self hosted that your family can actually use without frustration.
 *   [humanloop/awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt) - Curated list of awesome tools, demos, docs for ChatGPT and GPT-3
-*   [The-Osint-Toolbox/Data-OSINT](https://github.com/The-Osint-Toolbox/Data-OSINT) - You can find links to data acquisition websites.
+*   [The-Osint-Toolbox/Data-Acquisition-OSINT](https://github.com/The-Osint-Toolbox/Data-Acquisition-OSINT) - You can find links to data acquisition websites.
 *   [railwayapp-templates/plausible](https://github.com/railwayapp-templates/plausible) - One-click template for self-hosting Plausible on Railway!
 *   [ethlimo/documentation](https://github.com/ethlimo/documentation) - Infrastructure documentation
 *   [tribixbite/zk-merkle-tree](https://github.com/tribixbite/zk-merkle-tree) - JavaScript library for anonymous voting on Ethereum blockchain using zero-knowledge proof
@@ -1692,7 +1692,7 @@
 *   [AnIdiotsGuide/discordjs-bot-guide](https://github.com/AnIdiotsGuide/discordjs-bot-guide) - The basic new coder friendly "idiot's guide", Created by Hindsight#2020 and maintained by the community.
 *   [joelparkerhenderson/stable-diffusion-macos-install-help](https://github.com/joelparkerhenderson/stable-diffusion-macos-install-help) - Stable Diffusion: macOS install help with homebrew, python, anaconda, dream, etc.
 *   [Maks-s/sd-akashic](https://github.com/Maks-s/sd-akashic) - A compendium of informations regarding Stable Diffusion (SD)
-*   [vkt3d/natdevice](https://github.com/vkt3d/natdevice) - High performance, cross-platform media device streaming for Unity Engine.
+*   [videokit-ai/natdevice](https://github.com/videokit-ai/natdevice) - High performance, cross-platform media device streaming for Unity Engine.
 *   [killop/anything\_about\_game](https://github.com/killop/anything_about_game) - A wonderful list of Game Development resources.
 *   [hoakbuilds/awesome-solana-gaming](https://github.com/hoakbuilds/awesome-solana-gaming) - 🏎️ A curated list of gaming projects building on Solana 🏎️
 *   [nh-server/switch-guide](https://github.com/nh-server/switch-guide) -
