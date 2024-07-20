@@ -703,7 +703,7 @@
 *   [tsedio/logger](https://github.com/tsedio/logger) - 📄 A multi channel logger written in TypeScript.
 *   [gajus/roarr](https://github.com/gajus/roarr) - JSON logger for Node.js and browser.
 *   [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui) - A JavaScript library to position floating elements and create interactions for them.
-*   [payloadcms/payload](https://github.com/payloadcms/payload) - The best way to build a modern backend + admin UI. No black magic, all TypeScript, and fully open-source, Payload is both an app framework and a headless CMS.
+*   [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building powerful applications.
 *   [react-hook-form/react-hook-form](https://github.com/react-hook-form/react-hook-form) - 📋 React Hooks for form state management and validation (Web + React Native)
 *   [rudza/next-react-admin](https://github.com/rudza/next-react-admin) -
 *   [dvikas/nextjs-graphql-adminpanel](https://github.com/dvikas/nextjs-graphql-adminpanel) - Admin panel built with NextJS(Typescript), Material UI, Apollo Client & GraphQL. In the backend, Prisma 2 with Nexus and Mysql is used.
