@@ -258,7 +258,7 @@
 *   [owid/owid-grapher](https://github.com/owid/owid-grapher) - A platform for creating interactive data visualizations
 *   [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
 *   [crhistianramirez/react-hook-form-chakra](https://github.com/crhistianramirez/react-hook-form-chakra) - Chakra UI bindings for react-hook-form
-*   [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure
+*   [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure. Loved by modern marketing teams like Vercel, Raycast, and Perplexity.
 *   [TreeFarmer/embed-table](https://github.com/TreeFarmer/embed-table) - Easily make nice looking text tables for Discord's embed fields and descriptions.
 *   [fastly/next-compute-js](https://github.com/fastly/next-compute-js) - Run Next.js on Fastly Compute
 *   [pmcelhaney/counterfact](https://github.com/pmcelhaney/counterfact) - OpenAPI / Swagger to TypeScript generator and mock server
