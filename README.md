@@ -535,7 +535,7 @@
 *   [kahlil/dark](https://github.com/kahlil/dark) - An opinionated, dark-themed Next.js & Chakra UI GitHub repository template.
 *   [project-serum/serum-dex-ui](https://github.com/project-serum/serum-dex-ui) - Example implementation of a UI for the Serum DEX
 *   [21e8/cryptostraps.tools](https://github.com/21e8/cryptostraps.tools) - Toolset of Solana tech
-*   [torusresearch/OpenLoginSdk](https://github.com/torusresearch/OpenLoginSdk) - Pluggable auth infrastructure for Web3 wallets and dapps
+*   [Web3Auth/Auth](https://github.com/Web3Auth/Auth) - Pluggable auth infrastructure for Web3 wallets and dapps
 *   [GokiProtocol/goki](https://github.com/GokiProtocol/goki) - A suite of programs for Solana key management and security.
 *   [echohtp/btools](https://github.com/echohtp/btools) -
 *   [MicrosoftDX/Vorlonjs](https://github.com/MicrosoftDX/Vorlonjs) - A new, open source, extensible, platform-agnostic tool for remotely debugging and testing your JavaScript. Powered by node.js and socket.io
