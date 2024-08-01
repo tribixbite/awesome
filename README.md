@@ -77,7 +77,7 @@
 *   [balena-io/etcher](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
 *   [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 *   [Effect-TS/effect](https://github.com/Effect-TS/effect) - An ecosystem of tools to build robust applications in TypeScript
-*   [e2b-dev/ai-artifacts](https://github.com/e2b-dev/ai-artifacts) - Hackable open-source version of Anthropic's AI Artifacts chat
+*   [e2b-dev/ai-artifacts](https://github.com/e2b-dev/ai-artifacts) - Hackable open-source version of Anthropic's Claud Artifacts
 *   [space-operator/client](https://github.com/space-operator/client) -
 *   [poloclub/mememo](https://github.com/poloclub/mememo) - A JavaScript library that brings vector search and RAG to your browser!
 *   [raydium-io/raydium-sdk-V2-demo](https://github.com/raydium-io/raydium-sdk-V2-demo) - Open-source Typescript SDK demos
