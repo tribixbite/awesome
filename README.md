@@ -83,7 +83,7 @@
 *   [balena-io/etcher](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
 *   [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 *   [Effect-TS/effect](https://github.com/Effect-TS/effect) - An ecosystem of tools to build robust applications in TypeScript
-*   [e2b-dev/ai-artifacts](https://github.com/e2b-dev/ai-artifacts) - Hackable open-source version of Anthropic's Claud Artifacts
+*   [e2b-dev/ai-artifacts](https://github.com/e2b-dev/ai-artifacts) - Hackable open-source version of Anthropic's Claude Artifacts
 *   [space-operator/client](https://github.com/space-operator/client) -
 *   [poloclub/mememo](https://github.com/poloclub/mememo) - A JavaScript library that brings vector search and RAG to your browser!
 *   [raydium-io/raydium-sdk-V2-demo](https://github.com/raydium-io/raydium-sdk-V2-demo) - Open-source Typescript SDK demos
@@ -778,7 +778,7 @@
 *   [feathersjs/feathers](https://github.com/feathersjs/feathers) - The API and real-time application framework
 *   [pubkey/rxdb](https://github.com/pubkey/rxdb) - A fast, local first, reactive Database for JavaScript Applications https://rxdb.info/
 *   [recharts/recharts](https://github.com/recharts/recharts) - Redefined chart library built with React and D3
-*   [marmelab/react-admin](https://github.com/marmelab/react-admin) - A frontend Framework for building data-driven applications running on top of REST/GraphQL APIs, using TypeScript, React and Material Design
+*   [marmelab/react-admin](https://github.com/marmelab/react-admin) - A frontend Framework for single-page applications on top of REST/GraphQL APIs, using TypeScript, React and Material Design
 *   [Wscats/compile-hero](https://github.com/Wscats/compile-hero) - 🔰Visual Studio Code Extension For Compiling Language
 *   [ilmoi/nftape.me](https://github.com/ilmoi/nftape.me) - Are you Paperhands or Diamondhands? Find out your Solana NFT trading stats
 *   [pruge/vscode-pug-tsx](https://github.com/pruge/vscode-pug-tsx) - pug에서 사용한 변수를 append 한다.
@@ -1839,7 +1839,7 @@
 ## Kotlin
 
 *   [accrescent/accrescent](https://github.com/accrescent/accrescent) - A novel Android app store focused on security, privacy, and usability
-*   [Kotlin/kmm-production-sample](https://github.com/Kotlin/kmm-production-sample) - This is an open-source, mobile, cross-platform application built with Kotlin Multiplatform Mobile. It's a simple RSS reader, and you can download it from the App Store and Google Play. It's been designed to demonstrate how KMM can be used in real production projects.
+*   [Kotlin/kmp-production-sample](https://github.com/Kotlin/kmp-production-sample) - This is an open-source, mobile, cross-platform application built with Kotlin Multiplatform Mobile. It's a simple RSS reader, and you can download it from the App Store and Google Play. It's been designed to demonstrate how KMM can be used in real production projects.
 *   [OpenArchive/Save-app-android-old](https://github.com/OpenArchive/Save-app-android-old) - This is the Save app for Android
 *   [caydey/ffshare](https://github.com/caydey/ffshare) - An android app to compress image, video and audio files through ffmpeg before sharing them
 *   [PatilShreyas/NotyKT](https://github.com/PatilShreyas/NotyKT) - 📒 NotyKT is a complete 💎Kotlin-stack (Backend + Android) 📱 application built to demonstrate the use of Modern development tools with best practices implementation🦸.
