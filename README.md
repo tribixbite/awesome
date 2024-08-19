@@ -4,11 +4,11 @@
 
 ## Table of Contents
 
-*   [JavaScript](#javascript)
 *   [C](#c)
+*   [Rust](#rust)
+*   [JavaScript](#javascript)
 *   [PowerShell](#powershell)
 *   [Python](#python)
-*   [Rust](#rust)
 *   [TypeScript](#typescript)
 *   [Go](#go)
 *   [miscellaneous](#miscellaneous)
@@ -54,7 +54,92 @@
 *   [AutoHotkey](#autohotkey)
 *   [Visual Basic .NET](#visual-basic-net)
 *   [R](#r)
-*   [Clojure](#clojure)
+
+## C
+
+*   [tevador/hashx](https://github.com/tevador/hashx) - A family of pseudorandomly generated hash functions for proof-of-work and client puzzles
+*   [FreeRDP/FreeRDP](https://github.com/FreeRDP/FreeRDP) - FreeRDP is a free remote desktop protocol library and clients
+*   [shauninman/MinUI](https://github.com/shauninman/MinUI) - A custom launcher and libretro frontend for the Trimui Smart (and Pro), Miyoo Mini (and Plus) and A30, RGB30, M17, and the Anbernic RG\*XX family.
+*   [Next-Flip/Momentum-Firmware](https://github.com/Next-Flip/Momentum-Firmware) - 🐬 Feature-rich, stable and customizable Flipper Firmware
+*   [rebol/rebol](https://github.com/rebol/rebol) - Source code for the Rebol interpreter
+*   [Waterdish/Shipwright-Android](https://github.com/Waterdish/Shipwright-Android) - Ship of Harkinian Android Port
+*   [noproto/flipper\_kdf](https://github.com/noproto/flipper_kdf) - Collection of KDF plugins for the Flipper Zero
+*   [Jason-MIsun/BlackBox](https://github.com/Jason-MIsun/BlackBox) - BlackBox is a virtual engine, it can clone and run virtual application on Android,  users don't have to install APK file to run the application on devices. BlackBox control all virtual applications, so you can do anything you want by using BlackBox.
+*   [Rukongai/CatDjinni](https://github.com/Rukongai/CatDjinni) - Cat Genie AI exploit research
+*   [hassananayi/nfc-srix-programmer](https://github.com/hassananayi/nfc-srix-programmer) - An CLI NFC application for reading, writing, analyzing, NFC ST SRI512 and SRIX4K tags.
+*   [ToyKeeper/anduril](https://github.com/ToyKeeper/anduril) - Anduril 2 Flashlight Firmware and FSM UI Toolkit
+*   [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
+*   [starryalley/Anduril2](https://github.com/starryalley/Anduril2) - my Anduril2 fork that provides much more features
+*   [libvips/libvips](https://github.com/libvips/libvips) - A fast image processing library with low memory needs.
+*   [libusb/hidapi](https://github.com/libusb/hidapi) - A Simple cross-platform library for communicating with HID devices
+*   [security-geeks/oclHashcat](https://github.com/security-geeks/oclHashcat) - World's fastest and most advanced GPGPU-based password recovery utility
+*   [hashcat/hashcat](https://github.com/hashcat/hashcat) - World's fastest and most advanced password recovery utility
+*   [lvaccaro/truecrack](https://github.com/lvaccaro/truecrack) - TrueCrack is a brute-force password cracker for TrueCrypt (Copyrigth) volumes. It works on Linux and it is optimized for Nvidia Cuda technology.
+*   [sabrogden/Ditto](https://github.com/sabrogden/Ditto) - Ditto is an extension to the Windows Clipboard. You copy something to the Clipboard and Ditto takes what you copied and stores it in a database to retrieve at a later time.
+*   [Flipper-XFW/Xtreme-Firmware](https://github.com/Flipper-XFW/Xtreme-Firmware) - The Dom amongst the Flipper Zero Firmware. Give your Flipper the power and freedom it is really craving. Let it show you its true form. Dont delay, switch to the one and only true Master today!
+*   [DarkFlippers/unleashed-firmware](https://github.com/DarkFlippers/unleashed-firmware) - Flipper Zero Unleashed Firmware
+*   [mcf-rocks/solanity](https://github.com/mcf-rocks/solanity) - Solanity - Solana GPU Address Grinder
+*   [avaneev/prvhash](https://github.com/avaneev/prvhash) - PRVHASH - Pseudo-Random-Value Hash. Hash functions, PRNG with unlimited period, randomness extractor, and a glimpse into abyss. (inline C/C++) (Codename Gradilac/Градилак)
+*   [RoganDawes/LOGITacker](https://github.com/RoganDawes/LOGITacker) - Enumerate and test Logitech wireless input devices for vulnerabilities with a nRF52840 radio dongle.
+*   [FABtotum/FABlin](https://github.com/FABtotum/FABlin) - The FABtotum Personal Fabricator Firmware, a Marlin derivate made to support hybrid manufacturing and digital acquisition
+*   [arendst/Tasmota](https://github.com/arendst/Tasmota) - Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at
+*   [vanbwodonk/leonardoUploader](https://github.com/vanbwodonk/leonardoUploader) - A binary command for upload .hex to Arduino Leonardo CDC bootloader.
+
+## Rust
+
+*   [solana-labs/perpetuals](https://github.com/solana-labs/perpetuals) - Solana perpetuals reference implementation
+*   [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
+*   [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
+*   [postgresml/korvus](https://github.com/postgresml/korvus) - Korvus is a search SDK that unifies the entire RAG pipeline in a single database query. Built on top of Postgres with bindings for Python, JavaScript, Rust and C.
+*   [space-operator/flow-backend](https://github.com/space-operator/flow-backend) - Space Operator Backend
+*   [space-operator/rhai](https://github.com/space-operator/rhai) - Rhai - An embedded scripting language for Rust.
+*   [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+*   [rpcpool/yellowstone-vixen](https://github.com/rpcpool/yellowstone-vixen) -
+*   [awslabs/distill-cli](https://github.com/awslabs/distill-cli) -
+*   [orhun/rustypaste](https://github.com/orhun/rustypaste) - A minimal file upload/pastebin service.
+*   [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
+*   [Anthias-Labs/flare](https://github.com/Anthias-Labs/flare) - Solstice Flare - CLI Tool for interacting with Solana
+*   [fire-scale/pregrind.sol](https://github.com/fire-scale/pregrind.sol) - We grind Solana keys for you so you don't have to wait.
+*   [tonyke-bot/ore-miner](https://github.com/tonyke-bot/ore-miner) - ORE Miner built on top of Jito bundle with both CPU and GPU support.
+*   [regolith-labs/ore-cli](https://github.com/regolith-labs/ore-cli) - Command line interface for ORE cryptocurrency mining.
+*   [regolith-labs/ore](https://github.com/regolith-labs/ore) - ORE is a proof-of-work token everyone can mine.
+*   [railwayapp/nixpacks](https://github.com/railwayapp/nixpacks) - App source + Nix packages + Docker = Image
+*   [dimensionhq/volt](https://github.com/dimensionhq/volt) - An experimental package management tool for JavaScript. Upto 30x faster installation of dependencies using pre-flattened dependency trees.
+*   [moonrepo/starbase](https://github.com/moonrepo/starbase) - Framework for building performant command line applications and developer tools.
+*   [moonrepo/moon](https://github.com/moonrepo/moon) - A build system and monorepo management tool for the web ecosystem, written in Rust.
+*   [google/magika](https://github.com/google/magika) - Detect file content types with deep learning
+*   [levicook/derive-keys-please](https://github.com/levicook/derive-keys-please) -
+*   [cavemanloverboy/multigrind](https://github.com/cavemanloverboy/multigrind) -
+*   [pipXBT/Vanaddy](https://github.com/pipXBT/Vanaddy) - Solana Vanity Address Generator
+*   [WilfredAlmeida/LightDAS](https://github.com/WilfredAlmeida/LightDAS) - Lightweight DAS for Solana
+*   [vi/websocat](https://github.com/vi/websocat) - Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions
+*   [0xlarry/byo\_mint](https://github.com/0xlarry/byo_mint) - A compressed NFT mint program on Solana.
+*   [shuttle-hq/shuttle](https://github.com/shuttle-hq/shuttle) - Build & ship backends without writing any infrastructure files.
+*   [solana-playground/solana-playground](https://github.com/solana-playground/solana-playground) - Quickly develop, deploy and test Solana programs from browsers
+*   [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
+*   [metaplex-foundation/mpl-bubblegum](https://github.com/metaplex-foundation/mpl-bubblegum) - Create and manage Metaplex compressed NFTs
+*   [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is a declarative GUI toolkit to build native user interfaces for Rust, C++, or JavaScript apps.
+*   [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one AI CLI tool featuring Chat-REPL, Shell Assistant, RAG, AI tools & agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
+*   [blockworks-foundation/mango-v4](https://github.com/blockworks-foundation/mango-v4) - mango-v4 monorepo, contains program, ts client, and py client
+*   [CaviesLabs/hamsterswap-program](https://github.com/CaviesLabs/hamsterswap-program) -
+*   [metaplex-foundation/metaplex-program-library](https://github.com/metaplex-foundation/metaplex-program-library) - Smart contracts maintained by the Metaplex team
+*   [metaplex-foundation/get-collection](https://github.com/metaplex-foundation/get-collection) - Rust and TypeScript example code for finding all members from a collection id.
+*   [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
+*   [matter-labs/zksync](https://github.com/matter-labs/zksync) - zkSync: trustless scaling and privacy engine for Ethereum
+*   [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
+*   [Bonfida/agnostic-orderbook](https://github.com/Bonfida/agnostic-orderbook) -
+*   [Bonfida/bonfida-utils](https://github.com/Bonfida/bonfida-utils) - Collection of different utilities in use across various Bonfida projects
+*   [Bonfida/name-tokenizer](https://github.com/Bonfida/name-tokenizer) - Tokenize a domain name into an NFT
+*   [solana-labs/solana-program-library](https://github.com/solana-labs/solana-program-library) - A collection of Solana programs maintained by Solana Labs
+*   [ironaddicteddog/anchor-amm](https://github.com/ironaddicteddog/anchor-amm) - SPL token-swap (AMM) implemented in Anchor
+*   [GenesysGo/shadow-drive-rust](https://github.com/GenesysGo/shadow-drive-rust) -
+*   [anoushk1234/metaplex-anchor-nft](https://github.com/anoushk1234/metaplex-anchor-nft) - An example repo to demonstrate how to use anchor and metaplex to mint nfts on solana
+*   [Flawm/solana-dao-vote](https://github.com/Flawm/solana-dao-vote) -
+*   [coral-xyz/anchor](https://github.com/coral-xyz/anchor) - ⚓ Solana Sealevel Framework
+*   [facebook/relay](https://github.com/facebook/relay) - Relay is a JavaScript framework for building data-driven React applications.
+*   [ckamm/solana-accountsdb-connector](https://github.com/ckamm/solana-accountsdb-connector) -
+*   [samuelvanderwaal/metaboss](https://github.com/samuelvanderwaal/metaboss) - The Metaplex NFT-standard Swiss Army Knife tool.
+*   [yoav-lavi/melody](https://github.com/yoav-lavi/melody) - Melody is a language that compiles to regular expressions and aims to be more readable and maintainable
 
 ## JavaScript
 
@@ -354,36 +439,6 @@
 *   [OutsourcedGuru/octo-client](https://github.com/OutsourcedGuru/octo-client) - A Node module for remotely accessing an OctoPrint instance
 *   [kylepaulsen/ResourceOverride](https://github.com/kylepaulsen/ResourceOverride) - An extension to help you gain full control of any website by redirecting traffic, replacing, editing, or inserting new content.
 *   [NUKnightLab/juxtapose](https://github.com/NUKnightLab/juxtapose) - JuxtaposeJS is a JavaScript library for making before/after image sliders
-*   [buccaneerai/rxjs-stats](https://github.com/buccaneerai/rxjs-stats) - Moved to @bottlenose/rxstats (https://github.com/buccaneerai/bottlenose)
-
-## C
-
-*   [FreeRDP/FreeRDP](https://github.com/FreeRDP/FreeRDP) - FreeRDP is a free remote desktop protocol library and clients
-*   [shauninman/MinUI](https://github.com/shauninman/MinUI) - A custom launcher and libretro frontend for the Trimui Smart (and Pro), Miyoo Mini (and Plus) and A30, RGB30, M17, and the Anbernic RG\*XX family.
-*   [Next-Flip/Momentum-Firmware](https://github.com/Next-Flip/Momentum-Firmware) - 🐬 Feature-rich, stable and customizable Flipper Firmware
-*   [rebol/rebol](https://github.com/rebol/rebol) - Source code for the Rebol interpreter
-*   [Waterdish/Shipwright-Android](https://github.com/Waterdish/Shipwright-Android) - Ship of Harkinian Android Port
-*   [noproto/flipper\_kdf](https://github.com/noproto/flipper_kdf) - Collection of KDF plugins for the Flipper Zero
-*   [Jason-MIsun/BlackBox](https://github.com/Jason-MIsun/BlackBox) - BlackBox is a virtual engine, it can clone and run virtual application on Android,  users don't have to install APK file to run the application on devices. BlackBox control all virtual applications, so you can do anything you want by using BlackBox.
-*   [Rukongai/CatDjinni](https://github.com/Rukongai/CatDjinni) - Cat Genie AI exploit research
-*   [hassananayi/nfc-srix-programmer](https://github.com/hassananayi/nfc-srix-programmer) - An CLI NFC application for reading, writing, analyzing, NFC ST SRI512 and SRIX4K tags.
-*   [ToyKeeper/anduril](https://github.com/ToyKeeper/anduril) - Anduril 2 Flashlight Firmware and FSM UI Toolkit
-*   [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
-*   [starryalley/Anduril2](https://github.com/starryalley/Anduril2) - my Anduril2 fork that provides much more features
-*   [libvips/libvips](https://github.com/libvips/libvips) - A fast image processing library with low memory needs.
-*   [libusb/hidapi](https://github.com/libusb/hidapi) - A Simple cross-platform library for communicating with HID devices
-*   [security-geeks/oclHashcat](https://github.com/security-geeks/oclHashcat) - World's fastest and most advanced GPGPU-based password recovery utility
-*   [hashcat/hashcat](https://github.com/hashcat/hashcat) - World's fastest and most advanced password recovery utility
-*   [lvaccaro/truecrack](https://github.com/lvaccaro/truecrack) - TrueCrack is a brute-force password cracker for TrueCrypt (Copyrigth) volumes. It works on Linux and it is optimized for Nvidia Cuda technology.
-*   [sabrogden/Ditto](https://github.com/sabrogden/Ditto) - Ditto is an extension to the Windows Clipboard. You copy something to the Clipboard and Ditto takes what you copied and stores it in a database to retrieve at a later time.
-*   [Flipper-XFW/Xtreme-Firmware](https://github.com/Flipper-XFW/Xtreme-Firmware) - The Dom amongst the Flipper Zero Firmware. Give your Flipper the power and freedom it is really craving. Let it show you its true form. Dont delay, switch to the one and only true Master today!
-*   [DarkFlippers/unleashed-firmware](https://github.com/DarkFlippers/unleashed-firmware) - Flipper Zero Unleashed Firmware
-*   [mcf-rocks/solanity](https://github.com/mcf-rocks/solanity) - Solanity - Solana GPU Address Grinder
-*   [avaneev/prvhash](https://github.com/avaneev/prvhash) - PRVHASH - Pseudo-Random-Value Hash. Hash functions, PRNG with unlimited period, randomness extractor, and a glimpse into abyss. (inline C/C++) (Codename Gradilac/Градилак)
-*   [RoganDawes/LOGITacker](https://github.com/RoganDawes/LOGITacker) - Enumerate and test Logitech wireless input devices for vulnerabilities with a nRF52840 radio dongle.
-*   [FABtotum/FABlin](https://github.com/FABtotum/FABlin) - The FABtotum Personal Fabricator Firmware, a Marlin derivate made to support hybrid manufacturing and digital acquisition
-*   [arendst/Tasmota](https://github.com/arendst/Tasmota) - Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at
-*   [vanbwodonk/leonardoUploader](https://github.com/vanbwodonk/leonardoUploader) - A binary command for upload .hex to Arduino Leonardo CDC bootloader.
 
 ## PowerShell
 
@@ -648,61 +703,6 @@
 *   [pushshift/api](https://github.com/pushshift/api) - Pushshift API
 *   [tribixbite/BrokenRecordBot](https://github.com/tribixbite/BrokenRecordBot) - reddit copypasta bot for subreddit wiki text
 
-## Rust
-
-*   [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
-*   [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
-*   [postgresml/korvus](https://github.com/postgresml/korvus) - Korvus is a search SDK that unifies the entire RAG pipeline in a single database query. Built on top of Postgres with bindings for Python, JavaScript, Rust and C.
-*   [space-operator/flow-backend](https://github.com/space-operator/flow-backend) - Space Operator Backend
-*   [space-operator/rhai](https://github.com/space-operator/rhai) - Rhai - An embedded scripting language for Rust.
-*   [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
-*   [rpcpool/yellowstone-vixen](https://github.com/rpcpool/yellowstone-vixen) -
-*   [awslabs/distill-cli](https://github.com/awslabs/distill-cli) -
-*   [orhun/rustypaste](https://github.com/orhun/rustypaste) - A minimal file upload/pastebin service.
-*   [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
-*   [Anthias-Labs/flare](https://github.com/Anthias-Labs/flare) - Solstice Flare - CLI Tool for interacting with Solana
-*   [fire-scale/pregrind.sol](https://github.com/fire-scale/pregrind.sol) - We grind Solana keys for you so you don't have to wait.
-*   [tonyke-bot/ore-miner](https://github.com/tonyke-bot/ore-miner) - ORE Miner built on top of Jito bundle with both CPU and GPU support.
-*   [regolith-labs/ore-cli](https://github.com/regolith-labs/ore-cli) - Command line interface for ORE cryptocurrency mining.
-*   [regolith-labs/ore](https://github.com/regolith-labs/ore) - ORE is a proof-of-work token everyone can mine.
-*   [railwayapp/nixpacks](https://github.com/railwayapp/nixpacks) - App source + Nix packages + Docker = Image
-*   [dimensionhq/volt](https://github.com/dimensionhq/volt) - An experimental package management tool for JavaScript. Upto 30x faster installation of dependencies using pre-flattened dependency trees.
-*   [moonrepo/starbase](https://github.com/moonrepo/starbase) - Framework for building performant command line applications and developer tools.
-*   [moonrepo/moon](https://github.com/moonrepo/moon) - A build system and monorepo management tool for the web ecosystem, written in Rust.
-*   [google/magika](https://github.com/google/magika) - Detect file content types with deep learning
-*   [levicook/derive-keys-please](https://github.com/levicook/derive-keys-please) -
-*   [cavemanloverboy/multigrind](https://github.com/cavemanloverboy/multigrind) -
-*   [pipXBT/Vanaddy](https://github.com/pipXBT/Vanaddy) - Solana Vanity Address Generator
-*   [WilfredAlmeida/LightDAS](https://github.com/WilfredAlmeida/LightDAS) - Lightweight DAS for Solana
-*   [vi/websocat](https://github.com/vi/websocat) - Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions
-*   [0xlarry/byo\_mint](https://github.com/0xlarry/byo_mint) - A compressed NFT mint program on Solana.
-*   [shuttle-hq/shuttle](https://github.com/shuttle-hq/shuttle) - Build & ship backends without writing any infrastructure files.
-*   [solana-playground/solana-playground](https://github.com/solana-playground/solana-playground) - Quickly develop, deploy and test Solana programs from browsers
-*   [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
-*   [metaplex-foundation/mpl-bubblegum](https://github.com/metaplex-foundation/mpl-bubblegum) - Create and manage Metaplex compressed NFTs
-*   [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is a declarative GUI toolkit to build native user interfaces for Rust, C++, or JavaScript apps.
-*   [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one AI CLI tool featuring Chat-REPL, Shell Assistant, RAG, AI tools & agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
-*   [blockworks-foundation/mango-v4](https://github.com/blockworks-foundation/mango-v4) - mango-v4 monorepo, contains program, ts client, and py client
-*   [CaviesLabs/hamsterswap-program](https://github.com/CaviesLabs/hamsterswap-program) -
-*   [metaplex-foundation/metaplex-program-library](https://github.com/metaplex-foundation/metaplex-program-library) - Smart contracts maintained by the Metaplex team
-*   [metaplex-foundation/get-collection](https://github.com/metaplex-foundation/get-collection) - Rust and TypeScript example code for finding all members from a collection id.
-*   [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
-*   [matter-labs/zksync](https://github.com/matter-labs/zksync) - zkSync: trustless scaling and privacy engine for Ethereum
-*   [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
-*   [Bonfida/agnostic-orderbook](https://github.com/Bonfida/agnostic-orderbook) -
-*   [Bonfida/bonfida-utils](https://github.com/Bonfida/bonfida-utils) - Collection of different utilities in use across various Bonfida projects
-*   [Bonfida/name-tokenizer](https://github.com/Bonfida/name-tokenizer) - Tokenize a domain name into an NFT
-*   [solana-labs/solana-program-library](https://github.com/solana-labs/solana-program-library) - A collection of Solana programs maintained by Solana Labs
-*   [ironaddicteddog/anchor-amm](https://github.com/ironaddicteddog/anchor-amm) - SPL token-swap (AMM) implemented in Anchor
-*   [GenesysGo/shadow-drive-rust](https://github.com/GenesysGo/shadow-drive-rust) -
-*   [anoushk1234/metaplex-anchor-nft](https://github.com/anoushk1234/metaplex-anchor-nft) - An example repo to demonstrate how to use anchor and metaplex to mint nfts on solana
-*   [Flawm/solana-dao-vote](https://github.com/Flawm/solana-dao-vote) -
-*   [coral-xyz/anchor](https://github.com/coral-xyz/anchor) - ⚓ Solana Sealevel Framework
-*   [facebook/relay](https://github.com/facebook/relay) - Relay is a JavaScript framework for building data-driven React applications.
-*   [ckamm/solana-accountsdb-connector](https://github.com/ckamm/solana-accountsdb-connector) -
-*   [samuelvanderwaal/metaboss](https://github.com/samuelvanderwaal/metaboss) - The Metaplex NFT-standard Swiss Army Knife tool.
-*   [yoav-lavi/melody](https://github.com/yoav-lavi/melody) - Melody is a language that compiles to regular expressions and aims to be more readable and maintainable
-
 ## TypeScript
 
 *   [metaplex-foundation/solana\_serialization\_benchmark](https://github.com/metaplex-foundation/solana_serialization_benchmark) - Benchmarks for rust serialization frameworks, inspired by https://github.com/djkoloski/rust\_serialization\_benchmark
@@ -821,7 +821,7 @@
 *   [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
 *   [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
 *   [zckly/wove](https://github.com/zckly/wove) - Wove is a tool for building long-running workflows with LLMs.
-*   [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features OpenAI, Assistants API, Azure, Groq, GPT-4 Vision, Mistral, Bing, Anthropic, OpenRouter, Vertex AI, Gemini, AI model switching, message search, langchain, DALL-E-3, ChatGPT Plugins, OpenAI Functions, Secure Multi-User System, Presets, completely open-source for self-hosting. More features in development
+*   [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Anthropic, OpenAI, Assistants API, Azure, Groq, GPT-4 Vision, Mistral, OpenRouter, Vertex AI, Gemini, AI model switching, message search, langchain, DALL-E-3, ChatGPT Plugins, OpenAI Functions, Secure Multi-User System, Presets, completely open-source for self-hosting. Actively in public development.
 *   [hc-oss/react-multi-select-component](https://github.com/hc-oss/react-multi-select-component) - Lightweight (~5KB gzipped) multiple selection dropdown component
 *   [mlomb/chat-analytics](https://github.com/mlomb/chat-analytics) - Generate interactive, beautiful and insightful chat analysis reports
 *   [Licoy/ChatGPT-Midjourney](https://github.com/Licoy/ChatGPT-Midjourney) - 🍭 一键拥有你自己的 ChatGPT+StabilityAI+Midjourney 网页服务 | Own your own ChatGPT+StabilityAI+Midjourney web service with one click
@@ -1364,7 +1364,7 @@
 *   [microsoft/SandDance](https://github.com/microsoft/SandDance) - Visually explore, understand, and present your data.
 *   [reactchartjs/react-chartjs-2](https://github.com/reactchartjs/react-chartjs-2) - React components for Chart.js, the most popular charting library
 *   [penrose/penrose](https://github.com/penrose/penrose) - Create beautiful diagrams just by typing notation in plain text.
-*   [thi-ng/umbrella](https://github.com/thi-ng/umbrella) - ⛱  Broadly scoped ecosystem & mono-repository of 198 TypeScript projects (and ~175 examples) for general purpose, functional, data driven development
+*   [thi-ng/umbrella](https://github.com/thi-ng/umbrella) - ⛱  Broadly scoped ecosystem & mono-repository of 199 TypeScript projects (and ~180 examples) for general purpose, functional, data driven development
 *   [nftstorage/metaplex-auth](https://github.com/nftstorage/metaplex-auth) - **Notice: Uploads Decommissioned - Existing Data is Safe!**  This is a client library designed for Metaplex NFT uploads to NFT.Storage.  June 2024 Update: No new uploads, but all existing data is safe. Try the new NFT.Storage, which preserves data in long term Filecoin storage for a small fee. Go to app.nft.storage
 *   [SimonHoiberg/saas-template](https://github.com/SimonHoiberg/saas-template) - SaaS template for AWS, Amplify, React, NextJS and Chakra
 *   [freeCodeCamp/100DaysOfCode-discord-bot](https://github.com/freeCodeCamp/100DaysOfCode-discord-bot) - A Discord bot created for the 100 Days of Code challenge.
@@ -2004,7 +2004,3 @@
 ## R
 
 *   [BorisNikulin/discord-chat-analysis](https://github.com/BorisNikulin/discord-chat-analysis) - Text analysis of a discord chat group
-
-## Clojure
-
-*   [zakwilson/ceilingbounce](https://github.com/zakwilson/ceilingbounce) - Test your flashlights and graph their performance
