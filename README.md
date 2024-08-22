@@ -1355,7 +1355,7 @@
 *   [xxlong0/Wonder3D](https://github.com/xxlong0/Wonder3D) - Single Image to 3D using Cross-Domain Diffusion for 3D Generation
 *   [facebookresearch/pifuhd](https://github.com/facebookresearch/pifuhd) - High-Resolution 3D Human Digitization from A Single Image.
 *   [zocker-160/pihole-blocklist](https://github.com/zocker-160/pihole-blocklist) - My personal all-in-one anti-Microsoft and anti-Google (and more) pihole blocklist.
-*   [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) - Instant voice cloning by MyShell.
+*   [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) - Instant voice cloning by MIT and MyShell.
 *   [Furniel/Apk-Changer](https://github.com/Furniel/Apk-Changer) - Command line program for modifying apk files
 *   [dwisiswant0/apkleaks](https://github.com/dwisiswant0/apkleaks) - Scanning APK file for URIs, endpoints & secrets.
 *   [quark-engine/quark-engine](https://github.com/quark-engine/quark-engine) - Dig Vulnerabilities in the BlackBox
