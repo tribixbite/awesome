@@ -395,7 +395,7 @@
 *   [Shopify/blockchain-components](https://github.com/Shopify/blockchain-components) - Blockchain related React UI components for Shopify storefronts
 *   [Stability-AI/StableStudio](https://github.com/Stability-AI/StableStudio) - Community interface for generative AI
 *   [sandboxnu/searchneu](https://github.com/sandboxnu/searchneu) - Search over Classes, Professors and Employees at NEU!
-*   [Xunnamius/next-test-api-route-handler](https://github.com/Xunnamius/next-test-api-route-handler) - ⚡ Confidently unit and integration test your Next.js API routes/handlers in an isolated Next.js-like environment
+*   [Xunnamius/next-test-api-route-handler](https://github.com/Xunnamius/next-test-api-route-handler) - ⚡ Confidently unit and integration test your Next.js API routes/handlers in an isolated Next.js-like environment with buttery-smooth DX
 *   [stepci/stepci](https://github.com/stepci/stepci) - Automated API Testing and Quality Assurance
 *   [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 *   [nass59/turborepo-nextjs](https://github.com/nass59/turborepo-nextjs) - TurboRepo with NextJS | Storybook
