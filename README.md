@@ -1335,7 +1335,7 @@
 *   [dolph/dictionary](https://github.com/dolph/dictionary) - A list of the most popular English words.
 *   [lancedb/lancedb](https://github.com/lancedb/lancedb) - Developer-friendly, serverless vector database for AI applications. Easily add long-term memory to your LLM apps!
 *   [jw782cn/RepoChat-200k](https://github.com/jw782cn/RepoChat-200k) - ⚡Chat with GitHub Repo Using 200k context window of Claude instead of RAG!⚡
-*   [jakobdylanc/llmcord.py](https://github.com/jakobdylanc/llmcord.py) - A Discord LLM chat bot that supports any OpenAI compatible API (OpenAI, Mistral, Groq, OpenRouter, ollama, oobabooga, Jan and more)
+*   [jakobdylanc/llmcord.py](https://github.com/jakobdylanc/llmcord.py) - A Discord LLM chat bot that supports any OpenAI compatible API (OpenAI, Mistral, Groq, OpenRouter, ollama, oobabooga, Jan, LM Studio and more)
 *   [anthropics/anthropic-tools](https://github.com/anthropics/anthropic-tools) -
 *   [jimmc414/1filellm](https://github.com/jimmc414/1filellm) - Specify a github or local repo, github pull request,  arXiv or Sci-Hub paper, Youtube transcript or documentation URL on the web and scrape into a text file and clipboard  for easier LLM ingestion
 *   [Reddidgy/RepoToTextForLLMs](https://github.com/Reddidgy/RepoToTextForLLMs) - Automate the analysis of GitHub repositories for LLMs with RepoToTextForLLMs. Fetch READMEs, structure, and non-binary files efficiently. Outputs include analysis prompts to aid in comprehensive repo evaluation
@@ -1630,7 +1630,7 @@
 *   [Linux-on-droid/vendor\_lindroid](https://github.com/Linux-on-droid/vendor_lindroid) -
 *   [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed inference
 *   [rive-app/rive-runtime](https://github.com/rive-app/rive-runtime) - Downstream repo for Rive renderer
-*   [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Chat with Local LLMs on Any Device
+*   [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.
 *   [plv8/plv8](https://github.com/plv8/plv8) -  V8 Engine Javascript Procedural Language add-on for PostgreSQL
 *   [ArsenArsen/KShare](https://github.com/ArsenArsen/KShare) - The free and open source and cross platform screen sharing software.
 *   [doxygen/doxygen](https://github.com/doxygen/doxygen) - Official doxygen git repository
