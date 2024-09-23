@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+*   [C#](#c)
 *   [miscellaneous](#miscellaneous)
 *   [Python](#python)
 *   [HTML](#html)
@@ -19,9 +20,9 @@
 *   [Lua](#lua)
 *   [Batchfile](#batchfile)
 *   [Svelte](#svelte)
-*   [C](#c)
+*   [C](#c-1)
 *   [PowerShell](#powershell)
-*   [C++](#c-1)
+*   [C++](#c-2)
 *   [Groovy](#groovy)
 *   [PHP](#php)
 *   [MDX](#mdx)
@@ -31,7 +32,6 @@
 *   [SCSS](#scss)
 *   [Dockerfile](#dockerfile)
 *   [Ruby](#ruby)
-*   [C#](#c-2)
 *   [Handlebars](#handlebars)
 *   [Elm](#elm)
 *   [Astro](#astro)
@@ -55,6 +55,34 @@
 *   [AutoIt](#autoit)
 *   [AutoHotkey](#autohotkey)
 *   [Visual Basic .NET](#visual-basic-net)
+
+## C\#
+
+*   [Unity-Technologies/UnityCsReference](https://github.com/Unity-Technologies/UnityCsReference) - Unity C# reference source code.
+*   [ShareX/ShareX](https://github.com/ShareX/ShareX) - ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of files to many supported destinations you can choose from.
+*   [LimerBoy/Adamantium-Thief](https://github.com/LimerBoy/Adamantium-Thief) - :key: Decrypt chromium based browsers passwords, cookies, credit cards, history, bookmarks, autofill. Version > 80 is supported.
+*   [Tyrrrz/LightBulb](https://github.com/Tyrrrz/LightBulb) - Reduces eye strain by adjusting screen gamma based on the current time
+*   [solana-developers/solana-game-preset](https://github.com/solana-developers/solana-game-preset) - A npx preset with anchor program and multiple clients
+*   [DevxStudio/Phoenix-Clipper-Malware](https://github.com/DevxStudio/Phoenix-Clipper-Malware) -
+*   [microsoft/devhome](https://github.com/microsoft/devhome) - The new Dev Home experience for Windows!
+*   [solana-developers/solana-game-examples](https://github.com/solana-developers/solana-game-examples) -
+*   [CrazyGamesCom/unity-optimizations-package](https://github.com/CrazyGamesCom/unity-optimizations-package) -
+*   [marticliment/UniGetUI](https://github.com/marticliment/UniGetUI) - UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
+*   [reddy2004/7Zip-And-TrueCrypt-Password-Cracker](https://github.com/reddy2004/7Zip-And-TrueCrypt-Password-Cracker) - A password checking tool for finding out forgotten passwords for 7Zip files and TrueCrypt volumes.
+*   [lostindark/DriverStoreExplorer](https://github.com/lostindark/DriverStoreExplorer) - Driver Store Explorer \[RAPR]
+*   [SHOEGAZEssb/Last.fm-Scrubbler-WPF](https://github.com/SHOEGAZEssb/Last.fm-Scrubbler-WPF) - Manual Last.fm scrobbling for when a service (or you!) failed to scrobble.
+*   [magicblock-labs/Solana.Unity-SDK](https://github.com/magicblock-labs/Solana.Unity-SDK) - Open-Source Unity-Solana SDK with Full RPC coverage, NFT support and more
+*   [julienkay/com.doji.genesis](https://github.com/julienkay/com.doji.genesis) -
+*   [natmlx/natml-unity](https://github.com/natmlx/natml-unity) - High performance, cross-platform machine learning for Unity Engine.
+*   [DarkRiftNetworking/DarkRift](https://github.com/DarkRiftNetworking/DarkRift) - DarkRift Networking by Unordinal
+*   [nftport/sample-unity3D-nft-metaverse-template](https://github.com/nftport/sample-unity3D-nft-metaverse-template) - Adv. Playground : Gallery - Customizable Unity Template
+*   [Unity-Technologies/ml-agents](https://github.com/Unity-Technologies/ml-agents) - The Unity Machine Learning Agents Toolkit (ML-Agents) is an open-source project that enables games and simulations to serve as environments for training intelligent agents using deep reinforcement learning and imitation learning.
+*   [sttz/trimmer](https://github.com/sttz/trimmer) - An editor, build and player configuration framework for the Unity game engine.
+*   [Banana4Life/Drillromantik](https://github.com/Banana4Life/Drillromantik) -
+*   [allartprotocol/unity-solana-wallet](https://github.com/allartprotocol/unity-solana-wallet) - The First Open-Source Unity-Solana Wallet with NFT support
+*   [furkandeveloper/EasyCronJob](https://github.com/furkandeveloper/EasyCronJob) - This repository provides easy cron job to your application on IHostedService.
+*   [MonkeDAO/observer](https://github.com/MonkeDAO/observer) - A command-line tracking tool for Solana-based NFT marketplaces and a metadata scraper for Metaplex protocol.
+*   [Tyrrrz/DiscordChatExporter](https://github.com/Tyrrrz/DiscordChatExporter) - Exports Discord chat logs to a file
 
 ## miscellaneous
 
@@ -1252,7 +1280,7 @@
 *   [mtfy/Intelify](https://github.com/mtfy/Intelify) - Open Source Intelligence tool base for searching breached PII (Personally identifiable information) by Username, Email, or IP address.
 *   [Donaldcwl/browser-image-compression](https://github.com/Donaldcwl/browser-image-compression) - Image compression in web browser
 *   [rapi-doc/RapiDoc](https://github.com/rapi-doc/RapiDoc) - RapiDoc -WebComponent for OpenAPI Spec
-*   [Kielx/terminal-portfolio](https://github.com/Kielx/terminal-portfolio) - Terminal-portfolio - ideal for showcasing software developer projects.
+*   [Kielx/terminal-portfolio](https://github.com/Kielx/terminal-portfolio) - Terminal-portfolio - ideal for showcasing software developer projects. Based on Gatsby and Markdown files with separate terminal windows powered by winbox.js.
 *   [tornadocash/tornado-core](https://github.com/tornadocash/tornado-core) - Tornado cash. Non-custodial private transactions on Ethereum.
 *   [zlatnaspirala/magic-three](https://github.com/zlatnaspirala/magic-three) - Using power of Three.js and Ammo.js .Class oriented , script type module. No build no extra time spend needed. Networking with webRTC/Node.js signaling server. First person shooter Multiplayer solution
 *   [mrdoob/frame.js](https://github.com/mrdoob/frame.js) - JavaScript Sequence Editor
@@ -1510,7 +1538,6 @@
 *   [jonbloom/stonkbot](https://github.com/jonbloom/stonkbot) -
 *   [tylerburleigh/nike-buy-bot](https://github.com/tylerburleigh/nike-buy-bot) - A bot using Node.js / puppeteer that buys a Nike shoe when it drops
 *   [dkkocab/WebSiteBot\_PS5](https://github.com/dkkocab/WebSiteBot_PS5) - This is a bot that will buy a PS5 through Walmart. It's written in python and uses selenium to interact with web pages. *WORK IN PROGRESS*
-*   [oriziv/sync-files-blob-storage-ha](https://github.com/oriziv/sync-files-blob-storage-ha) -
 
 ## Rust
 
@@ -1878,33 +1905,6 @@
 
 *   [fastlane/fastlane](https://github.com/fastlane/fastlane) - 🚀 The easiest way to automate building and releasing your iOS and Android apps
 *   [toy/image\_optim](https://github.com/toy/image_optim) - Optimize images using multiple utilities
-
-## C\#
-
-*   [ShareX/ShareX](https://github.com/ShareX/ShareX) - ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of files to many supported destinations you can choose from.
-*   [LimerBoy/Adamantium-Thief](https://github.com/LimerBoy/Adamantium-Thief) - :key: Decrypt chromium based browsers passwords, cookies, credit cards, history, bookmarks, autofill. Version > 80 is supported.
-*   [Tyrrrz/LightBulb](https://github.com/Tyrrrz/LightBulb) - Reduces eye strain by adjusting screen gamma based on the current time
-*   [solana-developers/solana-game-preset](https://github.com/solana-developers/solana-game-preset) - A npx preset with anchor program and multiple clients
-*   [DevxStudio/Phoenix-Clipper-Malware](https://github.com/DevxStudio/Phoenix-Clipper-Malware) -
-*   [microsoft/devhome](https://github.com/microsoft/devhome) - The new Dev Home experience for Windows!
-*   [solana-developers/solana-game-examples](https://github.com/solana-developers/solana-game-examples) -
-*   [CrazyGamesCom/unity-optimizations-package](https://github.com/CrazyGamesCom/unity-optimizations-package) -
-*   [marticliment/UniGetUI](https://github.com/marticliment/UniGetUI) - UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
-*   [reddy2004/7Zip-And-TrueCrypt-Password-Cracker](https://github.com/reddy2004/7Zip-And-TrueCrypt-Password-Cracker) - A password checking tool for finding out forgotten passwords for 7Zip files and TrueCrypt volumes.
-*   [lostindark/DriverStoreExplorer](https://github.com/lostindark/DriverStoreExplorer) - Driver Store Explorer \[RAPR]
-*   [SHOEGAZEssb/Last.fm-Scrubbler-WPF](https://github.com/SHOEGAZEssb/Last.fm-Scrubbler-WPF) - Manual Last.fm scrobbling for when a service (or you!) failed to scrobble.
-*   [magicblock-labs/Solana.Unity-SDK](https://github.com/magicblock-labs/Solana.Unity-SDK) - Open-Source Unity-Solana SDK with Full RPC coverage, NFT support and more
-*   [julienkay/com.doji.genesis](https://github.com/julienkay/com.doji.genesis) -
-*   [natmlx/natml-unity](https://github.com/natmlx/natml-unity) - High performance, cross-platform machine learning for Unity Engine.
-*   [DarkRiftNetworking/DarkRift](https://github.com/DarkRiftNetworking/DarkRift) - DarkRift Networking by Unordinal
-*   [nftport/sample-unity3D-nft-metaverse-template](https://github.com/nftport/sample-unity3D-nft-metaverse-template) - Adv. Playground : Gallery - Customizable Unity Template
-*   [Unity-Technologies/ml-agents](https://github.com/Unity-Technologies/ml-agents) - The Unity Machine Learning Agents Toolkit (ML-Agents) is an open-source project that enables games and simulations to serve as environments for training intelligent agents using deep reinforcement learning and imitation learning.
-*   [sttz/trimmer](https://github.com/sttz/trimmer) - An editor, build and player configuration framework for the Unity game engine.
-*   [Banana4Life/Drillromantik](https://github.com/Banana4Life/Drillromantik) -
-*   [allartprotocol/unity-solana-wallet](https://github.com/allartprotocol/unity-solana-wallet) - The First Open-Source Unity-Solana Wallet with NFT support
-*   [furkandeveloper/EasyCronJob](https://github.com/furkandeveloper/EasyCronJob) - This repository provides easy cron job to your application on IHostedService.
-*   [MonkeDAO/observer](https://github.com/MonkeDAO/observer) - A command-line tracking tool for Solana-based NFT marketplaces and a metadata scraper for Metaplex protocol.
-*   [Tyrrrz/DiscordChatExporter](https://github.com/Tyrrrz/DiscordChatExporter) - Exports Discord chat logs to a file
 
 ## Handlebars
 
