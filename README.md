@@ -1529,7 +1529,7 @@
 *   [axios/axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
 *   [arkerone/api-key-auth](https://github.com/arkerone/api-key-auth) - Express/Restify middleware to authenticate HTTP requests based on api key and signature.
 *   [chronosis/uuid-apikey](https://github.com/chronosis/uuid-apikey) - A Base32-Crockford encoded API Key generator and converter to turn UUIDs into human readable API Keys
-*   [appbaseio/dejavu](https://github.com/appbaseio/dejavu) - The Missing Web UI for Elasticsearch: Import, browse and edit data with rich filters and query views, create search UIs visually.
+*   [appbaseio/dejavu](https://github.com/appbaseio/dejavu) - A Web UI for Elasticsearch and OpenSearch: Import, browse and edit data with rich filters and query views, create reference search UIs.
 *   [appbaseio/searchbox](https://github.com/appbaseio/searchbox) - Lightweight and performance oriented search box UI component libraries for React, Vue, React Native, JS and Flutter
 *   [appbaseio/reactivesearch](https://github.com/appbaseio/reactivesearch) - Search UI components for React and Vue
 *   [webdevnerdstuff/amazon-smile-redirect](https://github.com/webdevnerdstuff/amazon-smile-redirect) - This Extension will automatically redirect you to the corresponding AmazonSmile page, so you will never need to remember to go to AmazonSmile first. In order for your non-profit to benefit from your purchase, you must complete your purchase through AmazonSmile.
