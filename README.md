@@ -86,6 +86,7 @@
 *   [regolith-labs/ore-cli](https://github.com/regolith-labs/ore-cli) - Command line interface for ORE miners.
 *   [regolith-labs/ore](https://github.com/regolith-labs/ore) - ORE is a proof-of-work token everyone can mine.
 *   [railwayapp/nixpacks](https://github.com/railwayapp/nixpacks) - App source + Nix packages + Docker = Image
+*   [lancedb/lancedb](https://github.com/lancedb/lancedb) - Developer-friendly, serverless vector database for AI applications. Easily add long-term memory to your LLM apps!
 *   [dimensionhq/volt](https://github.com/dimensionhq/volt) - An experimental package management tool for JavaScript. Upto 30x faster installation of dependencies using pre-flattened dependency trees.
 *   [moonrepo/starbase](https://github.com/moonrepo/starbase) - Framework for building performant command line applications and developer tools.
 *   [moonrepo/moon](https://github.com/moonrepo/moon) - A build system and monorepo management tool for the web ecosystem, written in Rust.
@@ -1026,7 +1027,6 @@
 *   [google-deepmind/penzai](https://github.com/google-deepmind/penzai) - A JAX research toolkit for building, editing, and visualizing neural networks.
 *   [theowni/Damn-Vulnerable-RESTaurant-API-Game](https://github.com/theowni/Damn-Vulnerable-RESTaurant-API-Game) - Damn Vulnerable Restaurant is an intentionally vulnerable Web API game for learning and training purposes dedicated to developers, ethical hackers and security engineers.
 *   [dolph/dictionary](https://github.com/dolph/dictionary) - A list of the most popular English words.
-*   [lancedb/lancedb](https://github.com/lancedb/lancedb) - Developer-friendly, serverless vector database for AI applications. Easily add long-term memory to your LLM apps!
 *   [jw782cn/RepoChat-200k](https://github.com/jw782cn/RepoChat-200k) - ⚡Chat with GitHub Repo Using 200k context window of Claude instead of RAG!⚡
 *   [jakobdylanc/llmcord.py](https://github.com/jakobdylanc/llmcord.py) - A Discord LLM chat bot that supports any OpenAI compatible API (OpenAI, Mistral, Groq, OpenRouter, ollama, oobabooga, Jan, LM Studio and more)
 *   [anthropics/anthropic-tools](https://github.com/anthropics/anthropic-tools) -
