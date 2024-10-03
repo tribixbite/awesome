@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+*   [Smalltalk](#smalltalk)
 *   [Rust](#rust)
 *   [TypeScript](#typescript)
 *   [Python](#python)
@@ -57,6 +58,10 @@
 *   [AutoHotkey](#autohotkey)
 *   [Visual Basic .NET](#visual-basic-net)
 
+## Smalltalk
+
+*   [codefrau/jasmine](https://github.com/codefrau/jasmine) - Croquet Jasmine (2004) on SqueakJS (WIP)
+
 ## Rust
 
 *   [raydium-io/raydium-clmm](https://github.com/raydium-io/raydium-clmm) - Open-Source Concentrated Liquidity Market Maker
@@ -79,7 +84,7 @@
 *   [rpcpool/yellowstone-vixen](https://github.com/rpcpool/yellowstone-vixen) -
 *   [awslabs/distill-cli](https://github.com/awslabs/distill-cli) -
 *   [orhun/rustypaste](https://github.com/orhun/rustypaste) - A minimal file upload/pastebin service.
-*   [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
+*   [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
 *   [Anthias-Labs/flare](https://github.com/Anthias-Labs/flare) - Solstice Flare - CLI Tool for interacting with Solana
 *   [fire-scale/pregrind.sol](https://github.com/fire-scale/pregrind.sol) - We grind Solana keys for you so you don't have to wait.
 *   [tonyke-bot/ore-miner](https://github.com/tonyke-bot/ore-miner) - ORE Miner built on top of Jito bundle with both CPU and GPU support.
@@ -274,7 +279,7 @@
 *   [mizchi/discord-claude-bot](https://github.com/mizchi/discord-claude-bot) -
 *   [cryptoloutre/solana-tools](https://github.com/cryptoloutre/solana-tools) - A bunch of tools to help people in the Solana ecosystem. This website includes an UI to burn Solana NFTs and an UI to create SPL-Tokens. More tools are scheduled...
 *   [LegendApp/legend-state](https://github.com/LegendApp/legend-state) - Legend-State is a super fast and powerful state library that enables fine-grained reactivity and easy automatic persistence
-*   [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - A framework for building custom AI Copilots 🤖 in-app AI chatbots, in-app AI Agents, & AI-powered Textareas.
+*   [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - Frontend & infra for AI agents, chatbots & textareas that interact with your web-app 🪁
 *   [advanced-cropper/react-advanced-cropper](https://github.com/advanced-cropper/react-advanced-cropper) - The react cropper library that embraces power of the advanced cropper core to give the possibility to create croppers that exactly suited for your website design
 *   [auth70/paseto-ts](https://github.com/auth70/paseto-ts) - PASETO v4 (encrypt, decrypt, sign & verify) in TypeScript
 *   [cyberconnecthq/cyberconnect-v2](https://github.com/cyberconnecthq/cyberconnect-v2) - CyberConnect official v2 SDK
@@ -1209,7 +1214,7 @@
 *   [timschneeb/awesome-shizuku](https://github.com/timschneeb/awesome-shizuku) - Curated list of awesome Android apps making use of Shizuku
 *   [kyrolabs/awesome-langchain](https://github.com/kyrolabs/awesome-langchain) - 😎 Awesome list of tools and projects with the awesome LangChain framework
 *   [spacebarchat/spacebarchat](https://github.com/spacebarchat/spacebarchat) - 📬 Spacebar is a free open source selfhostable discord compatible communication platform
-*   [elder-plinius/L1B3RT45](https://github.com/elder-plinius/L1B3RT45) - JAILBREAK PROMPTS FOR ALL MAJOR AI MODELS
+*   [elder-plinius/L1B3RT45](https://github.com/elder-plinius/L1B3RT45) - JAILBREAK PROMPTS FOR LIBERATING AI MODELS
 *   [738/awesome-url-shortener](https://github.com/738/awesome-url-shortener) - 🔗 A curated list of awesome url shortener
 *   [pathwaycom/llm-app](https://github.com/pathwaycom/llm-app) - Dynamic RAG for enterprise. Ready to run with Docker,⚡in sync with Sharepoint, Google Drive, S3, Kafka, PostgreSQL, real-time data APIs, and more.
 *   [relink2013/Awesome-Self-hosting-for-the-whole-family](https://github.com/relink2013/Awesome-Self-hosting-for-the-whole-family) - An Awesome List of apps that can be self hosted that your family can actually use without frustration.
@@ -1609,7 +1614,6 @@
 *   [sudheerj/reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions) - List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!
 *   [claudioc/jingo](https://github.com/claudioc/jingo) - Node.js based Wiki
 *   [not-an-aardvark/snoowrap](https://github.com/not-an-aardvark/snoowrap) - A JavaScript wrapper for the reddit API
-*   [vladikoff/chromeos-apk](https://github.com/vladikoff/chromeos-apk) - ☢️  Run Android Apps in Chrome OS OR Chrome in OS X, Linux and Windows.
 
 ## PLpgSQL
 
