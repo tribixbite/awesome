@@ -152,7 +152,7 @@
 *   [honkit/honkit](https://github.com/honkit/honkit) - :book: HonKit is building beautiful books using Markdown - Fork of GitBook
 *   [getappmap/vscode-appland](https://github.com/getappmap/vscode-appland) - AppLand extension for VSCode
 *   [web3index/web3index-org](https://github.com/web3index/web3index-org) -
-*   [run-llama/LlamaIndexTS](https://github.com/run-llama/LlamaIndexTS) - LlamaIndex in TypeScript
+*   [run-llama/LlamaIndexTS](https://github.com/run-llama/LlamaIndexTS) - Data framework for your LLM applications. Focus on server side solution
 *   [orca-so/whirlpools](https://github.com/orca-so/whirlpools) - Open source concentrated liquidity AMM contract on Solana
 *   [suchipi/suchibot](https://github.com/suchipi/suchibot) - A cross-platform AutoHotKey-like thing with TypeScript as its scripting language
 *   [dillionverma/llm.report](https://github.com/dillionverma/llm.report) - 📊 llm.report is an open-source logging and analytics platform for OpenAI: Log your ChatGPT API requests, analyze costs, and improve your prompts.
@@ -199,7 +199,6 @@
 *   [moinulmoin/chadnext](https://github.com/moinulmoin/chadnext) - ChadNext - Quick Starter Template for your Next project includes Next.js 14 App router, Shadcn UI, LuciaAuth, Prisma, Server Actions, Stripe, Internationalization and more.
 *   [TheEdoRan/next-safe-action](https://github.com/TheEdoRan/next-safe-action) - Type safe and validated Server Actions in your Next.js project.
 *   [ciscoheat/sveltekit-superforms](https://github.com/ciscoheat/sveltekit-superforms) - Making SvelteKit forms a pleasure to use!
-*   [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - The open source Tines / Splunk SOAR alternative.
 *   [duplojs/zod-accelerator](https://github.com/duplojs/zod-accelerator) -
 *   [prisma/prisma-examples](https://github.com/prisma/prisma-examples) -  🚀 Ready-to-run Prisma example projects
 *   [telegraf/telegraf](https://github.com/telegraf/telegraf) - Modern Telegram Bot Framework for Node.js
@@ -1451,7 +1450,7 @@
 *   [F33RNI/GPT-Telegramus](https://github.com/F33RNI/GPT-Telegramus) - 💜 The best free Telegram bot for ChatGPT, Microsoft Copilot (aka Bing AI / Sidney / EdgeGPT), Microsoft Copilot Designer (aka BingImageCreator), Gemini and Groq with stream writing, requests with images, multiple languages, admin control, data logging and more!
 *   [OpenInterpreter/open-interpreter](https://github.com/OpenInterpreter/open-interpreter) - A natural language interface for computers
 *   [cheshire-cat-ai/core](https://github.com/cheshire-cat-ai/core) - Production ready AI agent framework
-*   [julep-ai/julep](https://github.com/julep-ai/julep) - DSL and orchestrator for AI agents and multi-step tasks
+*   [julep-ai/julep](https://github.com/julep-ai/julep) - A new DSL and server for AI agents and multi-step tasks
 *   [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio equip's your AI agents & LLMs with 100+ high-quality integrations via function calling
 *   [otter-sec/bn-ebpf-solana](https://github.com/otter-sec/bn-ebpf-solana) - Binary Ninja plugin for Solana eBPF
 *   [mev-fyi/rag](https://github.com/mev-fyi/rag) - me.fyi python backend with core LLM and RAG logic, flask API, Twitter bot
@@ -1505,6 +1504,7 @@
 *   [huggingface/autotrain-advanced](https://github.com/huggingface/autotrain-advanced) - 🤗 AutoTrain Advanced
 *   [zhangzhejian/codeinterpreter-codebox](https://github.com/zhangzhejian/codeinterpreter-codebox) - Easy to deploy.A cloud service for python code interpreter sandbox for Code-Interpreter.
 *   [llm-platform-security/SecGPT](https://github.com/llm-platform-security/SecGPT) - SecGPT: An execution isolation architecture for LLM-based systems
+*   [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - The open source Tines / Splunk SOAR alternative.
 *   [truefoundry/cognita](https://github.com/truefoundry/cognita) - RAG (Retrieval Augmented Generation) Framework for building modular, open source applications for production by TrueFoundry
 *   [Chainlit/chainlit](https://github.com/Chainlit/chainlit) - Build Conversational AI in minutes ⚡️
 *   [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache) - Semantic cache for LLMs. Fully integrated with LangChain and llama\_index.
@@ -1679,7 +1679,7 @@
 *   [sbidy/pywizlight](https://github.com/sbidy/pywizlight) - A python connector for WiZ devices
 *   [thp/urlwatch](https://github.com/thp/urlwatch) - Watch (parts of) webpages and get notified when something changes via e-mail, on your phone or via other means. Highly configurable.
 *   [watir/nerodia](https://github.com/watir/nerodia) - Python implementation of Watir
-*   [KilledMufasa/AmputatorBot](https://github.com/KilledMufasa/AmputatorBot) - Remove AMP from your URLs. AmputatorBot is a highly specialised Reddit and Twitter bot that automatically replies to comments, submissions and tweets containing AMP URLs with the canonical link(s). It's also available as a website and REST API. See also: https://www.reddit.com/r/AmputatorBot/comments/ehrq3z/why\_did\_i\_build\_amputatorbot/.
+*   [jvdburgh/AmputatorBot](https://github.com/jvdburgh/AmputatorBot) - Remove AMP from your URLs. AmputatorBot is a highly specialised Reddit and Twitter bot that automatically replies to comments, submissions and tweets containing AMP URLs with the canonical link(s). It's also available as a website and REST API. See also: https://www.reddit.com/r/AmputatorBot/comments/ehrq3z/why\_did\_i\_build\_amputatorbot/.
 *   [pushshift/api](https://github.com/pushshift/api) - Pushshift API
 *   [tribixbite/BrokenRecordBot](https://github.com/tribixbite/BrokenRecordBot) - reddit copypasta bot for subreddit wiki text
 *   [janick/ArloDownload](https://github.com/janick/ArloDownload) - Automatically download new video recordings from Arlo
