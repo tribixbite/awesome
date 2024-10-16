@@ -96,7 +96,7 @@
 *   [fire-scale/pregrind.sol](https://github.com/fire-scale/pregrind.sol) - We grind Solana keys for you so you don't have to wait.
 *   [tonyke-bot/ore-miner](https://github.com/tonyke-bot/ore-miner) - ORE Miner built on top of Jito bundle with both CPU and GPU support.
 *   [regolith-labs/ore-cli](https://github.com/regolith-labs/ore-cli) - Command line interface for ORE miners.
-*   [regolith-labs/ore](https://github.com/regolith-labs/ore) - ORE is a proof-of-work token everyone can mine.
+*   [regolith-labs/ore](https://github.com/regolith-labs/ore) - ORE is a cryptocurrency everyone can mine.
 *   [railwayapp/nixpacks](https://github.com/railwayapp/nixpacks) - App source + Nix packages + Docker = Image
 *   [lancedb/lancedb](https://github.com/lancedb/lancedb) - Developer-friendly, serverless vector database for AI applications. Easily add long-term memory to your LLM apps!
 *   [dimensionhq/volt](https://github.com/dimensionhq/volt) - An experimental package management tool for JavaScript. Upto 30x faster installation of dependencies using pre-flattened dependency trees.
@@ -142,7 +142,7 @@
 *   [TeamRaccoons/sherlock-wallet](https://github.com/TeamRaccoons/sherlock-wallet) - Use any public key wallet to try a dApp and inspect signTransaction calls
 *   [TeamRaccoons/Unified-Wallet-Kit](https://github.com/TeamRaccoons/Unified-Wallet-Kit) - Unified Wallet Kit is an open-sourced, Swiss Army Knife wallet adapter, striving for the best wallet integration experience for developers, and best wallet experience for your users.
 *   [solflare-wallet/utl-sdk](https://github.com/solflare-wallet/utl-sdk) -
-*   [pindaroso/solana-zk-starter](https://github.com/pindaroso/solana-zk-starter) - This project is a starter for building and deploying Solana ZK compression apps using Light Protocol and Helius Photon.
+*   [pindaroso/solana-zk-starter](https://github.com/pindaroso/solana-zk-starter) - This project is a starter template for building, experimenting and deploying Solana ZK compression apps using Light Protocol and Helius Photon.
 *   [fonoster/routr](https://github.com/fonoster/routr) - ⚡ The future of programmable SIP servers.
 *   [spacebarchat/server](https://github.com/spacebarchat/server) - Spacebar server - A reimplementation of the Discord.com backend, built with Typescript and love
 *   [jup-ag/solana-wallets-universal](https://github.com/jup-ag/solana-wallets-universal) - universal wallet adapter for solana dapps
