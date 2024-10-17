@@ -176,7 +176,7 @@
 *   [TeamRaccoons/sherlock-wallet](https://github.com/TeamRaccoons/sherlock-wallet) - Use any public key wallet to try a dApp and inspect signTransaction calls
 *   [TeamRaccoons/Unified-Wallet-Kit](https://github.com/TeamRaccoons/Unified-Wallet-Kit) - Unified Wallet Kit is an open-sourced, Swiss Army Knife wallet adapter, striving for the best wallet integration experience for developers, and best wallet experience for your users.
 *   [solflare-wallet/utl-sdk](https://github.com/solflare-wallet/utl-sdk) -
-*   [pindaroso/solana-zk-starter](https://github.com/pindaroso/solana-zk-starter) - This project is a starter template for building, experimenting and deploying Solana ZK compression apps using Light Protocol and Helius Photon.
+*   [pindaroso/solana-zk-starter](https://github.com/pindaroso/solana-zk-starter) - This project is a create-react-dapp template for building, testing and deploying Solana ZK compression apps using Light Protocol and Helius Photon.
 *   [fonoster/routr](https://github.com/fonoster/routr) - ⚡ The future of programmable SIP servers.
 *   [spacebarchat/server](https://github.com/spacebarchat/server) - Spacebar server - A reimplementation of the Discord.com backend, built with Typescript and love
 *   [jup-ag/solana-wallets-universal](https://github.com/jup-ag/solana-wallets-universal) - universal wallet adapter for solana dapps
@@ -1997,7 +1997,7 @@
 
 ## SCSS
 
-*   [primer/css](https://github.com/primer/css) - The CSS design system that powers GitHub
+*   [primer/css](https://github.com/primer/css) - Primer is GitHub's design system. This is the CSS implementation
 *   [jcphlux/swagger-ui-themes](https://github.com/jcphlux/swagger-ui-themes) - Themes for swagger-ui
 *   [slatedocs/slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
 *   [just-the-docs/just-the-docs](https://github.com/just-the-docs/just-the-docs) - A modern, high customizable, responsive Jekyll theme for documentation with built-in search.
