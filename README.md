@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+*   [Lua](#lua)
 *   [TypeScript](#typescript)
 *   [Python](#python)
 *   [Rust](#rust)
@@ -22,7 +23,6 @@
 *   [Shell](#shell)
 *   [Kotlin](#kotlin)
 *   [Jupyter Notebook](#jupyter-notebook)
-*   [Lua](#lua)
 *   [Batchfile](#batchfile)
 *   [C](#c-1)
 *   [PowerShell](#powershell)
@@ -59,8 +59,17 @@
 *   [Visual Basic .NET](#visual-basic-net)
 *   [R](#r)
 
+## Lua
+
+*   [koreader/koreader](https://github.com/koreader/koreader) - An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices
+*   [yetone/avante.nvim](https://github.com/yetone/avante.nvim) - Use your Neovim like using Cursor AI IDE!
+*   [Kong/kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native API Gateway and AI Gateway.
+*   [ArchiveTeam/reddit-grab](https://github.com/ArchiveTeam/reddit-grab) - Grabbing everything from reddit.
+*   [Jaliborc/Bagnon](https://github.com/Jaliborc/Bagnon) - Single window displays for you items
+
 ## TypeScript
 
+*   [MoonshineLabs-io/opos-geomine-web](https://github.com/MoonshineLabs-io/opos-geomine-web) -
 *   [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - JavaScript API for Chrome and Firefox
 *   [solana-developers/program-examples](https://github.com/solana-developers/program-examples) - A repository of Solana program examples
 *   [val-town/deno-ata](https://github.com/val-town/deno-ata) - support for type acquisition with url imports, npm, jsr prefixes
@@ -281,7 +290,7 @@
 *   [solana-labs/solana-web3.js](https://github.com/solana-labs/solana-web3.js) - Solana JavaScript SDK
 *   [cloud-carbon-footprint/cloud-carbon-footprint](https://github.com/cloud-carbon-footprint/cloud-carbon-footprint) - Cloud Carbon Footprint is a tool to estimate energy use (kilowatt-hours) and carbon emissions (metric tons CO2e) from public cloud usage
 *   [LIT-Protocol/js-sdk](https://github.com/LIT-Protocol/js-sdk) - The Lit Protocol SDK provides developers with a framework for implementing Lit functionality into their own applications.
-*   [scalar/scalar](https://github.com/scalar/scalar) - Scalar is an open-source platform with:　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　🌐 Modern Rest API Client　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　📖 Beautiful API References　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　✨ 1st-Class OpenAPI/Swagger Support
+*   [scalar/scalar](https://github.com/scalar/scalar) - Scalar is an open-source API platform:　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　🌐 Modern Rest API Client　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　📖 Beautiful API References　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　✨ 1st-Class OpenAPI/Swagger Support
 *   [markdoc/markdoc](https://github.com/markdoc/markdoc) - A powerful, flexible, Markdown-based authoring framework.
 *   [epistemichorse/poll.blue](https://github.com/epistemichorse/poll.blue) -
 *   [WilfredAlmeida/capi](https://github.com/WilfredAlmeida/capi) - Solana cNFT API as a Service
@@ -1142,8 +1151,6 @@
 *   [sbidy/pywizlight](https://github.com/sbidy/pywizlight) - A python connector for WiZ devices
 *   [thp/urlwatch](https://github.com/thp/urlwatch) - Watch (parts of) webpages and get notified when something changes via e-mail, on your phone or via other means. Highly configurable.
 *   [watir/nerodia](https://github.com/watir/nerodia) - Python implementation of Watir
-*   [jvdburgh/AmputatorBot](https://github.com/jvdburgh/AmputatorBot) - Remove AMP from your URLs. AmputatorBot is a highly specialised Reddit and Twitter bot that automatically replies to comments, submissions and tweets containing AMP URLs with the canonical link(s). It's also available as a website and REST API. See also: https://www.reddit.com/r/AmputatorBot/comments/ehrq3z/why\_did\_i\_build\_amputatorbot/.
-*   [pushshift/api](https://github.com/pushshift/api) - Pushshift API
 
 ## Rust
 
@@ -1179,10 +1186,10 @@
 *   [awslabs/distill-cli](https://github.com/awslabs/distill-cli) -
 *   [orhun/rustypaste](https://github.com/orhun/rustypaste) - A minimal file upload/pastebin service.
 *   [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
-*   [Anthias-Labs/flare](https://github.com/Anthias-Labs/flare) - Solstice Flare - CLI Tool for interacting with Solana
+*   [anthias-labs/flare](https://github.com/anthias-labs/flare) - Flare is a CLI tool for interacting with Solana.
 *   [fire-scale/pregrind.sol](https://github.com/fire-scale/pregrind.sol) - We grind Solana keys for you so you don't have to wait.
 *   [tonyke-bot/ore-miner](https://github.com/tonyke-bot/ore-miner) - ORE Miner built on top of Jito bundle with both CPU and GPU support.
-*   [regolith-labs/ore-cli](https://github.com/regolith-labs/ore-cli) - Command line interface for ORE miners.
+*   [regolith-labs/ore-cli](https://github.com/regolith-labs/ore-cli) - Command line interface for ORE cryptocurrency mining.
 *   [regolith-labs/ore](https://github.com/regolith-labs/ore) - ORE is a cryptocurrency everyone can mine.
 *   [railwayapp/nixpacks](https://github.com/railwayapp/nixpacks) - App source + Nix packages + Docker = Image
 *   [lancedb/lancedb](https://github.com/lancedb/lancedb) - Developer-friendly, serverless vector database for AI applications. Easily add long-term memory to your LLM apps!
@@ -1866,13 +1873,6 @@
 *   [benyaminahmed/nft-image-generator](https://github.com/benyaminahmed/nft-image-generator) -
 *   [PacktPublishing/Machine-Learning-for-Algorithmic-Trading-Second-Edition\_Original](https://github.com/PacktPublishing/Machine-Learning-for-Algorithmic-Trading-Second-Edition_Original) - Machine Learning for Algorithmic Trading, Second Edition - published by Packt
 *   [dapperfu/python\_Meijer](https://github.com/dapperfu/python_Meijer) - Reverse engineered API for Meijer's Shopping List.
-
-## Lua
-
-*   [yetone/avante.nvim](https://github.com/yetone/avante.nvim) - Use your Neovim like using Cursor AI IDE!
-*   [Kong/kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native API Gateway and AI Gateway.
-*   [ArchiveTeam/reddit-grab](https://github.com/ArchiveTeam/reddit-grab) - Grabbing everything from reddit.
-*   [Jaliborc/Bagnon](https://github.com/Jaliborc/Bagnon) - Single window displays for you items
 
 ## Batchfile
 
