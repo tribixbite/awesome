@@ -262,7 +262,7 @@
 *   [moinulmoin/chadnext](https://github.com/moinulmoin/chadnext) - ChadNext - Quick Starter Template for your Next project includes Next.js 14 App router, Shadcn UI, LuciaAuth, Prisma, Server Actions, Stripe, Internationalization and more.
 *   [TheEdoRan/next-safe-action](https://github.com/TheEdoRan/next-safe-action) - Type safe and validated Server Actions in your Next.js project.
 *   [ciscoheat/sveltekit-superforms](https://github.com/ciscoheat/sveltekit-superforms) - Making SvelteKit forms a pleasure to use!
-*   [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - The open source Tines / Splunk SOAR alternative.
+*   [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - The open source Tines / Splunk SOAR alternative for security engineers.
 *   [duplojs/zod-accelerator](https://github.com/duplojs/zod-accelerator) -
 *   [prisma/prisma-examples](https://github.com/prisma/prisma-examples) -  🚀 Ready-to-run Prisma example projects
 *   [telegraf/telegraf](https://github.com/telegraf/telegraf) - Modern Telegram Bot Framework for Node.js
@@ -676,7 +676,7 @@
 *   [Crossmint/twitter-mint-bot](https://github.com/Crossmint/twitter-mint-bot) -
 *   [Crossmint/next-candy-machine-react-ui](https://github.com/Crossmint/next-candy-machine-react-ui) -
 *   [gregberge/svgr](https://github.com/gregberge/svgr) - Transform SVGs into React components 🦁
-*   [santospatrick/nextjs-boilerplate-advanced](https://github.com/santospatrick/nextjs-boilerplate-advanced) - Next.js boilerplate made with Chakra-UI + Typescript + React-table + React-hook-form
+*   [santospatrick/nextjs-boilerplate-advanced](https://github.com/santospatrick/nextjs-boilerplate-advanced) - 💅 Next.js boilerplate made with Chakra-UI + Typescript + React-table + React-hook-form
 *   [NoQuarterTeam/boilerplate-graphql](https://github.com/NoQuarterTeam/boilerplate-graphql) - ⚡️Fullstack boilerplate using Typescript, React, Node & GraphQL
 *   [saas-js/saas-ui](https://github.com/saas-js/saas-ui) - The React component library for startups, built with Chakra UI.
 *   [anubra266/choc-autocomplete](https://github.com/anubra266/choc-autocomplete) - 🏇 Autocomplete Component Package for Chakra UI
