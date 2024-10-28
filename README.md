@@ -146,7 +146,7 @@
 *   [metaplex-foundation/mpl-core-ui](https://github.com/metaplex-foundation/mpl-core-ui) -
 *   [metaplex-foundation/mpl-core-staking-example](https://github.com/metaplex-foundation/mpl-core-staking-example) - Staking Example using On-chain Attributes for Core Assets
 *   [voideditor/void](https://github.com/voideditor/void) -
-*   [cline/cline](https://github.com/cline/cline) - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, and more with your permission every step of the way.
+*   [cline/cline](https://github.com/cline/cline) - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.
 *   [PlayForm/Format](https://github.com/PlayForm/Format) - 🗻 Format —
 *   [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Secure open source cloud runtime for AI apps & AI agents
 *   [wandb/openui](https://github.com/wandb/openui) - OpenUI let's you describe UI using your imagination, then see it rendered live.
