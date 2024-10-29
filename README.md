@@ -4,12 +4,13 @@
 
 ## Table of Contents
 
+*   [Shell](#shell)
+*   [HTML](#html)
+*   [TypeScript](#typescript)
 *   [Svelte](#svelte)
 *   [Jupyter Notebook](#jupyter-notebook)
-*   [TypeScript](#typescript)
 *   [Python](#python)
 *   [JavaScript](#javascript)
-*   [Shell](#shell)
 *   [miscellaneous](#miscellaneous)
 *   [Rust](#rust)
 *   [Go](#go)
@@ -23,7 +24,6 @@
 *   [Cuda](#cuda)
 *   [Smalltalk](#smalltalk)
 *   [Astro](#astro)
-*   [HTML](#html)
 *   [Batchfile](#batchfile)
 *   [C](#c-2)
 *   [PowerShell](#powershell)
@@ -61,48 +61,63 @@
 *   [Arduino](#arduino)
 *   [G-code](#g-code)
 
-## Svelte
+## Shell
 
-*   [Vontigo/Vontigo](https://github.com/Vontigo/Vontigo) - 🛸 Vontigo is an open-source CMS built with SvelteKit, featuring 🤖 AI-powered (ChatGPT) content generation. With fast page loads and seamless routing, Vontigo offers a user-friendly interface with customizable themes and templates.
-*   [aztemi/svelte-on-solana-wallet-adapter](https://github.com/aztemi/svelte-on-solana-wallet-adapter) - Svelte wallet adapter for Solana Dapps
-*   [Bewinxed/wallet-adapter-svelte-ui](https://github.com/Bewinxed/wallet-adapter-svelte-ui) - Solana UI Components for Svelte 5
-*   [ArthurHeitmann/arctic\_shift\_ui](https://github.com/ArthurHeitmann/arctic_shift_ui) - Web UI for searching and downloading archived Reddit data, from the Arctic Shift project
-*   [TZGyn/shortener](https://github.com/TZGyn/shortener) - Link shortener/redirects with analytics
-*   [CriticalMoments/CMSaasStarter](https://github.com/CriticalMoments/CMSaasStarter) - A modern SaaS template/boilerplate built with SvelteKit, Tailwind, and Supabase. Includes marketing page, blog, subscriptions, auth, user dashboard, user settings, pricing page, and more.
-*   [flo-bit/image2fake3d](https://github.com/flo-bit/image2fake3d) - show a fake 3d effect in the browser from an image with a depth map
-*   [inngest/typedwebhook.tools](https://github.com/inngest/typedwebhook.tools) - A webhook testing tool for checking payloads, with automatic type generation
-*   [helius-labs/xray](https://github.com/helius-labs/xray) - A human-readable Solana transaction explorer powered by Helius.
+*   [hackerb9/lsix](https://github.com/hackerb9/lsix) - Like "ls", but for images. Shows thumbnails in terminal using sixel graphics.
+*   [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
+*   [grondilu/bitcoin-bash-tools](https://github.com/grondilu/bitcoin-bash-tools) - Set of bitcoin-related bash functions
+*   [hcengineering/huly-selfhost](https://github.com/hcengineering/huly-selfhost) - Huly for Self Hosting
+*   [ArchiveTeam/IA.BAK](https://github.com/ArchiveTeam/IA.BAK) - We back up a lot of stuff from around the web; now it's time to back up the Internet Archive, just in case.
+*   [TermuxArch/TermuxArch](https://github.com/TermuxArch/TermuxArch) - Experience the pleasure of the Linux command prompt in Android, Chromebook, Fire OS and Windows on smartphone, smartTV, tablet and wearable https://termuxarch.github.io/TermuxArch/
+*   [AbdBarho/stable-diffusion-webui-docker](https://github.com/AbdBarho/stable-diffusion-webui-docker) - Easy Docker setup for Stable Diffusion with user-friendly UI
+*   [h4r5h1t/webcopilot](https://github.com/h4r5h1t/webcopilot) - An automation tool that enumerates subdomains then filters out xss, sqli, open redirect, lfi, ssrf and rce parameters and then scans for vulnerabilities.
+*   [foospidy/payloads](https://github.com/foospidy/payloads) - Git All the Payloads! A collection of web attack payloads.
+*   [many-passwords/many-passwords](https://github.com/many-passwords/many-passwords) - Default credentials list. 🐱‍💻 Leave a star if you like this project! (that motivates me)⭐️
+*   [wuxianlin/android\_rom\_tools](https://github.com/wuxianlin/android_rom_tools) - unpack/deodex/decompile tools for Android ROM
+*   [ax/apk.sh](https://github.com/ax/apk.sh) - apk.sh makes reverse engineering Android apps easier, automating some repetitive tasks like pulling, decoding, rebuilding and patching an APK.
+*   [labbots/google-drive-upload](https://github.com/labbots/google-drive-upload) - Bash scripts to upload files to google drive
+*   [CryptoManufaktur-io/solana-rpc](https://github.com/CryptoManufaktur-io/solana-rpc) - Solana RPC only node with traefik
+*   [d3/d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar\_chart::chart\_with\_upwards\_trend::tada:
+*   [TheFrenchGhosty/TheFrenchGhostys-Ultimate-YouTube-DL-Scripts-Collection](https://github.com/TheFrenchGhosty/TheFrenchGhostys-Ultimate-YouTube-DL-Scripts-Collection) - The ultimate collection of scripts for YouTube-DL.
+*   [DDRBoxman/GlassDateDisplay](https://github.com/DDRBoxman/GlassDateDisplay) - Display the current date on Google Glass
+*   [tribixbite/WPSetup](https://github.com/tribixbite/WPSetup) - Setup files for Ubuntu
 
-## Jupyter Notebook
+## HTML
 
-*   [oyvindln/vhs-decode](https://github.com/oyvindln/vhs-decode) - Software defined VHS decoder - Fork (maybe temporary) of the ld-decode Laserdisc rf decoder
-*   [soon-yau/visconet](https://github.com/soon-yau/visconet) - Official Repo of ViscoNet: Bridging and Harmonizing Visual and Textual Conditioning for ControlNet
-*   [wiseaidev/rust-web3-solana](https://github.com/wiseaidev/rust-web3-solana) -  Rust For Web3 and Solana Development Encyclopedia 🌐 (WIP)
-*   [aiplanethub/beyondllm](https://github.com/aiplanethub/beyondllm) - Build, evaluate and observe LLM apps
-*   [dylanhogg/llmgraph](https://github.com/dylanhogg/llmgraph) - Create knowledge graphs with LLMs
-*   [BaranziniLab/KG\_RAG](https://github.com/BaranziniLab/KG_RAG) - Empower Large Language Models (LLM) using Knowledge Graph based Retrieval-Augmented Generation (KG-RAG) for knowledge intensive tasks
-*   [neo4j-labs/llm-graph-builder](https://github.com/neo4j-labs/llm-graph-builder) - Neo4j graph construction from unstructured data using LLMs
-*   [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI 🤖
-*   [deepset-ai/haystack-cookbook](https://github.com/deepset-ai/haystack-cookbook) - 👩🏻‍🍳 A collection of example notebooks
-*   [anthropics/anthropic-cookbook](https://github.com/anthropics/anthropic-cookbook) - A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
-*   [mshumer/ai-journalist](https://github.com/mshumer/ai-journalist) -
-*   [Stability-AI/StableLM](https://github.com/Stability-AI/StableLM) - StableLM: Stability AI Language Models
-*   [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
-*   [qunash/stable-diffusion-2-gui](https://github.com/qunash/stable-diffusion-2-gui) - Lightweight Stable Diffusion v 2.1 web UI: txt2img, img2img, depth2img, inpaint and upscale4x.
-*   [cloneofsimo/paint-with-words-sd](https://github.com/cloneofsimo/paint-with-words-sd) - Implementation of Paint-with-words with Stable Diffusion : method from eDiff-I that let you generate image from text-labeled segmentation map.
-*   [WongKinYiu/yolov7](https://github.com/WongKinYiu/yolov7) - Implementation of paper - YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors
-*   [karpathy/nn-zero-to-hero](https://github.com/karpathy/nn-zero-to-hero) - Neural Networks: Zero to Hero
-*   [victordibia/peacasso](https://github.com/victordibia/peacasso) - UI interface for experimenting with multimodal (text, image) models (stable diffusion).
-*   [google-deepmind/deepmind-research](https://github.com/google-deepmind/deepmind-research) - This repository contains implementations and illustrative code to accompany DeepMind publications
-*   [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
-*   [alembics/disco-diffusion](https://github.com/alembics/disco-diffusion) -
-*   [RuolinZheng08/twewy-discord-chatbot](https://github.com/RuolinZheng08/twewy-discord-chatbot) - Discord AI Chatbot using DialoGPT, trained on the game transcript of The World Ends With You
-*   [benyaminahmed/nft-image-generator](https://github.com/benyaminahmed/nft-image-generator) -
-*   [PacktPublishing/Machine-Learning-for-Algorithmic-Trading-Second-Edition\_Original](https://github.com/PacktPublishing/Machine-Learning-for-Algorithmic-Trading-Second-Edition_Original) - Machine Learning for Algorithmic Trading, Second Edition - published by Packt
-*   [dapperfu/python\_Meijer](https://github.com/dapperfu/python_Meijer) - Reverse engineered API for Meijer's Shopping List.
+*   [Azathothas/Termux-Packages](https://github.com/Azathothas/Termux-Packages) - Markdown List (Table), JSON & YAML of all the officially Available Packages in the Termux Registry :: https://termux-packages.ajam.dev
+*   [vitalets/github-trending-repos](https://github.com/vitalets/github-trending-repos) - Track GitHub trending repositories in your favorite programming language by native GitHub notifications!
+*   [ImranR98/apps.obtainium.imranr.dev](https://github.com/ImranR98/apps.obtainium.imranr.dev) - Collection of suggested apps for Obtainium.
+*   [run-llama/create\_llama\_projects](https://github.com/run-llama/create_llama_projects) -
+*   [thedevdojo/pines](https://github.com/thedevdojo/pines) - The Pines UI library
+*   [LangbaseInc/langui](https://github.com/LangbaseInc/langui) - UI for your AI. Open Source Tailwind components tailored for your GPT, generative AI, and LLM projects.
+*   [htmlstreamofficial/preline](https://github.com/htmlstreamofficial/preline) - Preline UI is an open-source set of prebuilt UI components based on the utility-first Tailwind CSS framework.
+*   [iv-org/invidious.io](https://github.com/iv-org/invidious.io) - The Invidious.io website
+*   [Lomusire/FreeGPT-4](https://github.com/Lomusire/FreeGPT-4) - FreeGPT-4 is an AI Assistant Discord Bot providing Unlimited access to popular AI models like ChatGPT, GPT-4, Sage, and Claude. Enjoy engaging AI-driven conversations in Discord using simple commands. Join our server or invite the bot to yours for a unique AI experience, all for free!
+*   [2501babe/2501babe.github.io](https://github.com/2501babe/2501babe.github.io) - personal site
+*   [MiyakoYakota/search.0t.rocks](https://github.com/MiyakoYakota/search.0t.rocks) -
+*   [bartlomiejzuber/use-open-window](https://github.com/bartlomiejzuber/use-open-window) - React hook to open links in separate windows ✔️
+*   [N3evin/AmiiboAPI](https://github.com/N3evin/AmiiboAPI) - A RESTful API for amiibo.
+*   [kosyachniy/dev](https://github.com/kosyachniy/dev) - Development tools
+*   [lilnasy/scribblyscrobbly](https://github.com/lilnasy/scribblyscrobbly) - a web page to tidy up apple music and spotify streaming history for last.fm
+*   [FineFindus/artem](https://github.com/FineFindus/artem) - Convert images from multiple formats (jpg, png, webp, etc…) to ASCII art, written in Rust
+*   [littleark/githut](https://github.com/littleark/githut) - Visualization of data from github archive.
+*   [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
+*   [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot) - An advanced discord music bot, supports Spotify, Soundcloud, YouTube with Shuffling, Volume Control and Web Dashboard with Slash Commands support!
+*   [Clueless-Community/seamless-ui](https://github.com/Clueless-Community/seamless-ui) - The next gen UI made with simple HTML and Tailwind CSS. It's compatible with simple HTML, CSS static website or a React, Vue, Angular or Next.js Complex app. Zero JS and no-plugins installed.
+*   [ehxu/termius-cracked](https://github.com/ehxu/termius-cracked) - Terminus Cracked Version
+*   [anubra266/chakra-play](https://github.com/anubra266/chakra-play) - 🤽‍♀️ An advanced online playground for Chakra UI
+*   [MyMiniFactory/stl2gltf](https://github.com/MyMiniFactory/stl2gltf) - Convert STL to glb
+*   [carbon-design-system/carbon-charts](https://github.com/carbon-design-system/carbon-charts) - :bar\_chart: :chart\_with\_upwards\_trend:⠀Robust dataviz framework implemented using D3 & typescript
+*   [TanStack/react-charts](https://github.com/TanStack/react-charts) - ⚛️ Simple, immersive & interactive charts for React
+*   [trickytibo/next\_solana\_nft2mint](https://github.com/trickytibo/next_solana_nft2mint) - A package to easily find the next hyped solana nft to mint.
+*   [vasturiano/3d-force-graph](https://github.com/vasturiano/3d-force-graph) - 3D force-directed graph component using ThreeJS/WebGL
+*   [themesberg/flowbite](https://github.com/themesberg/flowbite) - Open-source UI component library and front-end development framework based on Tailwind CSS
+*   [jglovier/gifs](https://github.com/jglovier/gifs) - :joy: :camera: :sparkler: Storage place for all mah gifs.
+*   [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
 
 ## TypeScript
 
+*   [kadumedim/bun-hono](https://github.com/kadumedim/bun-hono) -
 *   [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
 *   [corbt/agent.exe](https://github.com/corbt/agent.exe) -
 *   [transitive-bullshit/openai-realtime-api](https://github.com/transitive-bullshit/openai-realtime-api) - TypeScript client for OpenAI's realtime voice API.
@@ -934,6 +949,46 @@
 *   [luludotdev/beatsaver-reloaded](https://github.com/luludotdev/beatsaver-reloaded) - BeatSaver Again
 *   [DominicMaas/TimelineExtension](https://github.com/DominicMaas/TimelineExtension) - Windows Timeline & Project Rome Web Extension
 
+## Svelte
+
+*   [Vontigo/Vontigo](https://github.com/Vontigo/Vontigo) - 🛸 Vontigo is an open-source CMS built with SvelteKit, featuring 🤖 AI-powered (ChatGPT) content generation. With fast page loads and seamless routing, Vontigo offers a user-friendly interface with customizable themes and templates.
+*   [aztemi/svelte-on-solana-wallet-adapter](https://github.com/aztemi/svelte-on-solana-wallet-adapter) - Svelte wallet adapter for Solana Dapps
+*   [Bewinxed/wallet-adapter-svelte-ui](https://github.com/Bewinxed/wallet-adapter-svelte-ui) - Solana UI Components for Svelte 5
+*   [ArthurHeitmann/arctic\_shift\_ui](https://github.com/ArthurHeitmann/arctic_shift_ui) - Web UI for searching and downloading archived Reddit data, from the Arctic Shift project
+*   [TZGyn/shortener](https://github.com/TZGyn/shortener) - Link shortener/redirects with analytics
+*   [CriticalMoments/CMSaasStarter](https://github.com/CriticalMoments/CMSaasStarter) - A modern SaaS template/boilerplate built with SvelteKit, Tailwind, and Supabase. Includes marketing page, blog, subscriptions, auth, user dashboard, user settings, pricing page, and more.
+*   [flo-bit/image2fake3d](https://github.com/flo-bit/image2fake3d) - show a fake 3d effect in the browser from an image with a depth map
+*   [inngest/typedwebhook.tools](https://github.com/inngest/typedwebhook.tools) - A webhook testing tool for checking payloads, with automatic type generation
+*   [helius-labs/xray](https://github.com/helius-labs/xray) - A human-readable Solana transaction explorer powered by Helius.
+
+## Jupyter Notebook
+
+*   [oyvindln/vhs-decode](https://github.com/oyvindln/vhs-decode) - Software defined VHS decoder - Fork (maybe temporary) of the ld-decode Laserdisc rf decoder
+*   [soon-yau/visconet](https://github.com/soon-yau/visconet) - Official Repo of ViscoNet: Bridging and Harmonizing Visual and Textual Conditioning for ControlNet
+*   [wiseaidev/rust-web3-solana](https://github.com/wiseaidev/rust-web3-solana) -  Rust For Web3 and Solana Development Encyclopedia 🌐 (WIP)
+*   [aiplanethub/beyondllm](https://github.com/aiplanethub/beyondllm) - Build, evaluate and observe LLM apps
+*   [dylanhogg/llmgraph](https://github.com/dylanhogg/llmgraph) - Create knowledge graphs with LLMs
+*   [BaranziniLab/KG\_RAG](https://github.com/BaranziniLab/KG_RAG) - Empower Large Language Models (LLM) using Knowledge Graph based Retrieval-Augmented Generation (KG-RAG) for knowledge intensive tasks
+*   [neo4j-labs/llm-graph-builder](https://github.com/neo4j-labs/llm-graph-builder) - Neo4j graph construction from unstructured data using LLMs
+*   [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI 🤖
+*   [deepset-ai/haystack-cookbook](https://github.com/deepset-ai/haystack-cookbook) - 👩🏻‍🍳 A collection of example notebooks
+*   [anthropics/anthropic-cookbook](https://github.com/anthropics/anthropic-cookbook) - A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
+*   [mshumer/ai-journalist](https://github.com/mshumer/ai-journalist) -
+*   [Stability-AI/StableLM](https://github.com/Stability-AI/StableLM) - StableLM: Stability AI Language Models
+*   [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
+*   [qunash/stable-diffusion-2-gui](https://github.com/qunash/stable-diffusion-2-gui) - Lightweight Stable Diffusion v 2.1 web UI: txt2img, img2img, depth2img, inpaint and upscale4x.
+*   [cloneofsimo/paint-with-words-sd](https://github.com/cloneofsimo/paint-with-words-sd) - Implementation of Paint-with-words with Stable Diffusion : method from eDiff-I that let you generate image from text-labeled segmentation map.
+*   [WongKinYiu/yolov7](https://github.com/WongKinYiu/yolov7) - Implementation of paper - YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors
+*   [karpathy/nn-zero-to-hero](https://github.com/karpathy/nn-zero-to-hero) - Neural Networks: Zero to Hero
+*   [victordibia/peacasso](https://github.com/victordibia/peacasso) - UI interface for experimenting with multimodal (text, image) models (stable diffusion).
+*   [google-deepmind/deepmind-research](https://github.com/google-deepmind/deepmind-research) - This repository contains implementations and illustrative code to accompany DeepMind publications
+*   [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
+*   [alembics/disco-diffusion](https://github.com/alembics/disco-diffusion) -
+*   [RuolinZheng08/twewy-discord-chatbot](https://github.com/RuolinZheng08/twewy-discord-chatbot) - Discord AI Chatbot using DialoGPT, trained on the game transcript of The World Ends With You
+*   [benyaminahmed/nft-image-generator](https://github.com/benyaminahmed/nft-image-generator) -
+*   [PacktPublishing/Machine-Learning-for-Algorithmic-Trading-Second-Edition\_Original](https://github.com/PacktPublishing/Machine-Learning-for-Algorithmic-Trading-Second-Edition_Original) - Machine Learning for Algorithmic Trading, Second Edition - published by Packt
+*   [dapperfu/python\_Meijer](https://github.com/dapperfu/python_Meijer) - Reverse engineered API for Meijer's Shopping List.
+
 ## Python
 
 *   [microsoft/binder](https://github.com/microsoft/binder) -
@@ -1219,7 +1274,6 @@
 *   [janick/ArloDownload](https://github.com/janick/ArloDownload) - Automatically download new video recordings from Arlo
 *   [tribixbite/WebPutty](https://github.com/tribixbite/WebPutty) -
 *   [tribixbite/gmvault](https://github.com/tribixbite/gmvault) - gmail backup software
-*   [glitchdotcom/WebPutty](https://github.com/glitchdotcom/WebPutty) - WebPutty is a simple CSS editing and hosting service that you can run on Google App Engine.
 
 ## JavaScript
 
@@ -1534,26 +1588,6 @@
 *   [tribixbite/meteor](https://github.com/tribixbite/meteor) - Meteor, an ultra-simple, database-everywhere, data-on-the-wire, pure-Javascript web framework.
 *   [tribixbite/Ghost.py](https://github.com/tribixbite/Ghost.py) - Webkit based scriptable web browser for python.
 
-## Shell
-
-*   [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
-*   [grondilu/bitcoin-bash-tools](https://github.com/grondilu/bitcoin-bash-tools) - Set of bitcoin-related bash functions
-*   [hcengineering/huly-selfhost](https://github.com/hcengineering/huly-selfhost) - Huly for Self Hosting
-*   [ArchiveTeam/IA.BAK](https://github.com/ArchiveTeam/IA.BAK) - We back up a lot of stuff from around the web; now it's time to back up the Internet Archive, just in case.
-*   [TermuxArch/TermuxArch](https://github.com/TermuxArch/TermuxArch) - Experience the pleasure of the Linux command prompt in Android, Chromebook, Fire OS and Windows on smartphone, smartTV, tablet and wearable https://termuxarch.github.io/TermuxArch/
-*   [AbdBarho/stable-diffusion-webui-docker](https://github.com/AbdBarho/stable-diffusion-webui-docker) - Easy Docker setup for Stable Diffusion with user-friendly UI
-*   [h4r5h1t/webcopilot](https://github.com/h4r5h1t/webcopilot) - An automation tool that enumerates subdomains then filters out xss, sqli, open redirect, lfi, ssrf and rce parameters and then scans for vulnerabilities.
-*   [foospidy/payloads](https://github.com/foospidy/payloads) - Git All the Payloads! A collection of web attack payloads.
-*   [many-passwords/many-passwords](https://github.com/many-passwords/many-passwords) - Default credentials list. 🐱‍💻 Leave a star if you like this project! (that motivates me)⭐️
-*   [wuxianlin/android\_rom\_tools](https://github.com/wuxianlin/android_rom_tools) - unpack/deodex/decompile tools for Android ROM
-*   [ax/apk.sh](https://github.com/ax/apk.sh) - apk.sh makes reverse engineering Android apps easier, automating some repetitive tasks like pulling, decoding, rebuilding and patching an APK.
-*   [labbots/google-drive-upload](https://github.com/labbots/google-drive-upload) - Bash scripts to upload files to google drive
-*   [CryptoManufaktur-io/solana-rpc](https://github.com/CryptoManufaktur-io/solana-rpc) - Solana RPC only node with traefik
-*   [d3/d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar\_chart::chart\_with\_upwards\_trend::tada:
-*   [TheFrenchGhosty/TheFrenchGhostys-Ultimate-YouTube-DL-Scripts-Collection](https://github.com/TheFrenchGhosty/TheFrenchGhostys-Ultimate-YouTube-DL-Scripts-Collection) - The ultimate collection of scripts for YouTube-DL.
-*   [DDRBoxman/GlassDateDisplay](https://github.com/DDRBoxman/GlassDateDisplay) - Display the current date on Google Glass
-*   [tribixbite/WPSetup](https://github.com/tribixbite/WPSetup) - Setup files for Ubuntu
-
 ## miscellaneous
 
 *   [rpcpool/solana-geyser-park](https://github.com/rpcpool/solana-geyser-park) - Unofficial list of Geyser plugins for Solana
@@ -1659,8 +1693,6 @@
 *   [aderusha/DDD-Printable-Wall-Control-System](https://github.com/aderusha/DDD-Printable-Wall-Control-System) - DDD Printable Wall Control System, 3d printable organization solutions for Wall Control pegboards
 *   [mdbootstrap/Black-Friday-2023](https://github.com/mdbootstrap/Black-Friday-2023) - Black Friday & Cyber Monday Deals (UI Kits WordPress Plugins, CRMs, SEO, Courses, Books) for web developers, programmers, and software engineers.
 *   [RitikPatni/Front-End-Web-Development-Resources](https://github.com/RitikPatni/Front-End-Web-Development-Resources) - This repository contains content which will be helpful in your journey as a front-end Web Developer
-*   [tribixbite/Settlers-game-pieces](https://github.com/tribixbite/Settlers-game-pieces) - 3D printable Settlers of Catan tiles
-*   [Intrinsically-Sublime/Settlers-game-pieces](https://github.com/Intrinsically-Sublime/Settlers-game-pieces) - 3D printable Settlers of Catan tiles
 
 ## Rust
 
@@ -1674,7 +1706,7 @@
 *   [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
 *   [zeromq/zmq.rs](https://github.com/zeromq/zmq.rs) - A native implementation of ØMQ in Rust
 *   [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden\_rs
-*   [Turbin3/poseidon](https://github.com/Turbin3/poseidon) -
+*   [Turbin3/poseidon](https://github.com/Turbin3/poseidon) - A Transpiler to convert your Solana programs from Typescript to Anchor
 *   [valentinmadrid/waverider](https://github.com/valentinmadrid/waverider) - Geyser plugin that streams Solana account changes to PostgREST
 *   [launchbadge/sqlx](https://github.com/launchbadge/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
 *   [cavemanloverboy/oxylana](https://github.com/cavemanloverboy/oxylana) -
@@ -1976,38 +2008,6 @@
 
 *   [markhorn-dev/astro-sphere](https://github.com/markhorn-dev/astro-sphere) - Astro Sphere is a static, minimalist, lightweight, lightning fast portfolio and blog.
 *   [fimbres/astro-3-experimental](https://github.com/fimbres/astro-3-experimental) - A basic project to test out the new features of Astro 3.0, specially View Transitions API, using React.js, TailwindCSS, TypeScript, Zod, and many more technologies!
-
-## HTML
-
-*   [vitalets/github-trending-repos](https://github.com/vitalets/github-trending-repos) - Track GitHub trending repositories in your favorite programming language by native GitHub notifications!
-*   [ImranR98/apps.obtainium.imranr.dev](https://github.com/ImranR98/apps.obtainium.imranr.dev) - Collection of suggested apps for Obtainium.
-*   [run-llama/create\_llama\_projects](https://github.com/run-llama/create_llama_projects) -
-*   [thedevdojo/pines](https://github.com/thedevdojo/pines) - The Pines UI library
-*   [LangbaseInc/langui](https://github.com/LangbaseInc/langui) - UI for your AI. Open Source Tailwind components tailored for your GPT, generative AI, and LLM projects.
-*   [htmlstreamofficial/preline](https://github.com/htmlstreamofficial/preline) - Preline UI is an open-source set of prebuilt UI components based on the utility-first Tailwind CSS framework.
-*   [iv-org/invidious.io](https://github.com/iv-org/invidious.io) - The Invidious.io website
-*   [Lomusire/FreeGPT-4](https://github.com/Lomusire/FreeGPT-4) - FreeGPT-4 is an AI Assistant Discord Bot providing Unlimited access to popular AI models like ChatGPT, GPT-4, Sage, and Claude. Enjoy engaging AI-driven conversations in Discord using simple commands. Join our server or invite the bot to yours for a unique AI experience, all for free!
-*   [2501babe/2501babe.github.io](https://github.com/2501babe/2501babe.github.io) - personal site
-*   [MiyakoYakota/search.0t.rocks](https://github.com/MiyakoYakota/search.0t.rocks) -
-*   [bartlomiejzuber/use-open-window](https://github.com/bartlomiejzuber/use-open-window) - React hook to open links in separate windows ✔️
-*   [N3evin/AmiiboAPI](https://github.com/N3evin/AmiiboAPI) - A RESTful API for amiibo.
-*   [kosyachniy/dev](https://github.com/kosyachniy/dev) - Development tools
-*   [lilnasy/scribblyscrobbly](https://github.com/lilnasy/scribblyscrobbly) - a web page to tidy up apple music and spotify streaming history for last.fm
-*   [FineFindus/artem](https://github.com/FineFindus/artem) - Convert images from multiple formats (jpg, png, webp, etc…) to ASCII art, written in Rust
-*   [littleark/githut](https://github.com/littleark/githut) - Visualization of data from github archive.
-*   [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
-*   [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot) - An advanced discord music bot, supports Spotify, Soundcloud, YouTube with Shuffling, Volume Control and Web Dashboard with Slash Commands support!
-*   [Clueless-Community/seamless-ui](https://github.com/Clueless-Community/seamless-ui) - The next gen UI made with simple HTML and Tailwind CSS. It's compatible with simple HTML, CSS static website or a React, Vue, Angular or Next.js Complex app. Zero JS and no-plugins installed.
-*   [ehxu/termius-cracked](https://github.com/ehxu/termius-cracked) - Terminus Cracked Version
-*   [anubra266/chakra-play](https://github.com/anubra266/chakra-play) - 🤽‍♀️ An advanced online playground for Chakra UI
-*   [MyMiniFactory/stl2gltf](https://github.com/MyMiniFactory/stl2gltf) - Convert STL to glb
-*   [carbon-design-system/carbon-charts](https://github.com/carbon-design-system/carbon-charts) - :bar\_chart: :chart\_with\_upwards\_trend:⠀Robust dataviz framework implemented using D3 & typescript
-*   [TanStack/react-charts](https://github.com/TanStack/react-charts) - ⚛️ Simple, immersive & interactive charts for React
-*   [trickytibo/next\_solana\_nft2mint](https://github.com/trickytibo/next_solana_nft2mint) - A package to easily find the next hyped solana nft to mint.
-*   [vasturiano/3d-force-graph](https://github.com/vasturiano/3d-force-graph) - 3D force-directed graph component using ThreeJS/WebGL
-*   [themesberg/flowbite](https://github.com/themesberg/flowbite) - Open-source UI component library and front-end development framework based on Tailwind CSS
-*   [jglovier/gifs](https://github.com/jglovier/gifs) - :joy: :camera: :sparkler: Storage place for all mah gifs.
-*   [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
 
 ## Batchfile
 
