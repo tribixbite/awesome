@@ -63,6 +63,7 @@
 
 ## Shell
 
+*   [Aj-Seven/Android-Sysinfo](https://github.com/Aj-Seven/Android-Sysinfo) - A tool efficiently displays Android system details on Termux.
 *   [hackerb9/lsix](https://github.com/hackerb9/lsix) - Like "ls", but for images. Shows thumbnails in terminal using sixel graphics.
 *   [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 *   [grondilu/bitcoin-bash-tools](https://github.com/grondilu/bitcoin-bash-tools) - Set of bitcoin-related bash functions
@@ -246,7 +247,6 @@
 *   [google/playground-elements](https://github.com/google/playground-elements) - Serverless coding environments for the web.
 *   [apollo-elements/apollo-elements](https://github.com/apollo-elements/apollo-elements) - 🚀🌛 Use the Launch Platform 👩‍🚀👨‍🚀
 *   [material-components/material-web](https://github.com/material-components/material-web) - Material Design Web Components
-*   [elastic/eui](https://github.com/elastic/eui) - Elastic UI Framework 🙌
 *   [DouyinFE/semi-design](https://github.com/DouyinFE/semi-design) - 🚀A modern, comprehensive, flexible design system and React UI library. 🎨 Provide more than 3000+ Design Tokens, easy to build your design system. Make Semi Design to Any Design.  🧑🏻‍💻 Design to Code in one click
 *   [react95-io/React95](https://github.com/react95-io/React95) - 🌈🕹  Windows 95 style UI component library for React
 *   [gluestack/gluestack-ui](https://github.com/gluestack/gluestack-ui) - React & React Native Components & Patterns (copy-paste components & patterns crafted with Tailwind CSS (NativeWind))
@@ -668,7 +668,7 @@
 *   [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React
 *   [chkt/xyzw](https://github.com/chkt/xyzw) - Vector, Matrix, Quaternion, Euler Angles, SLERPs, Projections, Transforms
 *   [Ankr-network/game-webgl-template](https://github.com/Ankr-network/game-webgl-template) - Template for Unity WebGL with ankr web3 library
-*   [Meqn/UnityWebGL.js](https://github.com/Meqn/UnityWebGL.js) - An easy solution for embedding Unity WebGL builds in webApp or Vue.js project, with two-way communication between your webApp and Unity. 🏣 在webApp 或 Vue.js 项目中嵌入 Unity WebGL，并支持通过API在 webApp 和 Unity 之间进行双向通信。
+*   [Marinerer/UnityWebGL.js](https://github.com/Marinerer/UnityWebGL.js) - An easy solution for embedding Unity WebGL builds in webApp or Vue.js project, with two-way communication between your webApp and Unity. 🏣 在webApp 或 Vue.js 项目中嵌入 Unity WebGL，并支持通过API在 webApp 和 Unity 之间进行双向通信。
 *   [PhilippMolitor/react-unity-renderer](https://github.com/PhilippMolitor/react-unity-renderer) - React Unity Renderer allows to interactively embed Unity WebGL builds into a React powered project.
 *   [AWaterColorPen/unity-rich-text-converter](https://github.com/AWaterColorPen/unity-rich-text-converter) - typescript library to converter message between unity rich text and html standard rich text.
 *   [eritislami/evobot](https://github.com/eritislami/evobot) - 🤖 EvoBot is a Discord Music Bot built with TypeScript + Discord.js, includes Docker builds & localization in 20+ languages
@@ -1018,7 +1018,7 @@
 *   [hyperknot/openfreemap](https://github.com/hyperknot/openfreemap) - Free and open-source map hosting solution with custom styles for websites and apps, using OpenStreetMap data
 *   [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
 *   [timescale/rag-is-more-than-vector-search](https://github.com/timescale/rag-is-more-than-vector-search) - Companion repo to "RAG is more than vector search" blog post
-*   [timescale/pgai](https://github.com/timescale/pgai) - Bring AI models closer to your PostgreSQL data
+*   [timescale/pgai](https://github.com/timescale/pgai) - Develop RAG, semantic search, and other AI applications more easily with PostgreSQL
 *   [kevinheavey/anchorpy](https://github.com/kevinheavey/anchorpy) - The Python Anchor client.
 *   [Cinnamon/kotaemon](https://github.com/Cinnamon/kotaemon) - An open-source RAG-based tool for chatting with your documents.
 *   [cparthiv/annas-torrents](https://github.com/cparthiv/annas-torrents) -
@@ -1803,7 +1803,7 @@
 *   [getzep/zep](https://github.com/getzep/zep) - Zep | The Memory Foundation For Your AI Stack
 *   [championswimmer/onepixel\_backend](https://github.com/championswimmer/onepixel_backend) -
 *   [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.
-*   [casibase/casibase](https://github.com/casibase/casibase) - Spising: ⚡️Open-source AI LangChain-like RAG (Retrieval-Augmented Generation) knowledge database with web UI and Enterprise SSO⚡️, supports OpenAI, Azure, LLaMA, Google Gemini, HuggingFace, Claude, Grok, etc., chat bot demo: https://demo.casibase.com, admin UI demo: https://demo-admin.casibase.com
+*   [casibase/casibase](https://github.com/casibase/casibase) - AI Cloud: ⚡️Open-source AI LangChain-like RAG (Retrieval-Augmented Generation) knowledge database with web UI and Enterprise SSO⚡️, supports OpenAI, Azure, LLaMA, Google Gemini, HuggingFace, Claude, Grok, etc., chat bot demo: https://demo.casibase.com, admin UI demo: https://demo-admin.casibase.com
 *   [apicat/apicat](https://github.com/apicat/apicat) - An efficient API documentation management tool that fully adheres to the OpenAPI specification and incorporates advanced LLM technology. This tool can automate the generation of API documentation, data models, and test cases, greatly enhancing development efficiency and documentation quality.
 *   [Layr-Labs/incredible-squaring-avs](https://github.com/Layr-Labs/incredible-squaring-avs) - Basic repo demoing a simple AVS middleware with full eigenlayer integration
 *   [pb33f/openapi-changes](https://github.com/pb33f/openapi-changes) - The world's sexiest OpenAPI breaking changes detector. Discover what changed between two OpenAPI specs, or a single spec over time. Supports OpenAPI 3.1, 3.0 and Swagger
