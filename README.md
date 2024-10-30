@@ -1018,7 +1018,7 @@
 *   [hyperknot/openfreemap](https://github.com/hyperknot/openfreemap) - Free and open-source map hosting solution with custom styles for websites and apps, using OpenStreetMap data
 *   [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
 *   [timescale/rag-is-more-than-vector-search](https://github.com/timescale/rag-is-more-than-vector-search) - Companion repo to "RAG is more than vector search" blog post
-*   [timescale/pgai](https://github.com/timescale/pgai) - Develop RAG, semantic search, and other AI applications more easily with PostgreSQL
+*   [timescale/pgai](https://github.com/timescale/pgai) - A suite of tools to develop RAG, semantic search, and other AI applications more easily with PostgreSQL
 *   [kevinheavey/anchorpy](https://github.com/kevinheavey/anchorpy) - The Python Anchor client.
 *   [Cinnamon/kotaemon](https://github.com/Cinnamon/kotaemon) - An open-source RAG-based tool for chatting with your documents.
 *   [cparthiv/annas-torrents](https://github.com/cparthiv/annas-torrents) -
@@ -1990,7 +1990,7 @@
 
 ## Elixir
 
-*   [fastrepl/canary](https://github.com/fastrepl/canary) - 🐤 Canary is modern Algolia DocSearch replacement
+*   [fastrepl/canary](https://github.com/fastrepl/canary) - Algolia alternative for technical docs
 *   [phoenixframework/phoenix](https://github.com/phoenixframework/phoenix) - Peace of mind from prototype to production
 *   [cbh123/emoji](https://github.com/cbh123/emoji) - Make emojis for slack using AI
 
