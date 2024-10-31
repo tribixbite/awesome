@@ -4,8 +4,8 @@
 
 ## Table of Contents
 
-*   [Elixir](#elixir)
 *   [TypeScript](#typescript)
+*   [Elixir](#elixir)
 *   [Shell](#shell)
 *   [HTML](#html)
 *   [Svelte](#svelte)
@@ -59,17 +59,10 @@
 *   [R](#r)
 *   [Clojure](#clojure)
 *   [Arduino](#arduino)
-*   [G-code](#g-code)
-
-## Elixir
-
-*   [kieraneglin/pinchflat](https://github.com/kieraneglin/pinchflat) - Your next YouTube media manager
-*   [fastrepl/canary](https://github.com/fastrepl/canary) - Algolia alternative for technical docs
-*   [phoenixframework/phoenix](https://github.com/phoenixframework/phoenix) - Peace of mind from prototype to production
-*   [cbh123/emoji](https://github.com/cbh123/emoji) - Make emojis for slack using AI
 
 ## TypeScript
 
+*   [oramasearch/orama](https://github.com/oramasearch/orama) - 🌌  A complete search engine and RAG pipeline in your browser, server or edge network with support for full-text, vector, and hybrid search in less than 2kb.
 *   [riipandi/remix-start](https://github.com/riipandi/remix-start) - Minimal containerized Remix Stack with Tailwind CSS, TypeScript, Vitest, and Playwright E2E Testing.
 *   [honojs/vite-plugins](https://github.com/honojs/vite-plugins) - Vite Plugins for Hono
 *   [dogokit/dogokit-beagle](https://github.com/dogokit/dogokit-beagle) - 🐶Dogokit Beagle: Full stack web app template kit
@@ -910,6 +903,13 @@
 *   [thomasloven/lovelace-auto-entities](https://github.com/thomasloven/lovelace-auto-entities) - 🔹Automatically populate the entities-list of lovelace cards
 *   [luludotdev/beatsaver-reloaded](https://github.com/luludotdev/beatsaver-reloaded) - BeatSaver Again
 *   [DominicMaas/TimelineExtension](https://github.com/DominicMaas/TimelineExtension) - Windows Timeline & Project Rome Web Extension
+
+## Elixir
+
+*   [kieraneglin/pinchflat](https://github.com/kieraneglin/pinchflat) - Your next YouTube media manager
+*   [fastrepl/canary](https://github.com/fastrepl/canary) - Algolia alternative for technical docs
+*   [phoenixframework/phoenix](https://github.com/phoenixframework/phoenix) - Peace of mind from prototype to production
+*   [cbh123/emoji](https://github.com/cbh123/emoji) - Make emojis for slack using AI
 
 ## Shell
 
@@ -2224,7 +2224,3 @@
 ## Arduino
 
 *   [RHWorkshop/TIPIC-Arduino](https://github.com/RHWorkshop/TIPIC-Arduino) - This is the Arduino code for the TIPIC Thermal Imaging Phone Camera device.
-
-## G-code
-
-*   [CarlosGS/Cyclone-PCB-Factory](https://github.com/CarlosGS/Cyclone-PCB-Factory) - Cyclone (Circuit Cloner) is a parametric CNC mill design intended for PCB manufacturing.
