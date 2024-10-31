@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+*   [Elixir](#elixir)
 *   [TypeScript](#typescript)
 *   [Shell](#shell)
 *   [HTML](#html)
@@ -20,7 +21,6 @@
 *   [Java](#java)
 *   [C#](#c-1)
 *   [Lua](#lua)
-*   [Elixir](#elixir)
 *   [Cuda](#cuda)
 *   [Smalltalk](#smalltalk)
 *   [Astro](#astro)
@@ -61,8 +61,24 @@
 *   [Arduino](#arduino)
 *   [G-code](#g-code)
 
+## Elixir
+
+*   [kieraneglin/pinchflat](https://github.com/kieraneglin/pinchflat) - Your next YouTube media manager
+*   [fastrepl/canary](https://github.com/fastrepl/canary) - Algolia alternative for technical docs
+*   [phoenixframework/phoenix](https://github.com/phoenixframework/phoenix) - Peace of mind from prototype to production
+*   [cbh123/emoji](https://github.com/cbh123/emoji) - Make emojis for slack using AI
+
 ## TypeScript
 
+*   [riipandi/remix-start](https://github.com/riipandi/remix-start) - Minimal containerized Remix Stack with Tailwind CSS, TypeScript, Vitest, and Playwright E2E Testing.
+*   [honojs/vite-plugins](https://github.com/honojs/vite-plugins) - Vite Plugins for Hono
+*   [dogokit/dogokit-beagle](https://github.com/dogokit/dogokit-beagle) - 🐶Dogokit Beagle: Full stack web app template kit
+*   [janhesters/french-house-stack](https://github.com/janhesters/french-house-stack) - The Remix Stack for SaaS apps (Web2) and Web3 & Web5 DApps with authentication with Magic, testing, linting, formatting, etc.
+*   [toyamarodrigo/remix-shadcn](https://github.com/toyamarodrigo/remix-shadcn) - Template Remix (RR) + shadcn + Biome + TailwindCSS + Bun
+*   [mhmdsami/chat](https://github.com/mhmdsami/chat) - A chat app built with bun, elysia, drizzle-orm, postgres, remix, shadcn/ui and more! Crafted with annoyance <3 Well this is my Computer Networks project.
+*   [jellydn/remix-spa-demo](https://github.com/jellydn/remix-spa-demo) - How to use Biome with Bun.js and Remix to create a Single Page Application
+*   [Ipriyankrajai/vite-hono-bun](https://github.com/Ipriyankrajai/vite-hono-bun) - Fullstack app with React (Vite), TW, Tanstack, Hono, Hono RPC, Bun, Zod, Neon PG, Drizzle and Kinde auth
+*   [AlmostEfficient/hvr](https://github.com/AlmostEfficient/hvr) - Full-stack Hono + Vite + React template w/ Bun
 *   [adithya-s-k/RAG-SaaS](https://github.com/adithya-s-k/RAG-SaaS) - ⚡Ship RAG Solutions Quickly and effortlessly
 *   [kadumedim/bun-hono](https://github.com/kadumedim/bun-hono) -
 *   [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
@@ -914,7 +930,6 @@
 *   [CryptoManufaktur-io/solana-rpc](https://github.com/CryptoManufaktur-io/solana-rpc) - Solana RPC only node with traefik
 *   [d3/d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar\_chart::chart\_with\_upwards\_trend::tada:
 *   [TheFrenchGhosty/TheFrenchGhostys-Ultimate-YouTube-DL-Scripts-Collection](https://github.com/TheFrenchGhosty/TheFrenchGhostys-Ultimate-YouTube-DL-Scripts-Collection) - The ultimate collection of scripts for YouTube-DL.
-*   [DDRBoxman/GlassDateDisplay](https://github.com/DDRBoxman/GlassDateDisplay) - Display the current date on Google Glass
 
 ## HTML
 
@@ -1272,8 +1287,6 @@
 *   [pushshift/api](https://github.com/pushshift/api) - Pushshift API
 *   [tribixbite/BrokenRecordBot](https://github.com/tribixbite/BrokenRecordBot) - reddit copypasta bot for subreddit wiki text
 *   [janick/ArloDownload](https://github.com/janick/ArloDownload) - Automatically download new video recordings from Arlo
-*   [tribixbite/WebPutty](https://github.com/tribixbite/WebPutty) -
-*   [tribixbite/gmvault](https://github.com/tribixbite/gmvault) - gmail backup software
 
 ## JavaScript
 
@@ -1585,8 +1598,6 @@
 *   [NUKnightLab/juxtapose](https://github.com/NUKnightLab/juxtapose) - JuxtaposeJS is a JavaScript library for making before/after image sliders
 *   [buccaneerai/rxjs-stats](https://github.com/buccaneerai/rxjs-stats) - Moved to @bottlenose/rxstats (https://github.com/buccaneerai/bottlenose)
 *   [open-dash/HousePanel](https://github.com/open-dash/HousePanel) - Open source highly customizable dashboard for your SmartThings home
-*   [tribixbite/meteor](https://github.com/tribixbite/meteor) - Meteor, an ultra-simple, database-everywhere, data-on-the-wire, pure-Javascript web framework.
-*   [tribixbite/Ghost.py](https://github.com/tribixbite/Ghost.py) - Webkit based scriptable web browser for python.
 
 ## miscellaneous
 
@@ -1883,7 +1894,6 @@
 *   [discordlookup/discordlookup](https://github.com/discordlookup/discordlookup) - DiscordLookup | Get more out of Discord with Discord Lookup! Snowflake Decoder, Guild List with Stats, Invite Info and more...
 *   [mledoze/countries](https://github.com/mledoze/countries) - World countries in JSON, CSV, XML and Yaml. Any help is welcome!
 *   [matthiasmullie/minify](https://github.com/matthiasmullie/minify) - CSS & JavaScript minifier, in PHP. Removes whitespace, strips comments, combines files (incl. @import statements and small assets in CSS files), and optimizes/shortens a few common programming patterns.
-*   [nehalvpatel/cgui](https://github.com/nehalvpatel/cgui) - A web interface for cgminer that is made to reduce setup time and increase productivity, featuring the famous 2 minute install.
 
 ## Kotlin
 
@@ -1943,7 +1953,6 @@
 *   [LuigiVampa92/XLogger](https://github.com/LuigiVampa92/XLogger) - Xposed module that allows to sniff and record logs of NFC and Bluetooth communication on device
 *   [xtclang/xvm](https://github.com/xtclang/xvm) - Ecstasy and XVM
 *   [RBWare/Glass-App-Manager](https://github.com/RBWare/Glass-App-Manager) - Simple app manager for Google Glass
-*   [wearscript/wearscript-android](https://github.com/wearscript/wearscript-android) - JavaScript with Batteries Included for Google Glass
 
 ## C\#
 
@@ -1987,12 +1996,6 @@
 *   [Kong/kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native API Gateway and AI Gateway.
 *   [ArchiveTeam/reddit-grab](https://github.com/ArchiveTeam/reddit-grab) - Grabbing everything from reddit.
 *   [Jaliborc/Bagnon](https://github.com/Jaliborc/Bagnon) - Single window displays for you items
-
-## Elixir
-
-*   [fastrepl/canary](https://github.com/fastrepl/canary) - Algolia alternative for technical docs
-*   [phoenixframework/phoenix](https://github.com/phoenixframework/phoenix) - Peace of mind from prototype to production
-*   [cbh123/emoji](https://github.com/cbh123/emoji) - Make emojis for slack using AI
 
 ## Cuda
 
@@ -2080,7 +2083,6 @@
 *   [creativetimofficial/nextjs-argon-dashboard](https://github.com/creativetimofficial/nextjs-argon-dashboard) - NextJS version of Argon Dashboard React
 *   [lafeber/world-flags-sprite](https://github.com/lafeber/world-flags-sprite) - A sprite of all the worlds' flags.
 *   [alphapapa/solarized-everything-css](https://github.com/alphapapa/solarized-everything-css) - A collection of Solarized user-stylesheets for...everything?
-*   [json-api/json-api](https://github.com/json-api/json-api) - A specification for building JSON APIs
 
 ## Dart
 
@@ -2194,8 +2196,6 @@
 ## OpenSCAD
 
 *   [FrameworkComputer/ExpansionCards](https://github.com/FrameworkComputer/ExpansionCards) - Reference designs and documentation to create Expansion Cards for the Framework Laptop
-*   [fpiesik/pE-Drums](https://github.com/fpiesik/pE-Drums) - An e-drum set based on 3d-printed parts
-*   [jcrocholl/kossel](https://github.com/jcrocholl/kossel) - Mini Kossel portable delta robot 3D printer.
 
 ## AutoIt
 
