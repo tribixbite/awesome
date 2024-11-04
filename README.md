@@ -1300,7 +1300,6 @@
 
 ## JavaScript
 
-*   [shadowystupidcoder/Solana-Phantom-Wallet-Vault-Decryptor](https://github.com/shadowystupidcoder/Solana-Phantom-Wallet-Vault-Decryptor) - Recover and decrypt your Phantom wallet from raw vault data.
 *   [shadowystupidcoder/solana-program-deployer](https://github.com/shadowystupidcoder/solana-program-deployer) - Deploy Solana programs with Node.js and optional Jito bundles.
 *   [huggingface/transformers.js-examples](https://github.com/huggingface/transformers.js-examples) - A collection of 🤗 Transformers.js demos and example applications
 *   [alohe/quicky](https://github.com/alohe/quicky) - A simple CLI tool to self-host Next.js applications.
@@ -2093,6 +2092,7 @@
 *   [paljs/gatsby-admin-template](https://github.com/paljs/gatsby-admin-template) - Free admin dashboard template based on Gatsby with @paljs/ui component package
 *   [creativetimofficial/nextjs-argon-dashboard](https://github.com/creativetimofficial/nextjs-argon-dashboard) - NextJS version of Argon Dashboard React
 *   [lafeber/world-flags-sprite](https://github.com/lafeber/world-flags-sprite) - A sprite of all the worlds' flags.
+*   [alphapapa/solarized-everything-css](https://github.com/alphapapa/solarized-everything-css) - A collection of Solarized user-stylesheets for...everything?
 
 ## Rich Text Format
 
