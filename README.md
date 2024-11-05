@@ -4,8 +4,8 @@
 
 ## Table of Contents
 
-*   [Shell](#shell)
 *   [TypeScript](#typescript)
+*   [Shell](#shell)
 *   [Python](#python)
 *   [Dart](#dart)
 *   [Kotlin](#kotlin)
@@ -58,29 +58,10 @@
 *   [Visual Basic .NET](#visual-basic-net)
 *   [R](#r)
 
-## Shell
-
-*   [ShanSuharban/termux4all](https://github.com/ShanSuharban/termux4all) - termux4all is not a project or something. This is some packages that can be used for the development and security purposes on android phone using the termux app itself. The main purpose of  this project is to install & setup all the important tools or packages in termux without researching a lot.
-*   [Aj-Seven/Android-Sysinfo](https://github.com/Aj-Seven/Android-Sysinfo) - A tool efficiently displays Android system details on Termux.
-*   [hackerb9/lsix](https://github.com/hackerb9/lsix) - Like "ls", but for images. Shows thumbnails in terminal using sixel graphics.
-*   [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
-*   [grondilu/bitcoin-bash-tools](https://github.com/grondilu/bitcoin-bash-tools) - Set of bitcoin-related bash functions
-*   [hcengineering/huly-selfhost](https://github.com/hcengineering/huly-selfhost) - Huly for Self Hosting
-*   [ArchiveTeam/IA.BAK](https://github.com/ArchiveTeam/IA.BAK) - We back up a lot of stuff from around the web; now it's time to back up the Internet Archive, just in case.
-*   [TermuxArch/TermuxArch](https://github.com/TermuxArch/TermuxArch) - Experience the pleasure of the Linux command prompt in Android, Chromebook, Fire OS and Windows on smartphone, smartTV, tablet and wearable https://termuxarch.github.io/TermuxArch/
-*   [AbdBarho/stable-diffusion-webui-docker](https://github.com/AbdBarho/stable-diffusion-webui-docker) - Easy Docker setup for Stable Diffusion with user-friendly UI
-*   [h4r5h1t/webcopilot](https://github.com/h4r5h1t/webcopilot) - An automation tool that enumerates subdomains then filters out xss, sqli, open redirect, lfi, ssrf and rce parameters and then scans for vulnerabilities.
-*   [foospidy/payloads](https://github.com/foospidy/payloads) - Git All the Payloads! A collection of web attack payloads.
-*   [many-passwords/many-passwords](https://github.com/many-passwords/many-passwords) - Default credentials list. 🐱‍💻 Leave a star if you like this project! (that motivates me)⭐️
-*   [wuxianlin/android\_rom\_tools](https://github.com/wuxianlin/android_rom_tools) - unpack/deodex/decompile tools for Android ROM
-*   [ax/apk.sh](https://github.com/ax/apk.sh) - apk.sh makes reverse engineering Android apps easier, automating some repetitive tasks like pulling, decoding, rebuilding and patching an APK.
-*   [labbots/google-drive-upload](https://github.com/labbots/google-drive-upload) - Bash scripts to upload files to google drive
-*   [CryptoManufaktur-io/solana-rpc](https://github.com/CryptoManufaktur-io/solana-rpc) - Solana RPC only node with traefik
-*   [d3/d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar\_chart::chart\_with\_upwards\_trend::tada:
-*   [TheFrenchGhosty/TheFrenchGhostys-Ultimate-YouTube-DL-Scripts-Collection](https://github.com/TheFrenchGhosty/TheFrenchGhostys-Ultimate-YouTube-DL-Scripts-Collection) - The ultimate collection of scripts for YouTube-DL.
-
 ## TypeScript
 
+*   [haydenlingle/railway-remix](https://github.com/haydenlingle/railway-remix) -
+*   [valbeat/remix-boilerplate](https://github.com/valbeat/remix-boilerplate) -  This is a template for Remix that includes Tailwind CSS, Vite, Vitest, Storybook, and Biome.
 *   [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - Headless TypeScript ORM with a head. Runs on Node, Bun and Deno. Lives on the Edge and yes, it's a JavaScript ORM too 😅
 *   [bluesky-social/social-app](https://github.com/bluesky-social/social-app) - The Bluesky Social application for Web, iOS, and Android
 *   [orbanszlrd/next-google-photos](https://github.com/orbanszlrd/next-google-photos) - Consuming the Google Photos Library API
@@ -931,6 +912,27 @@
 *   [thomasloven/lovelace-auto-entities](https://github.com/thomasloven/lovelace-auto-entities) - 🔹Automatically populate the entities-list of lovelace cards
 *   [luludotdev/beatsaver-reloaded](https://github.com/luludotdev/beatsaver-reloaded) - BeatSaver Again
 
+## Shell
+
+*   [ShanSuharban/termux4all](https://github.com/ShanSuharban/termux4all) - termux4all is not a project or something. This is some packages that can be used for the development and security purposes on android phone using the termux app itself. The main purpose of  this project is to install & setup all the important tools or packages in termux without researching a lot.
+*   [Aj-Seven/Android-Sysinfo](https://github.com/Aj-Seven/Android-Sysinfo) - A tool efficiently displays Android system details on Termux.
+*   [hackerb9/lsix](https://github.com/hackerb9/lsix) - Like "ls", but for images. Shows thumbnails in terminal using sixel graphics.
+*   [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
+*   [grondilu/bitcoin-bash-tools](https://github.com/grondilu/bitcoin-bash-tools) - Set of bitcoin-related bash functions
+*   [hcengineering/huly-selfhost](https://github.com/hcengineering/huly-selfhost) - Huly for Self Hosting
+*   [ArchiveTeam/IA.BAK](https://github.com/ArchiveTeam/IA.BAK) - We back up a lot of stuff from around the web; now it's time to back up the Internet Archive, just in case.
+*   [TermuxArch/TermuxArch](https://github.com/TermuxArch/TermuxArch) - Experience the pleasure of the Linux command prompt in Android, Chromebook, Fire OS and Windows on smartphone, smartTV, tablet and wearable https://termuxarch.github.io/TermuxArch/
+*   [AbdBarho/stable-diffusion-webui-docker](https://github.com/AbdBarho/stable-diffusion-webui-docker) - Easy Docker setup for Stable Diffusion with user-friendly UI
+*   [h4r5h1t/webcopilot](https://github.com/h4r5h1t/webcopilot) - An automation tool that enumerates subdomains then filters out xss, sqli, open redirect, lfi, ssrf and rce parameters and then scans for vulnerabilities.
+*   [foospidy/payloads](https://github.com/foospidy/payloads) - Git All the Payloads! A collection of web attack payloads.
+*   [many-passwords/many-passwords](https://github.com/many-passwords/many-passwords) - Default credentials list. 🐱‍💻 Leave a star if you like this project! (that motivates me)⭐️
+*   [wuxianlin/android\_rom\_tools](https://github.com/wuxianlin/android_rom_tools) - unpack/deodex/decompile tools for Android ROM
+*   [ax/apk.sh](https://github.com/ax/apk.sh) - apk.sh makes reverse engineering Android apps easier, automating some repetitive tasks like pulling, decoding, rebuilding and patching an APK.
+*   [labbots/google-drive-upload](https://github.com/labbots/google-drive-upload) - Bash scripts to upload files to google drive
+*   [CryptoManufaktur-io/solana-rpc](https://github.com/CryptoManufaktur-io/solana-rpc) - Solana RPC only node with traefik
+*   [d3/d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar\_chart::chart\_with\_upwards\_trend::tada:
+*   [TheFrenchGhosty/TheFrenchGhostys-Ultimate-YouTube-DL-Scripts-Collection](https://github.com/TheFrenchGhosty/TheFrenchGhostys-Ultimate-YouTube-DL-Scripts-Collection) - The ultimate collection of scripts for YouTube-DL.
+
 ## Python
 
 *   [aiplanethub/openagi](https://github.com/aiplanethub/openagi) - Paving the way for open agents and AGI for all.
@@ -979,7 +981,7 @@
 *   [IntelligenzaArtificiale/Free-Auto-GPT](https://github.com/IntelligenzaArtificiale/Free-Auto-GPT) - Free Auto GPT with NO paids API is a repository that offers a simple version of Auto GPT, an autonomous AI agent capable of performing tasks independently. Unlike other versions, our implementation does not rely on any paid OpenAI API, making it accessible to anyone.
 *   [Vision-CAIR/MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4) - Open-sourced codes for MiniGPT-4 and MiniGPT-v2 (https://minigpt-4.github.io, https://minigpt-v2.github.io/)
 *   [ading2210/openplayground-api](https://github.com/ading2210/openplayground-api) - A reverse engineered Python API wrapper for OpenPlayground (nat.dev)
-*   [RockChinQ/QChatGPT](https://github.com/RockChinQ/QChatGPT) - 😎高稳定性、🧩支持扩展、🦄多模态的 ChatGPT QQ / QQ频道 / One Bot 机器人🤖 | 支持 OpenAI GPT、Claude、Gemini Pro、DeepSeek、Moonshot（Kimi）、gpt4free、One API、Ollama 的 QQ / QQ频道 / OneBot 机器人 / Agent 平台
+*   [RockChinQ/QChatGPT](https://github.com/RockChinQ/QChatGPT) - 😎高稳定性、🧩支持扩展、🦄多模态的 ChatGPT QQ / QQ频道 / One Bot 机器人🤖 | 支持 OpenAI GPT、Claude、Gemini Pro、DeepSeek、Moonshot（Kimi）、gpt4free、One API、Ollama、dify 的 QQ / QQ频道 / OneBot 机器人 / Agent 平台
 *   [irgolic/AutoPR](https://github.com/irgolic/AutoPR) - Run AI-powered workflows over your codebase
 *   [F33RNI/GPT-Telegramus](https://github.com/F33RNI/GPT-Telegramus) - 💜 The best free Telegram bot for ChatGPT, Microsoft Copilot (aka Bing AI / Sidney / EdgeGPT), Microsoft Copilot Designer (aka BingImageCreator), Gemini and Groq with stream writing, requests with images, multiple languages, admin control, data logging and more!
 *   [OpenInterpreter/open-interpreter](https://github.com/OpenInterpreter/open-interpreter) - A natural language interface for computers
@@ -1050,7 +1052,7 @@
 *   [mhxion/awesome-discord-communities](https://github.com/mhxion/awesome-discord-communities) - A curated list of awesome Discord communities for programmers
 *   [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: AI orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. With advanced retrieval methods, it's best suited for building RAG, question answering, semantic search or conversational agent chatbots.
 *   [Wildric-Auric/MidJourney-Wrapper](https://github.com/Wildric-Auric/MidJourney-Wrapper) - MidJourney wrapper in Discord.
-*   [rapmd73/Companion](https://github.com/rapmd73/Companion) - A discord chat bot utilizing AI in a fun and whimsical way. Provides some moderation tools as well.
+*   [rapmd73/Companion](https://github.com/rapmd73/Companion) - An AI-powered Discord bot blending playful conversation with smart moderation tools, adding charm and order to your server.
 *   [zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt) - Interact with your documents using the power of GPT, 100% privately, no data leaks
 *   [ScrapeGraphAI/Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai) - Python scraper based on AI
 *   [budtmo/docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported and video recording
@@ -1640,7 +1642,6 @@
 *   [coral-xyz/sealevel-attacks](https://github.com/coral-xyz/sealevel-attacks) - ☠️ Common Security Exploits and Protections on Solana
 *   [clockwork-xyz/clockwork](https://github.com/clockwork-xyz/clockwork) - Smart-contract automation on Solana.
 *   [barter-rs/barter-rs](https://github.com/barter-rs/barter-rs) - Open-source Rust framework for building event-driven live-trading & backtesting systems
-*   [BenjaSOL/orz-cli-gpu](https://github.com/BenjaSOL/orz-cli-gpu) -
 *   [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
 *   [surrealdb/echodb](https://github.com/surrealdb/echodb) - An embedded, in-memory, immutable, copy-on-write, key-value database engine
 *   [surrealdb/surrealkv](https://github.com/surrealdb/surrealkv) - A low-level, versioned, embedded, ACID-compliant, key-value database for Rust
@@ -2092,7 +2093,6 @@
 *   [paljs/gatsby-admin-template](https://github.com/paljs/gatsby-admin-template) - Free admin dashboard template based on Gatsby with @paljs/ui component package
 *   [creativetimofficial/nextjs-argon-dashboard](https://github.com/creativetimofficial/nextjs-argon-dashboard) - NextJS version of Argon Dashboard React
 *   [lafeber/world-flags-sprite](https://github.com/lafeber/world-flags-sprite) - A sprite of all the worlds' flags.
-*   [alphapapa/solarized-everything-css](https://github.com/alphapapa/solarized-everything-css) - A collection of Solarized user-stylesheets for...everything?
 
 ## Rich Text Format
 
