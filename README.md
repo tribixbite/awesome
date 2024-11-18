@@ -1220,7 +1220,7 @@
 *   [IntelligenzaArtificiale/Free-Auto-GPT](https://github.com/IntelligenzaArtificiale/Free-Auto-GPT) - Free Auto GPT with NO paids API is a repository that offers a simple version of Auto GPT, an autonomous AI agent capable of performing tasks independently. Unlike other versions, our implementation does not rely on any paid OpenAI API, making it accessible to anyone.
 *   [Vision-CAIR/MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4) - Open-sourced codes for MiniGPT-4 and MiniGPT-v2 (https://minigpt-4.github.io, https://minigpt-v2.github.io/)
 *   [ading2210/openplayground-api](https://github.com/ading2210/openplayground-api) - A reverse engineered Python API wrapper for OpenPlayground (nat.dev)
-*   [RockChinQ/QChatGPT](https://github.com/RockChinQ/QChatGPT) - 😎高稳定性、🧩支持扩展、🦄多模态的 ChatGPT QQ / QQ频道 / One Bot 机器人🤖 | 支持 OpenAI GPT、Claude、Gemini Pro、DeepSeek、Moonshot（Kimi）、gpt4free、One API、Ollama、dify 的 QQ / QQ频道 / OneBot 机器人 / Agent 平台
+*   [RockChinQ/LangBot](https://github.com/RockChinQ/LangBot) - 原名 QChatGPT ；😎高稳定性、🧩支持扩展、🦄多模态的 ChatGPT QQ / QQ频道 / One Bot 机器人🤖 | 支持 OpenAI GPT、Claude、Gemini Pro、DeepSeek、Moonshot（Kimi）、gpt4free、One API、Ollama、dify 的 QQ / QQ频道 / OneBot 机器人 / Agent 平台
 *   [irgolic/AutoPR](https://github.com/irgolic/AutoPR) - Run AI-powered workflows over your codebase
 *   [F33RNI/GPT-Telegramus](https://github.com/F33RNI/GPT-Telegramus) - 💜 The best free Telegram bot for ChatGPT, Microsoft Copilot (aka Bing AI / Sidney / EdgeGPT), Microsoft Copilot Designer (aka BingImageCreator), Gemini and Groq with stream writing, requests with images, multiple languages, admin control, data logging and more!
 *   [OpenInterpreter/open-interpreter](https://github.com/OpenInterpreter/open-interpreter) - A natural language interface for computers
@@ -1659,7 +1659,7 @@
 *   [android-js/androidjs](https://github.com/android-js/androidjs) - Platform to build android app using node js
 *   [aframevr/aframe](https://github.com/aframevr/aframe) - :a: Web framework for building virtual reality experiences.
 *   [ethereum/blockies](https://github.com/ethereum/blockies) - <1k library that generates blocky identicons
-*   [playcanvas/engine](https://github.com/playcanvas/engine) - JavaScript game engine built on WebGL, WebGPU, WebXR and glTF
+*   [playcanvas/engine](https://github.com/playcanvas/engine) - Powerful web graphics runtime built on WebGL, WebGPU, WebXR and glTF
 *   [cloud9c/taro](https://github.com/cloud9c/taro) - A lightweight 3D game engine for the web.
 *   [PaddlePaddle/Paddle.js](https://github.com/PaddlePaddle/Paddle.js) - Paddle.js is a web project for Baidu PaddlePaddle, which is an open source deep learning framework running in the browser. Paddle.js can either load a pre-trained model, or transforming a model from paddle-hub with model transforming tools provided by Paddle.js. It could run in every browser with WebGL/WebGPU/WebAssembly supported. It could also run in Baidu Smartprogram and WX miniprogram.
 *   [redcamel/RedGPU](https://github.com/redcamel/RedGPU) - RedGPU - Javascript WebGPU Library
