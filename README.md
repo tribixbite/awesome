@@ -1247,7 +1247,7 @@
 *   [devchat-ai/workflows](https://github.com/devchat-ai/workflows) - DevChat workflows (the `sys` directory)
 *   [evalplus/evalplus](https://github.com/evalplus/evalplus) - Rigourous evaluation of LLM-synthesized code - NeurIPS 2023 & COLM 2024
 *   [llmware-ai/llmware](https://github.com/llmware-ai/llmware) - Unified framework for building enterprise RAG pipelines with small, specialized models
-*   [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R) - The most advanced Retrieval-Augmented Generation (RAG) system, containerized and RESTful
+*   [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R) - Containerized, state of the art Retrieval-Augmented Generation (RAG) system with a RESTful API
 *   [robocorp/example-langchain-data-ingestion](https://github.com/robocorp/example-langchain-data-ingestion) - Schedule and run your Python RAG data loaders in cloud with Robocorp Control Room
 *   [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
 *   [zilliztech/VectorDBBench](https://github.com/zilliztech/VectorDBBench) - A Benchmark Tool for VectorDB
@@ -1522,7 +1522,7 @@
 *   [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
 *   [facebookarchive/react-360](https://github.com/facebookarchive/react-360) - Create amazing 360 and VR content using React
 *   [openpgpjs/openpgpjs](https://github.com/openpgpjs/openpgpjs) - OpenPGP implementation for JavaScript
-*   [ditto-assistant/ditto-app](https://github.com/ditto-assistant/ditto-app) - AI assistant using Google TTS/STT, Keras, OpenAI, Hugging Face, Home Assistant, and much more.
+*   [ditto-assistant/ditto-app](https://github.com/ditto-assistant/ditto-app) - Ditto is an advanced AI assistant powered by the latest in LLM and RAG technology, along with in-house models, to create the ultimate conversational and creative experience.
 *   [mtfy/Intelify](https://github.com/mtfy/Intelify) - Open Source Intelligence tool base for searching breached PII (Personally identifiable information) by Username, Email, or IP address.
 *   [Donaldcwl/browser-image-compression](https://github.com/Donaldcwl/browser-image-compression) - Image compression in web browser
 *   [rapi-doc/RapiDoc](https://github.com/rapi-doc/RapiDoc) - RapiDoc -WebComponent for OpenAPI Spec
