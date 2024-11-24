@@ -1702,7 +1702,6 @@
 *   [LSPosed/AndroidHiddenApiBypass](https://github.com/LSPosed/AndroidHiddenApiBypass) - LSPass: Bypass restrictions on non-SDK interfaces
 *   [M66B/NetGuard](https://github.com/M66B/NetGuard) - A simple way to block access to the internet per app
 *   [zaproxy/zaproxy](https://github.com/zaproxy/zaproxy) - The ZAP by Checkmarx Core project
-*   [Linux-on-droid/vendor\_lindroid](https://github.com/Linux-on-droid/vendor_lindroid) -
 *   [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
 *   [Tencent/tinker](https://github.com/Tencent/tinker) - Tinker is a hot-fix solution library for Android, it supports dex, library and resources update without reinstall apk.
 *   [Konloch/bytecode-viewer](https://github.com/Konloch/bytecode-viewer) - A Java 8+ Jar & Android APK Reverse Engineering Suite (Decompiler, Editor, Debugger & More)
@@ -2097,6 +2096,7 @@
 *   [breach/thrust](https://github.com/breach/thrust) - Chromium-based cross-platform / cross-language application framework
 *   [Distributive-Network/PythonMonkey](https://github.com/Distributive-Network/PythonMonkey) - A Mozilla SpiderMonkey JavaScript engine embedded into the Python VM, using the Python engine to provide the JS host environment.
 *   [Stellarium/stellarium](https://github.com/Stellarium/stellarium) - Stellarium is a free GPL software which renders realistic skies in real time with OpenGL. It is available for Linux/Unix, Windows and macOS. With Stellarium, you really see what you can see with your eyes, binoculars or a small telescope.
+*   [Linux-on-droid/vendor\_lindroid](https://github.com/Linux-on-droid/vendor_lindroid) -
 *   [rive-app/rive-runtime](https://github.com/rive-app/rive-runtime) - Low-level C++ Rive runtime and renderer
 *   [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.
 *   [plv8/plv8](https://github.com/plv8/plv8) -  V8 Engine Javascript Procedural Language add-on for PostgreSQL
