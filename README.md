@@ -27,11 +27,11 @@
 *   [Lua](#lua)
 *   [Cuda](#cuda)
 *   [Smalltalk](#smalltalk)
+*   [MDX](#mdx)
 *   [PLpgSQL](#plpgsql)
 *   [Batchfile](#batchfile)
 *   [PowerShell](#powershell)
 *   [Groovy](#groovy)
-*   [MDX](#mdx)
 *   [CSS](#css)
 *   [Rich Text Format](#rich-text-format)
 *   [SCSS](#scss)
@@ -165,7 +165,6 @@
 *   [voideditor/void](https://github.com/voideditor/void) -
 *   [cline/cline](https://github.com/cline/cline) - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.
 *   [PlayForm/Format](https://github.com/PlayForm/Format) - 🗻 Format —
-*   [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Secure open source cloud runtime for AI apps & AI agents
 *   [wandb/openui](https://github.com/wandb/openui) - OpenUI let's you describe UI using your imagination, then see it rendered live.
 *   [StarlightLabsCo/starlightshire-server](https://github.com/StarlightLabsCo/starlightshire-server) -
 *   [Blocksmith-Labs/cardinal-staking](https://github.com/Blocksmith-Labs/cardinal-staking) - Cardinal staking encompasses a suite of contracts for issuing and staking NFTs and FTs on Solana. The simple program is a stake pool that tracks total stake duration and plugs into arbitrary reward distributors for rewarding staking.
@@ -2153,6 +2152,13 @@
 
 *   [codefrau/jasmine](https://github.com/codefrau/jasmine) - Croquet Jasmine (2004) on SqueakJS (WIP)
 
+## MDX
+
+*   [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Secure open source cloud runtime for AI apps & AI agents
+*   [mintlify/starter](https://github.com/mintlify/starter) - 📖 The starter kit for your Mintlify docs
+*   [spleafy/prismane-website](https://github.com/spleafy/prismane-website) -
+*   [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
+
 ## PLpgSQL
 
 *   [timescale/pgai](https://github.com/timescale/pgai) - A suite of tools to develop RAG, semantic search, and other AI applications more easily with PostgreSQL
@@ -2173,12 +2179,6 @@
 ## Groovy
 
 *   [NationalSecurityAgency/skills-service](https://github.com/NationalSecurityAgency/skills-service) - SkillTree is a micro-learning gamification platform supporting the rapid integration of a gamified tool training approach into new and existing applications.
-
-## MDX
-
-*   [mintlify/starter](https://github.com/mintlify/starter) - 📖 The starter kit for your Mintlify docs
-*   [spleafy/prismane-website](https://github.com/spleafy/prismane-website) -
-*   [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
 
 ## CSS
 
