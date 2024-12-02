@@ -376,7 +376,7 @@
 *   [molefrog/wouter](https://github.com/molefrog/wouter) - 🥢 A minimalist-friendly ~2.1KB routing for React and Preact
 *   [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) - Build your own second brain with supermemory. It's a ChatGPT for your bookmarks. Import tweets or save websites and content using the chrome extension.
 *   [vite-pwa/vite-plugin-pwa](https://github.com/vite-pwa/vite-plugin-pwa) - Zero-config PWA for Vite
-*   [vtempest/Serverless-DOCS-Stack](https://github.com/vtempest/Serverless-DOCS-Stack) - 💻⚒️ Serverless DOCS  (💧Drizzle 🔐OAuth ☁️ Cloudflare 🖼️ SvelteKit) - 🚀DEMO serverless-docs-stack.vtempest.workers.dev
+*   [vtempest/Svelte-DOCS-Starter](https://github.com/vtempest/Svelte-DOCS-Starter) - 💻⚒️ Svelte Serverless Starter DOCS  (💧Drizzle 🔐OAuth ☁️ Cloudflare 🖼️ SvelteKit) - 🚀DEMO serverless-docs-stack.vtempest.workers.dev
 *   [rafgraph/spa-github-pages](https://github.com/rafgraph/spa-github-pages) - Host single page apps with GitHub Pages
 *   [adamelliotfields/react-template](https://github.com/adamelliotfields/react-template) - React template with Bun, Vite, Biome, and more ⚛️
 *   [goniszewski/grimoire](https://github.com/goniszewski/grimoire) - Bookmark manager for the wizards 🧙
