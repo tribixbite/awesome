@@ -94,7 +94,7 @@
 *   [PygmalionAI/aphrodite-engine](https://github.com/PygmalionAI/aphrodite-engine) - Large-scale LLM inference engine
 *   [bentoml/OpenLLM](https://github.com/bentoml/OpenLLM) - Run any open-source LLMs, such as Llama, Mistral, as OpenAI compatible API endpoint in the cloud.
 *   [mrhan1993/Fooocus-API](https://github.com/mrhan1993/Fooocus-API) - FastAPI powered API for Fooocus
-*   [pytorch/torchtune](https://github.com/pytorch/torchtune) - PyTorch native finetuning library
+*   [pytorch/torchtune](https://github.com/pytorch/torchtune) - PyTorch native post-training library
 *   [pytorch/torchchat](https://github.com/pytorch/torchchat) - Run PyTorch LLMs locally on servers, desktop and mobile
 *   [Lightning-AI/pytorch-lightning](https://github.com/Lightning-AI/pytorch-lightning) - Pretrain, finetune ANY AI model of ANY size on multiple GPUs, TPUs with zero code changes.
 *   [sayakpaul/diffusers-torchao](https://github.com/sayakpaul/diffusers-torchao) - End-to-end recipes for optimizing diffusion models with torchao and diffusers (inference and FP8 training).
@@ -1262,7 +1262,7 @@
 *   [multiversx/mx-sdk-js-core](https://github.com/multiversx/mx-sdk-js-core) -  MultiversX SDK for interacting with the MultiversX blockchain (in general) and Smart Contracts (in particular).
 *   [multiversx/mx-sdk-js-wallet](https://github.com/multiversx/mx-sdk-js-wallet) - Core wallet components (generation, signing) for TypeScript (JavaScript).
 *   [reddit/devvit-sandbox](https://github.com/reddit/devvit-sandbox) - Devvit example apps and sketches not ready for production.
-*   [nrwl/nx](https://github.com/nrwl/nx) - Smart Monorepos · Fast CI
+*   [nrwl/nx](https://github.com/nrwl/nx) - Smart Monorepos · Fast CI - Build system, optimized for monorepos, with plugins for popular frameworks and tools and advanced CI capabilities including caching and distribution.
 *   [buttercup/buttercup-core](https://github.com/buttercup/buttercup-core) - :tophat: The mighty NodeJS password vault
 *   [BasedHardware/Whomane](https://github.com/BasedHardware/Whomane) - An open source wearable with camera
 *   [fedorerd/c-boxes](https://github.com/fedorerd/c-boxes) -
