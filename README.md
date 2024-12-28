@@ -691,7 +691,6 @@
 *   [Flagsmith/flagsmith](https://github.com/Flagsmith/flagsmith) - Open Source Feature Flagging and Remote Config Service. Host on-prem or use our hosted version at https://flagsmith.com/
 *   [ocrmypdf/OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF) - OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched
 *   [JosephLai241/URS](https://github.com/JosephLai241/URS) - Universal Reddit Scraper - A comprehensive Reddit scraping/archival command-line tool.
-*   [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI 🤖 PyPi: autogen-agentchat Discord: https://aka.ms/autogen-discord Office Hour: https://aka.ms/autogen-officehour
 *   [gojasper/flash-diffusion](https://github.com/gojasper/flash-diffusion) - ⚡ Flash Diffusion ⚡: Accelerating Any Conditional Diffusion Model for Few Steps Image Generation (AAAI 2025)
 *   [bendavid/aiopylgtv](https://github.com/bendavid/aiopylgtv) - Library to control webOS based LG Tv devices
 *   [e2b-dev/code-interpreter](https://github.com/e2b-dev/code-interpreter) - Python & JS/TS SDK for running AI-generated code/code interpreting in your AI app
@@ -1127,7 +1126,7 @@
 *   [multiversx/mx-sdk-js-core](https://github.com/multiversx/mx-sdk-js-core) -  MultiversX SDK for interacting with the MultiversX blockchain (in general) and Smart Contracts (in particular).
 *   [multiversx/mx-sdk-js-wallet](https://github.com/multiversx/mx-sdk-js-wallet) - Core wallet components (generation, signing) for TypeScript (JavaScript).
 *   [reddit/devvit-sandbox](https://github.com/reddit/devvit-sandbox) - Devvit example apps and sketches not ready for production.
-*   [nrwl/nx](https://github.com/nrwl/nx) - Smart Monorepos · Fast CI - Build system, optimized for monorepos, with plugins for popular frameworks and tools and advanced CI capabilities including caching and distribution.
+*   [nrwl/nx](https://github.com/nrwl/nx) - Build system, optimized for monorepos, with plugins for popular frameworks and tools and advanced CI capabilities including caching and distribution.
 *   [buttercup/buttercup-core](https://github.com/buttercup/buttercup-core) - :tophat: The mighty NodeJS password vault
 *   [BasedHardware/Whomane](https://github.com/BasedHardware/Whomane) - An open source wearable with camera
 *   [fedorerd/c-boxes](https://github.com/fedorerd/c-boxes) -
@@ -1630,7 +1629,7 @@
 *   [microsoft/SandDance](https://github.com/microsoft/SandDance) - Visually explore, understand, and present your data.
 *   [reactchartjs/react-chartjs-2](https://github.com/reactchartjs/react-chartjs-2) - React components for Chart.js, the most popular charting library
 *   [penrose/penrose](https://github.com/penrose/penrose) - Create beautiful diagrams just by typing notation in plain text.
-*   [thi-ng/umbrella](https://github.com/thi-ng/umbrella) - ⛱  Broadly scoped ecosystem & mono-repository of 199 TypeScript projects (and ~180 examples) for general purpose, functional, data driven development
+*   [thi-ng/umbrella](https://github.com/thi-ng/umbrella) - ⛱  Broadly scoped ecosystem & mono-repository of 200 TypeScript projects (and ~180 examples) for general purpose, functional, data driven development
 *   [nftstorage/metaplex-auth](https://github.com/nftstorage/metaplex-auth) - **Notice: Uploads Decommissioned - Existing Data is Safe!**  This is a client library designed for Metaplex NFT uploads to NFT.Storage.  June 2024 Update: No new uploads, but all existing data is safe. Try the new NFT.Storage, which preserves data in long term Filecoin storage for a small fee. Go to app.nft.storage
 *   [SimonHoiberg/saas-template](https://github.com/SimonHoiberg/saas-template) - SaaS template for AWS, Amplify, React, NextJS and Chakra
 *   [freeCodeCamp/100DaysOfCode-discord-bot](https://github.com/freeCodeCamp/100DaysOfCode-discord-bot) - A Discord bot created for the 100 Days of Code challenge.
@@ -2076,6 +2075,7 @@
 *   [dylanhogg/llmgraph](https://github.com/dylanhogg/llmgraph) - Create knowledge graphs with LLMs
 *   [BaranziniLab/KG\_RAG](https://github.com/BaranziniLab/KG_RAG) - Empower Large Language Models (LLM) using Knowledge Graph based Retrieval-Augmented Generation (KG-RAG) for knowledge intensive tasks
 *   [neo4j-labs/llm-graph-builder](https://github.com/neo4j-labs/llm-graph-builder) - Neo4j graph construction from unstructured data using LLMs
+*   [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI 🤖 PyPi: autogen-agentchat Discord: https://aka.ms/autogen-discord Office Hour: https://aka.ms/autogen-officehour
 *   [deepset-ai/haystack-cookbook](https://github.com/deepset-ai/haystack-cookbook) - 👩🏻‍🍳 A collection of example notebooks
 *   [anthropics/anthropic-cookbook](https://github.com/anthropics/anthropic-cookbook) - A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
 *   [mshumer/ai-journalist](https://github.com/mshumer/ai-journalist) -
