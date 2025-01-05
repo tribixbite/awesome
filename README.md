@@ -661,7 +661,6 @@
 *   [mhnpd/react-loader-spinner](https://github.com/mhnpd/react-loader-spinner) - Collection sets of a spinners for async operations for ReactJS
 *   [danilowoz/react-content-loader](https://github.com/danilowoz/react-content-loader) - ⚪ SVG-Powered component to easily create skeleton loadings.
 *   [klendi/react-top-loading-bar](https://github.com/klendi/react-top-loading-bar) - A very simple, highly customisable youtube-like react loader component.
-*   [JoshK2/react-spinners-css](https://github.com/JoshK2/react-spinners-css) - Amazing collection of React spinners components with pure css
 *   [stesel/react-frame-rate](https://github.com/stesel/react-frame-rate) - Create smooth animation in React components with ~60FPS.
 *   [fatiiates/rest-w-nextjs](https://github.com/fatiiates/rest-w-nextjs) - Next.js ile basit bir RESTful API uygulaması
 *   [apideck-samples/file-picker](https://github.com/apideck-samples/file-picker) - A sample project to showcase the React File Picker component
@@ -1054,7 +1053,7 @@
 *   [IntelligenzaArtificiale/Free-Auto-GPT](https://github.com/IntelligenzaArtificiale/Free-Auto-GPT) - Free Auto GPT with NO paids API is a repository that offers a simple version of Auto GPT, an autonomous AI agent capable of performing tasks independently. Unlike other versions, our implementation does not rely on any paid OpenAI API, making it accessible to anyone.
 *   [Vision-CAIR/MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4) - Open-sourced codes for MiniGPT-4 and MiniGPT-v2 (https://minigpt-4.github.io, https://minigpt-v2.github.io/)
 *   [ading2210/openplayground-api](https://github.com/ading2210/openplayground-api) - A reverse engineered Python API wrapper for OpenPlayground (nat.dev)
-*   [RockChinQ/LangBot](https://github.com/RockChinQ/LangBot) - \[WebUI Beta 测试✨]  😎高稳定、🧩支持扩展、🦄多模态的 ChatGPT QQ / QQ频道 / One Bot 机器人🤖 | 支持 OpenAI GPT、Dify、Claude、Gemini、gpt4free、Ollama、Gitee AI、DeepSeek、Moonshot 等 LLM 的 QQ / QQ频道 / OneBot 机器人 / Agent 平台；原名 QChatGPT
+*   [RockChinQ/LangBot](https://github.com/RockChinQ/LangBot) - 😎高稳定、🧩支持扩展、🦄多模态的 ChatGPT QQ / QQ频道 / One Bot 机器人🤖 | 支持 OpenAI GPT、Dify、Claude、Gemini、gpt4free、Ollama、Gitee AI、DeepSeek、Moonshot、xAI 等 LLM 的 QQ / QQ频道 / OneBot 机器人 / Agent 平台；原名 QChatGPT
 *   [irgolic/AutoPR](https://github.com/irgolic/AutoPR) - Run AI-powered workflows over your codebase
 *   [F33RNI/GPT-Telegramus](https://github.com/F33RNI/GPT-Telegramus) - 💜 The best free Telegram bot for ChatGPT, Microsoft Copilot (aka Bing AI / Sidney / EdgeGPT), Microsoft Copilot Designer (aka BingImageCreator), Gemini and Groq with stream writing, requests with images, multiple languages, admin control, data logging and more!
 *   [OpenInterpreter/open-interpreter](https://github.com/OpenInterpreter/open-interpreter) - A natural language interface for computers
@@ -2151,6 +2150,7 @@
 *   [Amoenus/SwaggerDark](https://github.com/Amoenus/SwaggerDark) - CSS with dark theme for SwaggerUI
 *   [AndrewPrifer/CodropsCameraFlyThroughTutorial](https://github.com/AndrewPrifer/CodropsCameraFlyThroughTutorial) -
 *   [nakov/Practical-Cryptography-for-Developers-Book](https://github.com/nakov/Practical-Cryptography-for-Developers-Book) - Practical Cryptography for Developers: Hashes, MAC, Key Derivation, DHKE, Symmetric and Asymmetric Ciphers, Public Key Cryptosystems, RSA, Elliptic Curves, ECC, secp256k1, ECDH, ECIES, Digital Signatures, ECDSA, EdDSA
+*   [JoshK2/react-spinners-css](https://github.com/JoshK2/react-spinners-css) - Amazing collection of React spinners components with pure css
 *   [jonjaques/react-loaders](https://github.com/jonjaques/react-loaders) - Lightweight wrapper around Loaders.css.
 *   [animate-css/animate.css](https://github.com/animate-css/animate.css) - 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.
 *   [primefaces/primereact](https://github.com/primefaces/primereact) - The Most Complete React UI Component Library
