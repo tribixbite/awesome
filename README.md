@@ -18,6 +18,7 @@
 *   [Java](#java)
 *   [HTML](#html)
 *   [C++](#c-2)
+*   [MDX](#mdx)
 *   [CSS](#css)
 *   [Svelte](#svelte)
 *   [Cuda](#cuda)
@@ -33,7 +34,6 @@
 *   [PLpgSQL](#plpgsql)
 *   [Batchfile](#batchfile)
 *   [Groovy](#groovy)
-*   [MDX](#mdx)
 *   [Rich Text Format](#rich-text-format)
 *   [SCSS](#scss)
 *   [Dockerfile](#dockerfile)
@@ -415,7 +415,6 @@
 *   [sendaifun/solana-agent-kit](https://github.com/sendaifun/solana-agent-kit) - connect any ai agents to solana protocols
 *   [anza-xyz/solana-web3.js](https://github.com/anza-xyz/solana-web3.js) - Solana JavaScript SDK
 *   [solana-developers/mucho](https://github.com/solana-developers/mucho) -
-*   [openauthjs/openauth](https://github.com/openauthjs/openauth) - ▦ Universal, standards-based auth provider.
 *   [xcaptain/solana-wallet-svelte](https://github.com/xcaptain/solana-wallet-svelte) - solana wallet demo
 *   [BuilderIO/micro-agent](https://github.com/BuilderIO/micro-agent) - An AI agent that writes (actually useful) code for you
 *   [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
@@ -2151,6 +2150,13 @@
 *   [projectM-visualizer/projectm](https://github.com/projectM-visualizer/projectm) - projectM - Cross-platform Music Visualization Library. Open-source and Milkdrop-compatible.
 *   [x64dbg/x64dbg](https://github.com/x64dbg/x64dbg) - An open-source user mode debugger for Windows. Optimized for reverse engineering and malware analysis.
 
+## MDX
+
+*   [openauthjs/openauth](https://github.com/openauthjs/openauth) - ▦ Universal, standards-based auth provider.
+*   [mintlify/starter](https://github.com/mintlify/starter) - 📖 The starter kit for your Mintlify docs
+*   [spleafy/prismane-website](https://github.com/spleafy/prismane-website) -
+*   [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
+
 ## CSS
 
 *   [persys-ai/persys-desktop](https://github.com/persys-ai/persys-desktop) - Persys desktop. Electron based application to access your Persys server.
@@ -2300,12 +2306,6 @@
 ## Groovy
 
 *   [NationalSecurityAgency/skills-service](https://github.com/NationalSecurityAgency/skills-service) - SkillTree is a micro-learning gamification platform supporting the rapid integration of a gamified tool training approach into new and existing applications.
-
-## MDX
-
-*   [mintlify/starter](https://github.com/mintlify/starter) - 📖 The starter kit for your Mintlify docs
-*   [spleafy/prismane-website](https://github.com/spleafy/prismane-website) -
-*   [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
 
 ## Rich Text Format
 
