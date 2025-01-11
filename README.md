@@ -4,13 +4,13 @@
 
 ## Table of Contents
 
+*   [Jupyter Notebook](#jupyter-notebook)
 *   [C++](#c)
 *   [TypeScript](#typescript)
 *   [Python](#python)
 *   [Dart](#dart)
 *   [PowerShell](#powershell)
 *   [Shell](#shell)
-*   [Jupyter Notebook](#jupyter-notebook)
 *   [C#](#c-1)
 *   [Go](#go)
 *   [C](#c-2)
@@ -60,6 +60,39 @@
 *   [Visual Basic .NET](#visual-basic-net)
 *   [R](#r)
 *   [Clojure](#clojure)
+
+## Jupyter Notebook
+
+*   [artidoro/qlora](https://github.com/artidoro/qlora) - QLoRA: Efficient Finetuning of Quantized LLMs
+*   [microsoft/RecAI](https://github.com/microsoft/RecAI) - Bridging LLM and Recommender System.
+*   [facebookresearch/sam2](https://github.com/facebookresearch/sam2) - The repository provides code for running inference with the Meta Segment Anything Model 2 (SAM 2), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.
+*   [facebookresearch/segment-anything](https://github.com/facebookresearch/segment-anything) - The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.
+*   [ag2ai/ag2](https://github.com/ag2ai/ag2) - AG2 (formerly AutoGen): The Open-Source AgentOS. Join us at: https://discord.gg/pAbnFJrkgZ
+*   [oyvindln/vhs-decode](https://github.com/oyvindln/vhs-decode) - Software defined VHS decoder - Fork (maybe temporary) of the ld-decode Laserdisc rf decoder
+*   [soon-yau/visconet](https://github.com/soon-yau/visconet) - Official Repo of ViscoNet: Bridging and Harmonizing Visual and Textual Conditioning for ControlNet
+*   [wiseaidev/rust-web3-solana](https://github.com/wiseaidev/rust-web3-solana) -  Rust For Web3 and Solana Development Encyclopedia 🌐 (WIP)
+*   [julep-ai/julep](https://github.com/julep-ai/julep) - A new DSL and server for AI agents and multi-step tasks
+*   [aiplanethub/beyondllm](https://github.com/aiplanethub/beyondllm) - Build, evaluate and observe LLM apps
+*   [dylanhogg/llmgraph](https://github.com/dylanhogg/llmgraph) - Create knowledge graphs with LLMs
+*   [BaranziniLab/KG\_RAG](https://github.com/BaranziniLab/KG_RAG) - Empower Large Language Models (LLM) using Knowledge Graph based Retrieval-Augmented Generation (KG-RAG) for knowledge intensive tasks
+*   [neo4j-labs/llm-graph-builder](https://github.com/neo4j-labs/llm-graph-builder) - Neo4j graph construction from unstructured data using LLMs
+*   [deepset-ai/haystack-cookbook](https://github.com/deepset-ai/haystack-cookbook) - 👩🏻‍🍳 A collection of example notebooks
+*   [anthropics/anthropic-cookbook](https://github.com/anthropics/anthropic-cookbook) - A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
+*   [mshumer/ai-journalist](https://github.com/mshumer/ai-journalist) -
+*   [Stability-AI/StableLM](https://github.com/Stability-AI/StableLM) - StableLM: Stability AI Language Models
+*   [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
+*   [qunash/stable-diffusion-2-gui](https://github.com/qunash/stable-diffusion-2-gui) - Lightweight Stable Diffusion v 2.1 web UI: txt2img, img2img, depth2img, inpaint and upscale4x.
+*   [cloneofsimo/paint-with-words-sd](https://github.com/cloneofsimo/paint-with-words-sd) - Implementation of Paint-with-words with Stable Diffusion : method from eDiff-I that let you generate image from text-labeled segmentation map.
+*   [WongKinYiu/yolov7](https://github.com/WongKinYiu/yolov7) - Implementation of paper - YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors
+*   [karpathy/nn-zero-to-hero](https://github.com/karpathy/nn-zero-to-hero) - Neural Networks: Zero to Hero
+*   [victordibia/peacasso](https://github.com/victordibia/peacasso) - UI interface for experimenting with multimodal (text, image) models (stable diffusion).
+*   [google-deepmind/deepmind-research](https://github.com/google-deepmind/deepmind-research) - This repository contains implementations and illustrative code to accompany DeepMind publications
+*   [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
+*   [alembics/disco-diffusion](https://github.com/alembics/disco-diffusion) -
+*   [RuolinZheng08/twewy-discord-chatbot](https://github.com/RuolinZheng08/twewy-discord-chatbot) - Discord AI Chatbot using DialoGPT, trained on the game transcript of The World Ends With You
+*   [benyaminahmed/nft-image-generator](https://github.com/benyaminahmed/nft-image-generator) -
+*   [PacktPublishing/Machine-Learning-for-Algorithmic-Trading-Second-Edition\_Original](https://github.com/PacktPublishing/Machine-Learning-for-Algorithmic-Trading-Second-Edition_Original) - Machine Learning for Algorithmic Trading, Second Edition - published by Packt
+*   [dapperfu/python\_Meijer](https://github.com/dapperfu/python_Meijer) - Reverse engineered API for Meijer's Shopping List.
 
 ## C++
 
@@ -1268,7 +1301,7 @@
 *   [lastmile-ai/llama-retrieval-plugin](https://github.com/lastmile-ai/llama-retrieval-plugin) - LLaMa retrieval plugin script using OpenAI's retrieval plugin
 *   [Jacksgong/webp-converter](https://github.com/Jacksgong/webp-converter) - Converter PNG/JPG to Webp and scan all changes
 *   [openai/evals](https://github.com/openai/evals) - Evals is a framework for evaluating LLMs and LLM systems, and an open-source registry of benchmarks.
-*   [run-llama/llama\_index](https://github.com/run-llama/llama_index) - LlamaIndex is a data framework for your LLM applications
+*   [run-llama/llama\_index](https://github.com/run-llama/llama_index) - LlamaIndex is the leading framework for building LLM-powered agents over your data
 *   [openai/tiktoken](https://github.com/openai/tiktoken) - tiktoken is a fast BPE tokeniser for use with OpenAI's models.
 *   [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) - Making large AI models cheaper, faster and more accessible
 *   [Logicwax/gpg-hd](https://github.com/Logicwax/gpg-hd) - A BIP-39 / seed-phrase / brain-wallet based Hierarchical Deterministic GPG / SSH key generator that also provisions OpenPGP smartcards for easy key backup and recovery.
@@ -1390,38 +1423,6 @@
 *   [CryptoManufaktur-io/solana-rpc](https://github.com/CryptoManufaktur-io/solana-rpc) - Solana RPC only node with traefik
 *   [d3/d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar\_chart::chart\_with\_upwards\_trend::tada:
 *   [TheFrenchGhosty/TheFrenchGhostys-Ultimate-YouTube-DL-Scripts-Collection](https://github.com/TheFrenchGhosty/TheFrenchGhostys-Ultimate-YouTube-DL-Scripts-Collection) - The ultimate collection of scripts for YouTube-DL.
-
-## Jupyter Notebook
-
-*   [microsoft/RecAI](https://github.com/microsoft/RecAI) - Bridging LLM and Recommender System.
-*   [facebookresearch/sam2](https://github.com/facebookresearch/sam2) - The repository provides code for running inference with the Meta Segment Anything Model 2 (SAM 2), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.
-*   [facebookresearch/segment-anything](https://github.com/facebookresearch/segment-anything) - The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.
-*   [ag2ai/ag2](https://github.com/ag2ai/ag2) - AG2 (formerly AutoGen): The Open-Source AgentOS. Join us at: https://discord.gg/pAbnFJrkgZ
-*   [oyvindln/vhs-decode](https://github.com/oyvindln/vhs-decode) - Software defined VHS decoder - Fork (maybe temporary) of the ld-decode Laserdisc rf decoder
-*   [soon-yau/visconet](https://github.com/soon-yau/visconet) - Official Repo of ViscoNet: Bridging and Harmonizing Visual and Textual Conditioning for ControlNet
-*   [wiseaidev/rust-web3-solana](https://github.com/wiseaidev/rust-web3-solana) -  Rust For Web3 and Solana Development Encyclopedia 🌐 (WIP)
-*   [julep-ai/julep](https://github.com/julep-ai/julep) - A new DSL and server for AI agents and multi-step tasks
-*   [aiplanethub/beyondllm](https://github.com/aiplanethub/beyondllm) - Build, evaluate and observe LLM apps
-*   [dylanhogg/llmgraph](https://github.com/dylanhogg/llmgraph) - Create knowledge graphs with LLMs
-*   [BaranziniLab/KG\_RAG](https://github.com/BaranziniLab/KG_RAG) - Empower Large Language Models (LLM) using Knowledge Graph based Retrieval-Augmented Generation (KG-RAG) for knowledge intensive tasks
-*   [neo4j-labs/llm-graph-builder](https://github.com/neo4j-labs/llm-graph-builder) - Neo4j graph construction from unstructured data using LLMs
-*   [deepset-ai/haystack-cookbook](https://github.com/deepset-ai/haystack-cookbook) - 👩🏻‍🍳 A collection of example notebooks
-*   [anthropics/anthropic-cookbook](https://github.com/anthropics/anthropic-cookbook) - A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
-*   [mshumer/ai-journalist](https://github.com/mshumer/ai-journalist) -
-*   [Stability-AI/StableLM](https://github.com/Stability-AI/StableLM) - StableLM: Stability AI Language Models
-*   [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
-*   [qunash/stable-diffusion-2-gui](https://github.com/qunash/stable-diffusion-2-gui) - Lightweight Stable Diffusion v 2.1 web UI: txt2img, img2img, depth2img, inpaint and upscale4x.
-*   [cloneofsimo/paint-with-words-sd](https://github.com/cloneofsimo/paint-with-words-sd) - Implementation of Paint-with-words with Stable Diffusion : method from eDiff-I that let you generate image from text-labeled segmentation map.
-*   [WongKinYiu/yolov7](https://github.com/WongKinYiu/yolov7) - Implementation of paper - YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors
-*   [karpathy/nn-zero-to-hero](https://github.com/karpathy/nn-zero-to-hero) - Neural Networks: Zero to Hero
-*   [victordibia/peacasso](https://github.com/victordibia/peacasso) - UI interface for experimenting with multimodal (text, image) models (stable diffusion).
-*   [google-deepmind/deepmind-research](https://github.com/google-deepmind/deepmind-research) - This repository contains implementations and illustrative code to accompany DeepMind publications
-*   [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
-*   [alembics/disco-diffusion](https://github.com/alembics/disco-diffusion) -
-*   [RuolinZheng08/twewy-discord-chatbot](https://github.com/RuolinZheng08/twewy-discord-chatbot) - Discord AI Chatbot using DialoGPT, trained on the game transcript of The World Ends With You
-*   [benyaminahmed/nft-image-generator](https://github.com/benyaminahmed/nft-image-generator) -
-*   [PacktPublishing/Machine-Learning-for-Algorithmic-Trading-Second-Edition\_Original](https://github.com/PacktPublishing/Machine-Learning-for-Algorithmic-Trading-Second-Edition_Original) - Machine Learning for Algorithmic Trading, Second Edition - published by Packt
-*   [dapperfu/python\_Meijer](https://github.com/dapperfu/python_Meijer) - Reverse engineered API for Meijer's Shopping List.
 
 ## C\#
 
@@ -2123,7 +2124,6 @@
 *   [azesmway/react-native-unity](https://github.com/azesmway/react-native-unity) -
 *   [LuigiVampa92/XLogger](https://github.com/LuigiVampa92/XLogger) - Xposed module that allows to sniff and record logs of NFC and Bluetooth communication on device
 *   [xtclang/xvm](https://github.com/xtclang/xvm) - Ecstasy and XVM
-*   [RBWare/Glass-App-Manager](https://github.com/RBWare/Glass-App-Manager) - Simple app manager for Google Glass
 
 ## HTML
 
