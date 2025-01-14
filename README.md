@@ -2178,7 +2178,7 @@
 ## CSS
 
 *   [persys-ai/persys-desktop](https://github.com/persys-ai/persys-desktop) - Persys desktop. Electron based application to access your Persys server.
-*   [ParisNeo/lollms-webui](https://github.com/ParisNeo/lollms-webui) - Lord of Large Language Models Web User Interface
+*   [ParisNeo/lollms-webui](https://github.com/ParisNeo/lollms-webui) - Lord of Large Language and Multi modal Systems Web User Interface
 *   [adi1090x/termux-desktop](https://github.com/adi1090x/termux-desktop) - Setup A Beautiful Desktop/GUI In Termux
 *   [qudo-code/just-fac-it](https://github.com/qudo-code/just-fac-it) -
 *   [HeorhiiZemlianko/3D-Layer-Image-Hover-Effect](https://github.com/HeorhiiZemlianko/3D-Layer-Image-Hover-Effect) - This program implements a simple scheme for implementing a 3D hover effect with overlaying shadows on an object. This screenshot was taken from a design that was developed for a fitness app. Link to the design of this project: Behance
