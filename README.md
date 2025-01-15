@@ -440,7 +440,7 @@
 
 *   [k3d3/claude-desktop-linux-flake](https://github.com/k3d3/claude-desktop-linux-flake) - Nix Flake for Claude Desktop on Linux
 *   [metaplex-foundation/mpl-hybrid](https://github.com/metaplex-foundation/mpl-hybrid) - The hybrids program powering the MPL-404 standard
-*   [trailbaseio/trailbase](https://github.com/trailbaseio/trailbase) - A blazingly fast, open-source application server with type-safe APIs, built-in JS/ES6/TS Runtime, Auth, and Admin UI built on Rust, SQLite & V8.
+*   [trailbaseio/trailbase](https://github.com/trailbaseio/trailbase) - A blazingly fast, open-source application server with type-safe APIs, built-in JS/ES6/TS runtime, realtime, auth, and admin UI built on Rust, SQLite & V8.
 *   [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 *   [itzmeanjan/kangarootwelve](https://github.com/itzmeanjan/kangarootwelve) - BlaKE12: Blazing-fast KEccak on 12 rounds
 *   [keithnoguchi/multisig-lite](https://github.com/keithnoguchi/multisig-lite) - Native SOL multisig wallet for Solana Blockchain
@@ -854,7 +854,7 @@
 *   [cyberconnecthq/cyberconnect-v2](https://github.com/cyberconnecthq/cyberconnect-v2) - CyberConnect official v2 SDK
 *   [supabase-community/nextjs-openai-doc-search](https://github.com/supabase-community/nextjs-openai-doc-search) - Template for building your own custom ChatGPT style doc search powered by Next.js, OpenAI, and Supabase.
 *   [supabase-community/deno-fresh-openai-doc-search](https://github.com/supabase-community/deno-fresh-openai-doc-search) - Template for building your own custom ChatGPT style doc search powered by Fresh, Deno, OpenAI, and Supabase.
-*   [rmourey26/onyx](https://github.com/rmourey26/onyx) -  Full stack NextJS 14, Supabase SSR Auth & PostgreSQL DB, TanStack React Query, Rust serverless API, React Hook Form, Zod , 'A' Security Headers Score, RBAC, Resend,CRUD operations, Shadcn-UI, admin dashboard, OpenAI playground, and more. Fork and get your MVP running in days.
+*   [rmourey26/onyx](https://github.com/rmourey26/onyx) - Full stack NextJS 14 Supabase SSR Auth & PostgreSQL DB, TanStack React Query, Rust runtime serverless API ready, React Hook Form, Zod , 'A' Security Headers Score, RBAC, Resend,CRUD operations, Shadcn-UI, admin dashboard, OpenAI playground, and more. Deploy on Vercel and get your scalable MVP running in days.
 *   [RicardoGEsteves/omniscient](https://github.com/RicardoGEsteves/omniscient) - Cutting-edge Full-stack AI Platform delivered as a SaaS (Software as a Service). Built on a robust technology stack, integrated with powerful APIs such as OpenAI and Replicate, offers a seamless experience for code generation, conversation simulation, image creation, music composition, and video generation.
 *   [abdfnx/botway](https://github.com/abdfnx/botway) - 🤖 Generate, build, handle and deploy your own Bot with your favorite language, for Discord, or Telegram, or even Slack
 *   [aspen-cloud/triplit](https://github.com/aspen-cloud/triplit) - A full-stack, syncing database that runs on both server and client. Pluggable storage (indexeddb, sqlite, durable objects), syncs over websockets, and works with your favorite framework (React, Solid, Vue, Svelte).
