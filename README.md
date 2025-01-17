@@ -246,7 +246,7 @@
 *   [dolph/dictionary](https://github.com/dolph/dictionary) - A list of the most popular English words.
 *   [lancedb/lancedb](https://github.com/lancedb/lancedb) - Developer-friendly, serverless vector database for AI applications. Easily add long-term memory to your LLM apps!
 *   [jw782cn/RepoChat-200k](https://github.com/jw782cn/RepoChat-200k) - ⚡Chat with GitHub Repo Using 200k context window of Claude instead of RAG!⚡
-*   [jakobdylanc/llmcord](https://github.com/jakobdylanc/llmcord) - Make Discord your LLM frontend. Supports any OpenAI compatible API (Ollama, LM Studio, vLLM, OpenRouter, xAI, Mistral, Groq and more)
+*   [jakobdylanc/llmcord](https://github.com/jakobdylanc/llmcord) - Make Discord your LLM frontend ● Supports any OpenAI compatible API (Ollama, LM Studio, vLLM, OpenRouter, xAI, Mistral, Groq and more)
 *   [anthropics/anthropic-tools](https://github.com/anthropics/anthropic-tools) -
 *   [jimmc414/onefilellm](https://github.com/jimmc414/onefilellm) - Specify a github or local repo, github pull request,  arXiv or Sci-Hub paper, Youtube transcript or documentation URL on the web and scrape into a text file and clipboard  for easier LLM ingestion
 *   [Reddidgy/RepoToTextForLLMs](https://github.com/Reddidgy/RepoToTextForLLMs) - Automate the analysis of GitHub repositories for LLMs with RepoToTextForLLMs. Fetch READMEs, structure, and non-binary files efficiently. Outputs include analysis prompts to aid in comprehensive repo evaluation
@@ -406,7 +406,7 @@
 *   [Nutlope/llama-ocr](https://github.com/Nutlope/llama-ocr) - Document to Markdown OCR library with Llama 3.2 vision
 *   [Nutlope/aicommits](https://github.com/Nutlope/aicommits) - A CLI that writes your git commit messages for you with AI
 *   [Nutlope/roomGPT](https://github.com/Nutlope/roomGPT) - Upload a photo of your room to generate your dream room with AI.
-*   [osanseviero/geminiCoder](https://github.com/osanseviero/geminiCoder) - Create apps with Gemini
+*   [osanseviero/GemCoder](https://github.com/osanseviero/GemCoder) - Create apps with Gemini
 *   [obot-platform/obot](https://github.com/obot-platform/obot) - Open source AI Agent Platform
 *   [mui/base-ui](https://github.com/mui/base-ui) - Base UI is an open-source library of accessible, unstyled UI components for React.
 *   [sendaifun/solana-agent-kit](https://github.com/sendaifun/solana-agent-kit) - connect any ai agents to solana protocols
@@ -729,7 +729,7 @@
 *   [TerribleDev/example-ts-cli](https://github.com/TerribleDev/example-ts-cli) - An example repo of a CLI built with typescript, esbuild, commander, and ora
 *   [privatenumber/tsx](https://github.com/privatenumber/tsx) - ⚡️ TypeScript Execute | The easiest way to run TypeScript in Node.js
 *   [jordaaash/typescript-monorepo](https://github.com/jordaaash/typescript-monorepo) - A minimal, fast monorepo template for TypeScript (and React) projects with hot module reloading
-*   [nextui-org/nextui](https://github.com/nextui-org/nextui) - 🚀   Beautiful, fast and modern React UI library.
+*   [frontio-ai/heroui](https://github.com/frontio-ai/heroui) - 🚀 Beautiful, fast and modern React UI library.
 *   [StefanTerdell/zod-to-json-schema](https://github.com/StefanTerdell/zod-to-json-schema) - Converts Zod schemas to Json schemas
 *   [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Continue is the leading open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside VS Code and JetBrains
 *   [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open framework for building developer portals
