@@ -1107,7 +1107,7 @@
 *   [njbrown/texturelab](https://github.com/njbrown/texturelab) - Free, Cross-Platform, GPU-Accelerated Procedural Texture Generator
 *   [ReactUnity/renderer](https://github.com/ReactUnity/renderer) - React reconciler implementation for React Unity, including Typescript definitions
 *   [leerob/react2025](https://github.com/leerob/react2025) - ⚛️ Build applications from the the future, today.
-*   [kahlil/dark](https://github.com/kahlil/dark) - An opinionated, dark-themed Next.js & Chakra UI GitHub repository template.
+*   [khalillechelt/dark](https://github.com/khalillechelt/dark) - An opinionated, dark-themed Next.js & Chakra UI GitHub repository template.
 *   [project-serum/serum-dex-ui](https://github.com/project-serum/serum-dex-ui) - Example implementation of a UI for the Serum DEX
 *   [21e8/cryptostraps.tools](https://github.com/21e8/cryptostraps.tools) - Toolset of Solana tech
 *   [Web3Auth/Auth](https://github.com/Web3Auth/Auth) - Pluggable auth infrastructure for Web3 wallets and dapps
