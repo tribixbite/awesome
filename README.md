@@ -424,7 +424,7 @@
 *   [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
 *   [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev is the open source background jobs platform.
 *   [trankhacvy/solana-nextjs-starter](https://github.com/trankhacvy/solana-nextjs-starter) - A Solana-powered Next.js boilerplate app for building efficient and scalable web applications.
-*   [painedpineapple/cnft-solana-scripts](https://github.com/painedpineapple/cnft-solana-scripts) -
+*   [logandeancall/cnft-solana-scripts](https://github.com/logandeancall/cnft-solana-scripts) -
 *   [qudo-code/compressed-bananas](https://github.com/qudo-code/compressed-bananas) -
 *   [helius-labs/helius-sdk](https://github.com/helius-labs/helius-sdk) -
 *   [solana-developers/compressed-nfts](https://github.com/solana-developers/compressed-nfts) - Example code to use compressed NFTs (using state compression) on Solana
