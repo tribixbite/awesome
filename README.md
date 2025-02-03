@@ -1559,7 +1559,7 @@
 *   [HigherOrderCO/Bend](https://github.com/HigherOrderCO/Bend) - A massively parallel, high-level programming language
 *   [sevenlabs-hq/carbon](https://github.com/sevenlabs-hq/carbon) - Carbon is an indexing framework on Solana.
 *   [sayantn/keccak-rs](https://github.com/sayantn/keccak-rs) - A fast library for the Keccak-p permutation
-*   [KermanX/tree-shaker](https://github.com/KermanX/tree-shaker) - 🌳🪚 An experimental tree shaker for JS based on Oxc (WIP)
+*   [kermanx/tree-shaker](https://github.com/kermanx/tree-shaker) - 🌳🪚 An experimental tree shaker for JS based on Oxc (WIP)
 *   [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
 *   [marhkb/pods](https://github.com/marhkb/pods) - Keep track of your podman containers
 *   [LimeChain/zest](https://github.com/LimeChain/zest) - Limechain Solana Code Coverage CLI
