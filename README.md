@@ -63,6 +63,7 @@
 
 ## Python
 
+*   [plurai-ai/intellagent](https://github.com/plurai-ai/intellagent) - A framework for comprehensive diagnosis and optimization of agents using simulated, realistic synthetic interactions
 *   [sgl-project/sglang](https://github.com/sgl-project/sglang) - SGLang is a fast serving framework for large language models and vision language models.
 *   [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) - The simplest, fastest repository for training/finetuning medium-sized GPTs.
 *   [microsoft/unilm](https://github.com/microsoft/unilm) - Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities
@@ -93,7 +94,7 @@
 *   [bgorlick/getai](https://github.com/bgorlick/getai) - GetAI - The Easiest to Use AI Model Search & Download API and Interactive Console Tool
 *   [huggingface/smolagents](https://github.com/huggingface/smolagents) - 🤗 smolagents: a barebones library for agents. Agents write python code to call tools and orchestrate other agents.
 *   [ai-robots-txt/ai.robots.txt](https://github.com/ai-robots-txt/ai.robots.txt) - A list of AI agents and robots to block.
-*   [guestrin-lab/lotus](https://github.com/guestrin-lab/lotus) - LOTUS: A semantic query engine for fast and easy LLM-powered data processing
+*   [lotus-data/lotus](https://github.com/lotus-data/lotus) - LOTUS: A semantic query engine for fast and easy LLM-powered data processing
 *   [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 *   [jahwag/ClaudeSync](https://github.com/jahwag/ClaudeSync) - ClaudeSync is a Python tool that automates the synchronization of local files with Claude.ai Projects
 *   [SigmaNight/basiliskLLM](https://github.com/SigmaNight/basiliskLLM) - 🐍 Where LLMs Unite
@@ -232,7 +233,7 @@
 *   [huggingface/autotrain-advanced](https://github.com/huggingface/autotrain-advanced) - 🤗 AutoTrain Advanced
 *   [zhangzhejian/codeinterpreter-codebox](https://github.com/zhangzhejian/codeinterpreter-codebox) - Easy to deploy.A cloud service for python code interpreter sandbox for Code-Interpreter.
 *   [llm-platform-security/SecGPT](https://github.com/llm-platform-security/SecGPT) - An Execution Isolation Architecture for LLM-Based Agentic Systems
-*   [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - The open source Tines / Splunk SOAR alternative for security and IT engineers. Built on a simple YAML-based DSL for integrations and response-as-code.
+*   [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - The open source Tines / Splunk SOAR alternative for security and IT engineers. Built on simple YAML templates for integrations and response-as-code.
 *   [truefoundry/cognita](https://github.com/truefoundry/cognita) - RAG (Retrieval Augmented Generation) Framework for building modular, open source applications for production by TrueFoundry
 *   [Chainlit/chainlit](https://github.com/Chainlit/chainlit) - Build Conversational AI in minutes ⚡️
 *   [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache) - Semantic cache for LLMs. Fully integrated with LangChain and llama\_index.
@@ -357,7 +358,7 @@
 *   [AutodeskAILab/Clip-Forge](https://github.com/AutodeskAILab/Clip-Forge) -
 *   [wangerzi/3d-model-convert-to-gltf](https://github.com/wangerzi/3d-model-convert-to-gltf) - Convert 3d model (STL/IGES/STEP/OBJ/FBX) to gltf and compression
 *   [wanadev/yoga](https://github.com/wanadev/yoga) - Converts and optimizes images and 3D models
-*   [microsoft/DeepSpeed](https://github.com/microsoft/DeepSpeed) - DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.
+*   [deepspeedai/DeepSpeed](https://github.com/deepspeedai/DeepSpeed) - DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.
 *   [tubearchivist/tubearchivist](https://github.com/tubearchivist/tubearchivist) - Your self hosted YouTube media server
 *   [3ct0s/eclipse-grabber](https://github.com/3ct0s/eclipse-grabber) - Generate Discord Token Grabbers for both Windows and MacOS
 *   [newsbubbles/GrowF](https://github.com/newsbubbles/GrowF) - Grow Function: A 3D Stacked Bifurcating Double Deep Cellular Automata which differentiates using a Genetic Algorithm... TLDR;High Def Trees that you can mint as NFTs on Solana
@@ -2047,7 +2048,6 @@
 *   [alembics/disco-diffusion](https://github.com/alembics/disco-diffusion) -
 *   [RuolinZheng08/twewy-discord-chatbot](https://github.com/RuolinZheng08/twewy-discord-chatbot) - Discord AI Chatbot using DialoGPT, trained on the game transcript of The World Ends With You
 *   [benyaminahmed/nft-image-generator](https://github.com/benyaminahmed/nft-image-generator) -
-*   [PacktPublishing/Machine-Learning-for-Algorithmic-Trading-Second-Edition\_Original](https://github.com/PacktPublishing/Machine-Learning-for-Algorithmic-Trading-Second-Edition_Original) - Machine Learning for Algorithmic Trading, Second Edition - published by Packt
 
 ## PowerShell
 
