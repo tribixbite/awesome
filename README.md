@@ -174,7 +174,7 @@
 *   [IntelligenzaArtificiale/Free-Auto-GPT](https://github.com/IntelligenzaArtificiale/Free-Auto-GPT) - Free Auto GPT with NO paids API is a repository that offers a simple version of Auto GPT, an autonomous AI agent capable of performing tasks independently. Unlike other versions, our implementation does not rely on any paid OpenAI API, making it accessible to anyone.
 *   [Vision-CAIR/MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4) - Open-sourced codes for MiniGPT-4 and MiniGPT-v2 (https://minigpt-4.github.io, https://minigpt-v2.github.io/)
 *   [ading2210/openplayground-api](https://github.com/ading2210/openplayground-api) - A reverse engineered Python API wrapper for OpenPlayground (nat.dev)
-*   [RockChinQ/LangBot](https://github.com/RockChinQ/LangBot) - 😎丰富生态、🧩支持扩展、🦄多模态 - 大模型原生即时通信机器人平台 🤖 | 适配 QQ / QQ频道  / OneBot / Discord / 企业微信（wecom）/ 飞书（lark feishu） 等多种消息平台 | 支持 OpenAI GPT、ChatGPT、DeepSeek、Dify、Claude、Gemini、Ollama、LM Studio、Gitee AI、SiliconFlow、Qwen、Moonshot、ChatGLM、xAI 等 LLM 的机器人 / Agent 平台
+*   [RockChinQ/LangBot](https://github.com/RockChinQ/LangBot) - 😎丰富生态、🧩支持扩展、🦄多模态 - 大模型原生即时通信机器人平台 🤖 | 适配 QQ / 微信（企业微信、个人微信）/ 飞书（feishu）/ Discord / OneBot 等消息平台 | 支持 OpenAI GPT、ChatGPT、DeepSeek、Dify、Claude、Gemini、Ollama、LM Studio、SiliconFlow、Qwen、Moonshot、ChatGLM 等 LLM 的机器人 / Agent 平台 | LLM-based instant messaging bots platform, supports Discord, WeChat, Lark, QQ platform.
 *   [irgolic/AutoPR](https://github.com/irgolic/AutoPR) - Run AI-powered workflows over your codebase
 *   [F33RNI/GPT-Telegramus](https://github.com/F33RNI/GPT-Telegramus) - 💜 The best free Telegram bot for ChatGPT, Microsoft Copilot (aka Bing AI / Sidney / EdgeGPT), Microsoft Copilot Designer (aka BingImageCreator), Gemini and Groq with stream writing, requests with images, multiple languages, admin control, data logging and more!
 *   [OpenInterpreter/open-interpreter](https://github.com/OpenInterpreter/open-interpreter) - A natural language interface for computers
@@ -1006,7 +1006,7 @@
 *   [owid/owid-grapher](https://github.com/owid/owid-grapher) - A platform for creating interactive data visualizations
 *   [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
 *   [crhistianramirez/react-hook-form-chakra](https://github.com/crhistianramirez/react-hook-form-chakra) - Chakra UI bindings for react-hook-form
-*   [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure. Loved by modern marketing teams like Twilio, Perplexity, Vercel, and Huberman Labs.
+*   [dubinc/dub](https://github.com/dubinc/dub) - Open-source link attribution platform. Loved by modern marketing teams like Twilio, Perplexity, Vercel, and Huberman Labs.
 *   [TreeFarmer/embed-table](https://github.com/TreeFarmer/embed-table) - Easily make nice looking text tables for Discord's embed fields and descriptions.
 *   [fastly/next-compute-js](https://github.com/fastly/next-compute-js) - Run Next.js on Fastly Compute
 *   [pmcelhaney/counterfact](https://github.com/pmcelhaney/counterfact) - OpenAPI / Swagger to TypeScript generator and mock server
