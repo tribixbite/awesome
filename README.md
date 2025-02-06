@@ -1377,7 +1377,6 @@
 *   [ronnyhaase/solplorer](https://github.com/ronnyhaase/solplorer) - The independent and open-source Solana blockchain explorer
 *   [nickytonline/minty-metaplex](https://github.com/nickytonline/minty-metaplex) - A fun Buildspace project to mint NFTs on Solana using Metaplex.
 *   [Fulgurus/candy-machine-v2-responsive-ui](https://github.com/Fulgurus/candy-machine-v2-responsive-ui) - Solana Candy Machine V2 with a Prod-ready and easy to customize responsive UI.
-*   [LIQNFT/candy-shop](https://github.com/LIQNFT/candy-shop) - Ethereum, Polygon, Solana NFT Marketplace JS Library
 *   [LIQNFT/candy-shop-storefront](https://github.com/LIQNFT/candy-shop-storefront) - Ethereum, Polygon & Solana NFT Storefront & Auctions
 *   [Crossmint/candy-machine-react-ui](https://github.com/Crossmint/candy-machine-react-ui) - UI frontend in react for Solana Candy Machine NFTs
 *   [pointer-gg/solana-pay-tutorial](https://github.com/pointer-gg/solana-pay-tutorial) -
@@ -2048,6 +2047,7 @@
 *   [alembics/disco-diffusion](https://github.com/alembics/disco-diffusion) -
 *   [RuolinZheng08/twewy-discord-chatbot](https://github.com/RuolinZheng08/twewy-discord-chatbot) - Discord AI Chatbot using DialoGPT, trained on the game transcript of The World Ends With You
 *   [benyaminahmed/nft-image-generator](https://github.com/benyaminahmed/nft-image-generator) -
+*   [PacktPublishing/Machine-Learning-for-Algorithmic-Trading-Second-Edition\_Original](https://github.com/PacktPublishing/Machine-Learning-for-Algorithmic-Trading-Second-Edition_Original) - Machine Learning for Algorithmic Trading, Second Edition - published by Packt
 
 ## PowerShell
 
