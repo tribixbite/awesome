@@ -224,7 +224,7 @@
 *   [huggingface/text-generation-inference](https://github.com/huggingface/text-generation-inference) - Large Language Model Text Generation Inference
 *   [turboderp-org/exllamav2](https://github.com/turboderp-org/exllamav2) - A fast inference library for running LLMs locally on modern consumer-class GPUs
 *   [theroyallab/tabbyAPI](https://github.com/theroyallab/tabbyAPI) - An OAI compatible exllamav2 API that's both lightweight and fast
-*   [unslothai/unsloth](https://github.com/unslothai/unsloth) - Finetune Llama 3.3, DeepSeek-R1, Mistral, Phi-4 & Gemma 2 LLMs 2-5x faster with 70% less memory
+*   [unslothai/unsloth](https://github.com/unslothai/unsloth) - Finetune Llama 3.3, DeepSeek-R1, Reasoning, Phi-4 & Gemma 2 LLMs 2x faster with 70% less memory
 *   [cyclotruc/gitingest](https://github.com/cyclotruc/gitingest) - Replace 'hub' with 'ingest' in any github url to get a prompt-friendly extract of a codebase
 *   [simonw/files-to-prompt](https://github.com/simonw/files-to-prompt) - Concatenate a directory full of files into a single prompt for use with LLMs
 *   [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
@@ -343,7 +343,7 @@
 *   [e2b-dev/code-interpreter](https://github.com/e2b-dev/code-interpreter) - Python & JS/TS SDK for running AI-generated code/code interpreting in your AI app
 *   [SeungyounShin/Llama2-Code-Interpreter](https://github.com/SeungyounShin/Llama2-Code-Interpreter) - Make Llama2 use Code Execution, Debug, Save Code, Reuse it, Access to Internet
 *   [OpenCodeInterpreter/OpenCodeInterpreter](https://github.com/OpenCodeInterpreter/OpenCodeInterpreter) - OpenCodeInterpreter is a suite of open-source code generation systems aimed at bridging the gap between large language models and sophisticated proprietary systems like the GPT-4 Code Interpreter. It significantly enhances code generation capabilities by integrating execution and iterative refinement functionalities.
-*   [run-llama/llama\_cloud\_services](https://github.com/run-llama/llama_cloud_services) - Parse files for optimal RAG
+*   [run-llama/llama\_cloud\_services](https://github.com/run-llama/llama_cloud_services) - Knowledge Agents and Management in the Cloud
 *   [huggingface/autotrain-advanced](https://github.com/huggingface/autotrain-advanced) - 🤗 AutoTrain Advanced
 *   [zhangzhejian/codeinterpreter-codebox](https://github.com/zhangzhejian/codeinterpreter-codebox) - Easy to deploy.A cloud service for python code interpreter sandbox for Code-Interpreter.
 *   [llm-platform-security/SecGPT](https://github.com/llm-platform-security/SecGPT) - An Execution Isolation Architecture for LLM-Based Agentic Systems
@@ -1228,7 +1228,7 @@
 *   [synzen/MonitoRSS](https://github.com/synzen/MonitoRSS) - MonitoRSS RSS bot (formerly known as Discord.RSS) with customizable feeds. https://monitorss.xyz
 *   [samchon/typia](https://github.com/samchon/typia) - Super-fast/easy runtime validators and serializers via transformation
 *   [sjinks/node-fetch-retry-ts](https://github.com/sjinks/node-fetch-retry-ts) - Adds retry functionality to fetch()
-*   [react-hook-form/resolvers](https://github.com/react-hook-form/resolvers) - 📋 Validation resolvers: Yup, Zod, Superstruct, Joi, Vest, Class Validator, io-ts, Nope, computed-types, typanion, Ajv, TypeBox, ArkType, Valibot, effect-ts and VineJS
+*   [react-hook-form/resolvers](https://github.com/react-hook-form/resolvers) - 📋 Validation resolvers: Yup, Zod, Superstruct, Joi, Vest, Class Validator, io-ts, Nope, computed-types, typanion, Ajv, TypeBox, ArkType, Valibot, effect-ts, VineJS and Standard Schema
 *   [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app
 *   [epiphone/routing-controllers-openapi](https://github.com/epiphone/routing-controllers-openapi) - Runtime OpenAPI v3 schema generation for routing-controllers.
 *   [openapi-ts/openapi-typescript](https://github.com/openapi-ts/openapi-typescript) - Generate TypeScript types from OpenAPI 3 specs
