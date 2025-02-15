@@ -591,7 +591,7 @@
 *   [multiversx/mx-sdk-js-core](https://github.com/multiversx/mx-sdk-js-core) -  MultiversX SDK for interacting with the MultiversX blockchain (in general) and Smart Contracts (in particular).
 *   [multiversx/mx-sdk-js-wallet](https://github.com/multiversx/mx-sdk-js-wallet) - Core wallet components (generation, signing) for TypeScript (JavaScript).
 *   [reddit/devvit-sandbox](https://github.com/reddit/devvit-sandbox) - Devvit example apps and sketches not ready for production.
-*   [nrwl/nx](https://github.com/nrwl/nx) - Build system, optimized for monorepos, with plugins for popular frameworks and tools and advanced CI capabilities including caching and distribution.
+*   [nrwl/nx](https://github.com/nrwl/nx) - Build system, optimized for monorepos, with AI-powered architectural awareness and advanced CI capabilities.
 *   [buttercup/buttercup-core](https://github.com/buttercup/buttercup-core) - :tophat: The mighty NodeJS password vault
 *   [BasedHardware/Whomane](https://github.com/BasedHardware/Whomane) - An open source wearable with camera
 *   [fedorerd/c-boxes](https://github.com/fedorerd/c-boxes) -
