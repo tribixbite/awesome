@@ -1044,7 +1044,7 @@
 *   [OpenTRFoundation/cuttlecat](https://github.com/OpenTRFoundation/cuttlecat) - cuttlecat is a tool to collect information from GitHub. It is designed to be used in GitHub Actions, but can be used in any environment.
 *   [Manta-Network/react-dapp-starter](https://github.com/Manta-Network/react-dapp-starter) -
 *   [rhinobase/honohub](https://github.com/rhinobase/honohub) - A headless CMS framework using Hono + Drizzle + Zod + Vite
-*   [noahthesensei/brainrot.js](https://github.com/noahthesensei/brainrot.js) - Text to video generator in the brainrot form. Learn about any topic from your favorite personalities 😼.
+*   [brainrotjs/brainrot.js](https://github.com/brainrotjs/brainrot.js) - Text to video generator in the brainrot form. Learn about any topic from your favorite personalities 😼.
 *   [nanostores/nanostores](https://github.com/nanostores/nanostores) - A tiny (286 bytes) state manager for React/RN/Preact/Vue/Svelte with many atomic tree-shakable stores
 *   [nanostores/persistent](https://github.com/nanostores/persistent) - Smart store for Nano Stores state manager to keep data in localStorage
 *   [niklashigi/apk-mitm](https://github.com/niklashigi/apk-mitm) - 🤖 A CLI application that automatically prepares Android APK files for HTTPS inspection
