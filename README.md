@@ -1016,7 +1016,7 @@
 *   [mui/base-ui](https://github.com/mui/base-ui) - Base UI is an open-source library of accessible, unstyled UI components for React.
 *   [sendaifun/solana-agent-kit](https://github.com/sendaifun/solana-agent-kit) - connect any ai agents to solana protocols
 *   [anza-xyz/solana-web3.js](https://github.com/anza-xyz/solana-web3.js) - Solana JavaScript SDK
-*   [solana-developers/mucho](https://github.com/solana-developers/mucho) - Command-line tool that simplifies the development and testing of Solana blockchain programs.
+*   [solana-foundation/mucho](https://github.com/solana-foundation/mucho) - Command-line tool that simplifies the development and testing of Solana blockchain programs.
 *   [xcaptain/solana-wallet-svelte](https://github.com/xcaptain/solana-wallet-svelte) - solana wallet demo
 *   [BuilderIO/micro-agent](https://github.com/BuilderIO/micro-agent) - An AI agent that writes (actually useful) code for you
 *   [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
