@@ -1015,7 +1015,7 @@
 *   [obot-platform/obot](https://github.com/obot-platform/obot) - Open source AI Agent Platform
 *   [mui/base-ui](https://github.com/mui/base-ui) - Base UI is an open-source library of accessible, unstyled UI components for React.
 *   [sendaifun/solana-agent-kit](https://github.com/sendaifun/solana-agent-kit) - connect any ai agents to solana protocols
-*   [anza-xyz/solana-web3.js](https://github.com/anza-xyz/solana-web3.js) - Solana JavaScript SDK
+*   [anza-xyz/kit](https://github.com/anza-xyz/kit) - Solana JavaScript SDK
 *   [solana-foundation/mucho](https://github.com/solana-foundation/mucho) - Command-line tool that simplifies the development and testing of Solana blockchain programs.
 *   [xcaptain/solana-wallet-svelte](https://github.com/xcaptain/solana-wallet-svelte) - solana wallet demo
 *   [BuilderIO/micro-agent](https://github.com/BuilderIO/micro-agent) - An AI agent that writes (actually useful) code for you
@@ -1172,7 +1172,7 @@
 *   [dialectlabs/blinks](https://github.com/dialectlabs/blinks) -
 *   [run-llama/sec-insights](https://github.com/run-llama/sec-insights) - A real world full-stack application using LlamaIndex
 *   [mishushakov/llm-scraper](https://github.com/mishushakov/llm-scraper) - Turn any webpage into structured data using LLMs
-*   [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with LlamaIndex, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
+*   [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with OpenTelemetry, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
 *   [ragapp/ragapp](https://github.com/ragapp/ragapp) - The easiest way to use Agentic RAG in any enterprise
 *   [togethercomputer/llamaindex-chatbot](https://github.com/togethercomputer/llamaindex-chatbot) - A RAG Chatbot with Next.js, Together.ai and Llama Index
 *   [context-labs/autodoc](https://github.com/context-labs/autodoc) - Experimental toolkit for auto-generating codebase documentation using LLMs
