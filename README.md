@@ -2320,7 +2320,7 @@
 
 ## Smalltalk
 
-*   [codefrau/jasmine](https://github.com/codefrau/jasmine) - Croquet Jasmine (2004) on SqueakJS (WIP)
+*   [codefrau/jasmine](https://github.com/codefrau/jasmine) - Croquet Jasmine (2004) on SqueakJS
 
 ## PLpgSQL
 
