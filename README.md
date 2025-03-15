@@ -988,7 +988,7 @@
 *   [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R) - The most advanced AI retrieval system. Agentic Retrieval-Augmented Generation (RAG) with a RESTful API.
 *   [robocorp/example-langchain-data-ingestion](https://github.com/robocorp/example-langchain-data-ingestion) - Schedule and run your Python RAG data loaders in cloud with Robocorp Control Room
 *   [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
-*   [zilliztech/VectorDBBench](https://github.com/zilliztech/VectorDBBench) - VectorDBBench is a benchmark designed to compare the performance and cost-effectiveness of popular vector databases.
+*   [zilliztech/VectorDBBench](https://github.com/zilliztech/VectorDBBench) - Benchmark designed to evaluate the performance and cost-effectiveness of vector databases.
 *   [neuml/txtai](https://github.com/neuml/txtai) - 💡 All-in-one open-source embeddings database for semantic search, LLM orchestration and language model workflows
 *   [webgrip/PuttyGPT](https://github.com/webgrip/PuttyGPT) - Full Spectrum AI
 *   [Josh-XT/AGiXT](https://github.com/Josh-XT/AGiXT) - AGiXT is a dynamic AI Agent Automation Platform that seamlessly orchestrates instruction management and complex task execution across diverse AI providers. Combining adaptive memory, smart features, and a versatile plugin system, AGiXT delivers efficient and comprehensive AI solutions.
