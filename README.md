@@ -36,9 +36,9 @@
 *   [Elixir](#elixir)
 *   [Lua](#lua)
 *   [Smalltalk](#smalltalk)
+*   [MDX](#mdx)
 *   [PLpgSQL](#plpgsql)
 *   [Groovy](#groovy)
-*   [MDX](#mdx)
 *   [Rich Text Format](#rich-text-format)
 *   [SCSS](#scss)
 *   [Dockerfile](#dockerfile)
@@ -434,7 +434,7 @@
 
 *   [fenomas/noa](https://github.com/fenomas/noa) - Experimental voxel game engine.
 *   [e2b-dev/mcp-server](https://github.com/e2b-dev/mcp-server) - Giving Claude ability to run code with E2B via MCP (Model Context Protocol)
-*   [browserbase/mcp-server-browserbase](https://github.com/browserbase/mcp-server-browserbase) -
+*   [browserbase/mcp-server-browserbase](https://github.com/browserbase/mcp-server-browserbase) - Allow LLMs to control a browser with Browserbase and Stagehand
 *   [onekq/WebApp1k](https://github.com/onekq/WebApp1k) - WebApp1k benchmark
 *   [GenesysGo/shdwdrive-v2-cli](https://github.com/GenesysGo/shdwdrive-v2-cli) - A TypeScript CLI for power users of shdwDrive v2
 *   [microlinkhq/youtube-dl-exec](https://github.com/microlinkhq/youtube-dl-exec) - A simple Node.js wrapper for youtube-dl/yt-dlp.
@@ -2257,7 +2257,6 @@
 *   [w3c-ccg/vc-api](https://github.com/w3c-ccg/vc-api) - A specification for an HTTP API used to issue and verify Verifiable Credentials.
 *   [pkgforge-dev/Termux-Packages](https://github.com/pkgforge-dev/Termux-Packages) - Markdown List (Table), JSON & YAML of all the officially Available Packages in the Termux Registry :: https://termux-packages.ajam.dev \[Maintainer=@Azathothas]
 *   [vitalets/github-trending-repos](https://github.com/vitalets/github-trending-repos) - Track GitHub trending repositories in your favorite programming language by native GitHub notifications!
-*   [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Secure open source cloud runtime for AI apps & AI agents
 *   [run-llama/create\_llama\_projects](https://github.com/run-llama/create_llama_projects) -
 *   [thedevdojo/pines](https://github.com/thedevdojo/pines) - The Pines UI library
 *   [LangbaseInc/langui](https://github.com/LangbaseInc/langui) - UI for your AI. Open Source Tailwind components tailored for your GPT, generative AI, and LLM projects.
@@ -2419,6 +2418,14 @@
 
 *   [codefrau/jasmine](https://github.com/codefrau/jasmine) - Croquet Jasmine (2004) on SqueakJS
 
+## MDX
+
+*   [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Secure open source cloud runtime for AI apps & AI agents
+*   [mintlify/starter](https://github.com/mintlify/starter) - 📖 The starter kit for your Mintlify docs
+*   [spleafy/prismane-website](https://github.com/spleafy/prismane-website) -
+*   [magicuidesign/magicui](https://github.com/magicuidesign/magicui) - UI Library for Design Engineers. Animated components and effects you can copy and paste into your apps. Free. Open Source.
+*   [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
+
 ## PLpgSQL
 
 *   [timescale/pgai](https://github.com/timescale/pgai) - A suite of tools to develop RAG, semantic search, and other AI applications more easily with PostgreSQL
@@ -2426,13 +2433,6 @@
 ## Groovy
 
 *   [NationalSecurityAgency/skills-service](https://github.com/NationalSecurityAgency/skills-service) - SkillTree is a micro-learning gamification platform supporting the rapid integration of a gamified tool training approach into new and existing applications.
-
-## MDX
-
-*   [mintlify/starter](https://github.com/mintlify/starter) - 📖 The starter kit for your Mintlify docs
-*   [spleafy/prismane-website](https://github.com/spleafy/prismane-website) -
-*   [magicuidesign/magicui](https://github.com/magicuidesign/magicui) - UI Library for Design Engineers. Animated components and effects you can copy and paste into your apps. Free. Open Source.
-*   [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
 
 ## Rich Text Format
 
