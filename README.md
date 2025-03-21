@@ -64,6 +64,8 @@
 
 ## Python
 
+*   [BrianPugh/belay](https://github.com/BrianPugh/belay) - Belay is a python library that enables the rapid development of projects that interact with hardware via a micropython-compatible board.
+*   [Jack-Bagel/Minecraft-Lora-Training](https://github.com/Jack-Bagel/Minecraft-Lora-Training) - Folder used to train a LoRa model using the Kohya trainer.
 *   [open-compass/VLMEvalKit](https://github.com/open-compass/VLMEvalKit) - Open-source evaluation toolkit of large multi-modality models (LMMs), support 220+ LMMs, 80+ benchmarks
 *   [showlab/Impossible-Videos](https://github.com/showlab/Impossible-Videos) -
 *   [mgagvani/minecraft\_texture\_upscaler](https://github.com/mgagvani/minecraft_texture_upscaler) - Minecraft Texture Upscaler automatically processes low-resolution Minecraft texture packs and increases their resolution. It is almost as good as native, (paid), high-resolution texture packs.
@@ -426,7 +428,6 @@
 *   [Hari-Nagarajan/fairgame](https://github.com/Hari-Nagarajan/fairgame) - Tool to help us buy hard to find items.
 *   [berkuhlee/KeywordBot](https://github.com/berkuhlee/KeywordBot) - Keyword Notifications, similar to skype, for Discord!
 *   [home-assistant/core](https://github.com/home-assistant/core) - :house\_with\_garden: Open source home automation that puts local control and privacy first.
-*   [bmengineer-gear/RuTiTe](https://github.com/bmengineer-gear/RuTiTe) - Python script to record flashlight runtime using a Raspberry Pi and a TSL2591
 
 ## Batchfile
 
@@ -2231,7 +2232,6 @@
 *   [2501babe/revoken](https://github.com/2501babe/revoken) - web ui to revoke solana token approvals
 *   [mynftgg/nft-project](https://github.com/mynftgg/nft-project) - Game code for mynftgg
 *   [paul-schaaf/spl-token-ui](https://github.com/paul-schaaf/spl-token-ui) - Interface for creating and managing SPL Tokens
-*   [Alaanor/beatlist](https://github.com/Alaanor/beatlist) - Beatlist is an app to manage playlists and beatmaps for the game Beat Saber.
 
 ## Cuda
 
