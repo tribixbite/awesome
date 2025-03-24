@@ -982,7 +982,6 @@
 
 ## Shell
 
-*   [glektarssza/webcraft](https://github.com/glektarssza/webcraft) - A simple Minecraft clone built on web technologies.
 *   [simonw/git-scraper-template](https://github.com/simonw/git-scraper-template) - Template repository for setting up a new git scraper
 *   [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server) - Docker image that provides a Minecraft Server for Java Edition that automatically downloads selected version at startup
 *   [KindleModding/WinterBreak](https://github.com/KindleModding/WinterBreak) - It do a thing
