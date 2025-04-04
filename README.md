@@ -1654,7 +1654,7 @@
 *   [croquet/worldcore](https://github.com/croquet/worldcore) - Croquet-based multi-player game engine
 *   [websockets/ws](https://github.com/websockets/ws) - Simple to use, blazing fast and thoroughly tested WebSocket client and server for Node.js
 *   [matschik/component-party.dev](https://github.com/matschik/component-party.dev) - 🎉 Web component JS frameworks overview by their syntax and features
-*   [unifiedjs/unified](https://github.com/unifiedjs/unified) - ☔️ interface for parsing, inspecting, transforming, and serializing content through syntax trees
+*   [unifiedjs/unified](https://github.com/unifiedjs/unified) - Parse, inspect, transform, and serialize content with syntax trees
 *   [cloudflare/durable-objects-template](https://github.com/cloudflare/durable-objects-template) -
 *   [SocketCluster/socketcluster](https://github.com/SocketCluster/socketcluster) - Highly scalable realtime pub/sub and RPC framework
 *   [vercel/ncc](https://github.com/vercel/ncc) - Compile a Node.js project into a single file. Supports TypeScript, binary addons, dynamic requires.
