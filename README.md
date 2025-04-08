@@ -1446,7 +1446,7 @@
 *   [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React
 *   [chkt/xyzw](https://github.com/chkt/xyzw) - Vector, Matrix, Quaternion, Euler Angles, SLERPs, Projections, Transforms
 *   [Ankr-network/game-webgl-template](https://github.com/Ankr-network/game-webgl-template) - Template for Unity WebGL with ankr web3 library
-*   [Marinerer/unity-webgl](https://github.com/Marinerer/unity-webgl) - An easy solution for embedding Unity WebGL builds in webApp or Vue.js project, with two-way communication between your webApp and Unity. 🏣 在webApp 或 Vue.js 项目中嵌入 Unity WebGL，并支持通过API在 webApp 和 Unity 之间进行双向通信。
+*   [Marinerer/unity-webgl](https://github.com/Marinerer/unity-webgl) - An easy solution for embedding Unity WebGL builds in web projects, with two-way communication between your webApp and Unity. 🏣 在webApp 或 Vue.js 项目中嵌入 Unity WebGL，并支持通过API在 webApp 和 Unity 之间进行双向通信。
 *   [PhilippMolitor/react-unity-renderer](https://github.com/PhilippMolitor/react-unity-renderer) - React Unity Renderer allows to interactively embed Unity WebGL builds into a React powered project.
 *   [AWaterColorPen/unity-rich-text-converter](https://github.com/AWaterColorPen/unity-rich-text-converter) - typescript library to converter message between unity rich text and html standard rich text.
 *   [eritislami/evobot](https://github.com/eritislami/evobot) - 🤖 EvoBot is a Discord Music Bot built with TypeScript + Discord.js, includes Docker builds & localization in 20+ languages
