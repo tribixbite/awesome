@@ -517,7 +517,7 @@
 *   [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
 *   [SYSTRAN/faster-whisper](https://github.com/SYSTRAN/faster-whisper) - Faster Whisper transcription with CTranslate2
 *   [m-bain/whisperX](https://github.com/m-bain/whisperX) - WhisperX:  Automatic Speech Recognition with Word-level Timestamps (& Diarization)
-*   [agno-agi/agno](https://github.com/agno-agi/agno) - Build lightning-fast Reasoning Agents with memory, knowledge, tools and native multi-modal support.
+*   [agno-agi/agno](https://github.com/agno-agi/agno) - Build Reasoning Agents with memory, knowledge, tools and native multi-modal support.
 *   [VRSEN/agency-swarm](https://github.com/VRSEN/agency-swarm) - The only reliable agent framework built on top of the latest OpenAI Assistants API.
 *   [openai/swarm](https://github.com/openai/swarm) - Educational framework exploring ergonomic, lightweight multi-agent orchestration. Managed by OpenAI Solution team.
 *   [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
@@ -887,7 +887,7 @@
 *   [orbanszlrd/next-google-photos](https://github.com/orbanszlrd/next-google-photos) - Consuming the Google Photos Library API
 *   [rancher-sandbox/rancher-desktop](https://github.com/rancher-sandbox/rancher-desktop) - Container Management and Kubernetes on the Desktop
 *   [podman-desktop/podman-desktop](https://github.com/podman-desktop/podman-desktop) - Podman Desktop is the best free and open source tool to work with Containers and Kubernetes for developers. Get an intuitive and user-friendly interface to effortlessly build, manage, and deploy containers and Kubernetes — all from your desktop.
-*   [getmaxun/maxun](https://github.com/getmaxun/maxun) - 🔥Open Source No Code Web Data Extraction Platform. Turn Websites To APIs & Spreadsheets With No-Code Robots In Minutes🔥
+*   [getmaxun/maxun](https://github.com/getmaxun/maxun) - 🔥 Open Source No Code Web Data Extraction Platform. Turn Websites To APIs & Spreadsheets With No-Code Robots In Minutes 🔥
 *   [codiplace/bun-monorepo](https://github.com/codiplace/bun-monorepo) -
 *   [dayblox/bun](https://github.com/dayblox/bun) - Bun starter
 *   [NuroDev/astro-bun](https://github.com/NuroDev/astro-bun) - 🥟 + 🚀  Bun adapter for Astro
