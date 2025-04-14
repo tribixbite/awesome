@@ -2385,7 +2385,7 @@
 *   [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server) - Docker image that provides a Minecraft Server for Java Edition that automatically downloads selected version at startup
 *   [KindleModding/WinterBreak](https://github.com/KindleModding/WinterBreak) - It do a thing
 *   [ublue-os/bazzite](https://github.com/ublue-os/bazzite) - Bazzite makes gaming and everyday use smoother and simpler across desktop PCs, handhelds, tablets, and home theater PCs.
-*   [playtron-os/playtron-os](https://github.com/playtron-os/playtron-os) - PlaytronOS provides a fast, portable, and secure Linux gaming experience.
+*   [playtron-os/playtron-os](https://github.com/playtron-os/playtron-os) - Playtron GameOS provides a fast and secure Linux gaming experience.
 *   [QwenLM/Qwen2.5](https://github.com/QwenLM/Qwen2.5) - Qwen2.5 is the large language model series developed by Qwen team, Alibaba Cloud.
 *   [termux/termux-packages](https://github.com/termux/termux-packages) - A package build system for Termux.
 *   [Hax4us/Nethunter-In-Termux](https://github.com/Hax4us/Nethunter-In-Termux) - This is a script by which you can install Kali nethunter (Kali Linux) in your termux application without rooted phone
