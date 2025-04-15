@@ -829,7 +829,7 @@
 *   [asseph/solana-ai-agent](https://github.com/asseph/solana-ai-agent) - AI Agent is a groundbreaking AI agent built on the Solana, integrating advanced artificial intelligence with social media capabilities and decentralized trading. An evolving digital entity striving to bridge the gap between AI, social media, and crypto.
 *   [NeurProjects/neur-app](https://github.com/NeurProjects/neur-app) - The Intelligent Copilot for Solana
 *   [codestoryai/aide](https://github.com/codestoryai/aide) - The open-source AI-native IDE
-*   [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages, articles, and documents.
+*   [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages, articles, and documents.
 *   [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 *   [exa-labs/company-researcher](https://github.com/exa-labs/company-researcher) - Company Researcher tool helps you instantly understand any company inside out.
 *   [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler) - Crawl a site to generate knowledge files to create your own custom GPT from a URL
