@@ -308,6 +308,7 @@
 *   [google-deepmind/penzai](https://github.com/google-deepmind/penzai) - A JAX research toolkit for building, editing, and visualizing neural networks.
 *   [theowni/Damn-Vulnerable-RESTaurant-API-Game](https://github.com/theowni/Damn-Vulnerable-RESTaurant-API-Game) - Damn Vulnerable Restaurant is an intentionally vulnerable Web API game for learning and training purposes dedicated to developers, ethical hackers and security engineers.
 *   [dolph/dictionary](https://github.com/dolph/dictionary) - A list of the most popular English words.
+*   [lancedb/lancedb](https://github.com/lancedb/lancedb) - Developer-friendly, embedded retrieval engine for multimodal AI. Search More; Manage Less.
 *   [jw782cn/RepoChat-200k](https://github.com/jw782cn/RepoChat-200k) - ⚡Chat with GitHub Repo Using 200k context window of Claude instead of RAG!⚡
 *   [jakobdylanc/llmcord](https://github.com/jakobdylanc/llmcord) - Make Discord your LLM frontend ● Supports any OpenAI compatible API (Ollama, LM Studio, vLLM, OpenRouter, xAI, Mistral, Groq and more)
 *   [anthropics/anthropic-tools](https://github.com/anthropics/anthropic-tools) -
@@ -1706,7 +1707,7 @@
 *   [theskeletoncrew/treat-toolbox](https://github.com/theskeletoncrew/treat-toolbox) - Treat Toolbox: Generative NFT Utility for Candy Machine / Solana
 *   [exiled-apes/candy-machine-mint](https://github.com/exiled-apes/candy-machine-mint) - Fork, config, customize and ship your own candy machine mint app on your own domain, ultra fast.
 *   [milktoastlab/SolanaNFTBot](https://github.com/milktoastlab/SolanaNFTBot) - A helpful bot for tracking your Solana NFT project on discord channels.
-*   [aws-powertools/powertools-lambda-typescript](https://github.com/aws-powertools/powertools-lambda-typescript) - Powertools is a developer toolkit to implement Serverless best practices and increase developer velocity.
+*   [aws-powertools/powertools-lambda-typescript](https://github.com/aws-powertools/powertools-lambda-typescript) - Powertools for AWS is a developer toolkit to implement Serverless best practices and increase developer velocity.
 *   [wevm/wagmi](https://github.com/wevm/wagmi) - Reactive primitives for Ethereum apps
 *   [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
 *   [gdagundaridze/rtk-query-toptal-example](https://github.com/gdagundaridze/rtk-query-toptal-example) -
@@ -1847,7 +1848,6 @@
 *   [regolith-labs/ore-cli](https://github.com/regolith-labs/ore-cli) - Command line interface for ORE cryptocurrency mining.
 *   [regolith-labs/ore](https://github.com/regolith-labs/ore) - ORE is a cryptocurrency everyone can mine.
 *   [railwayapp/nixpacks](https://github.com/railwayapp/nixpacks) - App source + Nix packages + Docker = Image
-*   [lancedb/lancedb](https://github.com/lancedb/lancedb) - Developer-friendly, embedded retrieval engine for multimodal AI. Search More; Manage Less.
 *   [dimensionhq/volt](https://github.com/dimensionhq/volt) - An experimental package management tool for JavaScript. Upto 30x faster installation of dependencies using pre-flattened dependency trees.
 *   [moonrepo/starbase](https://github.com/moonrepo/starbase) - Framework for building performant command line applications and developer tools.
 *   [moonrepo/moon](https://github.com/moonrepo/moon) - A build system and monorepo management tool for the web ecosystem, written in Rust.
