@@ -459,7 +459,7 @@
 *   [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced \[ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.
 *   [firecamp-dev/firecamp](https://github.com/firecamp-dev/firecamp) - Developer-first OpenSource API DevTool, Postman/Insomnia alternative.
 *   [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) - 📨 The ultimate social media scheduling tool, with a bunch of AI  🤖
-*   [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Survey Platform
+*   [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Qualtrics Alternative
 *   [owid/owid-grapher](https://github.com/owid/owid-grapher) - A platform for creating interactive data visualizations
 *   [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
 *   [crhistianramirez/react-hook-form-chakra](https://github.com/crhistianramirez/react-hook-form-chakra) - Chakra UI bindings for react-hook-form
