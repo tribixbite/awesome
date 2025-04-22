@@ -245,7 +245,6 @@
 *   [alexanderniebuhr/astropix](https://github.com/alexanderniebuhr/astropix) -
 *   [elliotnash/dbest-moon](https://github.com/elliotnash/dbest-moon) -
 *   [webpro-nl/knip](https://github.com/webpro-nl/knip) - ✂️  Find unused files, dependencies and exports in your JavaScript and TypeScript projects. Knip it before you ship it!
-*   [gallery-so/gallery](https://github.com/gallery-so/gallery) - Express your taste.
 *   [svemat01/cc-ts](https://github.com/svemat01/cc-ts) -
 *   [ethanniser/the-beth-stack](https://github.com/ethanniser/the-beth-stack) - An opinionated hypermedia-driven architecture for building web apps
 *   [syhner/elysia-kickstart](https://github.com/syhner/elysia-kickstart) -  ElysiaJS boilerplate with HTMX, Tailwind, Auth.js, Drizzle, CI. Deploy in one click to Railway or Vercel Edge Functions
@@ -411,7 +410,6 @@
 *   [solana-foundation/solana-web3.js](https://github.com/solana-foundation/solana-web3.js) - Solana JavaScript SDK
 *   [cloud-carbon-footprint/cloud-carbon-footprint](https://github.com/cloud-carbon-footprint/cloud-carbon-footprint) - Cloud Carbon Footprint is a tool to estimate energy use (kilowatt-hours) and carbon emissions (metric tons CO2e) from public cloud usage
 *   [LIT-Protocol/js-sdk](https://github.com/LIT-Protocol/js-sdk) - The Lit Protocol SDK provides developers with a framework for implementing Lit functionality into their own applications.
-*   [scalar/scalar](https://github.com/scalar/scalar) - Scalar is an open-source API platform:　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　🌐 Modern Rest API Client　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　📖 Beautiful API References　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　✨ 1st-Class OpenAPI/Swagger Support
 *   [markdoc/markdoc](https://github.com/markdoc/markdoc) - A powerful, flexible, Markdown-based authoring framework.
 *   [epistemichorse/poll.blue](https://github.com/epistemichorse/poll.blue) -
 *   [WilfredAlmeida/capi](https://github.com/WilfredAlmeida/capi) - Solana cNFT API as a Service
@@ -2146,6 +2144,7 @@
 *   [paljs/gatsby-admin-template](https://github.com/paljs/gatsby-admin-template) - Free admin dashboard template based on Gatsby with @paljs/ui component package
 *   [creativetimofficial/nextjs-argon-dashboard](https://github.com/creativetimofficial/nextjs-argon-dashboard) - NextJS version of Argon Dashboard React
 *   [lafeber/world-flags-sprite](https://github.com/lafeber/world-flags-sprite) - A sprite of all the worlds' flags.
+*   [alphapapa/solarized-everything-css](https://github.com/alphapapa/solarized-everything-css) - A collection of Solarized user-stylesheets for...everything?
 
 ## C
 
@@ -2425,6 +2424,7 @@
 
 *   [webpilot-ai/Webpilot](https://github.com/webpilot-ai/Webpilot) -
 *   [anvaka/map-of-github](https://github.com/anvaka/map-of-github) - Inspirational Mapping
+*   [scalar/scalar](https://github.com/scalar/scalar) - Scalar is an open-source API platform:　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　🌐 Modern Rest API Client　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　📖 Beautiful API References　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　✨ 1st-Class OpenAPI/Swagger Support
 *   [2501babe/revoken](https://github.com/2501babe/revoken) - web ui to revoke solana token approvals
 *   [mynftgg/nft-project](https://github.com/mynftgg/nft-project) - Game code for mynftgg
 *   [paul-schaaf/spl-token-ui](https://github.com/paul-schaaf/spl-token-ui) - Interface for creating and managing SPL Tokens
