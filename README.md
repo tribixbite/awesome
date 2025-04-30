@@ -210,7 +210,7 @@
 *   [containers/ramalama](https://github.com/containers/ramalama) - The goal of RamaLama is to make working with AI boring.
 *   [ai-christianson/RA.Aid](https://github.com/ai-christianson/RA.Aid) - Develop software autonomously.
 *   [TransformerOptimus/SuperAGI](https://github.com/TransformerOptimus/SuperAGI) - <⚡️> SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.
-*   [mannaandpoem/OpenManus](https://github.com/mannaandpoem/OpenManus) - No fortress, purely open ground.  OpenManus is Coming.
+*   [FoundationAgents/OpenManus](https://github.com/FoundationAgents/OpenManus) - No fortress, purely open ground.  OpenManus is Coming.
 *   [adafruit/cookiecutter-adafruit-circuitpython](https://github.com/adafruit/cookiecutter-adafruit-circuitpython) - Cookiecutter template for Adafruit's CircuitPython libraries.
 *   [todbot/circuitpython-tricks](https://github.com/todbot/circuitpython-tricks) - Some CircuitPython tricks, mostly reminders to myself
 *   [BrianPugh/belay](https://github.com/BrianPugh/belay) - Belay is a python library that enables the rapid development of projects that interact with hardware via a micropython-compatible board.
@@ -251,7 +251,7 @@
 *   [mozilla-ai/lumigator](https://github.com/mozilla-ai/lumigator) - Source code for Mozilla.ai's Lumigator platform
 *   [deepseek-ai/Janus](https://github.com/deepseek-ai/Janus) - Janus-Series: Unified Multimodal Understanding and Generation Models
 *   [BrainBlend-AI/atomic-agents](https://github.com/BrainBlend-AI/atomic-agents) - Building AI agents, atomically
-*   [SWE-agent/SWE-agent](https://github.com/SWE-agent/SWE-agent) - SWE-agent takes a GitHub issue and tries to automatically fix it, using GPT-4, or your LM of choice. It can also be employed for offensive cybersecurity or competitive coding challenges. \[NeurIPS 2024]
+*   [SWE-agent/SWE-agent](https://github.com/SWE-agent/SWE-agent) - SWE-agent takes a GitHub issue and tries to automatically fix it, using your LM of choice. It can also be employed for offensive cybersecurity or competitive coding challenges. \[NeurIPS 2024]
 *   [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
 *   [OpenAutoCoder/Agentless](https://github.com/OpenAutoCoder/Agentless) - Agentless🐱:  an agentless approach to automatically solve software development problems
 *   [bespokelabsai/curator](https://github.com/bespokelabsai/curator) - Synthetic data curation for post-training and structured data extraction
@@ -302,7 +302,7 @@
 *   [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest free open source web page change detection, website watcher,  restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monitor which websites had a text change for free. Free Open source web page change detection, Website defacement monitoring, Price change notification
 *   [ag2ai/ag2](https://github.com/ag2ai/ag2) - AG2 (formerly AutoGen): The Open-Source AgentOS. Join us at: https://discord.gg/pAbnFJrkgZ
 *   [app-sre/github-mirror](https://github.com/app-sre/github-mirror) - GitHub API mirror that caches the responses and implements conditional requests
-*   [brainrotjs/brainrot.js](https://github.com/brainrotjs/brainrot.js) - Text to video generator in the brainrot form. Learn about any topic from your favorite personalities 😼.
+*   [noahgsolomon/brainrot.js](https://github.com/noahgsolomon/brainrot.js) - Text to video generator in the brainrot form. Learn about any topic from your favorite personalities 😼.
 *   [docling-project/docling](https://github.com/docling-project/docling) - Get your documents ready for gen AI
 *   [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged version of paperless: scan, index and archive all your physical documents
 *   [firerpa/lamda](https://github.com/firerpa/lamda) - 🤖  The most powerful Android RPA framework, the next generation of mobile automation robots.
@@ -582,7 +582,7 @@
 *   [Genta-Technology/Kolosal](https://github.com/Genta-Technology/Kolosal) - Kolosal AI is an OpenSource and Lightweight alternative to LM Studio to run LLMs 100% offline on your device.
 *   [MerginMaps/mobile](https://github.com/MerginMaps/mobile) - Mergin Maps mobile app 📲 Open QGIS projects and manage vector data on your phone, even offline 📶 (Android/iOS/Windows app)
 *   [Maproom/qmapshack](https://github.com/Maproom/qmapshack) - Consumer grade GIS software
-*   [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - Please read https://organicmaps.zulipchat.com/#narrow/channel/409110-General/topic/Forgejo/near/514687896
+*   [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) -  🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community. No ads, no tracking, no data collection, no crapware. Please donate to support the development!
 *   [upf-gti/rooms](https://github.com/upf-gti/rooms) -
 *   [cocos/cocos-engine](https://github.com/cocos/cocos-engine) - Cocos simplifies game creation and distribution with Cocos Creator, a free, open-source, cross-platform game engine. Empowering millions of developers to create high-performance, engaging 2D/3D games and instant web entertainment.
 *   [luanti-org/luanti](https://github.com/luanti-org/luanti) - Luanti (formerly Minetest) is an open source voxel game-creation platform with easy modding and game creation
@@ -993,7 +993,7 @@
 *   [SaltyAom/bun-http-framework-benchmark](https://github.com/SaltyAom/bun-http-framework-benchmark) - Compare throughput benchmark from various Bun HTTP framework
 *   [AmanVarshney01/create-better-t-stack](https://github.com/AmanVarshney01/create-better-t-stack) - A modern CLI tool for scaffolding end-to-end type-safe TypeScript projects with best practices and customizable configurations
 *   [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) - A GUI Agent application based on UI-TARS(Vision-Language Model) that allows you to control your computer using natural language.
-*   [cyanheads/git-mcp-server](https://github.com/cyanheads/git-mcp-server) - A Model Context Protocol (MCP) server to provide git tools for LLM Agents
+*   [cyanheads/git-mcp-server](https://github.com/cyanheads/git-mcp-server) - Enterprise-ready MCP server for Git tools. STDIO & Streamable HTTP
 *   [KindaBrazy/LynxHub-Module-Guide](https://github.com/KindaBrazy/LynxHub-Module-Guide) - Guide on how to create module for LynxHub
 *   [antonycourtney/tad](https://github.com/antonycourtney/tad) - A desktop application for viewing and analyzing tabular data
 *   [bsgbryan/roc](https://github.com/bsgbryan/roc) - A thoroughly-modern real-time simulation engine
@@ -2467,7 +2467,7 @@
 
 ## KiCad Layout
 
-*   [Hello9999901/laptop](https://github.com/Hello9999901/laptop) - anyon\_e, a highly integrated, high end, open source laptop. Attempt the impossible.
+*   [byrantech/laptop](https://github.com/byrantech/laptop) - anyon\_e, a highly integrated, high end, open source laptop. Attempt the impossible.
 
 ## OCaml
 
