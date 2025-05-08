@@ -346,7 +346,7 @@
 *   [huggingface/autotrain-advanced](https://github.com/huggingface/autotrain-advanced) - 🤗 AutoTrain Advanced
 *   [zhangzhejian/codeinterpreter-codebox](https://github.com/zhangzhejian/codeinterpreter-codebox) - Easy to deploy.A cloud service for python code interpreter sandbox for Code-Interpreter.
 *   [llm-platform-security/SecGPT](https://github.com/llm-platform-security/SecGPT) - An Execution Isolation Architecture for LLM-Based Agentic Systems
-*   [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - The open source Tines / Splunk SOAR alternative for security and IT engineers. Built on simple YAML templates for integrations and response-as-code.
+*   [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - Open source Tines / Splunk SOAR alternative. All-in-one automation platform (workflows, tables, cases) for security and IT teams.
 *   [truefoundry/cognita](https://github.com/truefoundry/cognita) - RAG (Retrieval Augmented Generation) Framework for building modular, open source applications for production by TrueFoundry
 *   [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache) - Semantic cache for LLMs. Fully integrated with LangChain and llama\_index.
 *   [activeloopai/deeplake](https://github.com/activeloopai/deeplake) - Database for AI. Store Vectors, Images, Texts, Videos, etc. Use with LLMs/LangChain. Store, query, version, & visualize any AI data. Stream data in real-time to PyTorch/TensorFlow. https://activeloop.ai
