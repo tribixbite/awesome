@@ -258,7 +258,7 @@
 *   [netlify/framework-info](https://github.com/netlify/framework-info) - Framework detection utility
 *   [bjcarlson42/chakra-nextjs-dashboard](https://github.com/bjcarlson42/chakra-nextjs-dashboard) - A responsive dashboard UI built using Chakra UI and Next.js.
 *   [ReactUnity/core](https://github.com/ReactUnity/core) - React and HTML framework for Unity UI & UIToolkit
-*   [plankanban/planka](https://github.com/plankanban/planka) - The realtime kanban board for workgroups built with React and Redux.
+*   [plankanban/planka](https://github.com/plankanban/planka) - PLANKA is the kanban-style project mastering tool for everyone
 *   [gemmysocial/raffle-api-public](https://github.com/gemmysocial/raffle-api-public) - Open source backend for Gemmy raffle tool
 *   [portsmouth/Trinity](https://github.com/portsmouth/Trinity) - Programmable 3D fluid simulator running in WebGL.
 *   [tomayac/SVGcode](https://github.com/tomayac/SVGcode) - Convert color bitmap images to color SVG vector images.
