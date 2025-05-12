@@ -4,9 +4,11 @@
 
 ## Table of Contents
 
-*   [C](#c)
 *   [TypeScript](#typescript)
+*   [C](#c)
+*   [Dart](#dart)
 *   [miscellaneous](#miscellaneous)
+*   [HTML](#html)
 *   [Rust](#rust)
 *   [Python](#python)
 *   [MDX](#mdx)
@@ -14,8 +16,6 @@
 *   [JavaScript](#javascript)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [C++](#c-1)
-*   [HTML](#html)
-*   [Dart](#dart)
 *   [Kotlin](#kotlin)
 *   [Shell](#shell)
 *   [Java](#java)
@@ -63,56 +63,28 @@
 *   [OpenSCAD](#openscad)
 *   [AutoIt](#autoit)
 *   [Visual Basic .NET](#visual-basic-net)
-*   [R](#r)
-
-## C
-
-*   [tevador/equix](https://github.com/tevador/equix) - A CPU-friendly client puzzle with instant verification
-*   [veracrypt/VeraCrypt](https://github.com/veracrypt/VeraCrypt) - Disk encryption with strong security based on TrueCrypt
-*   [navit-gps/navit](https://github.com/navit-gps/navit) - The open source (GPL v2) turn-by-turn navigation software for many OS
-*   [gojue/ecapture](https://github.com/gojue/ecapture) - Capturing SSL/TLS plaintext without a CA certificate using eBPF. Supported on Linux/Android kernels for amd64/arm64.
-*   [adafruit/Adafruit\_Learning\_System\_Guides](https://github.com/adafruit/Adafruit_Learning_System_Guides) - Programs and scripts to display "inline" in Adafruit Learning System guides
-*   [upscayl/upscayl-ncnn](https://github.com/upscayl/upscayl-ncnn) - The Upscayl backend powered by the NCNN framework and Real-ESRGAN architecture.
-*   [cgsecurity/testdisk](https://github.com/cgsecurity/testdisk) - TestDisk & PhotoRec
-*   [Versoft-Software/Free95](https://github.com/Versoft-Software/Free95) - Free95 is an open-source windows-compatible operating system.
-*   [kohler/gifsicle](https://github.com/kohler/gifsicle) - Create, manipulate, and optimize GIF images and animations
-*   [LongSoft/UEFITool](https://github.com/LongSoft/UEFITool) - UEFI firmware image viewer and editor
-*   [google/pebble](https://github.com/google/pebble) - This is the latest version of the internal repository from Pebble Technology providing the software to run on Pebble watches. Proprietary source code has been removed from this repository and it will not compile as-is. This is for information only.
-*   [axboe/fio](https://github.com/axboe/fio) - Flexible I/O Tester
-*   [ashvardanian/StringZilla](https://github.com/ashvardanian/StringZilla) - Up to 10x faster strings for C, C++, Python, Rust, Swift & Go, leveraging NEON, AVX2, AVX-512, SVE, & SWAR to accelerate search, hashing, sort, edit distances, and memory ops 🦖
-*   [ichisadashioko/windows-touchpad](https://github.com/ichisadashioko/windows-touchpad) - Make use of touchpad for handwriting in Windows
-*   [lzhiyong/termux-ndk](https://github.com/lzhiyong/termux-ndk) - android-ndk for termux
-*   [wireshark/wireshark](https://github.com/wireshark/wireshark) - Read-only mirror of Wireshark's Git repository at https://gitlab.com/wireshark/wireshark. ⚠️ GitHub won't let us disable pull requests. ⚠️ THEY WILL BE IGNORED HERE ⚠️ Upload them at GitLab instead.
-*   [VictorTaelin/Interaction-Calculus](https://github.com/VictorTaelin/Interaction-Calculus) - A programming language and model of computation that matches the optimal λ-calculus reduction algorithm perfectly.
-*   [tevador/hashx](https://github.com/tevador/hashx) - A family of pseudorandomly generated hash functions for proof-of-work and client puzzles
-*   [FreeRDP/FreeRDP](https://github.com/FreeRDP/FreeRDP) - FreeRDP is a free remote desktop protocol library and clients
-*   [shauninman/MinUI](https://github.com/shauninman/MinUI) - MinUI is a focused, custom launcher and libretro frontend for a variety of retro handhelds.
-*   [Next-Flip/Momentum-Firmware](https://github.com/Next-Flip/Momentum-Firmware) - 🐬 Feature-rich, stable and customizable Flipper Firmware
-*   [rebol/rebol](https://github.com/rebol/rebol) - Source code for the Rebol interpreter
-*   [Waterdish/Shipwright-Android](https://github.com/Waterdish/Shipwright-Android) - Ship of Harkinian Android Port
-*   [noproto/flipper\_kdf](https://github.com/noproto/flipper_kdf) - Collection of KDF plugins for the Flipper Zero
-*   [81230/BlackBox](https://github.com/81230/BlackBox) - BlackBox is a virtual engine, it can clone and run virtual application on Android,  users don't have to install APK file to run the application on devices. BlackBox control all virtual applications, so you can do anything you want by using BlackBox.
-*   [Rukongai/CatDjinni](https://github.com/Rukongai/CatDjinni) - Cat Genie AI exploit research
-*   [hassananayi/nfc-srix-programmer](https://github.com/hassananayi/nfc-srix-programmer) - An CLI NFC application for reading, writing, analyzing, NFC ST SRI512 and SRIX4K tags.
-*   [ToyKeeper/anduril](https://github.com/ToyKeeper/anduril) - Anduril 2 Flashlight Firmware and FSM UI Toolkit
-*   [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
-*   [starryalley/Anduril2](https://github.com/starryalley/Anduril2) - my Anduril2 fork that provides much more features
-*   [libvips/libvips](https://github.com/libvips/libvips) - A fast image processing library with low memory needs.
-*   [libusb/hidapi](https://github.com/libusb/hidapi) - A Simple cross-platform library for communicating with HID devices
-*   [security-geeks/oclHashcat](https://github.com/security-geeks/oclHashcat) - World's fastest and most advanced GPGPU-based password recovery utility
-*   [hashcat/hashcat](https://github.com/hashcat/hashcat) - World's fastest and most advanced password recovery utility
-*   [lvaccaro/truecrack](https://github.com/lvaccaro/truecrack) - TrueCrack is a brute-force password cracker for TrueCrypt (Copyrigth) volumes. It works on Linux and it is optimized for Nvidia Cuda technology.
-*   [sabrogden/Ditto](https://github.com/sabrogden/Ditto) - Ditto is an extension to the Windows Clipboard. You copy something to the Clipboard and Ditto takes what you copied and stores it in a database to retrieve at a later time.
-*   [Flipper-XFW/Xtreme-Firmware](https://github.com/Flipper-XFW/Xtreme-Firmware) - The Dom amongst the Flipper Zero Firmware. Give your Flipper the power and freedom it is really craving. Let it show you its true form. Dont delay, switch to the one and only true Master today!
-*   [DarkFlippers/unleashed-firmware](https://github.com/DarkFlippers/unleashed-firmware) - Flipper Zero Unleashed Firmware
-*   [mcf-rocks/solanity](https://github.com/mcf-rocks/solanity) - Solanity - Solana GPU Address Grinder
-*   [avaneev/prvhash](https://github.com/avaneev/prvhash) - PRVHASH - Pseudo-Random-Value Hash. Hash functions, PRNG with unlimited period, randomness extractor, and a glimpse into abyss. (inline C/C++) (Codename Gradilac/Градилак)
-*   [RoganDawes/LOGITacker](https://github.com/RoganDawes/LOGITacker) - Enumerate and test Logitech wireless input devices for vulnerabilities with a nRF52840 radio dongle.
-*   [FABtotum/FABlin](https://github.com/FABtotum/FABlin) - The FABtotum Personal Fabricator Firmware, a Marlin derivate made to support hybrid manufacturing and digital acquisition
-*   [arendst/Tasmota](https://github.com/arendst/Tasmota) - Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at
 
 ## TypeScript
 
+*   [vvo/iron-session](https://github.com/vvo/iron-session) - 🛠 Secure, stateless, and cookie-based session library for JavaScript
+*   [inaridiy/webforai](https://github.com/inaridiy/webforai) - The best HTML to Markdown library, A esm-native & Useful Utilities with simple, lightweight and epic quality.
+*   [vitdocjs/vitdoc](https://github.com/vitdocjs/vitdoc) - Use markdown to write documentation, and automatically extract interface definitions.
+*   [rnadigital/agentcloud](https://github.com/rnadigital/agentcloud) - Agent Cloud is like having your own GPT builder with a bunch extra goodies. The GUI features 1) RAG pipeline which can natively embed 260+ datasources 2) Create Conversational apps (like GPTs) 3) Create Multi Agent process automation apps (crewai) 4) Tools 5) Teams+user permissions. Get started fast with Docker and our install.sh
+*   [srcbookdev/srcbook](https://github.com/srcbookdev/srcbook) - TypeScript-centric app development platform: notebook and AI app builder
+*   [giselles-ai/giselle](https://github.com/giselles-ai/giselle) - Giselle: AI App Builder. Open Source.
+*   [TanStack/form](https://github.com/TanStack/form) - 🤖 Headless, performant, and type-safe form state management for TS/JS, React, Vue, Angular, Solid, and Lit.
+*   [daytonaio/daytona](https://github.com/daytonaio/daytona) - Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code
+*   [bytedance/deer-flow](https://github.com/bytedance/deer-flow) - DeerFlow is a community-driven framework for deep research, combining language models with tools like web search, crawling, and Python execution, while contributing back to the open-source community.
+*   [cdleveille/fullstack-bun](https://github.com/cdleveille/fullstack-bun) - Curated web app project template with emphasis on developer experience and type safety. Bun/Elysia backend, React frontend, Socket.IO and TanStack Query bridging the gap.
+*   [meshtastic/network-management-client](https://github.com/meshtastic/network-management-client) - A Meshtastic desktop client, allowing simple, offline deployment and administration of an ad-hoc mesh communication network. Built in Rust and TypeScript.
+*   [foxlau/react-router-v7-monorepo](https://github.com/foxlau/react-router-v7-monorepo) - 📦 React Router v7 (Remix) Monorepo with Cloudflare Workers, Drizzle ORM & D1, Shadcn/UI, and Tailwind CSS v4.
+*   [riccox/meilisearch-ui](https://github.com/riccox/meilisearch-ui) - 😎 Open-source, pretty, simple and fast ⚡ Meilisearch admin dashboard UI for managing your meilisearch instances 🕹
+*   [zueai/mcp-manager](https://github.com/zueai/mcp-manager) - simple web ui to manage mcp (model context protocol) servers in the claude app
+*   [daltonmenezes/electron-app](https://github.com/daltonmenezes/electron-app) - 💅 An Electron app boilerplate with React 19, TypeScript 5, Tailwind 4, shadcn/ui, Electron Vite, Biome, GitHub Action releases and more.
+*   [unplugin/unplugin-auto-import](https://github.com/unplugin/unplugin-auto-import) - Auto import APIs on-demand for Vite, Webpack and Rollup
+*   [theerakarnm/ServeMed](https://github.com/theerakarnm/ServeMed) -
+*   [barclayd/react-router-trpc-hono-bun-template](https://github.com/barclayd/react-router-trpc-hono-bun-template) - Template for setting up a monorepo for react router (v7) with Hono via trpc, powered by bun, turborepo, tailwind v4, playwright, tailwind and vite
+*   [CarlosZiegler/fullstack-start-template](https://github.com/CarlosZiegler/fullstack-start-template) - This project provides a solid foundation for building modern web applications using a curated stack of technologies focused on developer experience, performance, and type safety.
 *   [MartinsMessias/deepsite-locally](https://github.com/MartinsMessias/deepsite-locally) - DeepSite — AI website builder with local hosting support. Run DeepSite on your own server or offline.
 *   [okineadev/vitepress-plugin-llms](https://github.com/okineadev/vitepress-plugin-llms) - 📜 A VitePress plugin for generating LLM-friendly documentation
 *   [daydreamsai/daydreams](https://github.com/daydreamsai/daydreams) - Daydreams is a generative agent framework for executing anything onchain
@@ -1086,13 +1058,71 @@
 *   [awslabs/fhir-works-on-aws-deployment](https://github.com/awslabs/fhir-works-on-aws-deployment) - A serverless implementation of the FHIR standard that enables users to focus more on their business needs/uniqueness rather than the FHIR specification
 *   [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
 *   [philipmulcahy/azad](https://github.com/philipmulcahy/azad) - amazon order history reporter chrome extension
-*   [jorenvandeweyer/snitch-bot](https://github.com/jorenvandeweyer/snitch-bot) - Discord bot that listen for certain strings in messages to tell you about them.
-*   [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Intuitive Vue Framework.
-*   [thomasloven/lovelace-auto-entities](https://github.com/thomasloven/lovelace-auto-entities) - 🔹Automatically populate the entities-list of lovelace cards
-*   [luludotdev/beatsaver-reloaded](https://github.com/luludotdev/beatsaver-reloaded) - BeatSaver Again
+
+## C
+
+*   [termux/termux-x11](https://github.com/termux/termux-x11) - Termux X-server add-on.
+*   [tevador/equix](https://github.com/tevador/equix) - A CPU-friendly client puzzle with instant verification
+*   [veracrypt/VeraCrypt](https://github.com/veracrypt/VeraCrypt) - Disk encryption with strong security based on TrueCrypt
+*   [navit-gps/navit](https://github.com/navit-gps/navit) - The open source (GPL v2) turn-by-turn navigation software for many OS
+*   [gojue/ecapture](https://github.com/gojue/ecapture) - Capturing SSL/TLS plaintext without a CA certificate using eBPF. Supported on Linux/Android kernels for amd64/arm64.
+*   [adafruit/Adafruit\_Learning\_System\_Guides](https://github.com/adafruit/Adafruit_Learning_System_Guides) - Programs and scripts to display "inline" in Adafruit Learning System guides
+*   [upscayl/upscayl-ncnn](https://github.com/upscayl/upscayl-ncnn) - The Upscayl backend powered by the NCNN framework and Real-ESRGAN architecture.
+*   [cgsecurity/testdisk](https://github.com/cgsecurity/testdisk) - TestDisk & PhotoRec
+*   [Versoft-Software/Free95](https://github.com/Versoft-Software/Free95) - Free95 is an open-source windows-compatible operating system.
+*   [kohler/gifsicle](https://github.com/kohler/gifsicle) - Create, manipulate, and optimize GIF images and animations
+*   [LongSoft/UEFITool](https://github.com/LongSoft/UEFITool) - UEFI firmware image viewer and editor
+*   [google/pebble](https://github.com/google/pebble) - This is the latest version of the internal repository from Pebble Technology providing the software to run on Pebble watches. Proprietary source code has been removed from this repository and it will not compile as-is. This is for information only.
+*   [axboe/fio](https://github.com/axboe/fio) - Flexible I/O Tester
+*   [ashvardanian/StringZilla](https://github.com/ashvardanian/StringZilla) - Up to 10x faster strings for C, C++, Python, Rust, Swift & Go, leveraging NEON, AVX2, AVX-512, SVE, & SWAR to accelerate search, hashing, sort, edit distances, and memory ops 🦖
+*   [ichisadashioko/windows-touchpad](https://github.com/ichisadashioko/windows-touchpad) - Make use of touchpad for handwriting in Windows
+*   [lzhiyong/termux-ndk](https://github.com/lzhiyong/termux-ndk) - android-ndk for termux
+*   [wireshark/wireshark](https://github.com/wireshark/wireshark) - Read-only mirror of Wireshark's Git repository at https://gitlab.com/wireshark/wireshark. ⚠️ GitHub won't let us disable pull requests. ⚠️ THEY WILL BE IGNORED HERE ⚠️ Upload them at GitLab instead.
+*   [VictorTaelin/Interaction-Calculus](https://github.com/VictorTaelin/Interaction-Calculus) - A programming language and model of computation that matches the optimal λ-calculus reduction algorithm perfectly.
+*   [tevador/hashx](https://github.com/tevador/hashx) - A family of pseudorandomly generated hash functions for proof-of-work and client puzzles
+*   [FreeRDP/FreeRDP](https://github.com/FreeRDP/FreeRDP) - FreeRDP is a free remote desktop protocol library and clients
+*   [shauninman/MinUI](https://github.com/shauninman/MinUI) - MinUI is a focused, custom launcher and libretro frontend for a variety of retro handhelds.
+*   [Next-Flip/Momentum-Firmware](https://github.com/Next-Flip/Momentum-Firmware) - 🐬 Feature-rich, stable and customizable Flipper Firmware
+*   [rebol/rebol](https://github.com/rebol/rebol) - Source code for the Rebol interpreter
+*   [Waterdish/Shipwright-Android](https://github.com/Waterdish/Shipwright-Android) - Ship of Harkinian Android Port
+*   [noproto/flipper\_kdf](https://github.com/noproto/flipper_kdf) - Collection of KDF plugins for the Flipper Zero
+*   [81230/BlackBox](https://github.com/81230/BlackBox) - BlackBox is a virtual engine, it can clone and run virtual application on Android,  users don't have to install APK file to run the application on devices. BlackBox control all virtual applications, so you can do anything you want by using BlackBox.
+*   [Rukongai/CatDjinni](https://github.com/Rukongai/CatDjinni) - Cat Genie AI exploit research
+*   [hassananayi/nfc-srix-programmer](https://github.com/hassananayi/nfc-srix-programmer) - An CLI NFC application for reading, writing, analyzing, NFC ST SRI512 and SRIX4K tags.
+*   [ToyKeeper/anduril](https://github.com/ToyKeeper/anduril) - Anduril 2 Flashlight Firmware and FSM UI Toolkit
+*   [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
+*   [starryalley/Anduril2](https://github.com/starryalley/Anduril2) - my Anduril2 fork that provides much more features
+*   [libvips/libvips](https://github.com/libvips/libvips) - A fast image processing library with low memory needs.
+*   [libusb/hidapi](https://github.com/libusb/hidapi) - A Simple cross-platform library for communicating with HID devices
+*   [security-geeks/oclHashcat](https://github.com/security-geeks/oclHashcat) - World's fastest and most advanced GPGPU-based password recovery utility
+*   [hashcat/hashcat](https://github.com/hashcat/hashcat) - World's fastest and most advanced password recovery utility
+*   [lvaccaro/truecrack](https://github.com/lvaccaro/truecrack) - TrueCrack is a brute-force password cracker for TrueCrypt (Copyrigth) volumes. It works on Linux and it is optimized for Nvidia Cuda technology.
+*   [sabrogden/Ditto](https://github.com/sabrogden/Ditto) - Ditto is an extension to the Windows Clipboard. You copy something to the Clipboard and Ditto takes what you copied and stores it in a database to retrieve at a later time.
+*   [Flipper-XFW/Xtreme-Firmware](https://github.com/Flipper-XFW/Xtreme-Firmware) - The Dom amongst the Flipper Zero Firmware. Give your Flipper the power and freedom it is really craving. Let it show you its true form. Dont delay, switch to the one and only true Master today!
+*   [DarkFlippers/unleashed-firmware](https://github.com/DarkFlippers/unleashed-firmware) - Flipper Zero Unleashed Firmware
+*   [mcf-rocks/solanity](https://github.com/mcf-rocks/solanity) - Solanity - Solana GPU Address Grinder
+*   [avaneev/prvhash](https://github.com/avaneev/prvhash) - PRVHASH - Pseudo-Random-Value Hash. Hash functions, PRNG with unlimited period, randomness extractor, and a glimpse into abyss. (inline C/C++) (Codename Gradilac/Градилак)
+*   [RoganDawes/LOGITacker](https://github.com/RoganDawes/LOGITacker) - Enumerate and test Logitech wireless input devices for vulnerabilities with a nRF52840 radio dongle.
+*   [FABtotum/FABlin](https://github.com/FABtotum/FABlin) - The FABtotum Personal Fabricator Firmware, a Marlin derivate made to support hybrid manufacturing and digital acquisition
+
+## Dart
+
+*   [ondateta/teta](https://github.com/ondateta/teta) - The open source, AI-powered app builder
+*   [ente-io/ente](https://github.com/ente-io/ente) - 🔒 End-to-end encrypted platform for photos, videos and 2FA secrets.
+*   [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
+*   [sidhant947/Wallet](https://github.com/sidhant947/Wallet) - Wallet is a Flutter project designed to store card information locally on the device, ensuring that the data is secure and cannot be stolen, as the application does not have internet access. The app is optimized for efficiency, allowing users to quickly copy card details for transactions.
+*   [TheLastGimbus/GooglePhotosTakeoutHelper](https://github.com/TheLastGimbus/GooglePhotosTakeoutHelper) - Script that organizes the Google Takeout archive into one big chronological folder
+*   [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) - Get Android app updates straight from the source.
+*   [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music client! Available for both desktop & mobile!
+*   [Mobile-Artificial-Intelligence/maid](https://github.com/Mobile-Artificial-Intelligence/maid) - Maid is a cross-platform Flutter app for interfacing with GGUF / llama.cpp models locally, and with Ollama and OpenAI models remotely.
+*   [vedfi/mondroid](https://github.com/vedfi/mondroid) - Mongodb Client w/ Flutter
+*   [MaximeBeasse/KeyDecoder](https://github.com/MaximeBeasse/KeyDecoder) - KeyDecoder app lets you use your smartphone or tablet to decode your mechanical keys in seconds.
 
 ## miscellaneous
 
+*   [Kishan-Patel-dev/ai-system-prompt](https://github.com/Kishan-Patel-dev/ai-system-prompt) - FULL v0, Cursor, Manus, Same.dev & Lovable System Prompts & AI Models.
+*   [filipecalegario/awesome-vibe-coding](https://github.com/filipecalegario/awesome-vibe-coding) - A curated list of vibe coding references, collaborating with AI to write code.
+*   [KingLeoJr/prompts](https://github.com/KingLeoJr/prompts) - builder prompts which can be sent to builders like cursor, bolt.diy, bolt.new, trae, project idx, lovable.dev, llmacoder, geminicoder, windsurf, deepseek-artifact, cline, aider etc
 *   [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent & VSCode Agent (And other Open Sourced) System Prompts, Tools & AI Models.
 *   [tribixbite/awesome](https://github.com/tribixbite/awesome) - awesome github repos
 *   [MobinX/awesome-mcp-list](https://github.com/MobinX/awesome-mcp-list) - A concise list for mcp servers
@@ -1218,11 +1248,46 @@
 *   [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue) - 🎉 A curated list of awesome things related to Vue.js
 *   [hakluke/how-to-exit-vim](https://github.com/hakluke/how-to-exit-vim) - Below are some simple methods for exiting vim.
 *   [aderusha/DDD-Printable-Wall-Control-System](https://github.com/aderusha/DDD-Printable-Wall-Control-System) - DDD Printable Wall Control System, 3d printable organization solutions for Wall Control pegboards
-*   [mdbootstrap/Black-Friday-2024](https://github.com/mdbootstrap/Black-Friday-2024) - Black Friday & Cyber Monday Deals (UI Kits WordPress Plugins, CRMs, SEO, Courses, Books) for web developers, programmers, and software engineers.
-*   [RitikPatni/Front-End-Web-Development-Resources](https://github.com/RitikPatni/Front-End-Web-Development-Resources) - This repository contains content which will be helpful in your journey as a front-end Web Developer
+
+## HTML
+
+*   [LouisShark/chatgpt\_system\_prompt](https://github.com/LouisShark/chatgpt_system_prompt) - A collection of GPT system prompts and various prompt injection/leaking knowledge.
+*   [robinmoisson/staticrypt](https://github.com/robinmoisson/staticrypt) - Password protect a static HTML page, decrypted in-browser in JS with no dependency. No server logic needed.
+*   [Croquetx/pingkong](https://github.com/Croquetx/pingkong) - Multiplayer Pong
+*   [Unstructured-IO/unstructured](https://github.com/Unstructured-IO/unstructured) - Open source libraries and APIs to build custom preprocessing pipelines for labeling, training, or production machine learning pipelines.
+*   [tianocore/tianocore.github.io](https://github.com/tianocore/tianocore.github.io) - Tianocore website
+*   [felladrin/awesome-ai-web-search](https://github.com/felladrin/awesome-ai-web-search) - List of software that allows searching the web with the assistance of AI: https://hf.co/spaces/felladrin/awesome-ai-web-search
+*   [w3c-ccg/vc-api](https://github.com/w3c-ccg/vc-api) - A specification for an HTTP API used to issue and verify Verifiable Credentials.
+*   [pkgforge-dev/Termux-Packages](https://github.com/pkgforge-dev/Termux-Packages) - Markdown List (Table), JSON & YAML of all the officially Available Packages in the Termux Registry :: https://termux-packages.ajam.dev \[Maintainer=@Azathothas]
+*   [vitalets/github-trending-repos](https://github.com/vitalets/github-trending-repos) - Track GitHub trending repositories in your favorite programming language by native GitHub notifications!
+*   [run-llama/create\_llama\_projects](https://github.com/run-llama/create_llama_projects) -
+*   [thedevdojo/pines](https://github.com/thedevdojo/pines) - The Pines UI library
+*   [LangbaseInc/langui](https://github.com/LangbaseInc/langui) - UI for your AI. Open Source Tailwind components tailored for your GPT, generative AI, and LLM projects.
+*   [htmlstreamofficial/preline](https://github.com/htmlstreamofficial/preline) - Preline UI is an open-source set of prebuilt UI components based on the utility-first Tailwind CSS framework.
+*   [iv-org/invidious.io](https://github.com/iv-org/invidious.io) - The Invidious.io website
+*   [Lomusire/FreeGPT-4](https://github.com/Lomusire/FreeGPT-4) - FreeGPT-4 is an AI Assistant Discord Bot providing Unlimited access to popular AI models like ChatGPT, GPT-4, Sage, and Claude. Enjoy engaging AI-driven conversations in Discord using simple commands. Join our server or invite the bot to yours for a unique AI experience, all for free!
+*   [2501babe/2501babe.github.io](https://github.com/2501babe/2501babe.github.io) - personal site
+*   [MiyakoYakota/search.0t.rocks](https://github.com/MiyakoYakota/search.0t.rocks) -
+*   [bartlomiejzuber/use-open-window](https://github.com/bartlomiejzuber/use-open-window) - React hook to open links in separate windows ✔️
+*   [N3evin/AmiiboAPI](https://github.com/N3evin/AmiiboAPI) - A RESTful API for amiibo.
+*   [lilnasy/scribblyscrobbly](https://github.com/lilnasy/scribblyscrobbly) - a web page to tidy up apple music and spotify streaming history for last.fm
+*   [FineFindus/artem](https://github.com/FineFindus/artem) - Convert images from multiple formats (jpg, png, webp, etc…) to ASCII art, written in Rust
+*   [littleark/githut](https://github.com/littleark/githut) - Visualization of data from github archive.
+*   [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot) - An advanced discord music bot, supports Spotify, Soundcloud, YouTube with Shuffling, Volume Control and Web Dashboard with Slash Commands support!
+*   [Clueless-Community/seamless-ui](https://github.com/Clueless-Community/seamless-ui) - The next gen UI made with simple HTML and Tailwind CSS. It's compatible with simple HTML, CSS static website or a React, Vue, Angular or Next.js Complex app. Zero JS and no-plugins installed.
+*   [ehxu/termius-cracked](https://github.com/ehxu/termius-cracked) - Terminus Cracked Version
+*   [anubra266/chakra-play](https://github.com/anubra266/chakra-play) - 🤽‍♀️ An advanced online playground for Chakra UI
+*   [MyMiniFactory/stl2gltf](https://github.com/MyMiniFactory/stl2gltf) - Convert STL to glb
+*   [carbon-design-system/carbon-charts](https://github.com/carbon-design-system/carbon-charts) - :bar\_chart: :chart\_with\_upwards\_trend:⠀Robust dataviz framework implemented using D3 & typescript
+*   [TanStack/react-charts](https://github.com/TanStack/react-charts) - ⚛️ Simple, immersive & interactive charts for React
+*   [trickytibo/next\_solana\_nft2mint](https://github.com/trickytibo/next_solana_nft2mint) - A package to easily find the next hyped solana nft to mint.
+*   [vasturiano/3d-force-graph](https://github.com/vasturiano/3d-force-graph) - 3D force-directed graph component using ThreeJS/WebGL
+*   [themesberg/flowbite](https://github.com/themesberg/flowbite) - Open-source UI component library and front-end development framework based on Tailwind CSS
+*   [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
 
 ## Rust
 
+*   [PrimeIntellect-ai/protocol](https://github.com/PrimeIntellect-ai/protocol) -  peer-to-peer compute and intelligence network that enables decentralized AI development at scale
 *   [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig) - ⚙️🦀 Build portable, modular & lightweight Fullstack Agents
 *   [isaccanedo/arnis](https://github.com/isaccanedo/arnis) - 🌎🗺 Generate any location from the real world in Minecraft Java Edition with a high level of detail
 *   [huggingface/candle](https://github.com/huggingface/candle) - Minimalist ML framework for Rust
@@ -1342,6 +1407,7 @@
 
 ## Python
 
+*   [agno-agi/agent-api](https://github.com/agno-agi/agent-api) - A minimal, open-source setup for serving Agents using FastAPI and Postgres. Built for speed, clarity, and dev happiness.
 *   [google/A2A](https://github.com/google/A2A) - An open protocol enabling communication and interoperability between opaque agentic applications.
 *   [i-am-bee/acp](https://github.com/i-am-bee/acp) - Agent Communication Protocol
 *   [apify/actor-llmstxt-generator](https://github.com/apify/actor-llmstxt-generator) - The /llms.txt Generator Actor 🕸️📄 extracts website content to create an llms.txt file for AI apps 🤖✨ like LLM fine-tuning and indexing. Output is available 📥 in the Key-Value Store for easy download and integration into workflows. 🚀
@@ -1738,16 +1804,6 @@
 *   [LedgerHQ/app-monero](https://github.com/LedgerHQ/app-monero) - Monero wallet application for Ledger Nano S & X
 *   [klattimer/LGWebOSRemote](https://github.com/klattimer/LGWebOSRemote) - Command line webOS remote for LGTVs
 *   [Hari-Nagarajan/fairgame](https://github.com/Hari-Nagarajan/fairgame) - Tool to help us buy hard to find items.
-*   [berkuhlee/KeywordBot](https://github.com/berkuhlee/KeywordBot) - Keyword Notifications, similar to skype, for Discord!
-*   [home-assistant/core](https://github.com/home-assistant/core) - :house\_with\_garden: Open source home automation that puts local control and privacy first.
-*   [bmengineer-gear/RuTiTe](https://github.com/bmengineer-gear/RuTiTe) - Python script to record flashlight runtime using a Raspberry Pi and a TSL2591
-*   [parametrek/gm1020](https://github.com/parametrek/gm1020) - Cross platform utility for the Benetech GM1020 USB logging luxmeter
-*   [IBM/MicroscoPy](https://github.com/IBM/MicroscoPy) - An open-source, motorized, and modular microscope built using LEGO bricks, Arduino, Raspberry Pi and 3D printing.
-*   [PrusaOwners/OctoPrint-PrusaMeshMap](https://github.com/PrusaOwners/OctoPrint-PrusaMeshMap) - This plugin performs a mesh bed leveling operation then returns the results as an easy to read heatmap.
-*   [sbidy/wiz\_light](https://github.com/sbidy/wiz_light) - A WiZ Light integration for Home Assistant
-*   [sbidy/pywizlight](https://github.com/sbidy/pywizlight) - A python connector for WiZ devices
-*   [thp/urlwatch](https://github.com/thp/urlwatch) - Watch (parts of) webpages and get notified when something changes via e-mail, on your phone or via other means. Highly configurable.
-*   [watir/nerodia](https://github.com/watir/nerodia) - Python implementation of Watir
 
 ## MDX
 
@@ -1893,7 +1949,7 @@
 *   [amazon-archives/amazon-transcribe-websocket-static](https://github.com/amazon-archives/amazon-transcribe-websocket-static) - A static site demonstrating real-time audio transcription via Amazon Transcribe over a WebSocket.
 *   [Semantic-Org/Semantic-UI](https://github.com/Semantic-Org/Semantic-UI) - Semantic is a UI component framework based around useful principles from natural language.
 *   [mdbootstrap/TW-Elements](https://github.com/mdbootstrap/TW-Elements) - 𝙃𝙪𝙜𝙚 collection of Tailwind MIT licensed (free) components, sections and templates 😎
-*   [nextapps-de/mikado](https://github.com/nextapps-de/mikado) - Mikado is the webs fastest template library for building user interfaces.
+*   [nextapps-de/mikado](https://github.com/nextapps-de/mikado) - The fastest template library/engine for building web-based user interfaces and apps.
 *   [infernojs/inferno](https://github.com/infernojs/inferno) - :fire: An extremely fast, React-like JavaScript library for building modern user interfaces
 *   [marko-js/marko](https://github.com/marko-js/marko) - A declarative, HTML-based language that makes building web apps fun
 *   [krausest/js-framework-benchmark](https://github.com/krausest/js-framework-benchmark) - A comparison of the performance of a few popular javascript frameworks
@@ -2040,7 +2096,7 @@
 *   [creativetimofficial/notus-react](https://github.com/creativetimofficial/notus-react) - Notus React: Free Tailwind CSS UI Kit and Admin
 *   [kodingdotninja/chakra-icons](https://github.com/kodingdotninja/chakra-icons) - Transform SVGs to React Chakra UI \<Icon /> ✨
 *   [BetterDiscord/BetterDiscord](https://github.com/BetterDiscord/BetterDiscord) - Better Discord enhances Discord desktop app with new features.
-*   [nextapps-de/spotlight](https://github.com/nextapps-de/spotlight) - Web's most easy to integrate lightbox gallery library. Super-lightweight, outstanding performance, no dependencies.
+*   [nextapps-de/spotlight](https://github.com/nextapps-de/spotlight) - The most easy to integrate lightbox image gallery library for the Web.
 *   [dimsemenov/PhotoSwipe](https://github.com/dimsemenov/PhotoSwipe) - JavaScript image gallery for mobile and desktop, modular, framework independent
 *   [framework7io/framework7](https://github.com/framework7io/framework7) - Full featured HTML framework for building iOS & Android apps
 *   [android-js/androidjs](https://github.com/android-js/androidjs) - Platform to build android app using node js
@@ -2166,7 +2222,6 @@
 *   [tylerburleigh/nike-buy-bot](https://github.com/tylerburleigh/nike-buy-bot) - A bot using Node.js / puppeteer that buys a Nike shoe when it drops
 *   [dkkocab/WebSiteBot\_PS5](https://github.com/dkkocab/WebSiteBot_PS5) - This is a bot that will buy a PS5 through Walmart. It's written in python and uses selenium to interact with web pages. *WORK IN PROGRESS*
 *   [oriziv/sync-files-blob-storage-ha](https://github.com/oriziv/sync-files-blob-storage-ha) -
-*   [kylepaulsen/ResourceOverride](https://github.com/kylepaulsen/ResourceOverride) - An extension to help you gain full control of any website by redirecting traffic, replacing, editing, or inserting new content.
 
 ## Jupyter Notebook
 
@@ -2208,7 +2263,6 @@
 *   [RuolinZheng08/twewy-discord-chatbot](https://github.com/RuolinZheng08/twewy-discord-chatbot) - Discord AI Chatbot using DialoGPT, trained on the game transcript of The World Ends With You
 *   [benyaminahmed/nft-image-generator](https://github.com/benyaminahmed/nft-image-generator) -
 *   [PacktPublishing/Machine-Learning-for-Algorithmic-Trading-Second-Edition\_Original](https://github.com/PacktPublishing/Machine-Learning-for-Algorithmic-Trading-Second-Edition_Original) - Machine Learning for Algorithmic Trading, Second Edition - published by Packt
-*   [dapperfu/python\_Meijer](https://github.com/dapperfu/python_Meijer) - Reverse engineered API for Meijer's Shopping List.
 
 ## C++
 
@@ -2272,54 +2326,6 @@
 *   [google-deepmind/code\_contests](https://github.com/google-deepmind/code_contests) -
 *   [HASwitchPlate/openHASP](https://github.com/HASwitchPlate/openHASP) - HomeAutomation Switchplate based on lvgl for ESP32
 *   [esphome/esphome](https://github.com/esphome/esphome) - ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems.
-*   [mozilla/DeepSpeech](https://github.com/mozilla/DeepSpeech) - DeepSpeech is an open source embedded (offline, on-device) speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers.
-
-## HTML
-
-*   [robinmoisson/staticrypt](https://github.com/robinmoisson/staticrypt) - Password protect a static HTML page, decrypted in-browser in JS with no dependency. No server logic needed.
-*   [Croquetx/pingkong](https://github.com/Croquetx/pingkong) - Multiplayer Pong
-*   [Unstructured-IO/unstructured](https://github.com/Unstructured-IO/unstructured) - Open source libraries and APIs to build custom preprocessing pipelines for labeling, training, or production machine learning pipelines.
-*   [tianocore/tianocore.github.io](https://github.com/tianocore/tianocore.github.io) - Tianocore website
-*   [felladrin/awesome-ai-web-search](https://github.com/felladrin/awesome-ai-web-search) - List of software that allows searching the web with the assistance of AI: https://hf.co/spaces/felladrin/awesome-ai-web-search
-*   [w3c-ccg/vc-api](https://github.com/w3c-ccg/vc-api) - A specification for an HTTP API used to issue and verify Verifiable Credentials.
-*   [pkgforge-dev/Termux-Packages](https://github.com/pkgforge-dev/Termux-Packages) - Markdown List (Table), JSON & YAML of all the officially Available Packages in the Termux Registry :: https://termux-packages.ajam.dev \[Maintainer=@Azathothas]
-*   [vitalets/github-trending-repos](https://github.com/vitalets/github-trending-repos) - Track GitHub trending repositories in your favorite programming language by native GitHub notifications!
-*   [run-llama/create\_llama\_projects](https://github.com/run-llama/create_llama_projects) -
-*   [thedevdojo/pines](https://github.com/thedevdojo/pines) - The Pines UI library
-*   [LangbaseInc/langui](https://github.com/LangbaseInc/langui) - UI for your AI. Open Source Tailwind components tailored for your GPT, generative AI, and LLM projects.
-*   [htmlstreamofficial/preline](https://github.com/htmlstreamofficial/preline) - Preline UI is an open-source set of prebuilt UI components based on the utility-first Tailwind CSS framework.
-*   [iv-org/invidious.io](https://github.com/iv-org/invidious.io) - The Invidious.io website
-*   [Lomusire/FreeGPT-4](https://github.com/Lomusire/FreeGPT-4) - FreeGPT-4 is an AI Assistant Discord Bot providing Unlimited access to popular AI models like ChatGPT, GPT-4, Sage, and Claude. Enjoy engaging AI-driven conversations in Discord using simple commands. Join our server or invite the bot to yours for a unique AI experience, all for free!
-*   [2501babe/2501babe.github.io](https://github.com/2501babe/2501babe.github.io) - personal site
-*   [MiyakoYakota/search.0t.rocks](https://github.com/MiyakoYakota/search.0t.rocks) -
-*   [bartlomiejzuber/use-open-window](https://github.com/bartlomiejzuber/use-open-window) - React hook to open links in separate windows ✔️
-*   [N3evin/AmiiboAPI](https://github.com/N3evin/AmiiboAPI) - A RESTful API for amiibo.
-*   [lilnasy/scribblyscrobbly](https://github.com/lilnasy/scribblyscrobbly) - a web page to tidy up apple music and spotify streaming history for last.fm
-*   [FineFindus/artem](https://github.com/FineFindus/artem) - Convert images from multiple formats (jpg, png, webp, etc…) to ASCII art, written in Rust
-*   [littleark/githut](https://github.com/littleark/githut) - Visualization of data from github archive.
-*   [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot) - An advanced discord music bot, supports Spotify, Soundcloud, YouTube with Shuffling, Volume Control and Web Dashboard with Slash Commands support!
-*   [Clueless-Community/seamless-ui](https://github.com/Clueless-Community/seamless-ui) - The next gen UI made with simple HTML and Tailwind CSS. It's compatible with simple HTML, CSS static website or a React, Vue, Angular or Next.js Complex app. Zero JS and no-plugins installed.
-*   [ehxu/termius-cracked](https://github.com/ehxu/termius-cracked) - Terminus Cracked Version
-*   [anubra266/chakra-play](https://github.com/anubra266/chakra-play) - 🤽‍♀️ An advanced online playground for Chakra UI
-*   [MyMiniFactory/stl2gltf](https://github.com/MyMiniFactory/stl2gltf) - Convert STL to glb
-*   [carbon-design-system/carbon-charts](https://github.com/carbon-design-system/carbon-charts) - :bar\_chart: :chart\_with\_upwards\_trend:⠀Robust dataviz framework implemented using D3 & typescript
-*   [TanStack/react-charts](https://github.com/TanStack/react-charts) - ⚛️ Simple, immersive & interactive charts for React
-*   [trickytibo/next\_solana\_nft2mint](https://github.com/trickytibo/next_solana_nft2mint) - A package to easily find the next hyped solana nft to mint.
-*   [vasturiano/3d-force-graph](https://github.com/vasturiano/3d-force-graph) - 3D force-directed graph component using ThreeJS/WebGL
-*   [themesberg/flowbite](https://github.com/themesberg/flowbite) - Open-source UI component library and front-end development framework based on Tailwind CSS
-*   [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
-
-## Dart
-
-*   [ente-io/ente](https://github.com/ente-io/ente) - 🔒 End-to-end encrypted platform for photos, videos and 2FA secrets.
-*   [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
-*   [sidhant947/Wallet](https://github.com/sidhant947/Wallet) - Wallet is a Flutter project designed to store card information locally on the device, ensuring that the data is secure and cannot be stolen, as the application does not have internet access. The app is optimized for efficiency, allowing users to quickly copy card details for transactions.
-*   [TheLastGimbus/GooglePhotosTakeoutHelper](https://github.com/TheLastGimbus/GooglePhotosTakeoutHelper) - Script that organizes the Google Takeout archive into one big chronological folder
-*   [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) - Get Android app updates straight from the source.
-*   [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music client! Available for both desktop & mobile!
-*   [Mobile-Artificial-Intelligence/maid](https://github.com/Mobile-Artificial-Intelligence/maid) - Maid is a cross-platform Flutter app for interfacing with GGUF / llama.cpp models locally, and with Ollama and OpenAI models remotely.
-*   [vedfi/mondroid](https://github.com/vedfi/mondroid) - Mongodb Client w/ Flutter
-*   [MaximeBeasse/KeyDecoder](https://github.com/MaximeBeasse/KeyDecoder) - KeyDecoder app lets you use your smartphone or tablet to decode your mechanical keys in seconds.
 
 ## Kotlin
 
@@ -2476,8 +2482,6 @@
 *   [furkandeveloper/EasyCronJob](https://github.com/furkandeveloper/EasyCronJob) - This repository provides easy cron job to your application on IHostedService.
 *   [MonkeDAO/observer](https://github.com/MonkeDAO/observer) - A command-line tracking tool for Solana-based NFT marketplaces and a metadata scraper for Metaplex protocol.
 *   [Tyrrrz/DiscordChatExporter](https://github.com/Tyrrrz/DiscordChatExporter) - Exports Discord chat logs to a file
-*   [JumpmanSr/BailOutMode](https://github.com/JumpmanSr/BailOutMode) - BailOutMode, a Beat Saber mod that automatically switches to no fail instead of ending a song.
-*   [bsmg/ModAssistant](https://github.com/bsmg/ModAssistant) - Simple Beat Saber Mod Installer
 
 ## Move
 
@@ -2567,9 +2571,6 @@
 *   [2501babe/revoken](https://github.com/2501babe/revoken) - web ui to revoke solana token approvals
 *   [mynftgg/nft-project](https://github.com/mynftgg/nft-project) - Game code for mynftgg
 *   [paul-schaaf/spl-token-ui](https://github.com/paul-schaaf/spl-token-ui) - Interface for creating and managing SPL Tokens
-*   [Alaanor/beatlist](https://github.com/Alaanor/beatlist) - Beatlist is an app to manage playlists and beatmaps for the game Beat Saber.
-*   [samatt/herbivore](https://github.com/samatt/herbivore) - Packet sniffing made simple
-*   [ui-discord/ubiquiti-name-generator](https://github.com/ui-discord/ubiquiti-name-generator) - A silly tool to make up product names that Ubiquiti may or may not release
 
 ## Cuda
 
@@ -2661,7 +2662,6 @@
 *   [primer/css](https://github.com/primer/css) - Primer is GitHub's design system. This is the CSS implementation
 *   [jcphlux/swagger-ui-themes](https://github.com/jcphlux/swagger-ui-themes) - Themes for swagger-ui
 *   [slatedocs/slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
-*   [just-the-docs/just-the-docs](https://github.com/just-the-docs/just-the-docs) - A modern, high customizable, responsive Jekyll theme for documentation with built-in search.
 
 ## Dockerfile
 
@@ -2740,7 +2740,3 @@
 ## Visual Basic .NET
 
 *   [ChrisAnd1998/TaskbarX](https://github.com/ChrisAnd1998/TaskbarX) - Center Windows taskbar icons with a variety of animations and options.
-
-## R
-
-*   [BorisNikulin/discord-chat-analysis](https://github.com/BorisNikulin/discord-chat-analysis) - Text analysis of a discord chat group
