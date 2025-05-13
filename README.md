@@ -271,7 +271,7 @@
 *   [fonoster/routr](https://github.com/fonoster/routr) - ⚡ The future of programmable SIP servers.
 *   [spacebarchat/server](https://github.com/spacebarchat/server) - Spacebar server - A reimplementation of the Discord.com backend, built with Typescript and love
 *   [jup-ag/solana-wallets-universal](https://github.com/jup-ag/solana-wallets-universal) - universal wallet adapter for solana dapps
-*   [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix (formerly Repopack) is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, DeepSeek, Perplexity, Gemini, Gemma, Llama, Grok, and more.
+*   [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, DeepSeek, Perplexity, Gemini, Gemma, Llama, Grok, and more.
 *   [mimiMonads/vixeny](https://github.com/mimiMonads/vixeny) - 💜 Vixeny: At the forefront of modern web development, runtime-independent, efficiency-driven library dedicated to upholding the principles of FP; Desgined for creating scalable, maintainable, and high-performance web applications.
 *   [tanishqmanuja/todos-react-elysia](https://github.com/tanishqmanuja/todos-react-elysia) - 📑 A fullstack todos app built with React and Elysia using Bun.
 *   [mugencraft/turbobun](https://github.com/mugencraft/turbobun) - Bun + Biome Turborepo, with basic Elysia and Next.js apps and commits conventions
