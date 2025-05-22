@@ -1371,6 +1371,7 @@
 *   [p-e-w/sorcery](https://github.com/p-e-w/sorcery) - The future of AI roleplay
 *   [spicetify/cli](https://github.com/spicetify/cli) - Command-line tool to customize Spotify client. Supports Windows, MacOS, and Linux.
 *   [anvaka/map-of-reddit](https://github.com/anvaka/map-of-reddit) - Interactive map of reddit
+*   [anvaka/map-of-github](https://github.com/anvaka/map-of-github) - Inspirational Mapping
 *   [ungoldman/sitedown](https://github.com/ungoldman/sitedown) - 📄 Turn some markdown files into a website.
 *   [aplotor/expanse](https://github.com/aplotor/expanse) - selfhosted multi-user web app for externally storing Reddit items (saved, created, upvoted, downvoted, hidden) to bypass Reddit's 1000-item listing limits
 *   [thewuhxyz/valet](https://github.com/thewuhxyz/valet) - Social-login enabled programmable smart wallet
@@ -1846,7 +1847,7 @@
 *   [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - CLI platform to experiment with codegen. Precursor to: https://lovable.dev
 *   [lucatosc/GPT-Engineer](https://github.com/lucatosc/GPT-Engineer) - Platform to experiment with the AI Software Engineer. Terminal based. NOTE: Very different from
 *   [NejoBot/NejoLite](https://github.com/NejoBot/NejoLite) - A little version of Nejo, just kicks scapers, doesn't notify. Built on nextcord
-*   [Lightning-AI/LitServe](https://github.com/Lightning-AI/LitServe) - Simplest way to serve AI models and inference pipelines in production.
+*   [Lightning-AI/LitServe](https://github.com/Lightning-AI/LitServe) - Deploy AI models and inference pipelines - without learning MLOps.
 *   [FSoft-AI4Code/HyperAgent](https://github.com/FSoft-AI4Code/HyperAgent) - Generalist Software Agents to Solve Soware Engineering Tasks
 *   [meta-llama/llama-stack](https://github.com/meta-llama/llama-stack) - Composable building blocks to build Llama Apps
 *   [ucbepic/docetl](https://github.com/ucbepic/docetl) - A system for agentic LLM-powered data processing and ETL
@@ -2658,7 +2659,6 @@
 ## Vue
 
 *   [webpilot-ai/Webpilot](https://github.com/webpilot-ai/Webpilot) -
-*   [anvaka/map-of-github](https://github.com/anvaka/map-of-github) - Inspirational Mapping
 *   [scalar/scalar](https://github.com/scalar/scalar) - Scalar is an open-source API platform:　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　🌐 Modern Rest API Client　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　📖 Beautiful API References　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　✨ 1st-Class OpenAPI/Swagger Support
 *   [2501babe/revoken](https://github.com/2501babe/revoken) - web ui to revoke solana token approvals
 *   [mynftgg/nft-project](https://github.com/mynftgg/nft-project) - Game code for mynftgg
