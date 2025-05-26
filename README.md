@@ -516,7 +516,7 @@
 *   [SaltyAom/bun-http-framework-benchmark](https://github.com/SaltyAom/bun-http-framework-benchmark) - Compare throughput benchmark from various Bun HTTP framework
 *   [AmanVarshney01/create-better-t-stack](https://github.com/AmanVarshney01/create-better-t-stack) - A modern CLI tool for scaffolding end-to-end type-safe TypeScript projects with best practices and customizable configurations
 *   [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) - A GUI Agent application based on UI-TARS(Vision-Language Model) that allows you to control your computer using natural language.
-*   [cyanheads/git-mcp-server](https://github.com/cyanheads/git-mcp-server) - Robust Model Context Protocol server for Git tools. STDIO & Streamable HTTP
+*   [cyanheads/git-mcp-server](https://github.com/cyanheads/git-mcp-server) - An MCP (Model Context Protocol) server enabling LLMs and AI agents to interact with Git repositories. Provides tools for comprehensive Git operations including clone, commit, branch, diff, log, status, push, pull, merge, rebase, worktree, tag management, and more, via the MCP standard. STDIO & HTTP.
 *   [KindaBrazy/LynxHub-Module-Guide](https://github.com/KindaBrazy/LynxHub-Module-Guide) - Guide on how to create module for LynxHub
 *   [antonycourtney/tad](https://github.com/antonycourtney/tad) - A desktop application for viewing and analyzing tabular data
 *   [bsgbryan/roc](https://github.com/bsgbryan/roc) - A thoroughly-modern real-time simulation engine
@@ -1347,7 +1347,7 @@
 *   [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
 *   [rowyio/rowy](https://github.com/rowyio/rowy) - Low-code backend platform. Manage database on spreadsheet-like UI and build cloud functions workflows in JS/TS, all in your browser.
 *   [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
-*   [appwrite/appwrite](https://github.com/appwrite/appwrite) - The open-source Vercel alternative
+*   [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds\_
 *   [BuilderIO/figma-html](https://github.com/BuilderIO/figma-html) - Convert any website to editable Figma designs
 *   [BuilderIO/mitosis](https://github.com/BuilderIO/mitosis) - Write components once, run everywhere. Compiles to React, Vue, Qwik, Solid, Angular, Svelte, and more.
 *   [BuilderIO/vscode](https://github.com/BuilderIO/vscode) - Builder.io for VSCode - turn designs into code!
