@@ -2057,7 +2057,6 @@
 *   [spring-projects-2024/wiki-savvy-rag](https://github.com/spring-projects-2024/wiki-savvy-rag) - Finetuned an LLM to build a Wikipedia-backed RAG system expert about STEM subjects. Features a streamlit demo.
 *   [cyberark/FuzzyAI](https://github.com/cyberark/FuzzyAI) - A powerful tool for automated LLM fuzzing. It is designed to help developers and security researchers identify and mitigate potential jailbreaks in their LLM APIs.
 *   [artidoro/qlora](https://github.com/artidoro/qlora) - QLoRA: Efficient Finetuning of Quantized LLMs
-*   [NVIDIA/Cosmos](https://github.com/NVIDIA/Cosmos) - New repo collection for NVIDIA Cosmos: https://github.com/nvidia-cosmos
 *   [microsoft/RecAI](https://github.com/microsoft/RecAI) - Bridging LLM and Recommender System.
 *   [facebookresearch/sam2](https://github.com/facebookresearch/sam2) - The repository provides code for running inference with the Meta Segment Anything Model 2 (SAM 2), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.
 *   [facebookresearch/segment-anything](https://github.com/facebookresearch/segment-anything) - The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.
@@ -2328,6 +2327,7 @@
 *   [barlowhaydnb/SmokelessRuntimeEFIPatcher](https://github.com/barlowhaydnb/SmokelessRuntimeEFIPatcher) - A Simple Tool to patch EFI Modules at Runtime
 *   [quanbingyi/SREP-Community-Patches](https://github.com/quanbingyi/SREP-Community-Patches) - A List of community patches to use with SmokelessRuntimeEfiPatcher
 *   [underlines/awesome-ml](https://github.com/underlines/awesome-ml) - Curated list of useful LLM / Analytics / Datascience resources
+*   [NVIDIA/Cosmos](https://github.com/NVIDIA/Cosmos) - New repo collection for NVIDIA Cosmos: https://github.com/nvidia-cosmos
 *   [sourcegraph/awesome-code-ai](https://github.com/sourcegraph/awesome-code-ai) - A list of AI coding tools (assistants, completions, refactoring, etc.)
 *   [beeman/404pad](https://github.com/beeman/404pad) - pad404.com - MPL404 native mint launchpad, support candy machine v3
 *   [persys-ai/persys](https://github.com/persys-ai/persys) - Welcome!
