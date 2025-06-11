@@ -1925,7 +1925,7 @@
 
 ## JavaScript
 
-*   [carolkindell/multiplayer-particles](https://github.com/carolkindell/multiplayer-particles) - Real-time multiplayer particle collection game built with Cloudflare Workers and WebSockets
+*   [puaaaar/multiplayer-particles](https://github.com/puaaaar/multiplayer-particles) - Real-time multiplayer particle collection game built with Cloudflare Workers and WebSockets
 *   [UseInterstellar/Interstellar](https://github.com/UseInterstellar/Interstellar) - One of the most popular modern web proxies with blazing fast speeds and a variety of games.
 *   [Unitech/pm2](https://github.com/Unitech/pm2) - Node.js Production Process Manager with a built-in Load Balancer.
 *   [PactInteractive/image-downloader](https://github.com/PactInteractive/image-downloader) - ⬇️ Download images from the web with ease. A browser extension for Google Chrome, Microsoft Edge, and Brave.
