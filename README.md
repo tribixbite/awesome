@@ -450,7 +450,7 @@
 *   [janwilmake/contextbuilding](https://github.com/janwilmake/contextbuilding) - Collaborative Context Editor
 *   [modelcontextprotocol/modelcontextprotocol](https://github.com/modelcontextprotocol/modelcontextprotocol) - Specification and documentation for the Model Context Protocol
 *   [modelcontextprotocol/typescript-sdk](https://github.com/modelcontextprotocol/typescript-sdk) - The official Typescript SDK for Model Context Protocol servers and clients
-*   [rivet-gg/actor-core](https://github.com/rivet-gg/actor-core) - 🎭 Stateful Serverless That Runs Anywhere. The easiest way to build stateful, AI agent, collaborative, or local-first applications. Deploy to Rivet, Cloudflare, Bun, Node.js, and more.
+*   [rivet-gg/rivetkit](https://github.com/rivet-gg/rivetkit) - 🎭 Stateful Serverless That Runs Anywhere. The easiest way to build stateful, AI agent, collaborative, or local-first applications. Deploy to Rivet, Cloudflare, Bun, Node.js, and more.
 *   [vermaysha/elysia-compress](https://github.com/vermaysha/elysia-compress) - Elysia Compression utils that works with Bun
 *   [ithacaxyz/porto](https://github.com/ithacaxyz/porto) - Authentication & payments on the web
 *   [janwilmake/uit](https://github.com/janwilmake/uit) - Library for performant, modular, low-memory file processing at scale, in the Cloud
@@ -568,7 +568,6 @@
 *   [berty/berty](https://github.com/berty/berty) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 *   [janwilmake/forgithub](https://github.com/janwilmake/forgithub) - GitHub Tools Powered By URL UX
 *   [OpenAgentPlatform/Dive](https://github.com/OpenAgentPlatform/Dive) - Dive is an open-source MCP Host Desktop Application that seamlessly integrates with any LLMs supporting function calling capabilities. ✨
-*   [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open Source Alternative to NotebookLM / Perplexity / Glean, connected to external sources such as search engines (Tavily, Linkup), Slack, Linear, Notion, YouTube, GitHub, Discord and more.
 *   [tymur999/sol-incinerator-oss](https://github.com/tymur999/sol-incinerator-oss) - Close token accounts to regain SOL without Sol Incinerator 15% fee
 *   [hotovo/aider-desk](https://github.com/hotovo/aider-desk) - Desktop application for Aider AI assistant and much more
 *   [osmoscraft/osmosmemo](https://github.com/osmoscraft/osmosmemo) - Turn GitHub into a bookmark manager
@@ -2128,7 +2127,7 @@
 
 ## Go
 
-*   [smtg-ai/claude-squad](https://github.com/smtg-ai/claude-squad) - Manage multiple AI agents like Claude Code, Aider, Codex, and Amp.
+*   [smtg-ai/claude-squad](https://github.com/smtg-ai/claude-squad) - Manage multiple AI agents like Claude Code, Aider, Codex, OpenCode, and Amp.
 *   [brianshea2/meshmap.net](https://github.com/brianshea2/meshmap.net) - a map of Meshtastic nodes
 *   [railwayapp/railpack](https://github.com/railwayapp/railpack) - Zero-config application builder that automatically analyzes and turns your code into an image
 *   [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
@@ -2302,7 +2301,7 @@
 *   [gpustack/llama-box](https://github.com/gpustack/llama-box) - LM inference server implementation based on \*.cpp.
 *   [unslothai/llama.cpp](https://github.com/unslothai/llama.cpp) - LLM inference in C/C++
 *   [aicodix/rattlegram](https://github.com/aicodix/rattlegram) - Transceive UTF-8 text messages with up to 170 bytes over audio in about a second!
-*   [Genta-Technology/Kolosal](https://github.com/Genta-Technology/Kolosal) - Kolosal AI is an OpenSource and Lightweight alternative to LM Studio to run LLMs 100% offline on your device.
+*   [KolosalAI/Kolosal](https://github.com/KolosalAI/Kolosal) - Kolosal AI is an OpenSource and Lightweight alternative to LM Studio to run LLMs 100% offline on your device.
 *   [MerginMaps/mobile](https://github.com/MerginMaps/mobile) - Mergin Maps mobile app 📲 Open QGIS projects and manage vector data on your phone, even offline 📶 (Android/iOS/Windows app)
 *   [Maproom/qmapshack](https://github.com/Maproom/qmapshack) - Consumer grade GIS software
 *   [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community. No ads, no tracking, no data collection, no crapware. Please donate to support the development!
@@ -2827,6 +2826,7 @@
 *   [evilC/AppFactory](https://github.com/evilC/AppFactory) - A library for creating AHK Gui Apps with configurable hotkeys and settings.
 *   [pmb6tz/windows-desktop-switcher](https://github.com/pmb6tz/windows-desktop-switcher) - An AutoHotKey script for Windows that lets a user change virtual desktops by pressing CapsLock + \<num>.
 *   [TaranVH/2nd-keyboard](https://github.com/TaranVH/2nd-keyboard) - ALL of Taran's scripts - not just for the 2nd keyboard.
+*   [jpginc/windows10DesktopManager](https://github.com/jpginc/windows10DesktopManager) - An autohotkey desktop manager
 
 ## SVG
 
