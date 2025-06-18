@@ -5,6 +5,7 @@
 ## Table of Contents
 
 *   [TypeScript](#typescript)
+*   [Shell](#shell)
 *   [Python](#python)
 *   [Go](#go)
 *   [HTML](#html)
@@ -18,7 +19,6 @@
 *   [PHP](#php)
 *   [Elixir](#elixir)
 *   [miscellaneous](#miscellaneous)
-*   [Shell](#shell)
 *   [C#](#c-1)
 *   [Svelte](#svelte)
 *   [C](#c-2)
@@ -64,10 +64,10 @@
 *   [AutoIt](#autoit)
 *   [Visual Basic .NET](#visual-basic-net)
 *   [R](#r)
-*   [Clojure](#clojure)
 
 ## TypeScript
 
+*   [anthropics/claude-code-action](https://github.com/anthropics/claude-code-action) -
 *   [vikejs/vike](https://github.com/vikejs/vike) - The Modular Framework — Next.js & Nuxt alternative for unprecedented flexibility and stability.
 *   [claudio-silva/claude-artifact-runner](https://github.com/claudio-silva/claude-artifact-runner) - A template project for easily converting Claude AI’s Artifacts into React applications, ready to run out of the box or extend as needed.
 *   [etrobot/nextArtifacts](https://github.com/etrobot/nextArtifacts) - A Next.js version of Claude Aritfacts , inspired by llamacoder
@@ -324,7 +324,7 @@
 *   [oramasearch/orama](https://github.com/oramasearch/orama) - 🌌  A complete search engine and RAG pipeline in your browser, server or edge network with support for full-text, vector, and hybrid search in less than 2kb.
 *   [riipandi/remix-start](https://github.com/riipandi/remix-start) - Minimal containerized React Router full-stack application with Tailwind CSS, TypeScript, Storybook, Vitest, and Playwright E2E Testing.
 *   [honojs/vite-plugins](https://github.com/honojs/vite-plugins) - Vite Plugins for Hono
-*   [dogokit/dogokit-beagle](https://github.com/dogokit/dogokit-beagle) - 🐶Dogokit Beagle: Full stack web app template kit with React, Remix v2, Tailwind CSS (shadcn/ui), Prisma
+*   [dogokit/dogokit-beagle](https://github.com/dogokit/dogokit-beagle) - 🐶Dogokit Beagle: Full stack web app template kit with React, Remix v2, Prisma, Tailwind CSS, shadcn/ui
 *   [janhesters/french-house-stack](https://github.com/janhesters/french-house-stack) - The Remix Stack for SaaS apps (Web2) and Web3 & Web5 DApps with authentication with Magic, testing, linting, formatting, etc.
 *   [toyamarodrigo/remix-shadcn](https://github.com/toyamarodrigo/remix-shadcn) - Template Remix (RR) + shadcn + Biome + TailwindCSS + Bun
 *   [mhmdsami/chat](https://github.com/mhmdsami/chat) - A chat app built with bun, elysia, drizzle-orm, postgres, remix, shadcn/ui and more! Crafted with annoyance <3 Well this is my Computer Networks project.
@@ -1156,6 +1156,36 @@
 *   [thomasloven/lovelace-auto-entities](https://github.com/thomasloven/lovelace-auto-entities) - 🔹Automatically populate the entities-list of lovelace cards
 *   [luludotdev/beatsaver-reloaded](https://github.com/luludotdev/beatsaver-reloaded) - BeatSaver Again
 
+## Shell
+
+*   [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
+*   [cdnjs/packages](https://github.com/cdnjs/packages) - 📦 Package configurations - The #1 free and open source CDN built to make life easier for developers.
+*   [simonw/git-scraper-template](https://github.com/simonw/git-scraper-template) - Template repository for setting up a new git scraper
+*   [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server) - Docker image that provides a Minecraft Server for Java Edition that automatically downloads selected version at startup
+*   [KindleModding/WinterBreak](https://github.com/KindleModding/WinterBreak) - It do a thing
+*   [ublue-os/bazzite](https://github.com/ublue-os/bazzite) - Bazzite makes gaming and everyday use smoother and simpler across desktop PCs, handhelds, tablets, and home theater PCs.
+*   [playtron-os/gameos](https://github.com/playtron-os/gameos) - Playtron GameOS provides a fast and secure Linux gaming experience.
+*   [QwenLM/Qwen3](https://github.com/QwenLM/Qwen3) - Qwen3 is the large language model series developed by Qwen team, Alibaba Cloud.
+*   [termux/termux-packages](https://github.com/termux/termux-packages) - A package build system for Termux.
+*   [Hax4us/Nethunter-In-Termux](https://github.com/Hax4us/Nethunter-In-Termux) - This is a script by which you can install Kali nethunter (Kali Linux) in your termux application without rooted phone
+*   [ShanSuharban/termux4all](https://github.com/ShanSuharban/termux4all) - termux4all is not a project or something. This is some packages that can be used for the development and security purposes on android phone using the termux app itself. The main purpose of  this project is to install & setup all the important tools or packages in termux without researching a lot.
+*   [Aj-Seven/Android-Sysinfo](https://github.com/Aj-Seven/Android-Sysinfo) - A tool efficiently displays Android system details on Termux.
+*   [hackerb9/lsix](https://github.com/hackerb9/lsix) - Like "ls", but for images. Shows thumbnails in terminal using sixel graphics.
+*   [grondilu/bitcoin-bash-tools](https://github.com/grondilu/bitcoin-bash-tools) - Set of bitcoin-related bash functions
+*   [hcengineering/huly-selfhost](https://github.com/hcengineering/huly-selfhost) - Huly for Self Hosting
+*   [ArchiveTeam/IA.BAK](https://github.com/ArchiveTeam/IA.BAK) - We back up a lot of stuff from around the web; now it's time to back up the Internet Archive, just in case.
+*   [TermuxArch/TermuxArch](https://github.com/TermuxArch/TermuxArch) - Experience the pleasure of the Linux command prompt in Android, Chromebook, Fire OS and Windows on smartphone, smartTV, tablet and wearable https://termuxarch.github.io/TermuxArch/
+*   [AbdBarho/stable-diffusion-webui-docker](https://github.com/AbdBarho/stable-diffusion-webui-docker) - Easy Docker setup for Stable Diffusion with user-friendly UI
+*   [h4r5h1t/webcopilot](https://github.com/h4r5h1t/webcopilot) - An automation tool that enumerates subdomains then filters out xss, sqli, open redirect, lfi, ssrf and rce parameters and then scans for vulnerabilities.
+*   [foospidy/payloads](https://github.com/foospidy/payloads) - Git All the Payloads! A collection of web attack payloads.
+*   [many-passwords/many-passwords](https://github.com/many-passwords/many-passwords) - Default credentials list. 🐱‍💻 Leave a star if you like this project! (that motivates me)⭐️
+*   [wuxianlin/android\_rom\_tools](https://github.com/wuxianlin/android_rom_tools) - unpack/deodex/decompile tools for Android ROM
+*   [ax/apk.sh](https://github.com/ax/apk.sh) - Makes reverse engineering Android apps easier, automating repetitive tasks like pulling, decoding, rebuilding and patching an APK.
+*   [labbots/google-drive-upload](https://github.com/labbots/google-drive-upload) - Bash scripts to upload files to google drive
+*   [CryptoManufaktur-io/solana-rpc](https://github.com/CryptoManufaktur-io/solana-rpc) - Solana RPC only node with traefik
+*   [d3/d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar\_chart::chart\_with\_upwards\_trend::tada:
+*   [TheFrenchGhosty/TheFrenchGhostys-Ultimate-YouTube-DL-Scripts-Collection](https://github.com/TheFrenchGhosty/TheFrenchGhostys-Ultimate-YouTube-DL-Scripts-Collection) - The ultimate collection of scripts for YouTube-DL.
+
 ## Python
 
 *   [camel-ai/owl](https://github.com/camel-ai/owl) - 🦉 OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation
@@ -1590,7 +1620,6 @@
 *   [watir/nerodia](https://github.com/watir/nerodia) - Python implementation of Watir
 *   [jvdburgh/AmputatorBot](https://github.com/jvdburgh/AmputatorBot) - Remove AMP from your URLs. AmputatorBot is a highly specialised Reddit bot that automatically and on-demand replies to comments and submissions ontaining AMP URLs with the canonical link(s). It's also available as a website and REST API. See also: https://www.reddit.com/r/AmputatorBot/comments/ehrq3z/why\_did\_i\_build\_amputatorbot/.
 *   [pushshift/api](https://github.com/pushshift/api) - Pushshift API
-*   [tribixbite/BrokenRecordBot](https://github.com/tribixbite/BrokenRecordBot) - reddit copypasta bot for subreddit wiki text
 
 ## Go
 
@@ -1791,7 +1820,7 @@
 *   [ETCExtensions/Edit-This-Cookie](https://github.com/ETCExtensions/Edit-This-Cookie) - EditThisCookie is the famous Google Chrome/Chromium extension for editing cookies
 *   [NeverDecaf/chromium-web-store](https://github.com/NeverDecaf/chromium-web-store) - Allows adding extensions from chrome web store on ungoogled-chromium. Also adds semi-automatic extension updating.
 *   [S1monlol/summize](https://github.com/S1monlol/summize) - The best Youtube Summary Creator
-*   [danielmiessler/fabric](https://github.com/danielmiessler/fabric) - fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
+*   [danielmiessler/fabric](https://github.com/danielmiessler/fabric) - Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
 *   [idosal/AgentLLM](https://github.com/idosal/AgentLLM) - AgentLLM is a PoC for browser-native autonomous agents
 *   [ImranR98/apps.obtainium.imranr.dev](https://github.com/ImranR98/apps.obtainium.imranr.dev) - Collection of suggested apps for Obtainium.
 *   [beeman/micro-unfurl](https://github.com/beeman/micro-unfurl) - Small microservice that unfurls a URL and returns the OpenGraph meta data
@@ -2534,35 +2563,6 @@
 *   [mdbootstrap/Black-Friday-2024](https://github.com/mdbootstrap/Black-Friday-2024) - Black Friday & Cyber Monday Deals (UI Kits WordPress Plugins, CRMs, SEO, Courses, Books) for web developers, programmers, and software engineers.
 *   [RitikPatni/Front-End-Web-Development-Resources](https://github.com/RitikPatni/Front-End-Web-Development-Resources) - This repository contains content which will be helpful in your journey as a front-end Web Developer
 
-## Shell
-
-*   [cdnjs/packages](https://github.com/cdnjs/packages) - 📦 Package configurations - The #1 free and open source CDN built to make life easier for developers.
-*   [simonw/git-scraper-template](https://github.com/simonw/git-scraper-template) - Template repository for setting up a new git scraper
-*   [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server) - Docker image that provides a Minecraft Server for Java Edition that automatically downloads selected version at startup
-*   [KindleModding/WinterBreak](https://github.com/KindleModding/WinterBreak) - It do a thing
-*   [ublue-os/bazzite](https://github.com/ublue-os/bazzite) - Bazzite makes gaming and everyday use smoother and simpler across desktop PCs, handhelds, tablets, and home theater PCs.
-*   [playtron-os/gameos](https://github.com/playtron-os/gameos) - Playtron GameOS provides a fast and secure Linux gaming experience.
-*   [QwenLM/Qwen3](https://github.com/QwenLM/Qwen3) - Qwen3 is the large language model series developed by Qwen team, Alibaba Cloud.
-*   [termux/termux-packages](https://github.com/termux/termux-packages) - A package build system for Termux.
-*   [Hax4us/Nethunter-In-Termux](https://github.com/Hax4us/Nethunter-In-Termux) - This is a script by which you can install Kali nethunter (Kali Linux) in your termux application without rooted phone
-*   [ShanSuharban/termux4all](https://github.com/ShanSuharban/termux4all) - termux4all is not a project or something. This is some packages that can be used for the development and security purposes on android phone using the termux app itself. The main purpose of  this project is to install & setup all the important tools or packages in termux without researching a lot.
-*   [Aj-Seven/Android-Sysinfo](https://github.com/Aj-Seven/Android-Sysinfo) - A tool efficiently displays Android system details on Termux.
-*   [hackerb9/lsix](https://github.com/hackerb9/lsix) - Like "ls", but for images. Shows thumbnails in terminal using sixel graphics.
-*   [grondilu/bitcoin-bash-tools](https://github.com/grondilu/bitcoin-bash-tools) - Set of bitcoin-related bash functions
-*   [hcengineering/huly-selfhost](https://github.com/hcengineering/huly-selfhost) - Huly for Self Hosting
-*   [ArchiveTeam/IA.BAK](https://github.com/ArchiveTeam/IA.BAK) - We back up a lot of stuff from around the web; now it's time to back up the Internet Archive, just in case.
-*   [TermuxArch/TermuxArch](https://github.com/TermuxArch/TermuxArch) - Experience the pleasure of the Linux command prompt in Android, Chromebook, Fire OS and Windows on smartphone, smartTV, tablet and wearable https://termuxarch.github.io/TermuxArch/
-*   [AbdBarho/stable-diffusion-webui-docker](https://github.com/AbdBarho/stable-diffusion-webui-docker) - Easy Docker setup for Stable Diffusion with user-friendly UI
-*   [h4r5h1t/webcopilot](https://github.com/h4r5h1t/webcopilot) - An automation tool that enumerates subdomains then filters out xss, sqli, open redirect, lfi, ssrf and rce parameters and then scans for vulnerabilities.
-*   [foospidy/payloads](https://github.com/foospidy/payloads) - Git All the Payloads! A collection of web attack payloads.
-*   [many-passwords/many-passwords](https://github.com/many-passwords/many-passwords) - Default credentials list. 🐱‍💻 Leave a star if you like this project! (that motivates me)⭐️
-*   [wuxianlin/android\_rom\_tools](https://github.com/wuxianlin/android_rom_tools) - unpack/deodex/decompile tools for Android ROM
-*   [ax/apk.sh](https://github.com/ax/apk.sh) - Makes reverse engineering Android apps easier, automating repetitive tasks like pulling, decoding, rebuilding and patching an APK.
-*   [labbots/google-drive-upload](https://github.com/labbots/google-drive-upload) - Bash scripts to upload files to google drive
-*   [CryptoManufaktur-io/solana-rpc](https://github.com/CryptoManufaktur-io/solana-rpc) - Solana RPC only node with traefik
-*   [d3/d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar\_chart::chart\_with\_upwards\_trend::tada:
-*   [TheFrenchGhosty/TheFrenchGhostys-Ultimate-YouTube-DL-Scripts-Collection](https://github.com/TheFrenchGhosty/TheFrenchGhostys-Ultimate-YouTube-DL-Scripts-Collection) - The ultimate collection of scripts for YouTube-DL.
-
 ## C\#
 
 *   [EricZimmerman/MFTECmd](https://github.com/EricZimmerman/MFTECmd) - Parses $MFT from NTFS file systems
@@ -2944,7 +2944,3 @@
 ## R
 
 *   [BorisNikulin/discord-chat-analysis](https://github.com/BorisNikulin/discord-chat-analysis) - Text analysis of a discord chat group
-
-## Clojure
-
-*   [zakwilson/ceilingbounce](https://github.com/zakwilson/ceilingbounce) - Test your flashlights and graph their performance
