@@ -23,7 +23,6 @@
 *   [Svelte](#svelte)
 *   [C](#c-2)
 *   [Dart](#dart)
-*   [MDX](#mdx)
 *   [Kotlin](#kotlin)
 *   [Move](#move)
 *   [Jinja](#jinja)
@@ -41,6 +40,7 @@
 *   [SVG](#svg)
 *   [Lua](#lua)
 *   [Smalltalk](#smalltalk)
+*   [MDX](#mdx)
 *   [PLpgSQL](#plpgsql)
 *   [Groovy](#groovy)
 *   [Rich Text Format](#rich-text-format)
@@ -984,6 +984,7 @@
 *   [google-a2a/A2A](https://github.com/google-a2a/A2A) - An open protocol enabling communication and interoperability between opaque agentic applications.
 *   [i-am-bee/beeai-framework](https://github.com/i-am-bee/beeai-framework) - Build production-ready AI agents in both Python and Typescript.
 *   [passwordless-id/webauthn](https://github.com/passwordless-id/webauthn) - Webauthn / passkeys helper library to make your life easier. Client side, server side and demo included.
+*   [inngest/website](https://github.com/inngest/website) - Website and Documentation for Inngest
 *   [inngest/agent-kit](https://github.com/inngest/agent-kit) - AgentKit: Build multi-agent networks in TypeScript with deterministic routing and rich tooling via MCP.
 *   [saschaseniuk/vite-plugin-llms](https://github.com/saschaseniuk/vite-plugin-llms) - A Vite plugin that implements the llms.txt specification, enabling AI-optimized content alongside your routes. It automatically serves markdown files for LLM consumption and handles the llms.txt routing in development and production.
 *   [Idee8/codecrawl](https://github.com/Idee8/codecrawl) - 🌊 Turn entire codebases into LLM-ready data. Extract data, search, and llms.txt from any repo with a single API.
@@ -2683,16 +2684,6 @@
 *   [vedfi/mondroid](https://github.com/vedfi/mondroid) - Mongodb Client w/ Flutter
 *   [MaximeBeasse/KeyDecoder](https://github.com/MaximeBeasse/KeyDecoder) - KeyDecoder app lets you use your smartphone or tablet to decode your mechanical keys in seconds.
 
-## MDX
-
-*   [inngest/website](https://github.com/inngest/website) - Website and Documentation for Inngest
-*   [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Secure open source cloud runtime for AI apps & AI agents
-*   [mintlify/starter](https://github.com/mintlify/starter) - 📖 The starter kit for your Mintlify docs
-*   [spleafy/prismane-website](https://github.com/spleafy/prismane-website) -
-*   [magicuidesign/magicui](https://github.com/magicuidesign/magicui) - UI Library for Design Engineers. Animated components and effects you can copy and paste into your apps. Free. Open Source.
-*   [e2b-dev/code-interpreter](https://github.com/e2b-dev/code-interpreter) - Python & JS/TS SDK for running AI-generated code/code interpreting in your AI app
-*   [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
-
 ## Kotlin
 
 *   [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) - SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
@@ -2843,6 +2834,15 @@
 ## Smalltalk
 
 *   [codefrau/jasmine](https://github.com/codefrau/jasmine) - Croquet Jasmine (2004) on SqueakJS
+
+## MDX
+
+*   [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Secure open source cloud runtime for AI apps & AI agents
+*   [mintlify/starter](https://github.com/mintlify/starter) - 📖 The starter kit for your Mintlify docs
+*   [spleafy/prismane-website](https://github.com/spleafy/prismane-website) -
+*   [magicuidesign/magicui](https://github.com/magicuidesign/magicui) - UI Library for Design Engineers. Animated components and effects you can copy and paste into your apps. Free. Open Source.
+*   [e2b-dev/code-interpreter](https://github.com/e2b-dev/code-interpreter) - Python & JS/TS SDK for running AI-generated code/code interpreting in your AI app
+*   [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
 
 ## PLpgSQL
 
