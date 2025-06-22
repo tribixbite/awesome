@@ -2732,7 +2732,7 @@
 
 ## Jinja
 
-*   [jlevy/simple-modern-uv](https://github.com/jlevy/simple-modern-uv) - A minimal, modern Python project template using uv. Get started with uvinit:
+*   [jlevy/simple-modern-uv](https://github.com/jlevy/simple-modern-uv) - A minimal, modern Python project template using uv. If you want to see an instantiated version of this template:
 *   [trailofbits/algo](https://github.com/trailofbits/algo) - Set up a personal VPN in the cloud
 
 ## CSS
