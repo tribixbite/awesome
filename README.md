@@ -1425,6 +1425,7 @@
 *   [containers/ramalama](https://github.com/containers/ramalama) - RamaLama is an open-source developer tool that simplifies the local serving of AI models from any source and facilitates their use for inference in production, all through the familiar language of containers.
 *   [ai-christianson/RA.Aid](https://github.com/ai-christianson/RA.Aid) - Develop software autonomously.
 *   [TransformerOptimus/SuperAGI](https://github.com/TransformerOptimus/SuperAGI) - <⚡️> SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.
+*   [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
 *   [FoundationAgents/OpenManus](https://github.com/FoundationAgents/OpenManus) - No fortress, purely open ground.  OpenManus is Coming.
 *   [adafruit/cookiecutter-adafruit-circuitpython](https://github.com/adafruit/cookiecutter-adafruit-circuitpython) - Cookiecutter template for Adafruit's CircuitPython libraries.
 *   [todbot/circuitpython-tricks](https://github.com/todbot/circuitpython-tricks) - Some CircuitPython tricks, mostly reminders to myself
@@ -1834,7 +1835,6 @@
 *   [nick-tonjum/open-webui-artifacts-overhaul](https://github.com/nick-tonjum/open-webui-artifacts-overhaul) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 *   [SillyTavern/SillyTavern](https://github.com/SillyTavern/SillyTavern) - LLM Frontend for Power Users.
 *   [sblask-webextensions/webextension-open-tabs-next-to-current](https://github.com/sblask-webextensions/webextension-open-tabs-next-to-current) - Open new tabs to the right of the current one.
-*   [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
 *   [dawn-gpu/node-webgpu](https://github.com/dawn-gpu/node-webgpu) - webgpu for node.js
 *   [FunSoftWareTechologies/PlanetTech](https://github.com/FunSoftWareTechologies/PlanetTech) - PlanetTechJS is an open-source JavaScript library built using vanilla THREE.js, for creating and editing planets at scale
 *   [thorwebdev/browser-vector-search](https://github.com/thorwebdev/browser-vector-search) - Full in-browser Semantic Search with Huggingface Transformers.js and ElectricSQL's PGlite!
