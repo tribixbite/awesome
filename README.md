@@ -567,7 +567,7 @@
 *   [seamapi/prefixed-api-key](https://github.com/seamapi/prefixed-api-key) - Module for generating a prefixed API Key
 *   [Markeljan/web3gpt](https://github.com/Markeljan/web3gpt) - Develop and deploy smart contracts using natural language.
 *   [trailofbits/vscode-weaudit](https://github.com/trailofbits/vscode-weaudit) - Create code bookmarks and code highlights with a click.
-*   [ditto-assistant/ditto-app](https://github.com/ditto-assistant/ditto-app) - Ditto is an advanced AI assistant powered by the latest in LLM and RAG technology, along with in-house models, to create the ultimate conversational and creative experience.
+*   [ditto-assistant/ditto-app](https://github.com/ditto-assistant/ditto-app) - Ditto is an advanced AI assistant with sophisticated memory systems and personality alignment that learns, remembers, and adapts to your unique needs—creating a personalized experience that evolves with every interaction.
 *   [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) - Script to get your site indexed on Google in less than 48 hours
 *   [fxhash/fxhash-website](https://github.com/fxhash/fxhash-website) - fxhash front-end, nextjs
 *   [beemojs/conventional-changelog-beemo](https://github.com/beemojs/conventional-changelog-beemo) - Beemo's commit message guidelines and changelog structure.
