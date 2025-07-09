@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+*   [MDX](#mdx)
 *   [HTML](#html)
 *   [PHP](#php)
 *   [TypeScript](#typescript)
@@ -40,7 +41,6 @@
 *   [SVG](#svg)
 *   [Lua](#lua)
 *   [Smalltalk](#smalltalk)
-*   [MDX](#mdx)
 *   [PLpgSQL](#plpgsql)
 *   [Groovy](#groovy)
 *   [Rich Text Format](#rich-text-format)
@@ -67,7 +67,16 @@
 *   [Clojure](#clojure)
 *   [Arduino](#arduino)
 *   [G-code](#g-code)
-*   [VimL](#viml)
+
+## MDX
+
+*   [multisynq/docs](https://github.com/multisynq/docs) -
+*   [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Secure open source cloud runtime for AI apps & AI agents
+*   [mintlify/starter](https://github.com/mintlify/starter) - 📖 The starter kit for your Mintlify docs
+*   [spleafy/prismane-website](https://github.com/spleafy/prismane-website) -
+*   [magicuidesign/magicui](https://github.com/magicuidesign/magicui) - UI Library for Design Engineers. Animated components and effects you can copy and paste into your apps. Free. Open Source.
+*   [e2b-dev/code-interpreter](https://github.com/e2b-dev/code-interpreter) - Python & JS/TS SDK for running AI-generated code/code interpreting in your AI app
+*   [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
 
 ## HTML
 
@@ -148,7 +157,7 @@
 *   [punkpeye/mcp-proxy](https://github.com/punkpeye/mcp-proxy) - A TypeScript SSE proxy for MCP servers that use stdio transport.
 *   [punkpeye/fastmcp](https://github.com/punkpeye/fastmcp) - A TypeScript framework for building MCP servers.
 *   [tevonsb/homeassistant-mcp](https://github.com/tevonsb/homeassistant-mcp) - A MCP server for Home Assistant
-*   [metatool-ai/metamcp](https://github.com/metatool-ai/metamcp) - Aggregate MCP servers & apply middlewares; host & emit unified MCP servers out
+*   [metatool-ai/metamcp](https://github.com/metatool-ai/metamcp) - MCP Aggregator, Orchestrator, Middleware, Gateway in one docker
 *   [tigranbs/mcgravity](https://github.com/tigranbs/mcgravity) - A proxy tool for composing multiple MCP servers into one unified endpoint. Scale your AI tools by load balancing requests across multiple MCP servers, similar to how Nginx works for web servers.
 *   [juehang/vscode-mcp-server](https://github.com/juehang/vscode-mcp-server) - MCP server to expose VS Code editing features to an LLM for AI coding
 *   [azer/react-analyzer-mcp](https://github.com/azer/react-analyzer-mcp) - MCP server for analyzing & generating docs for React code locally
@@ -1542,7 +1551,7 @@
 *   [turboderp-org/exllamav2](https://github.com/turboderp-org/exllamav2) - A fast inference library for running LLMs locally on modern consumer-class GPUs
 *   [theroyallab/tabbyAPI](https://github.com/theroyallab/tabbyAPI) - The official API server for Exllama. OAI compatible, lightweight, and fast.
 *   [unslothai/unsloth](https://github.com/unslothai/unsloth) - Fine-tuning & Reinforcement Learning for LLMs. 🦥 Train Qwen3, Llama 4, DeepSeek-R1, Gemma 3, TTS 2x faster with 70% less VRAM.
-*   [cyclotruc/gitingest](https://github.com/cyclotruc/gitingest) - Replace 'hub' with 'ingest' in any github url to get a prompt-friendly extract of a codebase
+*   [coderamp-labs/gitingest](https://github.com/coderamp-labs/gitingest) - Replace 'hub' with 'ingest' in any github url to get a prompt-friendly extract of a codebase
 *   [simonw/files-to-prompt](https://github.com/simonw/files-to-prompt) - Concatenate a directory full of files into a single prompt for use with LLMs
 *   [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 *   [nrl-ai/llama-assistant](https://github.com/nrl-ai/llama-assistant) - AI-powered assistant to help you with your daily tasks, powered by Llama 3, DeepSeek R1, and many more models on HuggingFace.
@@ -2933,15 +2942,6 @@
 
 *   [codefrau/jasmine](https://github.com/codefrau/jasmine) - Croquet Jasmine (2004) on SqueakJS
 
-## MDX
-
-*   [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Secure open source cloud runtime for AI apps & AI agents
-*   [mintlify/starter](https://github.com/mintlify/starter) - 📖 The starter kit for your Mintlify docs
-*   [spleafy/prismane-website](https://github.com/spleafy/prismane-website) -
-*   [magicuidesign/magicui](https://github.com/magicuidesign/magicui) - UI Library for Design Engineers. Animated components and effects you can copy and paste into your apps. Free. Open Source.
-*   [e2b-dev/code-interpreter](https://github.com/e2b-dev/code-interpreter) - Python & JS/TS SDK for running AI-generated code/code interpreting in your AI app
-*   [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
-
 ## PLpgSQL
 
 *   [timescale/pgai](https://github.com/timescale/pgai) - A suite of tools to develop RAG, semantic search, and other AI applications more easily with PostgreSQL
@@ -3056,7 +3056,3 @@
 ## G-code
 
 *   [CarlosGS/Cyclone-PCB-Factory](https://github.com/CarlosGS/Cyclone-PCB-Factory) - Cyclone (Circuit Cloner) is a parametric CNC mill design intended for PCB manufacturing.
-
-## VimL
-
-*   [tribixbite/vimfiles](https://github.com/tribixbite/vimfiles) - My vim configuration, borrowed heavily from tpope
