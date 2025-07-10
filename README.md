@@ -421,7 +421,7 @@
 *   [orbanszlrd/next-google-photos](https://github.com/orbanszlrd/next-google-photos) - Consuming the Google Photos Library API
 *   [rancher-sandbox/rancher-desktop](https://github.com/rancher-sandbox/rancher-desktop) - Container Management and Kubernetes on the Desktop
 *   [podman-desktop/podman-desktop](https://github.com/podman-desktop/podman-desktop) - Podman Desktop is the best free and open source tool to work with Containers and Kubernetes for developers. Get an intuitive and user-friendly interface to effortlessly build, manage, and deploy containers and Kubernetes — all from your desktop.
-*   [getmaxun/maxun](https://github.com/getmaxun/maxun) - 🔥 Open-Source No Code Web Data Extraction Platform 🔥
+*   [getmaxun/maxun](https://github.com/getmaxun/maxun) - 🔥 No Code Web Data Extraction Platform. Open Source Alternative To Octoparse🔥
 *   [codiplace/bun-monorepo](https://github.com/codiplace/bun-monorepo) -
 *   [dayblox/bun](https://github.com/dayblox/bun) - Bun starter
 *   [NuroDev/astro-bun](https://github.com/NuroDev/astro-bun) - 🥟 + 🚀  Bun adapter for Astro
@@ -2528,7 +2528,7 @@
 
 *   [defold/defold](https://github.com/defold/defold) - Defold is a completely free to use game engine for development of desktop, mobile and web games.
 *   [kuzudb/kuzu](https://github.com/kuzudb/kuzu) - Embedded property graph database built for speed. Vector search and full-text search built in. Implements Cypher.
-*   [cactus-compute/cactus](https://github.com/cactus-compute/cactus) - A cross-platform framework for deploying LLMs, VLMs, Embedding Models, TTS models and more locally on smartphones.
+*   [cactus-compute/cactus](https://github.com/cactus-compute/cactus) - Cross-platform framework for deploying LLM/VLM/TTS models locally on smartphones.
 *   [kiwibrowser/src.next](https://github.com/kiwibrowser/src.next) - Source-code for Kiwi Next, a Kiwi Browser auto-rebased with latest Chromium
 *   [uNetworking/uWebSockets](https://github.com/uNetworking/uWebSockets) - Simple, secure & standards compliant web server for the most demanding of applications
 *   [gpustack/llama-box](https://github.com/gpustack/llama-box) - LM inference server implementation based on \*.cpp.
