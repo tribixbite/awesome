@@ -362,7 +362,7 @@
 *   [asseph/solana-ai-agent](https://github.com/asseph/solana-ai-agent) - AI Agent is a groundbreaking AI agent built on the Solana, integrating advanced artificial intelligence with social media capabilities and decentralized trading. An evolving digital entity striving to bridge the gap between AI, social media, and crypto.
 *   [NeurProjects/neur-app](https://github.com/NeurProjects/neur-app) - The Intelligent Copilot for Solana
 *   [codestoryai/aide](https://github.com/codestoryai/aide) - The open-source AI-native IDE
-*   [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages, articles, and documents.
+*   [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, read, annotate, and preserve your webpages, all in one place.
 *   [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 *   [exa-labs/company-researcher](https://github.com/exa-labs/company-researcher) - Company Researcher tool helps you instantly understand any company inside out.
 *   [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler) - Crawl a site to generate knowledge files to create your own custom GPT from a URL
@@ -2681,7 +2681,7 @@
 *   [erkserkserks/openboard](https://github.com/erkserkserks/openboard) - 100% FOSS keyboard, based on AOSP
 *   [iterate-ch/cyberduck](https://github.com/iterate-ch/cyberduck) - Cyberduck is a libre FTP, SFTP, WebDAV, Amazon S3, Backblaze B2, Microsoft Azure & OneDrive and OpenStack Swift file transfer client for Mac and Windows.
 *   [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) - Access your entire server infrastructure from your local desktop
-*   [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) - Advanced player for set-top boxes and tvs running Android OS
+*   [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) - Browse media content with your own rules on Android TV
 *   [arunajit/minio-android](https://github.com/arunajit/minio-android) - Android port of MinIO Client SDK for Java. For uploads to AWS S3 from Android.
 *   [developerxrahul/amazon-s3-android-uploader](https://github.com/developerxrahul/amazon-s3-android-uploader) - A library which helps developer to upload image and video in one line of code just by implementing rc-s3-uploader in your any android project.
 *   [ddsky/spoonacular-api-clients](https://github.com/ddsky/spoonacular-api-clients) -
