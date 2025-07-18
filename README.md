@@ -134,7 +134,6 @@
 *   [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy) - DSPy: The framework for programming—not prompting—language models
 *   [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN
 *   [eqimp/hogwild\_llm](https://github.com/eqimp/hogwild_llm) - Official PyTorch implementation for Hogwild! Inference: Parallel LLM Generation with a Concurrent Attention Cache
-*   [openai/SWELancer-Benchmark](https://github.com/openai/SWELancer-Benchmark) - This repo contains the dataset and code for the paper "SWE-Lancer: Can Frontier LLMs Earn $1 Million from Real-World Freelance Software Engineering?"
 *   [asweigart/pyautogui](https://github.com/asweigart/pyautogui) - A cross-platform GUI automation Python module for human beings. Used to programmatically control the mouse & keyboard.
 *   [augmentcode/augment-swebench-agent](https://github.com/augmentcode/augment-swebench-agent) - The #1 open-source SWE-bench Verified implementation
 *   [sentient-agi/OpenDeepSearch](https://github.com/sentient-agi/OpenDeepSearch) -
@@ -1655,7 +1654,7 @@
 
 ## Rust
 
-*   [katanemo/archgw](https://github.com/katanemo/archgw) - The intelligent edge and AI gateway for agents. Arch is an out-of-process proxy server that handles the low-level work in building agents like applying guardrails, routing prompts to the right agent, and unifying access to any LLM. Designed with TLMs, Arch helps you build production-ready agents faster
+*   [katanemo/archgw](https://github.com/katanemo/archgw) - The edge and AI gateway for agents. Arch is an intelligent proxy server that centrallly handles the  low-level work in building  agents like applying guardrails, routing prompts to the right agent, and unifying access to any LLM. Its a framework-agnostic infrastructure layer that helps you build production-grade agents faster.
 *   [Helicone/ai-gateway](https://github.com/Helicone/ai-gateway) - The fastest, lightest, and easiest-to-integrate AI gateway on the market. Fully open-sourced.
 *   [sxhxliang/mcp-access-point](https://github.com/sxhxliang/mcp-access-point) - Turn a web server into an MCP server in one click without making any code changes.
 *   [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
@@ -1870,6 +1869,7 @@
 *   [KingLeoJr/prompts](https://github.com/KingLeoJr/prompts) - builder prompts which can be sent to builders like cursor, bolt.diy, bolt.new, trae, project idx, lovable.dev, llmacoder, geminicoder, windsurf, deepseek-artifact, cline, aider etc
 *   [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Xcode, Trae AI & Cluely (And other Open Sourced) System Prompts, Tools & AI Models.
 *   [krish-adi/llmstxt-site](https://github.com/krish-adi/llmstxt-site) - directory of llms.txt file in the wild
+*   [openai/SWELancer-Benchmark](https://github.com/openai/SWELancer-Benchmark) - This repo contains the dataset and code for the paper "SWE-Lancer: Can Frontier LLMs Earn $1 Million from Real-World Freelance Software Engineering?"
 *   [tribixbite/awesome](https://github.com/tribixbite/awesome) - awesome github repos
 *   [MobinX/awesome-mcp-list](https://github.com/MobinX/awesome-mcp-list) - A concise list for mcp servers
 *   [michaelneale/deepseek-goose-models](https://github.com/michaelneale/deepseek-goose-models) - ollama modelfiles for deepseek and goose
