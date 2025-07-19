@@ -1654,7 +1654,7 @@
 
 ## Rust
 
-*   [katanemo/archgw](https://github.com/katanemo/archgw) - The edge and AI gateway for agents. Arch is an intelligent proxy server that centrallly handles the  low-level work in building  agents like applying guardrails, routing prompts to the right agent, and unifying access to any LLM. Its a framework-agnostic infrastructure layer that helps you build production-grade agents faster.
+*   [katanemo/archgw](https://github.com/katanemo/archgw) - The edge and AI gateway for agents. Arch is an intelligent proxy server that handles the low-level work in building agents like applying guardrails, routing prompts to the right agent, and unifying access to any LLM. It's a framework-agnostic infrastructure layer that helps you build agents faster.
 *   [Helicone/ai-gateway](https://github.com/Helicone/ai-gateway) - The fastest, lightest, and easiest-to-integrate AI gateway on the market. Fully open-sourced.
 *   [sxhxliang/mcp-access-point](https://github.com/sxhxliang/mcp-access-point) - Turn a web server into an MCP server in one click without making any code changes.
 *   [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
