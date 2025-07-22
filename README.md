@@ -1269,6 +1269,7 @@
 *   [clauderic/dnd-kit](https://github.com/clauderic/dnd-kit) - The modern, lightweight, performant, accessible and extensible drag & drop toolkit for React.
 *   [elninotech/uppload](https://github.com/elninotech/uppload) - 📁 JavaScript image uploader and editor, no backend required
 *   [nextjs-opinionated/nextjs-opinionated](https://github.com/nextjs-opinionated/nextjs-opinionated) - Next.js boilerplate with: typescript, next.js, tailwindcss, storybook, jest, eslint, prettifier, react hook form, zod and react-query
+*   [toptal/picasso](https://github.com/toptal/picasso) - Toptal UI components library
 *   [isaacs/rimraf](https://github.com/isaacs/rimraf) - A `rm -rf` util for nodejs
 *   [toptal/keycodes](https://github.com/toptal/keycodes) - Easy visualizer for JavaScript KeyCodes
 *   [projen/projen](https://github.com/projen/projen) - Rapidly build modern applications with advanced configuration management
@@ -1653,7 +1654,7 @@
 
 ## Rust
 
-*   [katanemo/archgw](https://github.com/katanemo/archgw) - The smart edge and AI gateway for agents. Arch is a proxy server that handles the low-level work in building agents like applying guardrails, routing prompts to the right agent, and unifying access to LLMs. It's framework-agnostic, natively understands prompts, and helps you build agents faster.
+*   [katanemo/archgw](https://github.com/katanemo/archgw) - Smart edge and AI gateway for agents. Arch is a proxy server that handles the low-level work in building agents like applying guardrails, routing prompts to the right agent, and unifying access to LLMs. It's framework-agnostic, natively understands prompts, and helps you build agents faster.
 *   [Helicone/ai-gateway](https://github.com/Helicone/ai-gateway) - The fastest, lightest, and easiest-to-integrate AI gateway on the market. Fully open-sourced.
 *   [sxhxliang/mcp-access-point](https://github.com/sxhxliang/mcp-access-point) - Turn a web server into an MCP server in one click without making any code changes.
 *   [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
@@ -2334,7 +2335,6 @@
 *   [you-dont-need/You-Dont-Need-Momentjs](https://github.com/you-dont-need/You-Dont-Need-Momentjs) - List of functions which you can use to replace moment.js + ESLint Plugin
 *   [moment/luxon](https://github.com/moment/luxon) - ⏱ A library for working with dates and times in JS
 *   [welldone-software/react-component-splitter](https://github.com/welldone-software/react-component-splitter) - React VSCode Extension that splits long components into shorter, more readable subcomponents
-*   [toptal/picasso](https://github.com/toptal/picasso) - Toptal UI components library
 *   [sindresorhus/slugify](https://github.com/sindresorhus/slugify) - Slugify a string
 *   [benduran/turbo-tools](https://github.com/benduran/turbo-tools) - A collection of TurboRepo CLI tools to test, lint, build, version and publish packages in your Turborepo monorepo
 *   [drojdjou/J3D](https://github.com/drojdjou/J3D) - J3D - WebGL demos & experiments
