@@ -794,7 +794,6 @@
 *   [molefrog/wouter](https://github.com/molefrog/wouter) - 🥢 A minimalist-friendly ~2.1KB routing for React and Preact
 *   [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) - Build your own second brain with supermemory. Extremely fast, scalable, memory API for the AI era.
 *   [vite-pwa/vite-plugin-pwa](https://github.com/vite-pwa/vite-plugin-pwa) - Zero-config PWA for Vite
-*   [vtempest/Svelte-Starter-DOCS](https://github.com/vtempest/Svelte-Starter-DOCS) - 💻⚒️ Svelte Starter DOCS  (💧Drizzle 🔐OAuth ☁️ Cloudflare 🖼️ SvelteKit) - 🚀DEMO https://starterdocs.vtempest.workers.dev
 *   [rafgraph/spa-github-pages](https://github.com/rafgraph/spa-github-pages) - Host single page apps with GitHub Pages
 *   [adamelliotfields/react-template](https://github.com/adamelliotfields/react-template) - A starter kit for single page apps ⚛️
 *   [goniszewski/grimoire](https://github.com/goniszewski/grimoire) - Bookmark manager for the wizards 🧙
@@ -1654,7 +1653,7 @@
 
 ## Rust
 
-*   [katanemo/archgw](https://github.com/katanemo/archgw) - Smart edge and AI gateway for agents. Arch is a proxy server that handles the low-level work in building agents like applying guardrails, routing prompts to the right agent, and unifying access to LLMs. It's framework-agnostic, natively understands prompts, and helps you build agents faster.
+*   [katanemo/archgw](https://github.com/katanemo/archgw) - The smart edge and AI gateway for agents. Arch is a proxy server that handles the low-level work in building agents like applying guardrails, routing prompts to the right agent, and unifying access to LLMs. It is framework-agnostic, natively understands prompts, and helps you build agents faster.
 *   [Helicone/ai-gateway](https://github.com/Helicone/ai-gateway) - The fastest, lightest, and easiest-to-integrate AI gateway on the market. Fully open-sourced.
 *   [sxhxliang/mcp-access-point](https://github.com/sxhxliang/mcp-access-point) - Turn a web server into an MCP server in one click without making any code changes.
 *   [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
@@ -1814,6 +1813,7 @@
 *   [tianocore/tianocore.github.io](https://github.com/tianocore/tianocore.github.io) - Tianocore website
 *   [felladrin/awesome-ai-web-search](https://github.com/felladrin/awesome-ai-web-search) - List of software that allows searching the web with the assistance of AI: https://hf.co/spaces/felladrin/awesome-ai-web-search
 *   [w3c-ccg/vc-api](https://github.com/w3c-ccg/vc-api) - An HTTP API for performing credential lifecycle management for Verifiable Credentials.
+*   [vtempest/Svelte-Starter-DOCS](https://github.com/vtempest/Svelte-Starter-DOCS) - 💻⚒️ Svelte Starter DOCS  (💧Drizzle 🔐OAuth ☁️ Cloudflare 🖼️ SvelteKit) - 🚀DEMO https://starterdocs.vtempest.workers.dev
 *   [pkgforge-dev/Termux-Packages](https://github.com/pkgforge-dev/Termux-Packages) - Markdown List (Table), JSON & YAML of all the officially Available Packages in the Termux Registry :: https://termux-packages.ajam.dev \[Maintainer=@Azathothas]
 *   [vitalets/github-trending-repos](https://github.com/vitalets/github-trending-repos) - Track GitHub trending repositories in your favorite programming language by native GitHub notifications!
 *   [run-llama/create\_llama\_projects](https://github.com/run-llama/create_llama_projects) -
