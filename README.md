@@ -787,7 +787,7 @@
 *   [BennyKok/comfyui-deploy](https://github.com/BennyKok/comfyui-deploy) - An open source `vercel` like deployment platform for Comfy UI
 *   [martpie/museeks](https://github.com/martpie/museeks) - 🎵 A simple, clean and cross-platform music player
 *   [undb-io/undb](https://github.com/undb-io/undb) - 🚀 Private first self-hosted no code database & BaaS.
-*   [simstudioai/sim](https://github.com/simstudioai/sim) - Sim Studio is an open-source AI agent workflow builder. Sim Studio's interface is a lightweight, intuitive way to quickly build and deploy LLMs that connect with your favorite tools.
+*   [simstudioai/sim](https://github.com/simstudioai/sim) - Sim is an open-source AI agent workflow builder. Sim Studio's interface is a lightweight, intuitive way to quickly build and deploy LLMs that connect with your favorite tools.
 *   [blefnk/relivator-nextjs-template](https://github.com/blefnk/relivator-nextjs-template) - 🏬 relivator: next.js 15 react 19 ecommerce template ▲ better-auth polar shadcn/ui tailwind drizzle orm typescript ts radix, postgres neon, app router saas commerce ecommerce shop pricing payments dark mode full stack free ⭐ more stars 👉 more features
 *   [piotrkulpinski/openalternative](https://github.com/piotrkulpinski/openalternative) - A community driven list of open source alternatives to proprietary software and applications.
 *   [meshtastic/web](https://github.com/meshtastic/web) - Meshtastic Web Client
@@ -1230,7 +1230,7 @@
 *   [pubkeyapp/solana-keygen-worker](https://github.com/pubkeyapp/solana-keygen-worker) - Example on how to grind a Solana keypair using a web worker
 *   [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - 🏓  The open-source synthetic monitoring platform  🏓
 *   [maweiche/solana\_token\_extensions](https://github.com/maweiche/solana_token_extensions) - Basic build to interact with solana token extensions
-*   [solana-developers/create-solana-dapp](https://github.com/solana-developers/create-solana-dapp) - The fastest way to create Solana apps 🚀 Templates 👉 https://github.com/solana-foundation/templates
+*   [solana-foundation/create-solana-dapp](https://github.com/solana-foundation/create-solana-dapp) - The fastest way to create Solana apps 🚀 Templates 👉 https://github.com/solana-foundation/templates
 *   [lwojcik/react-tridi-wrapper](https://github.com/lwojcik/react-tridi-wrapper) - 360-degree image viewer as a React component
 *   [wasp-lang/wasp](https://github.com/wasp-lang/wasp) - The fastest way to develop full-stack web apps with React & Node.js.
 *   [zhangrenyang/chatgpt](https://github.com/zhangrenyang/chatgpt) - A free AI assistant that supports GPT-4,支持GPT-4的免费AI助手
@@ -2320,7 +2320,7 @@
 *   [solana-foundation/kora](https://github.com/solana-foundation/kora) - Reference implementation for a Solana relayer. Provides a lib, rpc, and cli crate in order to enable gasless experiences on Solana.
 *   [tuananh/hyper-mcp](https://github.com/tuananh/hyper-mcp) - 📦️ A fast, secure MCP server that extends its capabilities through WebAssembly plugins.
 *   [lumina-ai-inc/chunkr](https://github.com/lumina-ai-inc/chunkr) - Vision infrastructure to turn complex documents into RAG/LLM-ready data
-*   [katanemo/archgw](https://github.com/katanemo/archgw) - The smart edge and AI gateway for agents. Arch is a high-performance proxy server that handles the low-level work in building agents like applying guardrails, routing prompts to the right agent, and unifying access to LLMs. It is natively designed to handle prompts, is framework-agnostic, and helps you build agents faster.
+*   [katanemo/archgw](https://github.com/katanemo/archgw) - The smart edge and AI gateway for agents. Arch is a high-performance proxy server that handles the low-level work in building agents: like applying guardrails, routing prompts to the right agent, and unifying access to LLMs, etc. Natively designed to process prompts, it's framework-agnostic and helps you build agents faster.
 *   [Helicone/ai-gateway](https://github.com/Helicone/ai-gateway) - The fastest, lightest, and easiest-to-integrate AI gateway on the market. Fully open-sourced.
 *   [sxhxliang/mcp-access-point](https://github.com/sxhxliang/mcp-access-point) - Turn a web server into an MCP server in one click without making any code changes.
 *   [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
