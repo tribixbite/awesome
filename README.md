@@ -254,7 +254,7 @@
 *   [vladkens/twscrape](https://github.com/vladkens/twscrape) - 2025! X / Twitter API scrapper with authorization support. Allows you to scrape search results, User's profiles (followers/following), Tweets (favoriters/retweeters) and more.
 *   [alirezamika/autoscraper](https://github.com/alirezamika/autoscraper) - A Smart, Automatic, Fast and Lightweight Web Scraper for Python
 *   [av/harbor](https://github.com/av/harbor) - Effortlessly run LLM backends, APIs, frontends, and services with one command.
-*   [lemonade-sdk/lemonade](https://github.com/lemonade-sdk/lemonade) - Local LLM Server with GPU and NPU Acceleration
+*   [lemonade-sdk/lemonade](https://github.com/lemonade-sdk/lemonade) - Lemonade helps users run local LLMs with the highest performance by configuring state-of-the-art inference engines for their NPUs and GPUs. Join our discord: https://discord.gg/Sf8cfBWB
 *   [GeeeekExplorer/nano-vllm](https://github.com/GeeeekExplorer/nano-vllm) - Nano vLLM
 *   [BeehiveInnovations/zen-mcp-server](https://github.com/BeehiveInnovations/zen-mcp-server) - The power of Claude Code + \[Gemini / OpenAI / Grok / OpenRouter / Ollama / Custom Model / All Of The Above] working as one.
 *   [camel-ai/owl](https://github.com/camel-ai/owl) - 🦉 OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation
@@ -765,7 +765,7 @@
 *   [openai/openai-agents-js](https://github.com/openai/openai-agents-js) - A lightweight, powerful framework for multi-agent workflows and voice agents
 *   [arcanis/terminosaurus](https://github.com/arcanis/terminosaurus) - Agnostic terminal GUI library for TypeScript, distributed with a native React renderer
 *   [cjinhuo/blazwitcher](https://github.com/cjinhuo/blazwitcher) - Blazwitcher is a Chrome Extension for searching tabs, bookmarks, and history, with support for fuzzy Pinyin search.
-*   [solana-developers/solana-mobile-templates](https://github.com/solana-developers/solana-mobile-templates) - Official Solana Mobile templates for the create-solana-dapp CLI.
+*   [solana-developers/solana-mobile-templates](https://github.com/solana-developers/solana-mobile-templates) - The official Solana Mobile templates have moved to the repo below:
 *   [tinarskii/manao](https://github.com/tinarskii/manao) - twitch chatbot and other stuff for twitch🥤🍋
 *   [taciturnaxolotl/bundom](https://github.com/taciturnaxolotl/bundom) - the pixel swarm shall conquer
 *   [Zizzamia/a-frame-in-100-lines](https://github.com/Zizzamia/a-frame-in-100-lines) - Farcaster Frames in less than 100 lines, and ready to be deployed to Vercel.
@@ -2459,7 +2459,7 @@
 
 *   [mintlify/docs](https://github.com/mintlify/docs) - Official Mintlify documentation
 *   [multisynq/docs](https://github.com/multisynq/docs) -
-*   [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Secure open source cloud runtime for AI apps & AI agents
+*   [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Open-source, secure environment with real-world tools for enterprise-grade agents.
 *   [mintlify/starter](https://github.com/mintlify/starter) - 📖 The starter kit for your Mintlify docs
 *   [spleafy/prismane-website](https://github.com/spleafy/prismane-website) -
 *   [magicuidesign/magicui](https://github.com/magicuidesign/magicui) - UI Library for Design Engineers. Animated components and effects you can copy and paste into your apps. Free. Open Source.
@@ -2827,7 +2827,7 @@
 *   [LinkSheet/LinkSheet](https://github.com/LinkSheet/LinkSheet) - Link handling for modern Android
 *   [fork-maintainers/iceraven-browser](https://github.com/fork-maintainers/iceraven-browser) - Iceraven Browser
 *   [JunkFood02/Seal](https://github.com/JunkFood02/Seal) - 🦭 Video/Audio Downloader for Android, based on yt-dlp, designed with Material You
-*   [deniscerri/ytdlnis](https://github.com/deniscerri/ytdlnis) - Full Featured Video/Audio Downloader for Android using yt-dlp
+*   [deniscerri/ytdlnis](https://github.com/deniscerri/ytdlnis) - Full-featured audio/video downloader for Android using yt-dlp
 *   [RikkaApps/Shizuku](https://github.com/RikkaApps/Shizuku) - Using system APIs directly with adb/root privileges from normal apps through a Java process started with app\_process.
 *   [newhinton/disky](https://github.com/newhinton/disky) - An android filesystem analyzer that can show you the usage of your storage!
 *   [iamr0s/Dhizuku](https://github.com/iamr0s/Dhizuku) - A tool that can share DeviceOwner permissions to other application.
