@@ -451,7 +451,7 @@
 
 *   [idosal/mcp-ui](https://github.com/idosal/mcp-ui) - SDK for UI over MCP. Create next-gen UI experiences!
 *   [mattermost-community/focalboard](https://github.com/mattermost-community/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
-*   [playcanvas/editor](https://github.com/playcanvas/editor) - Powerful visual editor environment for building WebGL, WebGPU, WebXR apps
+*   [playcanvas/editor](https://github.com/playcanvas/editor) - Browser-based visual editor for building WebGL, WebGPU, WebXR apps
 *   [jitsi/jitsi-meet](https://github.com/jitsi/jitsi-meet) - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
 *   [sourcebot-dev/sourcebot](https://github.com/sourcebot-dev/sourcebot) - Sourcebot is a self-hosted tool that helps you understand your codebase.
 *   [acoliver/llxprt-code](https://github.com/acoliver/llxprt-code) - An open-source multi-provider (including local) fork of gemini-cli. Use whatever LLM you want to code in your terminal.
@@ -1482,7 +1482,7 @@
 *   [microsoft/SandDance](https://github.com/microsoft/SandDance) - Visually explore, understand, and present your data.
 *   [reactchartjs/react-chartjs-2](https://github.com/reactchartjs/react-chartjs-2) - React components for Chart.js, the most popular charting library
 *   [penrose/penrose](https://github.com/penrose/penrose) - Create beautiful diagrams just by typing notation in plain text.
-*   [thi-ng/umbrella](https://github.com/thi-ng/umbrella) - ⛱  Broadly scoped ecosystem & mono-repository of 209 TypeScript projects (and ~185 examples) for general purpose, functional, data driven development
+*   [thi-ng/umbrella](https://github.com/thi-ng/umbrella) - ⛱  Broadly scoped ecosystem & mono-repository of 210 TypeScript projects (and ~185 examples) for general purpose, functional, data driven development
 *   [nftstorage/metaplex-auth](https://github.com/nftstorage/metaplex-auth) - **Notice: Uploads Decommissioned - Existing Data is Safe!**  This is a client library designed for Metaplex NFT uploads to NFT.Storage.  June 2024 Update: No new uploads, but all existing data is safe. Try the new NFT.Storage, which preserves data in long term Filecoin storage for a small fee. Go to app.nft.storage
 *   [SimonHoiberg/saas-template](https://github.com/SimonHoiberg/saas-template) - SaaS template for AWS, Amplify, React, NextJS and Chakra
 *   [freeCodeCamp/100DaysOfCode-discord-bot](https://github.com/freeCodeCamp/100DaysOfCode-discord-bot) - A Discord bot created for the 100 Days of Code challenge.
@@ -1615,7 +1615,7 @@
 *   [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps
 *   [tinyfish-io/agentql](https://github.com/tinyfish-io/agentql) - AgentQL is a suite of tools for connecting your AI to the web. Featuring a query language and Playwright integrations for interacting with elements and extracting data quickly, precisely, and at scale. Includes REST API, Python and JavaScript SDKs, browser debugger.
 *   [intruder-io/autoswagger](https://github.com/intruder-io/autoswagger) - Autoswagger by Intruder - detect API auth weaknesses
-*   [brennercruvinel/CCPlugins](https://github.com/brennercruvinel/CCPlugins) - Best curated Claude Code commands and automations that actually save time. Built by a dev tired of typing "please act like a senior engineer" in every conversation.
+*   [brennercruvinel/CCPlugins](https://github.com/brennercruvinel/CCPlugins) - Best Claude Code framework that actually save time. Built by a dev tired of typing "please act like a senior engineer" in every conversation.
 *   [GAIR-NLP/ASI-Arch](https://github.com/GAIR-NLP/ASI-Arch) - AlphaGo Moment for Model Architecture Discovery.
 *   [arjunguha/BigCodeBench-X](https://github.com/arjunguha/BigCodeBench-X) - A benchmark of programming tasks for LLMs that supports almost any programming language.
 *   [sapientinc/HRM](https://github.com/sapientinc/HRM) - Hierarchical Reasoning Model Official Release
