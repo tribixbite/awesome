@@ -4,8 +4,9 @@
 
 ## Table of Contents
 
-*   [TypeScript](#typescript)
 *   [Rust](#rust)
+*   [Jupyter Notebook](#jupyter-notebook)
+*   [TypeScript](#typescript)
 *   [miscellaneous](#miscellaneous)
 *   [Python](#python)
 *   [JavaScript](#javascript)
@@ -19,8 +20,6 @@
 *   [PHP](#php)
 *   [Shell](#shell)
 *   [C++](#c-1)
-*   [Jupyter Notebook](#jupyter-notebook)
-*   [PowerShell](#powershell)
 *   [Vue](#vue)
 *   [Java](#java)
 *   [Zig](#zig)
@@ -41,6 +40,7 @@
 *   [OCaml](#ocaml)
 *   [Astro](#astro)
 *   [Nix](#nix)
+*   [PowerShell](#powershell)
 *   [AutoHotkey](#autohotkey)
 *   [SVG](#svg)
 *   [Lua](#lua)
@@ -69,6 +69,193 @@
 *   [R](#r)
 *   [Clojure](#clojure)
 
+## Rust
+
+*   [mutasim77/xfer](https://github.com/mutasim77/xfer) - ✨ A minimalist, lightning-fast file transfer tool for terminal lovers.
+*   [MagicBeansAI/magictunnel](https://github.com/MagicBeansAI/magictunnel) -
+*   [microsoft/wassette](https://github.com/microsoft/wassette) - Wassette: A security-oriented runtime that runs WebAssembly Components via MCP
+*   [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) - Kanban board to manage your AI coding agents
+*   [solana-foundation/kora](https://github.com/solana-foundation/kora) - Reference implementation for a Solana relayer. Provides a lib, rpc, and cli crate in order to enable gasless experiences on Solana.
+*   [tuananh/hyper-mcp](https://github.com/tuananh/hyper-mcp) - 📦️ A fast, secure MCP server that extends its capabilities through WebAssembly plugins.
+*   [lumina-ai-inc/chunkr](https://github.com/lumina-ai-inc/chunkr) - Vision infrastructure to turn complex documents into RAG/LLM-ready data
+*   [katanemo/archgw](https://github.com/katanemo/archgw) - The smart edge and AI gateway for agents. Arch is a high-performance proxy server that handles the low-level work in building agents: like applying guardrails, routing prompts to the right agent, and unifying access to LLMs, etc. Natively designed to process prompts, it's framework-agnostic and helps you build agents faster.
+*   [Helicone/ai-gateway](https://github.com/Helicone/ai-gateway) - The fastest, lightest, and easiest-to-integrate AI gateway on the market. Fully open-sourced.
+*   [sxhxliang/mcp-access-point](https://github.com/sxhxliang/mcp-access-point) - Turn a web server into an MCP server in one click without making any code changes.
+*   [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
+*   [facet-rs/facet](https://github.com/facet-rs/facet) - Rust reflection, serialization, deserialization, pretty printing, etc. — the last proc macro you should need
+*   [Quozul/PicoLimbo](https://github.com/Quozul/PicoLimbo) - A lightweight Minecraft server written from scratch in Rust supporting Minecraft versions from 1.7.2 up to 1.21.8.
+*   [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) - TensorZero is an open-source stack for industrial-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluation, and experimentation.
+*   [rivet-gg/rivet](https://github.com/rivet-gg/rivet) - 🔩 The open-source alternative to Durable Objects. Rivet Actors provide long-lived processes with durable state, realtime, and scalability.
+*   [BranchManager69/solana-vanity-grinder](https://github.com/BranchManager69/solana-vanity-grinder) - CUDA-accelerated Ed25519 keypair generator with massively parallel pattern matching for Solana vanity addresses. Features cuRAND, advanced Base58 encoding, configurable shared memory utilization, and optimized batching for maximum throughput on modern NVIDIA GPUs.
+*   [get-convex/convex-backend](https://github.com/get-convex/convex-backend) - The open-source reactive database for app developers
+*   [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex) - Data transformation framework for AI. Ultra performant, with incremental processing.
+*   [jsr-io/jsr](https://github.com/jsr-io/jsr) - The open-source package registry for modern JavaScript and TypeScript
+*   [microsoft/edit](https://github.com/microsoft/edit) - We all edit.
+*   [yazaldefilimone/ghost.ai](https://github.com/yazaldefilimone/ghost.ai) - 🧠 your second brain at the computer.
+*   [lambdamechanic/groma](https://github.com/lambdamechanic/groma) -
+*   [sec3-service/IDLGuesser](https://github.com/sec3-service/IDLGuesser) - IDL Guesser is an open-source tool that automatically recovers the IDL information from closed-source Anchor-based Solana programs.
+*   [PrimeIntellect-ai/protocol](https://github.com/PrimeIntellect-ai/protocol) -  peer-to-peer compute and intelligence network that enables decentralized AI development at scale
+*   [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig) - ⚙️🦀 Build portable, modular & lightweight Fullstack Agents
+*   [isaccanedo/arnis](https://github.com/isaccanedo/arnis) - 🌎🗺 Generate any location from the real world in Minecraft Java Edition with a high level of detail
+*   [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
+*   [huggingface/candle](https://github.com/huggingface/candle) - Minimalist ML framework for Rust
+*   [jessebmiller/volition](https://github.com/jessebmiller/volition) - Volition is an open-source, Rust-specialized AI coding assistant. Early Development Warning: BE CAREFUL
+*   [block/goose](https://github.com/block/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
+*   [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
+*   [smallcloudai/refact](https://github.com/smallcloudai/refact) - AI Agent that handles engineering tasks end-to-end: integrates with developers’ tools, plans, executes, and iterates until it achieves a successful result.
+*   [Dreamtowards/Ethertum](https://github.com/Dreamtowards/Ethertum) - A Voxel Multiplayer Sandbox Survival Game built in Rust & Bevy.
+*   [gents83/INOX](https://github.com/gents83/INOX) - Rust Game engine integrated in Blender \[WebGPU ready]
+*   [tracel-ai/burn](https://github.com/tracel-ai/burn) - Burn is a next generation Deep Learning Framework that doesn't compromise on flexibility, efficiency and portability.
+*   [nannou-org/nannou](https://github.com/nannou-org/nannou) - A Creative Coding Framework for Rust.
+*   [AryanpurTech/BlueEngine](https://github.com/AryanpurTech/BlueEngine) - Blue Engine is a general-purpose and easy-to-use graphics engine written in rust.
+*   [rustcycles/rustcycles](https://github.com/rustcycles/rustcycles) - A fast multiplayer shooter on wheels written in Rust using the Fyrox engine. Free and open source.
+*   [mrDIMAS/StationIapetus](https://github.com/mrDIMAS/StationIapetus) - 3rd person shooter in the very early development phase
+*   [FyroxEngine/Fyrox](https://github.com/FyroxEngine/Fyrox) - 3D and 2D game engine written in Rust
+*   [modrinth/code](https://github.com/modrinth/code) - The Modrinth monorepo containing all code which powers Modrinth!
+*   [mike-lloyd03/milwaukee\_hacks](https://github.com/mike-lloyd03/milwaukee_hacks) - Maximum hackage
+*   [codestoryai/sidecar](https://github.com/codestoryai/sidecar) - Sidecar is the AI brains for the Aide editor and works alongside it, locally on your machine
+*   [ronanyeah/sui-zk-airdrop](https://github.com/ronanyeah/sui-zk-airdrop) - Sui / Groth16 / Merkle Tree
+*   [metaplex-foundation/mpl-hybrid](https://github.com/metaplex-foundation/mpl-hybrid) - The hybrids program powering the MPL-404 standard
+*   [trailbaseio/trailbase](https://github.com/trailbaseio/trailbase) - A blazingly fast, open-source application server with type-safe APIs, built-in JS/ES6/TS runtime, realtime, auth, and admin UI built on Rust, SQLite & V8.
+*   [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
+*   [itzmeanjan/kangarootwelve](https://github.com/itzmeanjan/kangarootwelve) - BlaKE12: Blazing-fast KEccak on 12 rounds
+*   [GitDataAI/jzfs](https://github.com/GitDataAI/jzfs) - Git based Version Control File System for joint management of code, data, model and their relationship.
+*   [keithnoguchi/multisig-lite](https://github.com/keithnoguchi/multisig-lite) - Native SOL multisig wallet for Solana Blockchain
+*   [rerun-io/rerun](https://github.com/rerun-io/rerun) - Visualize streams of multimodal data. Free, fast, easy to use, and simple to integrate. Built in Rust.
+*   [HigherOrderCO/Bend](https://github.com/HigherOrderCO/Bend) - A massively parallel, high-level programming language
+*   [sevenlabs-hq/carbon](https://github.com/sevenlabs-hq/carbon) - Carbon is an indexing framework on Solana.
+*   [sayantn/keccak-rs](https://github.com/sayantn/keccak-rs) - A fast library for the Keccak-p permutation
+*   [kermanx/tree-shaker](https://github.com/kermanx/tree-shaker) - 🪚 Code size optimizer for JavaScript
+*   [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
+*   [marhkb/pods](https://github.com/marhkb/pods) - Keep track of your podman containers
+*   [LimeChain/zest](https://github.com/LimeChain/zest) - Limechain Solana Code Coverage CLI
+*   [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of JavaScript tools written in Rust.
+*   [solana-program/stake](https://github.com/solana-program/stake) - The Solana Stake program and its clients
+*   [CrunchyData/pg\_parquet](https://github.com/CrunchyData/pg_parquet) - Copy to/from Parquet in S3, Azure Blob Storage, Google Cloud Storage, http(s) stores, local files or standard inout stream from within PostgreSQL
+*   [rosenpass/rosenpass](https://github.com/rosenpass/rosenpass) - Rosenpass is a post-quantum-secure VPN that uses WireGuard to transport the actual data.
+*   [justjavac/dvm](https://github.com/justjavac/dvm) - 🦕 Deno Version Manager - Easy way to manage multiple active deno versions.
+*   [LiteSVM/litesvm](https://github.com/LiteSVM/litesvm) -
+*   [Fredolx/open-tv](https://github.com/Fredolx/open-tv) - Ultra-fast, simple and powerful cross-platform IPTV app
+*   [EricLBuehler/mistral.rs](https://github.com/EricLBuehler/mistral.rs) - Blazingly fast LLM inference.
+*   [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
+*   [zeromq/zmq.rs](https://github.com/zeromq/zmq.rs) - A native implementation of ØMQ in Rust
+*   [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden\_rs
+*   [Turbin3/poseidon](https://github.com/Turbin3/poseidon) - A Transpiler to convert your Solana programs from Typescript to Anchor
+*   [valentinmadrid/waverider](https://github.com/valentinmadrid/waverider) - Geyser plugin that streams Solana account changes to PostgREST
+*   [launchbadge/sqlx](https://github.com/launchbadge/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
+*   [cavemanloverboy/oxylana](https://github.com/cavemanloverboy/oxylana) -
+*   [cavemanloverboy/sol](https://github.com/cavemanloverboy/sol) - A command line explorer for the Solana Blockchain.
+*   [cavemanloverboy/nanotoken](https://github.com/cavemanloverboy/nanotoken) -
+*   [metaplex-foundation/aura](https://github.com/metaplex-foundation/aura) -
+*   [anza-xyz/agave](https://github.com/anza-xyz/agave) - Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.
+*   [metaplex-foundation/solana-project-template](https://github.com/metaplex-foundation/solana-project-template) - A template for vanilla Solana programs and their clients
+*   [metaplex-foundation/mpl-core](https://github.com/metaplex-foundation/mpl-core) -
+*   [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
+*   [raydium-io/raydium-clmm](https://github.com/raydium-io/raydium-clmm) - Open-Source Concentrated Liquidity Market Maker
+*   [timescale/pgvectorscale](https://github.com/timescale/pgvectorscale) - A complement to pgvector for high performance, cost efficient vector search on large workloads.
+*   [coral-xyz/sealevel-attacks](https://github.com/coral-xyz/sealevel-attacks) - ☠️ Common Security Exploits and Protections on Solana
+*   [clockwork-xyz/clockwork](https://github.com/clockwork-xyz/clockwork) - Smart-contract automation on Solana.
+*   [barter-rs/barter-rs](https://github.com/barter-rs/barter-rs) - Open-source Rust framework for building event-driven live-trading & backtesting systems
+*   [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
+*   [surrealdb/echodb](https://github.com/surrealdb/echodb) - An embedded, in-memory, immutable, copy-on-write, key-value database engine
+*   [surrealdb/surrealkv](https://github.com/surrealdb/surrealkv) - A low-level, versioned, embedded, ACID-compliant, key-value database for Rust
+*   [solana-labs/perpetuals](https://github.com/solana-labs/perpetuals) - Solana perpetuals reference implementation
+*   [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
+*   [metaplex-foundation/solana\_serialization\_benchmark](https://github.com/metaplex-foundation/solana_serialization_benchmark) - Benchmarks for rust serialization frameworks, inspired by https://github.com/djkoloski/rust\_serialization\_benchmark
+*   [codama-idl/codama](https://github.com/codama-idl/codama) - Generate clients, CLIs, documentation and more from your Solana programs
+*   [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
+*   [postgresml/korvus](https://github.com/postgresml/korvus) - Korvus is a search SDK that unifies the entire RAG pipeline in a single database query. Built on top of Postgres with bindings for Python, JavaScript, Rust and C.
+*   [space-operator/flow-backend](https://github.com/space-operator/flow-backend) - Space Operator Backend
+*   [space-operator/rhai](https://github.com/space-operator/rhai) - Rhai - An embedded scripting language for Rust.
+*   [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+*   [rpcpool/yellowstone-vixen](https://github.com/rpcpool/yellowstone-vixen) - Solana program parsing toolkit
+*   [awslabs/distill-cli](https://github.com/awslabs/distill-cli) -
+*   [orhun/rustypaste](https://github.com/orhun/rustypaste) - A minimal file upload/pastebin service.
+*   [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
+*   [anthias-labs/flare](https://github.com/anthias-labs/flare) - Flare is a CLI tool for interacting with Solana.
+*   [fire-scale/pregrind.sol](https://github.com/fire-scale/pregrind.sol) - We grind Solana keys for you so you don't have to wait.
+*   [tonyke-bot/ore-miner](https://github.com/tonyke-bot/ore-miner) - ORE Miner built on top of Jito bundle with both CPU and GPU support.
+*   [regolith-labs/ore-cli](https://github.com/regolith-labs/ore-cli) - Command line interface for ORE cryptocurrency mining.
+*   [regolith-labs/ore](https://github.com/regolith-labs/ore) - ORE is a cryptocurrency everyone can mine.
+*   [railwayapp/nixpacks](https://github.com/railwayapp/nixpacks) - App source + Nix packages + Docker = Image
+*   [dimensionhq/volt](https://github.com/dimensionhq/volt) - An experimental package management tool for JavaScript. Upto 30x faster installation of dependencies using pre-flattened dependency trees.
+*   [moonrepo/starbase](https://github.com/moonrepo/starbase) - Framework for building performant command line applications and developer tools.
+*   [moonrepo/moon](https://github.com/moonrepo/moon) - A build system and monorepo management tool for the web ecosystem, written in Rust.
+*   [levicook/derive-keys-please](https://github.com/levicook/derive-keys-please) -
+*   [cavemanloverboy/multigrind](https://github.com/cavemanloverboy/multigrind) -
+*   [pipXBT/Vanaddy](https://github.com/pipXBT/Vanaddy) - Solana Vanity Address Generator
+*   [WilfredAlmeida/LightDAS](https://github.com/WilfredAlmeida/LightDAS) - Lightweight DAS for Solana
+*   [vi/websocat](https://github.com/vi/websocat) - Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions
+*   [0xlarry/byo\_mint](https://github.com/0xlarry/byo_mint) - A compressed NFT mint program on Solana.
+*   [shuttle-hq/shuttle](https://github.com/shuttle-hq/shuttle) - Build & ship backends without writing any infrastructure files.
+*   [solana-playground/solana-playground](https://github.com/solana-playground/solana-playground) - Quickly develop, deploy and test Solana programs from browsers
+*   [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
+*   [metaplex-foundation/mpl-bubblegum](https://github.com/metaplex-foundation/mpl-bubblegum) - Create and manage Metaplex compressed NFTs
+*   [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is an open-source declarative GUI toolkit to build native user interfaces for Rust, C++, JavaScript, or Python apps.
+*   [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
+*   [blockworks-foundation/mango-v4](https://github.com/blockworks-foundation/mango-v4) - mango-v4 monorepo, contains program, ts client, and py client
+*   [CaviesLabs/hamsterswap-program](https://github.com/CaviesLabs/hamsterswap-program) -
+*   [metaplex-foundation/metaplex-program-library](https://github.com/metaplex-foundation/metaplex-program-library) - Smart contracts maintained by the Metaplex team
+*   [metaplex-foundation/get-collection](https://github.com/metaplex-foundation/get-collection) - Rust and TypeScript example code for finding all members from a collection id.
+*   [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
+*   [matter-labs/zksync](https://github.com/matter-labs/zksync) - zkSync: trustless scaling and privacy engine for Ethereum
+*   [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
+*   [Bonfida/bonfida-utils](https://github.com/Bonfida/bonfida-utils) - Collection of different utilities in use across various Bonfida projects
+*   [Bonfida/name-tokenizer](https://github.com/Bonfida/name-tokenizer) - Tokenize a domain name into an NFT
+*   [solana-labs/solana-program-library](https://github.com/solana-labs/solana-program-library) - A collection of Solana programs maintained by Solana Labs
+*   [ironaddicteddog/anchor-amm](https://github.com/ironaddicteddog/anchor-amm) - SPL token-swap (AMM) implemented in Anchor
+*   [GenesysGo/shadow-drive-rust](https://github.com/GenesysGo/shadow-drive-rust) -
+*   [anoushk1234/metaplex-anchor-nft](https://github.com/anoushk1234/metaplex-anchor-nft) - An example repo to demonstrate how to use anchor and metaplex to mint nfts on solana
+*   [Flawm/solana-dao-vote](https://github.com/Flawm/solana-dao-vote) -
+*   [solana-foundation/anchor](https://github.com/solana-foundation/anchor) - ⚓ Solana Sealevel Framework
+*   [facebook/relay](https://github.com/facebook/relay) - Relay is a JavaScript framework for building data-driven React applications.
+*   [ckamm/solana-accountsdb-connector](https://github.com/ckamm/solana-accountsdb-connector) -
+*   [samuelvanderwaal/metaboss](https://github.com/samuelvanderwaal/metaboss) - The Metaplex NFT-standard Swiss Army Knife tool.
+*   [yoav-lavi/melody](https://github.com/yoav-lavi/melody) - Melody is a language that compiles to regular expressions and aims to be more readable and maintainable
+
+## Jupyter Notebook
+
+*   [Marktechpost/AI-Tutorial-Codes-Included](https://github.com/Marktechpost/AI-Tutorial-Codes-Included) - Notebooks for Tutorials from Marktechpost
+*   [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
+*   [facebookresearch/audiocraft](https://github.com/facebookresearch/audiocraft) - Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable music generation LM with textual and melodic conditioning.
+*   [google-gemini/gemini-fullstack-langgraph-quickstart](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart) - Get started with building Fullstack Agents using Gemini 2.5 and LangGraph
+*   [AnswerDotAI/llm-ctx](https://github.com/AnswerDotAI/llm-ctx) - Create an LLM XML context document from an llms.txt file
+*   [AnswerDotAI/llms-txt](https://github.com/AnswerDotAI/llms-txt) - The /llms.txt file, helping language models use your website
+*   [NirDiamant/GenAI\_Agents](https://github.com/NirDiamant/GenAI_Agents) - This repository provides tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. It serves as a comprehensive guide for building intelligent, interactive AI systems.
+*   [lsb/sqlite-vector-search](https://github.com/lsb/sqlite-vector-search) -
+*   [spring-projects-2024/wiki-savvy-rag](https://github.com/spring-projects-2024/wiki-savvy-rag) - Finetuned an LLM to build a Wikipedia-backed RAG system expert about STEM subjects. Features a streamlit demo.
+*   [cyberark/FuzzyAI](https://github.com/cyberark/FuzzyAI) - A powerful tool for automated LLM fuzzing. It is designed to help developers and security researchers identify and mitigate potential jailbreaks in their LLM APIs.
+*   [artidoro/qlora](https://github.com/artidoro/qlora) - QLoRA: Efficient Finetuning of Quantized LLMs
+*   [microsoft/RecAI](https://github.com/microsoft/RecAI) - Bridging LLM and Recommender System.
+*   [facebookresearch/sam2](https://github.com/facebookresearch/sam2) - The repository provides code for running inference with the Meta Segment Anything Model 2 (SAM 2), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.
+*   [facebookresearch/segment-anything](https://github.com/facebookresearch/segment-anything) - The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.
+*   [aiplanethub/openagi](https://github.com/aiplanethub/openagi) - Paving the way for open agents and AGI for all.
+*   [oyvindln/vhs-decode](https://github.com/oyvindln/vhs-decode) - Software defined VHS decoder - Fork (maybe temporary) of the ld-decode Laserdisc rf decoder
+*   [soon-yau/visconet](https://github.com/soon-yau/visconet) - Official Repo of ViscoNet: Bridging and Harmonizing Visual and Textual Conditioning for ControlNet
+*   [wiseaidev/rust-web3-solana](https://github.com/wiseaidev/rust-web3-solana) -  Rust For Web3 and Solana Development Encyclopedia 🌐 (WIP)
+*   [aiplanethub/beyondllm](https://github.com/aiplanethub/beyondllm) - Build, evaluate and observe LLM apps
+*   [dylanhogg/llmgraph](https://github.com/dylanhogg/llmgraph) - Create knowledge graphs with LLMs
+*   [BaranziniLab/KG\_RAG](https://github.com/BaranziniLab/KG_RAG) - Empower Large Language Models (LLM) using Knowledge Graph based Retrieval-Augmented Generation (KG-RAG) for knowledge intensive tasks
+*   [neo4j-labs/llm-graph-builder](https://github.com/neo4j-labs/llm-graph-builder) - Neo4j graph construction from unstructured data using LLMs
+*   [deepset-ai/haystack-cookbook](https://github.com/deepset-ai/haystack-cookbook) - 👩🏻‍🍳 A collection of example notebooks using Haystack
+*   [pathwaycom/llm-app](https://github.com/pathwaycom/llm-app) - Ready-to-run cloud templates for RAG, AI pipelines, and enterprise search with live data. 🐳Docker-friendly.⚡Always in sync with Sharepoint, Google Drive, S3, Kafka, PostgreSQL, real-time data APIs, and more.
+*   [anthropics/anthropic-cookbook](https://github.com/anthropics/anthropic-cookbook) - A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
+*   [mshumer/ai-journalist](https://github.com/mshumer/ai-journalist) -
+*   [Stability-AI/StableLM](https://github.com/Stability-AI/StableLM) - StableLM: Stability AI Language Models
+*   [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
+*   [qunash/stable-diffusion-2-gui](https://github.com/qunash/stable-diffusion-2-gui) - Lightweight Stable Diffusion v 2.1 web UI: txt2img, img2img, depth2img, inpaint and upscale4x.
+*   [cloneofsimo/paint-with-words-sd](https://github.com/cloneofsimo/paint-with-words-sd) - Implementation of Paint-with-words with Stable Diffusion : method from eDiff-I that let you generate image from text-labeled segmentation map.
+*   [WongKinYiu/yolov7](https://github.com/WongKinYiu/yolov7) - Implementation of paper - YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors
+*   [karpathy/nn-zero-to-hero](https://github.com/karpathy/nn-zero-to-hero) - Neural Networks: Zero to Hero
+*   [victordibia/peacasso](https://github.com/victordibia/peacasso) - UI interface for experimenting with multimodal (text, image) models (stable diffusion).
+*   [google-deepmind/deepmind-research](https://github.com/google-deepmind/deepmind-research) - This repository contains implementations and illustrative code to accompany DeepMind publications
+*   [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
+*   [alembics/disco-diffusion](https://github.com/alembics/disco-diffusion) -
+*   [RuolinZheng08/twewy-discord-chatbot](https://github.com/RuolinZheng08/twewy-discord-chatbot) - Discord AI Chatbot using DialoGPT, trained on the game transcript of The World Ends With You
+*   [benyaminahmed/nft-image-generator](https://github.com/benyaminahmed/nft-image-generator) -
+*   [PacktPublishing/Machine-Learning-for-Algorithmic-Trading-Second-Edition\_Original](https://github.com/PacktPublishing/Machine-Learning-for-Algorithmic-Trading-Second-Edition_Original) - Machine Learning for Algorithmic Trading, Second Edition - published by Packt
+*   [dapperfu/python\_Meijer](https://github.com/dapperfu/python_Meijer) - Reverse engineered API for Meijer's Shopping List.
+
 ## TypeScript
 
 *   [universal-tool-calling-protocol/utcp-specification](https://github.com/universal-tool-calling-protocol/utcp-specification) - The specification for the Universal Tool Calling Protocol
@@ -96,6 +283,7 @@
 *   [wbopan/cui](https://github.com/wbopan/cui) - A web UI for Claude Code agents
 *   [sugyan/claude-code-webui](https://github.com/sugyan/claude-code-webui) - Web-based interface for Claude CLI with streaming chat responses
 *   [sst/models.dev](https://github.com/sst/models.dev) - An open-source database of AI models.
+*   [sst/opencode](https://github.com/sst/opencode) - AI coding agent, built for the terminal.
 *   [AsyncFuncAI/deepwiki-open](https://github.com/AsyncFuncAI/deepwiki-open) - Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab/Bitbucket Repositories. Join the discord: https://discord.gg/gMwThUMeme
 *   [kstonekuan/squash-browser-memory](https://github.com/kstonekuan/squash-browser-memory) - Squash adds an invisible memory layer to your browser, compressing every click into portable context for any AI agent
 *   [inkeep/mcp-for-cloudflare](https://github.com/inkeep/mcp-for-cloudflare) -
@@ -121,7 +309,7 @@
 *   [solana-foundation/solana-attestation-site](https://github.com/solana-foundation/solana-attestation-site) -
 *   [tscircuit/tscircuit](https://github.com/tscircuit/tscircuit) - Create real electronics with Typescript and React
 *   [MCPJam/inspector](https://github.com/MCPJam/inspector) - Postman for MCPs - A tool for testing and debugging MCPs
-*   [DecalLabs/gill](https://github.com/DecalLabs/gill) - JavaScript/TypeScript client library for interacting with the Solana blockchain
+*   [DecalLabs/gill](https://github.com/DecalLabs/gill) - Solana JavaScript/TypeScript SDK - client library for interacting with the Solana blockchain
 *   [systempromptio/systemprompt-mcp-server](https://github.com/systempromptio/systemprompt-mcp-server) - A complete, production-ready implementation of a Model Context Protocol (MCP) server demonstrating OAuth 2.1, tools, prompts, resources, sampling, and notifications using Reddit as a real-world integration example.
 *   [Panzer-Jack/feuse-mcp](https://github.com/Panzer-Jack/feuse-mcp) - Frontend Useful MCP Tools - Essential utilities for web developers to automate API integration and code generation
 *   [cloudflare/mcp-server-cloudflare](https://github.com/cloudflare/mcp-server-cloudflare) -
@@ -143,6 +331,7 @@
 *   [haydenbleasel/tersa](https://github.com/haydenbleasel/tersa) - Tersa is an open source canvas for building AI workflows.
 *   [spences10/mcp-omnisearch](https://github.com/spences10/mcp-omnisearch) - 🔍 A Model Context Protocol (MCP) server providing unified access to multiple search engines (Tavily, Brave, Kagi), AI tools (Perplexity, FastGPT), and content processing services (Jina AI, Kagi). Combines search, AI responses, content processing, and enhancement features through a single interface.
 *   [anthropics/claude-code-action](https://github.com/anthropics/claude-code-action) -
+*   [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
 *   [vikejs/vike](https://github.com/vikejs/vike) - The Modular Framework — Next.js & Nuxt alternative for unprecedented flexibility and stability.
 *   [claudio-silva/claude-artifact-runner](https://github.com/claudio-silva/claude-artifact-runner) - A template project for easily converting Claude AI’s Artifacts into React applications, ready to run out of the box or extend as needed.
 *   [etrobot/nextArtifacts](https://github.com/etrobot/nextArtifacts) - A Next.js version of Claude Aritfacts , inspired by llamacoder
@@ -1235,149 +1424,6 @@
 *   [thomasloven/lovelace-auto-entities](https://github.com/thomasloven/lovelace-auto-entities) - 🔹Automatically populate the entities-list of lovelace cards
 *   [luludotdev/beatsaver-reloaded](https://github.com/luludotdev/beatsaver-reloaded) - BeatSaver Again
 
-## Rust
-
-*   [MagicBeansAI/magictunnel](https://github.com/MagicBeansAI/magictunnel) -
-*   [microsoft/wassette](https://github.com/microsoft/wassette) - Wassette: A security-oriented runtime that runs WebAssembly Components via MCP
-*   [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) - Kanban board to manage your AI coding agents
-*   [solana-foundation/kora](https://github.com/solana-foundation/kora) - Reference implementation for a Solana relayer. Provides a lib, rpc, and cli crate in order to enable gasless experiences on Solana.
-*   [tuananh/hyper-mcp](https://github.com/tuananh/hyper-mcp) - 📦️ A fast, secure MCP server that extends its capabilities through WebAssembly plugins.
-*   [lumina-ai-inc/chunkr](https://github.com/lumina-ai-inc/chunkr) - Vision infrastructure to turn complex documents into RAG/LLM-ready data
-*   [katanemo/archgw](https://github.com/katanemo/archgw) - The smart edge and AI gateway for agents. Arch is a high-performance proxy server that handles the low-level work in building agents: like applying guardrails, routing prompts to the right agent, and unifying access to LLMs, etc. Natively designed to process prompts, it's framework-agnostic and helps you build agents faster.
-*   [Helicone/ai-gateway](https://github.com/Helicone/ai-gateway) - The fastest, lightest, and easiest-to-integrate AI gateway on the market. Fully open-sourced.
-*   [sxhxliang/mcp-access-point](https://github.com/sxhxliang/mcp-access-point) - Turn a web server into an MCP server in one click without making any code changes.
-*   [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
-*   [facet-rs/facet](https://github.com/facet-rs/facet) - Rust reflection, serialization, deserialization, pretty printing, etc. — the last proc macro you should need
-*   [Quozul/PicoLimbo](https://github.com/Quozul/PicoLimbo) - A lightweight Minecraft server written from scratch in Rust supporting Minecraft versions from 1.7.2 up to 1.21.8.
-*   [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) - TensorZero is an open-source stack for industrial-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluation, and experimentation.
-*   [rivet-gg/rivet](https://github.com/rivet-gg/rivet) - 🔩 The open-source alternative to Durable Objects. Rivet Actors provide long-lived processes with durable state, realtime, and scalability.
-*   [BranchManager69/solana-vanity-grinder](https://github.com/BranchManager69/solana-vanity-grinder) - CUDA-accelerated Ed25519 keypair generator with massively parallel pattern matching for Solana vanity addresses. Features cuRAND, advanced Base58 encoding, configurable shared memory utilization, and optimized batching for maximum throughput on modern NVIDIA GPUs.
-*   [get-convex/convex-backend](https://github.com/get-convex/convex-backend) - The open-source reactive database for app developers
-*   [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex) - Data transformation framework for AI. Ultra performant, with incremental processing.
-*   [jsr-io/jsr](https://github.com/jsr-io/jsr) - The open-source package registry for modern JavaScript and TypeScript
-*   [microsoft/edit](https://github.com/microsoft/edit) - We all edit.
-*   [yazaldefilimone/ghost.ai](https://github.com/yazaldefilimone/ghost.ai) - 🧠 your second brain at the computer.
-*   [lambdamechanic/groma](https://github.com/lambdamechanic/groma) -
-*   [sec3-service/IDLGuesser](https://github.com/sec3-service/IDLGuesser) - IDL Guesser is an open-source tool that automatically recovers the IDL information from closed-source Anchor-based Solana programs.
-*   [PrimeIntellect-ai/protocol](https://github.com/PrimeIntellect-ai/protocol) -  peer-to-peer compute and intelligence network that enables decentralized AI development at scale
-*   [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig) - ⚙️🦀 Build portable, modular & lightweight Fullstack Agents
-*   [isaccanedo/arnis](https://github.com/isaccanedo/arnis) - 🌎🗺 Generate any location from the real world in Minecraft Java Edition with a high level of detail
-*   [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
-*   [huggingface/candle](https://github.com/huggingface/candle) - Minimalist ML framework for Rust
-*   [jessebmiller/volition](https://github.com/jessebmiller/volition) - Volition is an open-source, Rust-specialized AI coding assistant. Early Development Warning: BE CAREFUL
-*   [block/goose](https://github.com/block/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
-*   [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
-*   [smallcloudai/refact](https://github.com/smallcloudai/refact) - AI Agent that handles engineering tasks end-to-end: integrates with developers’ tools, plans, executes, and iterates until it achieves a successful result.
-*   [Dreamtowards/Ethertum](https://github.com/Dreamtowards/Ethertum) - A Voxel Multiplayer Sandbox Survival Game built in Rust & Bevy.
-*   [gents83/INOX](https://github.com/gents83/INOX) - Rust Game engine integrated in Blender \[WebGPU ready]
-*   [tracel-ai/burn](https://github.com/tracel-ai/burn) - Burn is a next generation Deep Learning Framework that doesn't compromise on flexibility, efficiency and portability.
-*   [nannou-org/nannou](https://github.com/nannou-org/nannou) - A Creative Coding Framework for Rust.
-*   [AryanpurTech/BlueEngine](https://github.com/AryanpurTech/BlueEngine) - Blue Engine is a general-purpose and easy-to-use graphics engine written in rust.
-*   [rustcycles/rustcycles](https://github.com/rustcycles/rustcycles) - A fast multiplayer shooter on wheels written in Rust using the Fyrox engine. Free and open source.
-*   [mrDIMAS/StationIapetus](https://github.com/mrDIMAS/StationIapetus) - 3rd person shooter in the very early development phase
-*   [FyroxEngine/Fyrox](https://github.com/FyroxEngine/Fyrox) - 3D and 2D game engine written in Rust
-*   [modrinth/code](https://github.com/modrinth/code) - The Modrinth monorepo containing all code which powers Modrinth!
-*   [mike-lloyd03/milwaukee\_hacks](https://github.com/mike-lloyd03/milwaukee_hacks) - Maximum hackage
-*   [codestoryai/sidecar](https://github.com/codestoryai/sidecar) - Sidecar is the AI brains for the Aide editor and works alongside it, locally on your machine
-*   [ronanyeah/sui-zk-airdrop](https://github.com/ronanyeah/sui-zk-airdrop) - Sui / Groth16 / Merkle Tree
-*   [metaplex-foundation/mpl-hybrid](https://github.com/metaplex-foundation/mpl-hybrid) - The hybrids program powering the MPL-404 standard
-*   [trailbaseio/trailbase](https://github.com/trailbaseio/trailbase) - A blazingly fast, open-source application server with type-safe APIs, built-in JS/ES6/TS runtime, realtime, auth, and admin UI built on Rust, SQLite & V8.
-*   [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
-*   [itzmeanjan/kangarootwelve](https://github.com/itzmeanjan/kangarootwelve) - BlaKE12: Blazing-fast KEccak on 12 rounds
-*   [GitDataAI/jzfs](https://github.com/GitDataAI/jzfs) - Git based Version Control File System for joint management of code, data, model and their relationship.
-*   [keithnoguchi/multisig-lite](https://github.com/keithnoguchi/multisig-lite) - Native SOL multisig wallet for Solana Blockchain
-*   [rerun-io/rerun](https://github.com/rerun-io/rerun) - Visualize streams of multimodal data. Free, fast, easy to use, and simple to integrate. Built in Rust.
-*   [HigherOrderCO/Bend](https://github.com/HigherOrderCO/Bend) - A massively parallel, high-level programming language
-*   [sevenlabs-hq/carbon](https://github.com/sevenlabs-hq/carbon) - Carbon is an indexing framework on Solana.
-*   [sayantn/keccak-rs](https://github.com/sayantn/keccak-rs) - A fast library for the Keccak-p permutation
-*   [kermanx/tree-shaker](https://github.com/kermanx/tree-shaker) - 🪚 Code size optimizer for JavaScript
-*   [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
-*   [marhkb/pods](https://github.com/marhkb/pods) - Keep track of your podman containers
-*   [LimeChain/zest](https://github.com/LimeChain/zest) - Limechain Solana Code Coverage CLI
-*   [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of JavaScript tools written in Rust.
-*   [solana-program/stake](https://github.com/solana-program/stake) - The Solana Stake program and its clients
-*   [CrunchyData/pg\_parquet](https://github.com/CrunchyData/pg_parquet) - Copy to/from Parquet in S3, Azure Blob Storage, Google Cloud Storage, http(s) stores, local files or standard inout stream from within PostgreSQL
-*   [rosenpass/rosenpass](https://github.com/rosenpass/rosenpass) - Rosenpass is a post-quantum-secure VPN that uses WireGuard to transport the actual data.
-*   [justjavac/dvm](https://github.com/justjavac/dvm) - 🦕 Deno Version Manager - Easy way to manage multiple active deno versions.
-*   [LiteSVM/litesvm](https://github.com/LiteSVM/litesvm) -
-*   [Fredolx/open-tv](https://github.com/Fredolx/open-tv) - Ultra-fast, simple and powerful cross-platform IPTV app
-*   [EricLBuehler/mistral.rs](https://github.com/EricLBuehler/mistral.rs) - Blazingly fast LLM inference.
-*   [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
-*   [zeromq/zmq.rs](https://github.com/zeromq/zmq.rs) - A native implementation of ØMQ in Rust
-*   [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden\_rs
-*   [Turbin3/poseidon](https://github.com/Turbin3/poseidon) - A Transpiler to convert your Solana programs from Typescript to Anchor
-*   [valentinmadrid/waverider](https://github.com/valentinmadrid/waverider) - Geyser plugin that streams Solana account changes to PostgREST
-*   [launchbadge/sqlx](https://github.com/launchbadge/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
-*   [cavemanloverboy/oxylana](https://github.com/cavemanloverboy/oxylana) -
-*   [cavemanloverboy/sol](https://github.com/cavemanloverboy/sol) - A command line explorer for the Solana Blockchain.
-*   [cavemanloverboy/nanotoken](https://github.com/cavemanloverboy/nanotoken) -
-*   [metaplex-foundation/aura](https://github.com/metaplex-foundation/aura) -
-*   [anza-xyz/agave](https://github.com/anza-xyz/agave) - Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.
-*   [metaplex-foundation/solana-project-template](https://github.com/metaplex-foundation/solana-project-template) - A template for vanilla Solana programs and their clients
-*   [metaplex-foundation/mpl-core](https://github.com/metaplex-foundation/mpl-core) -
-*   [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
-*   [raydium-io/raydium-clmm](https://github.com/raydium-io/raydium-clmm) - Open-Source Concentrated Liquidity Market Maker
-*   [timescale/pgvectorscale](https://github.com/timescale/pgvectorscale) - A complement to pgvector for high performance, cost efficient vector search on large workloads.
-*   [coral-xyz/sealevel-attacks](https://github.com/coral-xyz/sealevel-attacks) - ☠️ Common Security Exploits and Protections on Solana
-*   [clockwork-xyz/clockwork](https://github.com/clockwork-xyz/clockwork) - Smart-contract automation on Solana.
-*   [barter-rs/barter-rs](https://github.com/barter-rs/barter-rs) - Open-source Rust framework for building event-driven live-trading & backtesting systems
-*   [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
-*   [surrealdb/echodb](https://github.com/surrealdb/echodb) - An embedded, in-memory, immutable, copy-on-write, key-value database engine
-*   [surrealdb/surrealkv](https://github.com/surrealdb/surrealkv) - A low-level, versioned, embedded, ACID-compliant, key-value database for Rust
-*   [solana-labs/perpetuals](https://github.com/solana-labs/perpetuals) - Solana perpetuals reference implementation
-*   [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
-*   [metaplex-foundation/solana\_serialization\_benchmark](https://github.com/metaplex-foundation/solana_serialization_benchmark) - Benchmarks for rust serialization frameworks, inspired by https://github.com/djkoloski/rust\_serialization\_benchmark
-*   [codama-idl/codama](https://github.com/codama-idl/codama) - Generate clients, CLIs, documentation and more from your Solana programs
-*   [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
-*   [postgresml/korvus](https://github.com/postgresml/korvus) - Korvus is a search SDK that unifies the entire RAG pipeline in a single database query. Built on top of Postgres with bindings for Python, JavaScript, Rust and C.
-*   [space-operator/flow-backend](https://github.com/space-operator/flow-backend) - Space Operator Backend
-*   [space-operator/rhai](https://github.com/space-operator/rhai) - Rhai - An embedded scripting language for Rust.
-*   [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
-*   [rpcpool/yellowstone-vixen](https://github.com/rpcpool/yellowstone-vixen) - Solana program parsing toolkit
-*   [awslabs/distill-cli](https://github.com/awslabs/distill-cli) -
-*   [orhun/rustypaste](https://github.com/orhun/rustypaste) - A minimal file upload/pastebin service.
-*   [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
-*   [anthias-labs/flare](https://github.com/anthias-labs/flare) - Flare is a CLI tool for interacting with Solana.
-*   [fire-scale/pregrind.sol](https://github.com/fire-scale/pregrind.sol) - We grind Solana keys for you so you don't have to wait.
-*   [tonyke-bot/ore-miner](https://github.com/tonyke-bot/ore-miner) - ORE Miner built on top of Jito bundle with both CPU and GPU support.
-*   [regolith-labs/ore-cli](https://github.com/regolith-labs/ore-cli) - Command line interface for ORE cryptocurrency mining.
-*   [regolith-labs/ore](https://github.com/regolith-labs/ore) - ORE is a cryptocurrency everyone can mine.
-*   [railwayapp/nixpacks](https://github.com/railwayapp/nixpacks) - App source + Nix packages + Docker = Image
-*   [dimensionhq/volt](https://github.com/dimensionhq/volt) - An experimental package management tool for JavaScript. Upto 30x faster installation of dependencies using pre-flattened dependency trees.
-*   [moonrepo/starbase](https://github.com/moonrepo/starbase) - Framework for building performant command line applications and developer tools.
-*   [moonrepo/moon](https://github.com/moonrepo/moon) - A build system and monorepo management tool for the web ecosystem, written in Rust.
-*   [levicook/derive-keys-please](https://github.com/levicook/derive-keys-please) -
-*   [cavemanloverboy/multigrind](https://github.com/cavemanloverboy/multigrind) -
-*   [pipXBT/Vanaddy](https://github.com/pipXBT/Vanaddy) - Solana Vanity Address Generator
-*   [WilfredAlmeida/LightDAS](https://github.com/WilfredAlmeida/LightDAS) - Lightweight DAS for Solana
-*   [vi/websocat](https://github.com/vi/websocat) - Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions
-*   [0xlarry/byo\_mint](https://github.com/0xlarry/byo_mint) - A compressed NFT mint program on Solana.
-*   [shuttle-hq/shuttle](https://github.com/shuttle-hq/shuttle) - Build & ship backends without writing any infrastructure files.
-*   [solana-playground/solana-playground](https://github.com/solana-playground/solana-playground) - Quickly develop, deploy and test Solana programs from browsers
-*   [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
-*   [metaplex-foundation/mpl-bubblegum](https://github.com/metaplex-foundation/mpl-bubblegum) - Create and manage Metaplex compressed NFTs
-*   [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is an open-source declarative GUI toolkit to build native user interfaces for Rust, C++, JavaScript, or Python apps.
-*   [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
-*   [blockworks-foundation/mango-v4](https://github.com/blockworks-foundation/mango-v4) - mango-v4 monorepo, contains program, ts client, and py client
-*   [CaviesLabs/hamsterswap-program](https://github.com/CaviesLabs/hamsterswap-program) -
-*   [metaplex-foundation/metaplex-program-library](https://github.com/metaplex-foundation/metaplex-program-library) - Smart contracts maintained by the Metaplex team
-*   [metaplex-foundation/get-collection](https://github.com/metaplex-foundation/get-collection) - Rust and TypeScript example code for finding all members from a collection id.
-*   [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
-*   [matter-labs/zksync](https://github.com/matter-labs/zksync) - zkSync: trustless scaling and privacy engine for Ethereum
-*   [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
-*   [Bonfida/bonfida-utils](https://github.com/Bonfida/bonfida-utils) - Collection of different utilities in use across various Bonfida projects
-*   [Bonfida/name-tokenizer](https://github.com/Bonfida/name-tokenizer) - Tokenize a domain name into an NFT
-*   [solana-labs/solana-program-library](https://github.com/solana-labs/solana-program-library) - A collection of Solana programs maintained by Solana Labs
-*   [ironaddicteddog/anchor-amm](https://github.com/ironaddicteddog/anchor-amm) - SPL token-swap (AMM) implemented in Anchor
-*   [GenesysGo/shadow-drive-rust](https://github.com/GenesysGo/shadow-drive-rust) -
-*   [anoushk1234/metaplex-anchor-nft](https://github.com/anoushk1234/metaplex-anchor-nft) - An example repo to demonstrate how to use anchor and metaplex to mint nfts on solana
-*   [Flawm/solana-dao-vote](https://github.com/Flawm/solana-dao-vote) -
-*   [solana-foundation/anchor](https://github.com/solana-foundation/anchor) - ⚓ Solana Sealevel Framework
-*   [facebook/relay](https://github.com/facebook/relay) - Relay is a JavaScript framework for building data-driven React applications.
-*   [ckamm/solana-accountsdb-connector](https://github.com/ckamm/solana-accountsdb-connector) -
-*   [samuelvanderwaal/metaboss](https://github.com/samuelvanderwaal/metaboss) - The Metaplex NFT-standard Swiss Army Knife tool.
-*   [yoav-lavi/melody](https://github.com/yoav-lavi/melody) - Melody is a language that compiles to regular expressions and aims to be more readable and maintainable
-
 ## miscellaneous
 
 *   [endorhq/cli](https://github.com/endorhq/cli) - Endor provides instant, private, sandboxed environments for your favorite services anywhere Node is available. Run MariaDB, PostgreSQL and many more servers securely and in just a few seconds. Perfect for AI agents and humans in a hurry.
@@ -1600,7 +1646,7 @@
 *   [microsoft/renderformer](https://github.com/microsoft/renderformer) - Official Code Release for \[SIGGRAPH 2025] RenderFormer: Transformer-based Neural Rendering of Triangle Meshes with Global Illumination
 *   [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb) - 🛡️ Open-source and next-generation Web Application Firewall (WAF)
 *   [byt3bl33d3r/CrackMapExec](https://github.com/byt3bl33d3r/CrackMapExec) - A swiss army knife for pentesting networks
-*   [pat-jj/s3](https://github.com/pat-jj/s3) - s3 - ⚡ Efficient Yet Effective Search Agent Training via RL for RAG
+*   [pat-jj/s3](https://github.com/pat-jj/s3) - s3 - ⚡ Efficient & Effective Search Agent Training via RL for RAG (Verifier-Powered RLVR for Search)
 *   [QwenLM/ParScale](https://github.com/QwenLM/ParScale) - Parallel Scaling Law for Language Model — Beyond Parameter and Inference Time Scaling
 *   [pixeltable/pixelagent](https://github.com/pixeltable/pixelagent) - Pixelagent  — Multimodal stateful agents
 *   [apify/crawlee-python](https://github.com/apify/crawlee-python) - Crawlee—A web scraping and browser automation library for Python to build reliable crawlers. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and other files from websites. Works with BeautifulSoup, Playwright, and raw HTTP. Both headful and headless mode. With proxy rotation.
@@ -1677,7 +1723,7 @@
 *   [mosaicml/llm-foundry](https://github.com/mosaicml/llm-foundry) - LLM training code for Databricks foundation models
 *   [linkedin/Liger-Kernel](https://github.com/linkedin/Liger-Kernel) - Efficient Triton Kernels for LLM Training
 *   [ShishirPatil/gorilla](https://github.com/ShishirPatil/gorilla) - Gorilla: Training and Evaluating LLMs for Function Calls (Tool Calls)
-*   [oumi-ai/oumi](https://github.com/oumi-ai/oumi) - Easily fine-tune, evaluate and deploy gpt-oss, DeepSeek-R1, or any open source LLM / VLM!
+*   [oumi-ai/oumi](https://github.com/oumi-ai/oumi) - Easily fine-tune, evaluate and deploy gpt-oss, Qwen3, DeepSeek-R1, or any open source LLM / VLM!
 *   [spcl/QuaRot](https://github.com/spcl/QuaRot) - Code for Neurips24 paper: QuaRot, an end-to-end 4-bit inference of large language models.
 *   [mozilla-ai/lumigator](https://github.com/mozilla-ai/lumigator) - Source code for Mozilla.ai's Lumigator platform
 *   [deepseek-ai/Janus](https://github.com/deepseek-ai/Janus) - Janus-Series: Unified Multimodal Understanding and Generation Models
@@ -2400,7 +2446,6 @@
 ## Go
 
 *   [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods.
-*   [sst/opencode](https://github.com/sst/opencode) - AI coding agent, built for the terminal.
 *   [coze-dev/coze-loop](https://github.com/coze-dev/coze-loop) - Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full-lifecycle management capabilities from development, debugging, and evaluation to monitoring.
 *   [docker/mcp-registry](https://github.com/docker/mcp-registry) - Official Docker MCP registry
 *   [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦
@@ -2432,7 +2477,7 @@
 *   [eja/wikilite](https://github.com/eja/wikilite) - Offline Lexical and Semantic Wikipedia Search
 *   [nalgeon/howto](https://github.com/nalgeon/howto) - Humble command-line assistant
 *   [kgretzky/evilginx2](https://github.com/kgretzky/evilginx2) - Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication
-*   [obot-platform/obot](https://github.com/obot-platform/obot) - Open source AI Agent Platform
+*   [obot-platform/obot](https://github.com/obot-platform/obot) - Open-source MCP Gateway and AI Platform
 *   [openziti/zrok](https://github.com/openziti/zrok) - Geo-scale, next-generation peer-to-peer sharing platform built on top of OpenZiti.
 *   [hunjixin/keccak\_cu](https://github.com/hunjixin/keccak_cu) - fast keccak cuda implemetation
 *   [txthinking/brook](https://github.com/txthinking/brook) - A cross-platform programmable network tool
@@ -2542,7 +2587,6 @@
 *   [FABtotum/FABlin](https://github.com/FABtotum/FABlin) - The FABtotum Personal Fabricator Firmware, a Marlin derivate made to support hybrid manufacturing and digital acquisition
 *   [arendst/Tasmota](https://github.com/arendst/Tasmota) - Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at
 *   [vanbwodonk/leonardoUploader](https://github.com/vanbwodonk/leonardoUploader) - A binary command for upload .hex to Arduino Leonardo CDC bootloader.
-*   [oblitum/Interception](https://github.com/oblitum/Interception) - The Interception API aims to build a portable programming interface that allows one to intercept and control a range of input devices.
 
 ## SCSS
 
@@ -2718,59 +2762,6 @@
 *   [esphome/esphome](https://github.com/esphome/esphome) - ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems.
 *   [mozilla/DeepSpeech](https://github.com/mozilla/DeepSpeech) - DeepSpeech is an open source embedded (offline, on-device) speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers.
 
-## Jupyter Notebook
-
-*   [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
-*   [facebookresearch/audiocraft](https://github.com/facebookresearch/audiocraft) - Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable music generation LM with textual and melodic conditioning.
-*   [google-gemini/gemini-fullstack-langgraph-quickstart](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart) - Get started with building Fullstack Agents using Gemini 2.5 and LangGraph
-*   [AnswerDotAI/llm-ctx](https://github.com/AnswerDotAI/llm-ctx) - Create an LLM XML context document from an llms.txt file
-*   [AnswerDotAI/llms-txt](https://github.com/AnswerDotAI/llms-txt) - The /llms.txt file, helping language models use your website
-*   [NirDiamant/GenAI\_Agents](https://github.com/NirDiamant/GenAI_Agents) - This repository provides tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. It serves as a comprehensive guide for building intelligent, interactive AI systems.
-*   [lsb/sqlite-vector-search](https://github.com/lsb/sqlite-vector-search) -
-*   [spring-projects-2024/wiki-savvy-rag](https://github.com/spring-projects-2024/wiki-savvy-rag) - Finetuned an LLM to build a Wikipedia-backed RAG system expert about STEM subjects. Features a streamlit demo.
-*   [cyberark/FuzzyAI](https://github.com/cyberark/FuzzyAI) - A powerful tool for automated LLM fuzzing. It is designed to help developers and security researchers identify and mitigate potential jailbreaks in their LLM APIs.
-*   [artidoro/qlora](https://github.com/artidoro/qlora) - QLoRA: Efficient Finetuning of Quantized LLMs
-*   [microsoft/RecAI](https://github.com/microsoft/RecAI) - Bridging LLM and Recommender System.
-*   [facebookresearch/sam2](https://github.com/facebookresearch/sam2) - The repository provides code for running inference with the Meta Segment Anything Model 2 (SAM 2), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.
-*   [facebookresearch/segment-anything](https://github.com/facebookresearch/segment-anything) - The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.
-*   [aiplanethub/openagi](https://github.com/aiplanethub/openagi) - Paving the way for open agents and AGI for all.
-*   [oyvindln/vhs-decode](https://github.com/oyvindln/vhs-decode) - Software defined VHS decoder - Fork (maybe temporary) of the ld-decode Laserdisc rf decoder
-*   [soon-yau/visconet](https://github.com/soon-yau/visconet) - Official Repo of ViscoNet: Bridging and Harmonizing Visual and Textual Conditioning for ControlNet
-*   [wiseaidev/rust-web3-solana](https://github.com/wiseaidev/rust-web3-solana) -  Rust For Web3 and Solana Development Encyclopedia 🌐 (WIP)
-*   [aiplanethub/beyondllm](https://github.com/aiplanethub/beyondllm) - Build, evaluate and observe LLM apps
-*   [dylanhogg/llmgraph](https://github.com/dylanhogg/llmgraph) - Create knowledge graphs with LLMs
-*   [BaranziniLab/KG\_RAG](https://github.com/BaranziniLab/KG_RAG) - Empower Large Language Models (LLM) using Knowledge Graph based Retrieval-Augmented Generation (KG-RAG) for knowledge intensive tasks
-*   [neo4j-labs/llm-graph-builder](https://github.com/neo4j-labs/llm-graph-builder) - Neo4j graph construction from unstructured data using LLMs
-*   [deepset-ai/haystack-cookbook](https://github.com/deepset-ai/haystack-cookbook) - 👩🏻‍🍳 A collection of example notebooks using Haystack
-*   [pathwaycom/llm-app](https://github.com/pathwaycom/llm-app) - Ready-to-run cloud templates for RAG, AI pipelines, and enterprise search with live data. 🐳Docker-friendly.⚡Always in sync with Sharepoint, Google Drive, S3, Kafka, PostgreSQL, real-time data APIs, and more.
-*   [anthropics/anthropic-cookbook](https://github.com/anthropics/anthropic-cookbook) - A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
-*   [mshumer/ai-journalist](https://github.com/mshumer/ai-journalist) -
-*   [Stability-AI/StableLM](https://github.com/Stability-AI/StableLM) - StableLM: Stability AI Language Models
-*   [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
-*   [qunash/stable-diffusion-2-gui](https://github.com/qunash/stable-diffusion-2-gui) - Lightweight Stable Diffusion v 2.1 web UI: txt2img, img2img, depth2img, inpaint and upscale4x.
-*   [cloneofsimo/paint-with-words-sd](https://github.com/cloneofsimo/paint-with-words-sd) - Implementation of Paint-with-words with Stable Diffusion : method from eDiff-I that let you generate image from text-labeled segmentation map.
-*   [WongKinYiu/yolov7](https://github.com/WongKinYiu/yolov7) - Implementation of paper - YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors
-*   [karpathy/nn-zero-to-hero](https://github.com/karpathy/nn-zero-to-hero) - Neural Networks: Zero to Hero
-*   [victordibia/peacasso](https://github.com/victordibia/peacasso) - UI interface for experimenting with multimodal (text, image) models (stable diffusion).
-*   [google-deepmind/deepmind-research](https://github.com/google-deepmind/deepmind-research) - This repository contains implementations and illustrative code to accompany DeepMind publications
-*   [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
-*   [alembics/disco-diffusion](https://github.com/alembics/disco-diffusion) -
-*   [RuolinZheng08/twewy-discord-chatbot](https://github.com/RuolinZheng08/twewy-discord-chatbot) - Discord AI Chatbot using DialoGPT, trained on the game transcript of The World Ends With You
-*   [benyaminahmed/nft-image-generator](https://github.com/benyaminahmed/nft-image-generator) -
-*   [PacktPublishing/Machine-Learning-for-Algorithmic-Trading-Second-Edition\_Original](https://github.com/PacktPublishing/Machine-Learning-for-Algorithmic-Trading-Second-Edition_Original) - Machine Learning for Algorithmic Trading, Second Edition - published by Packt
-*   [dapperfu/python\_Meijer](https://github.com/dapperfu/python_Meijer) - Reverse engineered API for Meijer's Shopping List.
-
-## PowerShell
-
-*   [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
-*   [texhex/BiosSledgehammer](https://github.com/texhex/BiosSledgehammer) - Automated BIOS, ME, TPM firmware update and BIOS settings for HP devices
-*   [PhrozenIO/PowerRemoteDesktop](https://github.com/PhrozenIO/PowerRemoteDesktop) - Remote Desktop entirely coded in PowerShell.
-*   [schmurtzm/Onion-Desktop-Tools](https://github.com/schmurtzm/Onion-Desktop-Tools) - A software to install and configure Onion OS for Miyoo Mini
-*   [actions/runner-images](https://github.com/actions/runner-images) - GitHub Actions runner images
-*   [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, easy to use PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.
-*   [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates
-*   [velodo/youtube-dl\_script](https://github.com/velodo/youtube-dl_script) - Windows Powershell script with template config files for archiving YouTube channels.
-
 ## Vue
 
 *   [NitroRCr/AIaW](https://github.com/NitroRCr/AIaW) - AI as Workspace - An elegant AI chat client. Full-featured, lightweight. Support multiple workspaces, plugin system, cross-platform, local first + real-time cloud sync, Artifacts, MCP | 更好的 AI 客户端
@@ -2889,7 +2880,6 @@
 *   [JumpmanSr/BailOutMode](https://github.com/JumpmanSr/BailOutMode) - BailOutMode, a Beat Saber mod that automatically switches to no fail instead of ending a song.
 *   [bsmg/ModAssistant](https://github.com/bsmg/ModAssistant) - Simple Beat Saber Mod Installer
 *   [Tichau/FileConverter](https://github.com/Tichau/FileConverter) - File Converter is a very simple tool which allows you to convert and compress files using the context menu in windows explorer.
-*   [evilC/AutoHotInterception](https://github.com/evilC/AutoHotInterception) - An AutoHotkey wrapper for the Interception driver
 
 ## Svelte
 
@@ -3038,6 +3028,16 @@
 ## Nix
 
 *   [k3d3/claude-desktop-linux-flake](https://github.com/k3d3/claude-desktop-linux-flake) - Nix Flake for Claude Desktop on Linux
+
+## PowerShell
+
+*   [texhex/BiosSledgehammer](https://github.com/texhex/BiosSledgehammer) - Automated BIOS, ME, TPM firmware update and BIOS settings for HP devices
+*   [PhrozenIO/PowerRemoteDesktop](https://github.com/PhrozenIO/PowerRemoteDesktop) - Remote Desktop entirely coded in PowerShell.
+*   [schmurtzm/Onion-Desktop-Tools](https://github.com/schmurtzm/Onion-Desktop-Tools) - A software to install and configure Onion OS for Miyoo Mini
+*   [actions/runner-images](https://github.com/actions/runner-images) - GitHub Actions runner images
+*   [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, easy to use PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.
+*   [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates
+*   [velodo/youtube-dl\_script](https://github.com/velodo/youtube-dl_script) - Windows Powershell script with template config files for archiving YouTube channels.
 
 ## AutoHotkey
 
