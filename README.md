@@ -239,7 +239,7 @@
 *   [huggingface/smolagents](https://github.com/huggingface/smolagents) - 🤗 smolagents: a barebones library for agents that think in code.
 *   [ai-robots-txt/ai.robots.txt](https://github.com/ai-robots-txt/ai.robots.txt) - A list of AI agents and robots to block.
 *   [microsoft/AIOpsLab](https://github.com/microsoft/AIOpsLab) - A holistic framework to enable the design, development, and evaluation of autonomous AIOps agents.
-*   [guestrin-lab/lotus](https://github.com/guestrin-lab/lotus) - LOTUS: A semantic query engine for fast and easy LLM-powered data processing over your documents, text, unstructured and structured data
+*   [lotus-data/lotus](https://github.com/lotus-data/lotus) - LOTUS: A semantic query engine for fast and easy LLM-powered data processing over your documents, text, unstructured and structured data
 *   [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 *   [jahwag/ClaudeSync](https://github.com/jahwag/ClaudeSync) - ClaudeSync is a Python tool that automates the synchronization of local files with Claude.ai Projects
 *   [SigmaNight/basiliskLLM](https://github.com/SigmaNight/basiliskLLM) - 🐍 Where LLMs Unite
@@ -601,7 +601,7 @@
 *   [activepieces/activepieces](https://github.com/activepieces/activepieces) - AI Agents & MCPs & AI Workflow Automation • (280+ MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents
 *   [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) - Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.
 *   [TrueStarHQ/browser-extension](https://github.com/TrueStarHQ/browser-extension) - A browser extension provides transparent, AI-powered fake review detection for smarter online shopping
-*   [Jpisnice/shadcn-ui-mcp-server](https://github.com/Jpisnice/shadcn-ui-mcp-server) - A mcp server to allow LLMS gain context about shadcn ui component structure,usage and installation
+*   [Jpisnice/shadcn-ui-mcp-server](https://github.com/Jpisnice/shadcn-ui-mcp-server) - A mcp server to allow LLMS gain context about shadcn ui component structure,usage and installation,compaitable with react,svelte 5,and vue
 *   [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) - qwen-code is a coding agent that lives in digital world.
 *   [yWorks/mcp-typescribe](https://github.com/yWorks/mcp-typescribe) - An MCP server implementation enabling LLMs to work with new APIs and frameworks
 *   [SaltyAom/kozeki-template](https://github.com/SaltyAom/kozeki-template) - Ready to deploy template Elysia-Next Bun monorepo
@@ -2096,7 +2096,7 @@
 
 ## C
 
-*   [haiwen/seafile](https://github.com/haiwen/seafile) - High performance file syncing and sharing, with also Markdown WYSIWYG editing, Wiki, file label and other knowledge management features.
+*   [haiwen/seafile](https://github.com/haiwen/seafile) - Beyong file syncing and sharing, a new way to organize your files with extensible file properties and flexible views
 *   [radareorg/radare2](https://github.com/radareorg/radare2) - UNIX-like reverse engineering framework and command-line toolset
 *   [winsiderss/systeminformer](https://github.com/winsiderss/systeminformer) - A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware. Brought to you by Winsider Seminars & Solutions, Inc. @ http://www.windows-internals.com
 *   [RsyncProject/rsync](https://github.com/RsyncProject/rsync) - An open source utility that provides fast incremental file transfer. It also has useful features for backup and restore operations among many other use cases.
@@ -2637,7 +2637,7 @@
 *   [anthropics/anthropic-cookbook](https://github.com/anthropics/anthropic-cookbook) - A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
 *   [mshumer/ai-journalist](https://github.com/mshumer/ai-journalist) -
 *   [Stability-AI/StableLM](https://github.com/Stability-AI/StableLM) - StableLM: Stability AI Language Models
-*   [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
+*   [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
 *   [qunash/stable-diffusion-2-gui](https://github.com/qunash/stable-diffusion-2-gui) - Lightweight Stable Diffusion v 2.1 web UI: txt2img, img2img, depth2img, inpaint and upscale4x.
 *   [cloneofsimo/paint-with-words-sd](https://github.com/cloneofsimo/paint-with-words-sd) - Implementation of Paint-with-words with Stable Diffusion : method from eDiff-I that let you generate image from text-labeled segmentation map.
 *   [WongKinYiu/yolov7](https://github.com/WongKinYiu/yolov7) - Implementation of paper - YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors
