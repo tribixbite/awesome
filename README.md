@@ -1804,7 +1804,7 @@
 
 ## Python
 
-*   [doobidoo/mcp-memory-service](https://github.com/doobidoo/mcp-memory-service) - MCP server providing semantic memory and persistent storage capabilities for Claude using ChromaDB and sentence transformers.
+*   [doobidoo/mcp-memory-service](https://github.com/doobidoo/mcp-memory-service) -  Universal MCP memory service with semantic search, multi-client support, and autonomous consolidation for Claude Desktop, VS Code, and 13+ AI   applications
 *   [letta-ai/letta-terminalbench](https://github.com/letta-ai/letta-terminalbench) - letta integration for terminalbench (#1 open source agent, in under 200 lines of code)
 *   [openai/gpt-oss](https://github.com/openai/gpt-oss) - gpt-oss-120b and gpt-oss-20b are two open-weight language models by OpenAI
 *   [taylorwilsdon/google\_workspace\_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search & Drive with AI - Comprehensive Google Workspace / G Suite MCP Server
