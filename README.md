@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+*   [Dart](#dart)
 *   [TypeScript](#typescript)
 *   [Python](#python)
 *   [JavaScript](#javascript)
@@ -27,7 +28,6 @@
 *   [Elixir](#elixir)
 *   [C#](#c-2)
 *   [Svelte](#svelte)
-*   [Dart](#dart)
 *   [Haskell](#haskell)
 *   [Move](#move)
 *   [Jinja](#jinja)
@@ -66,7 +66,20 @@
 *   [OpenSCAD](#openscad)
 *   [AutoIt](#autoit)
 *   [Visual Basic .NET](#visual-basic-net)
-*   [R](#r)
+
+## Dart
+
+*   [code3-dev/ProxyCloud](https://github.com/code3-dev/ProxyCloud) - Proxy Cloud is an open-source VPN that’s fast, unlimited, secure, and completely free.
+*   [ondateta/teta](https://github.com/ondateta/teta) - The open source, AI-powered app builder
+*   [ente-io/ente](https://github.com/ente-io/ente) - 🔒 End-to-end encrypted cloud for photos, videos and 2FA secrets.
+*   [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
+*   [sidhant947/Wallet](https://github.com/sidhant947/Wallet) - Wallet is a Flutter project designed to store card information locally on the device, ensuring that the data is secure and cannot be stolen, as the application does not have internet access. The app is optimized for efficiency, allowing users to quickly copy card details for transactions.
+*   [TheLastGimbus/GooglePhotosTakeoutHelper](https://github.com/TheLastGimbus/GooglePhotosTakeoutHelper) - Script that organizes the Google Takeout archive into one big chronological folder
+*   [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) - Get Android app updates straight from the source.
+*   [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music client! Available for both desktop & mobile!
+*   [Mobile-Artificial-Intelligence/maid](https://github.com/Mobile-Artificial-Intelligence/maid) - Maid is a cross-platform Flutter app for interfacing with GGUF / llama.cpp models locally, and with Ollama and OpenAI models remotely.
+*   [vedfi/mondroid](https://github.com/vedfi/mondroid) - Mongodb Client w/ Flutter
+*   [MaximeBeasse/KeyDecoder](https://github.com/MaximeBeasse/KeyDecoder) - KeyDecoder app lets you use your smartphone or tablet to decode your mechanical keys in seconds.
 
 ## TypeScript
 
@@ -2939,19 +2952,6 @@
 *   [inngest/typedwebhook.tools](https://github.com/inngest/typedwebhook.tools) - A webhook testing tool for checking payloads, with automatic type generation
 *   [helius-labs/xray](https://github.com/helius-labs/xray) - A human-readable Solana transaction explorer powered by Helius.
 
-## Dart
-
-*   [ondateta/teta](https://github.com/ondateta/teta) - The open source, AI-powered app builder
-*   [ente-io/ente](https://github.com/ente-io/ente) - 🔒 End-to-end encrypted cloud for photos, videos and 2FA secrets.
-*   [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
-*   [sidhant947/Wallet](https://github.com/sidhant947/Wallet) - Wallet is a Flutter project designed to store card information locally on the device, ensuring that the data is secure and cannot be stolen, as the application does not have internet access. The app is optimized for efficiency, allowing users to quickly copy card details for transactions.
-*   [TheLastGimbus/GooglePhotosTakeoutHelper](https://github.com/TheLastGimbus/GooglePhotosTakeoutHelper) - Script that organizes the Google Takeout archive into one big chronological folder
-*   [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) - Get Android app updates straight from the source.
-*   [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music client! Available for both desktop & mobile!
-*   [Mobile-Artificial-Intelligence/maid](https://github.com/Mobile-Artificial-Intelligence/maid) - Maid is a cross-platform Flutter app for interfacing with GGUF / llama.cpp models locally, and with Ollama and OpenAI models remotely.
-*   [vedfi/mondroid](https://github.com/vedfi/mondroid) - Mongodb Client w/ Flutter
-*   [MaximeBeasse/KeyDecoder](https://github.com/MaximeBeasse/KeyDecoder) - KeyDecoder app lets you use your smartphone or tablet to decode your mechanical keys in seconds.
-
 ## Haskell
 
 *   [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) - SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
@@ -3152,7 +3152,3 @@
 ## Visual Basic .NET
 
 *   [ChrisAnd1998/TaskbarX](https://github.com/ChrisAnd1998/TaskbarX) - Center Windows taskbar icons with a variety of animations and options.
-
-## R
-
-*   [BorisNikulin/discord-chat-analysis](https://github.com/BorisNikulin/discord-chat-analysis) - Text analysis of a discord chat group
