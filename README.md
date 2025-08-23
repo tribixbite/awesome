@@ -70,6 +70,7 @@
 
 ## Python
 
+*   [SalesforceAIResearch/MCP-Universe](https://github.com/SalesforceAIResearch/MCP-Universe) - MCP-Universe is a comprehensive framework designed for developing, testing, and benchmarking AI agents
 *   [ByteDance-Seed/m3-agent](https://github.com/ByteDance-Seed/m3-agent) -
 *   [OPPO-PersonalAI/Agent\_Foundation\_Models](https://github.com/OPPO-PersonalAI/Agent_Foundation_Models) - Chain-of-Agents: End-to-End Agent Foundation Models via Multi-Agent Distillation and Agentic RL.
 *   [ModelTC/Qwen-Image-Lightning](https://github.com/ModelTC/Qwen-Image-Lightning) - Qwen-Image-Lightning: Speed up Qwen-Image model with distillation
@@ -546,7 +547,6 @@
 *   [jlamendo/ha-sensor.owlet](https://github.com/jlamendo/ha-sensor.owlet) - Owlet Smart Sock v2/v3 Sensor Integration for HomeAssistant using the modern Owlet API.
 *   [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown.
 *   [praw-dev/asyncpraw](https://github.com/praw-dev/asyncpraw) - Async PRAW, an abbreviation for "Asynchronous Python Reddit API Wrapper", is a python package that allows for simple access to Reddit's API.
-*   [praw-dev/praw](https://github.com/praw-dev/praw) - PRAW, an acronym for "Python Reddit API Wrapper", is a python package that allows for simple access to Reddit's API.
 
 ## JavaScript
 
@@ -2120,7 +2120,7 @@
 *   [tianocore/tianocore.github.io](https://github.com/tianocore/tianocore.github.io) - Tianocore website
 *   [felladrin/awesome-ai-web-search](https://github.com/felladrin/awesome-ai-web-search) - List of software that allows searching the web with the assistance of AI: https://hf.co/spaces/felladrin/awesome-ai-web-search
 *   [w3c-ccg/vc-api](https://github.com/w3c-ccg/vc-api) - An HTTP API for performing credential lifecycle management for Verifiable Credentials.
-*   [vtempest/Svelte-Starter-DOCS](https://github.com/vtempest/Svelte-Starter-DOCS) - 💻⚒️ Svelte Starter DOCS  (💧Drizzle 🔐OAuth ☁️ Cloudflare 🖼️ SvelteKit) - 🚀DEMO https://starterdocs.vtempest.workers.dev
+*   [OpenSourceAGI/StarterDOCS](https://github.com/OpenSourceAGI/StarterDOCS) - 💻⚒️ Svelte Starter DOCS  (💧Drizzle 🔐OAuth ☁️ Cloudflare 🖼️ SvelteKit) - 🚀DEMO https://starterdocs.vtempest.workers.dev
 *   [pkgforge-dev/Termux-Packages](https://github.com/pkgforge-dev/Termux-Packages) - Markdown List (Table), JSON & YAML of all the officially Available Packages in the Termux Registry :: https://termux-packages.ajam.dev \[Maintainer=@Azathothas]
 *   [vitalets/github-trending-repos](https://github.com/vitalets/github-trending-repos) - Track GitHub trending repositories in your favorite programming language by native GitHub notifications!
 *   [run-llama/create\_llama\_projects](https://github.com/run-llama/create_llama_projects) -
