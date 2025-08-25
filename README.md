@@ -1036,7 +1036,6 @@
 *   [raydium-io/raydium-ui](https://github.com/raydium-io/raydium-ui) - Raydium Frontend V1
 *   [raydium-io/raydium-frontend](https://github.com/raydium-io/raydium-frontend) - Raydium Frontend V2
 *   [raydium-io/raydium-sdk-v1](https://github.com/raydium-io/raydium-sdk-v1) - An SDK for building applications on top of Raydium.
-*   [openocean-finance/OpenOcean-API](https://github.com/openocean-finance/OpenOcean-API) - openocean sdk
 *   [gemworks/gem-farm](https://github.com/gemworks/gem-farm) - Configurable staking for NFT Projects on Solana
 *   [solana-labs/break](https://github.com/solana-labs/break) - Break Solana Game
 *   [GenesysGo/shadow-drive](https://github.com/GenesysGo/shadow-drive) -
@@ -1919,6 +1918,7 @@
 *   [home-assistant-ecosystem/home-assistant-cli](https://github.com/home-assistant-ecosystem/home-assistant-cli) - :computer: Command-line tool for Home Assistant
 *   [ToyKeeper/fuckometer](https://github.com/ToyKeeper/fuckometer) - How fucked are you right now? A tool to help you give a fuck so you can get less fucked.  Track several aspects of life and boil them down to a single number with graphs and productivity suggestions.
 *   [ollo69/ha-smartthinq-sensors](https://github.com/ollo69/ha-smartthinq-sensors) - HomeAssistant custom integration for SmartThinQ LG devices
+*   [ct-Open-Source/tuya-convert](https://github.com/ct-Open-Source/tuya-convert) - A collection of scripts to flash Tuya IoT devices to alternative firmwares
 
 ## JavaScript
 
