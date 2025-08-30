@@ -1040,6 +1040,7 @@
 *   [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
 *   [featheredtoast/satisfactory-monitoring](https://github.com/featheredtoast/satisfactory-monitoring) -
 *   [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods.
+*   [sst/opencode](https://github.com/sst/opencode) - AI coding agent, built for the terminal.
 *   [coze-dev/coze-loop](https://github.com/coze-dev/coze-loop) - Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full-lifecycle management capabilities from development, debugging, and evaluation to monitoring.
 *   [docker/mcp-registry](https://github.com/docker/mcp-registry) - Official Docker MCP registry
 *   [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦
@@ -1482,7 +1483,6 @@
 *   [wbopan/cui](https://github.com/wbopan/cui) - A web UI for Claude Code agents
 *   [sugyan/claude-code-webui](https://github.com/sugyan/claude-code-webui) - Web-based interface for Claude CLI with streaming chat responses
 *   [sst/models.dev](https://github.com/sst/models.dev) - An open-source database of AI models.
-*   [sst/opencode](https://github.com/sst/opencode) - AI coding agent, built for the terminal.
 *   [AsyncFuncAI/deepwiki-open](https://github.com/AsyncFuncAI/deepwiki-open) - Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab/Bitbucket Repositories. Join the discord: https://discord.gg/gMwThUMeme
 *   [kstonekuan/squash-browser-memory](https://github.com/kstonekuan/squash-browser-memory) - Squash adds an invisible memory layer to your browser, compressing every click into portable context for any AI agent
 *   [inkeep/mcp-for-cloudflare](https://github.com/inkeep/mcp-for-cloudflare) -
@@ -1524,7 +1524,7 @@
 *   [azer/react-analyzer-mcp](https://github.com/azer/react-analyzer-mcp) - MCP server for analyzing & generating docs for React code locally
 *   [lamemind/mcp-server-multiverse](https://github.com/lamemind/mcp-server-multiverse) - A middleware server that enables multiple isolated instances of the same MCP servers to coexist independently with unique namespaces and configurations.
 *   [TencentEdgeOne/edgeone-pages-mcp](https://github.com/TencentEdgeOne/edgeone-pages-mcp) - An MCP service designed for deploying HTML content to EdgeOne Pages and obtaining an accessible public URL.
-*   [getAsterisk/gooey](https://github.com/getAsterisk/gooey) - A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.
+*   [getAsterisk/opcode](https://github.com/getAsterisk/opcode) - A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.
 *   [outerbase/browsable-durable-object](https://github.com/outerbase/browsable-durable-object) - Extend Cloudflare Durable Objects to be browsable by database tools such as Outerbase Studio
 *   [mobile-next/mobile-mcp](https://github.com/mobile-next/mobile-mcp) - Model Context Protocol Server for Mobile Automation and Scraping (iOS, Android, Emulators, Simulators and Real Devices)
 *   [haydenbleasel/tersa](https://github.com/haydenbleasel/tersa) - Tersa is an open source canvas for building AI workflows.
@@ -1653,6 +1653,7 @@
 *   [inngest/agent-kit](https://github.com/inngest/agent-kit) - AgentKit: Build multi-agent networks in TypeScript with deterministic routing and rich tooling via MCP.
 *   [saschaseniuk/vite-plugin-llms](https://github.com/saschaseniuk/vite-plugin-llms) - A Vite plugin that implements the llms.txt specification, enabling AI-optimized content alongside your routes. It automatically serves markdown files for LLM consumption and handles the llms.txt routing in development and production.
 *   [Idee8/codecrawl](https://github.com/Idee8/codecrawl) - 🌊 Turn entire codebases into LLM-ready data. Extract data, search, and llms.txt from any repo with a single API.
+*   [thedaviddias/llms-txt-hub](https://github.com/thedaviddias/llms-txt-hub) - 🤖 The largest directory for AI-ready documentation and tools implementing the proposed llms.txt standard
 *   [firecrawl/llmstxt-generator](https://github.com/firecrawl/llmstxt-generator) -
 *   [janwilmake/contextjson](https://github.com/janwilmake/contextjson) - Make Your Repo Vibecode-Friendly
 *   [webrecorder/browsertrix](https://github.com/webrecorder/browsertrix) - Browsertrix is the hosted, high-fidelity, browser-based crawling service from Webrecorder designed to make web archiving easier and more accessible for all!
@@ -2961,7 +2962,6 @@
 
 *   [mintlify/docs](https://github.com/mintlify/docs) - Official Mintlify documentation
 *   [multisynq/docs](https://github.com/multisynq/docs) -
-*   [thedaviddias/llms-txt-hub](https://github.com/thedaviddias/llms-txt-hub) - 🤖 The largest directory for AI-ready documentation and tools implementing the proposed llms.txt standard
 *   [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Open-source, secure environment with real-world tools for enterprise-grade agents.
 *   [mintlify/starter](https://github.com/mintlify/starter) - 📖 The starter kit for your Mintlify docs
 *   [spleafy/prismane-website](https://github.com/spleafy/prismane-website) -
