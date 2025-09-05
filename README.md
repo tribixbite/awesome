@@ -367,7 +367,7 @@
 *   [m-bain/whisperX](https://github.com/m-bain/whisperX) - WhisperX:  Automatic Speech Recognition with Word-level Timestamps (& Diarization)
 *   [microsoft/BitNet](https://github.com/microsoft/BitNet) - Official inference framework for 1-bit LLMs
 *   [agno-agi/agno](https://github.com/agno-agi/agno) - Open-source framework for building multi-agent systems with memory, knowledge and reasoning.
-*   [VRSEN/agency-swarm](https://github.com/VRSEN/agency-swarm) - Reliable AI Agent Orchestration Framework. (Extension of Agents SDK)
+*   [VRSEN/agency-swarm](https://github.com/VRSEN/agency-swarm) - Reliable Multi-Agent Orchestration Framework. (Extension of Agents SDK)
 *   [openai/swarm](https://github.com/openai/swarm) - Educational framework exploring ergonomic, lightweight multi-agent orchestration. Managed by OpenAI Solution team.
 *   [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
 *   [Marker-Inc-Korea/AutoRAG](https://github.com/Marker-Inc-Korea/AutoRAG) - AutoRAG: An Open-Source Framework for Retrieval-Augmented Generation (RAG) Evaluation & Optimization with AutoML-Style Automation
@@ -702,7 +702,7 @@
 *   [samanhappy/mcphub](https://github.com/samanhappy/mcphub) - A unified hub for centralized management and dynamic organization of multiple MCP servers into streamable HTTP (SSE) endpoints, with support for flexible routing strategies
 *   [AmoyLab/Unla](https://github.com/AmoyLab/Unla) - 🧩 MCP Gateway - A lightweight gateway service that instantly transforms existing MCP Servers and APIs into MCP servers with zero code changes. Features Docker deployment and management UI, requiring no infrastructure modifications.
 *   [BrowserMCP/mcp](https://github.com/BrowserMCP/mcp) - Browser MCP is a Model Context Provider (MCP) server that allows AI applications to control your browser
-*   [activepieces/activepieces](https://github.com/activepieces/activepieces) - AI Agents & MCPs & AI Workflow Automation • (280+ MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents
+*   [activepieces/activepieces](https://github.com/activepieces/activepieces) - AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents
 *   [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) - Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.
 *   [TrueStarHQ/browser-extension](https://github.com/TrueStarHQ/browser-extension) - A browser extension provides transparent, AI-powered fake review detection for smarter online shopping
 *   [Jpisnice/shadcn-ui-mcp-server](https://github.com/Jpisnice/shadcn-ui-mcp-server) - A mcp server to allow LLMS gain context about shadcn ui component structure,usage and installation,compaitable with react,svelte 5,and vue
@@ -1221,7 +1221,7 @@
 *   [serwist/serwist](https://github.com/serwist/serwist) - A Swiss Army knife for service workers.
 *   [thedonmon/cnft-cli](https://github.com/thedonmon/cnft-cli) - CLI For cNFTs on Solana
 *   [calibreapp/image-actions](https://github.com/calibreapp/image-actions) - A Github Action that automatically compresses JPEGs, PNGs, WebPs & AVIFs in Pull Requests.
-*   [pubkeyapp/solana-wallet-adapter-mantine-ui](https://github.com/pubkeyapp/solana-wallet-adapter-mantine-ui) - This is a Mantine wrapper for the Solana Wallet Adapter.
+*   [pubkeyapp/solana-wallet-adapter-mantine-ui](https://github.com/pubkeyapp/solana-wallet-adapter-mantine-ui) - This is a Mantine wrapper for the Solana Wallet Adapter (@solana/web3.js).
 *   [pubkeyapp/pubkey-bot](https://github.com/pubkeyapp/pubkey-bot) - PubKey Bot is a customizable, secure open-source Discord verification bot. Based on Discord Linked Roles. Solana Hyperdrive Hackathon first price 🥇
 *   [pubkeyapp/pubkeyapp](https://github.com/pubkeyapp/pubkeyapp) - PubKey is a Decentralized Identity Provider built on Solana
 *   [pubkeyapp/pubkey-stack](https://github.com/pubkeyapp/pubkey-stack) - A starter to generate apps using the PubKey stack. Nx, Nest, Prisma, GraphQL, React, Mantine, advanced code generators and more... Join our Discord for questions.
@@ -2178,7 +2178,7 @@
 *   [cions/termux-deno](https://github.com/cions/termux-deno) -
 *   [punkpeye/awesome-mcp-devtools](https://github.com/punkpeye/awesome-mcp-devtools) - A curated list of developer tools, SDKs, libraries, and testing utilities for Model Context Protocol (MCP) server development.
 *   [cdnjs/cdnjs](https://github.com/cdnjs/cdnjs) - 🤖 CDN assets - The #1 free and open source CDN built to make life easier for developers.
-*   [Kishan-Patel-dev/ai-system-prompt](https://github.com/Kishan-Patel-dev/ai-system-prompt) - FULL v0, Cursor, Manus, Same.dev & Lovable System Prompts & AI Models.
+*   [thekishandev/ai-system-prompt](https://github.com/thekishandev/ai-system-prompt) - FULL v0, Cursor, Manus, Same.dev & Lovable System Prompts & AI Models.
 *   [filipecalegario/awesome-vibe-coding](https://github.com/filipecalegario/awesome-vibe-coding) - A curated list of vibe coding references, collaborating with AI to write code.
 *   [KingLeoJr/prompts](https://github.com/KingLeoJr/prompts) - builder prompts which can be sent to builders like cursor, bolt.diy, bolt.new, trae, project idx, lovable.dev, llmacoder, geminicoder, windsurf, deepseek-artifact, cline, aider etc
 *   [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Augment Code, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Xcode, Trae AI, Cluely & Orchids.app (And other Open Sourced) System Prompts, Tools & AI Models.
@@ -2342,7 +2342,7 @@
 *   [Domenicobrz/R3F-takes-flight](https://github.com/Domenicobrz/R3F-takes-flight) - Repo for the project of a youtube video
 *   [anaisbetts/mcp-installer](https://github.com/anaisbetts/mcp-installer) - An MCP server that installs other MCP servers for you
 *   [cjo4m06/mcp-shrimp-task-manager](https://github.com/cjo4m06/mcp-shrimp-task-manager) - Shrimp Task Manager is a task tool built for AI Agents, emphasizing chain-of-thought, reflection, and style consistency. It converts natural language into structured dev tasks with dependency tracking and iterative refinement, enabling agent-like developer behavior in reasoning AI systems.
-*   [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file\_folder: A file manager / web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
+*   [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file\_folder: The Dropbox like web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
 *   [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
 *   [croquet/croquet](https://github.com/croquet/croquet) - Client-side (!) Multiplayer for JavaScript
 *   [samestrin/llm-interface](https://github.com/samestrin/llm-interface) - A simple NPM interface for seamlessly interacting with 36 Large Language Model (LLM) providers, including OpenAI, Anthropic, Google Gemini, Cohere, Hugging Face Inference, NVIDIA AI, Mistral AI, AI21 Studio, LLaMA.CPP, and Ollama, and hundreds of models.
