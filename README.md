@@ -758,7 +758,6 @@
 *   [janwilmake/contextbuilding](https://github.com/janwilmake/contextbuilding) - Collaborative Context Editor
 *   [modelcontextprotocol/modelcontextprotocol](https://github.com/modelcontextprotocol/modelcontextprotocol) - Specification and documentation for the Model Context Protocol
 *   [modelcontextprotocol/typescript-sdk](https://github.com/modelcontextprotocol/typescript-sdk) - The official TypeScript SDK for Model Context Protocol servers and clients
-*   [rivet-gg/engine](https://github.com/rivet-gg/engine) - Scale and orchestrate RivetKit
 *   [rivet-gg/rivetkit](https://github.com/rivet-gg/rivetkit) - A library for building stateful workloads anywhere
 *   [vermaysha/elysia-compress](https://github.com/vermaysha/elysia-compress) - Elysia Compression utils that works with Bun
 *   [ithacaxyz/porto](https://github.com/ithacaxyz/porto) - Authentication & payments on the web
@@ -2649,6 +2648,7 @@
 *   [facet-rs/facet](https://github.com/facet-rs/facet) - Rust reflection, serialization, deserialization, pretty printing, etc. — the last proc macro you should need
 *   [Quozul/PicoLimbo](https://github.com/Quozul/PicoLimbo) - A lightweight Minecraft server written from scratch in Rust supporting Minecraft versions from 1.7.2 up to 1.21.8.
 *   [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) - TensorZero is an open-source stack for industrial-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluation, and experimentation.
+*   [rivet-gg/engine](https://github.com/rivet-gg/engine) - Scale and orchestrate RivetKit
 *   [BranchManager69/solana-vanity-grinder](https://github.com/BranchManager69/solana-vanity-grinder) - CUDA-accelerated Ed25519 keypair generator with massively parallel pattern matching for Solana vanity addresses. Features cuRAND, advanced Base58 encoding, configurable shared memory utilization, and optimized batching for maximum throughput on modern NVIDIA GPUs.
 *   [get-convex/convex-backend](https://github.com/get-convex/convex-backend) - The open-source reactive database for app developers
 *   [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex) - Data transformation framework for AI. Ultra performant, with incremental processing.
@@ -2782,7 +2782,7 @@
 ## C\#
 
 *   [hermitdave/FrequencyWords](https://github.com/hermitdave/FrequencyWords) - Repository for Frequency Word List Generator and processed files
-*   [builtbybel/Flyby11](https://github.com/builtbybel/Flyby11) - Fly through your Windows 11 setup 🐝
+*   [builtbybel/Flyoobe](https://github.com/builtbybel/Flyoobe) - Fly through your Windows 11 setup 🐝
 *   [EricZimmerman/MFTECmd](https://github.com/EricZimmerman/MFTECmd) - Parses $MFT from NTFS file systems
 *   [builtbybel/CrapFixer](https://github.com/builtbybel/CrapFixer) - Cr\*ap Fixer
 *   [dotnet/Silk.NET](https://github.com/dotnet/Silk.NET) - The high-speed OpenGL, OpenCL, OpenAL, OpenXR, GLFW, SDL, Vulkan, Assimp, WebGPU, and DirectX bindings library your mother warned you about.
@@ -2835,7 +2835,7 @@
 *   [Unstructured-IO/unstructured](https://github.com/Unstructured-IO/unstructured) - Convert documents to structured data effortlessly. Unstructured is open-source ETL solution for transforming complex documents into clean, structured formats for language models.  Visit our website to learn more about our enterprise grade Platform product for production grade workflows, partitioning, enrichments, chunking and embedding.
 *   [tianocore/tianocore.github.io](https://github.com/tianocore/tianocore.github.io) - Tianocore website
 *   [felladrin/awesome-ai-web-search](https://github.com/felladrin/awesome-ai-web-search) - List of software that allows searching the web with the assistance of AI: https://hf.co/spaces/felladrin/awesome-ai-web-search
-*   [w3c-ccg/vc-api](https://github.com/w3c-ccg/vc-api) - An HTTP API for performing credential lifecycle management for Verifiable Credentials.
+*   [w3c-ccg/vcalm](https://github.com/w3c-ccg/vcalm) - An HTTP API for performing credential lifecycle management for Verifiable Credentials.
 *   [pkgforge-dev/Termux-Packages](https://github.com/pkgforge-dev/Termux-Packages) - Markdown List (Table), JSON & YAML of all the officially Available Packages in the Termux Registry :: https://termux-packages.ajam.dev \[Maintainer=@Azathothas]
 *   [vitalets/github-trending-repos](https://github.com/vitalets/github-trending-repos) - Track GitHub trending repositories in your favorite programming language by native GitHub notifications!
 *   [run-llama/create\_llama\_projects](https://github.com/run-llama/create_llama_projects) -
