@@ -4,9 +4,9 @@
 
 ## Table of Contents
 
-*   [Shell](#shell)
 *   [Python](#python)
 *   [TypeScript](#typescript)
+*   [Shell](#shell)
 *   [Go](#go)
 *   [miscellaneous](#miscellaneous)
 *   [JavaScript](#javascript)
@@ -72,41 +72,9 @@
 *   [AutoIt](#autoit)
 *   [Visual Basic .NET](#visual-basic-net)
 
-## Shell
-
-*   [sabamdarif/termux-desktop](https://github.com/sabamdarif/termux-desktop) - Install a full Linux desktop environment on your Android device with Termux X11 ( VNC optional) and also enable hardware acceleration
-*   [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
-*   [termux-user-repository/tur](https://github.com/termux-user-repository/tur) - A place for all types of Termux packages.
-*   [automazeio/ccpm](https://github.com/automazeio/ccpm) - Project management system for Claude Code using GitHub Issues and Git worktrees for parallel agent execution.
-*   [vet-run/vet](https://github.com/vet-run/vet) - vet is a command-line tool that acts as a safety net for the risky curl | bash pattern. It lets you inspect, diff against previous versions, and lint remote scripts before asking for your explicit approval to execute. Promoting a safer, more transparent way to handle remote code execution.
-*   [cdnjs/packages](https://github.com/cdnjs/packages) - 📦 Package configurations - The #1 free and open source CDN built to make life easier for developers.
-*   [simonw/git-scraper-template](https://github.com/simonw/git-scraper-template) - Template repository for setting up a new git scraper
-*   [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server) - Docker image that provides a Minecraft Server for Java Edition that automatically downloads selected version at startup
-*   [KindleModding/WinterBreak](https://github.com/KindleModding/WinterBreak) - It do a thing
-*   [ublue-os/bazzite](https://github.com/ublue-os/bazzite) - Bazzite makes gaming and everyday use smoother and simpler across desktop PCs, handhelds, tablets, and home theater PCs.
-*   [playtron-os/gameos](https://github.com/playtron-os/gameos) - Playtron GameOS provides a seamless and secure Linux gaming experience.
-*   [termux/termux-packages](https://github.com/termux/termux-packages) - A package build system for Termux.
-*   [Hax4us/Nethunter-In-Termux](https://github.com/Hax4us/Nethunter-In-Termux) - This is a script by which you can install Kali nethunter (Kali Linux) in your termux application without rooted phone
-*   [ShanSuharban/termux4all](https://github.com/ShanSuharban/termux4all) - termux4all is not a project or something. This is some packages that can be used for the development and security purposes on android phone using the termux app itself. The main purpose of  this project is to install & setup all the important tools or packages in termux without researching a lot.
-*   [aj-seven/Android-Sysinfo](https://github.com/aj-seven/Android-Sysinfo) - A tool efficiently displays Android system details on Termux.
-*   [hackerb9/lsix](https://github.com/hackerb9/lsix) - Like "ls", but for images. Shows thumbnails in terminal using sixel graphics.
-*   [grondilu/bitcoin-bash-tools](https://github.com/grondilu/bitcoin-bash-tools) - Set of bitcoin-related bash functions
-*   [hcengineering/huly-selfhost](https://github.com/hcengineering/huly-selfhost) - Huly for Self Hosting
-*   [ArchiveTeam/IA.BAK](https://github.com/ArchiveTeam/IA.BAK) - We back up a lot of stuff from around the web; now it's time to back up the Internet Archive, just in case.
-*   [TermuxArch/TermuxArch](https://github.com/TermuxArch/TermuxArch) - Experience the pleasure of the Linux command prompt in Android, Chromebook, Fire OS and Windows on smartphone, smartTV, tablet and wearable https://termuxarch.github.io/TermuxArch/
-*   [AbdBarho/stable-diffusion-webui-docker](https://github.com/AbdBarho/stable-diffusion-webui-docker) - Easy Docker setup for Stable Diffusion with user-friendly UI
-*   [h4r5h1t/webcopilot](https://github.com/h4r5h1t/webcopilot) - An automation tool that enumerates subdomains then filters out xss, sqli, open redirect, lfi, ssrf and rce parameters and then scans for vulnerabilities.
-*   [foospidy/payloads](https://github.com/foospidy/payloads) - Git All the Payloads! A collection of web attack payloads.
-*   [many-passwords/many-passwords](https://github.com/many-passwords/many-passwords) - Default credentials list. 🐱‍💻 Leave a star if you like this project! (that motivates me)⭐️
-*   [wuxianlin/android\_rom\_tools](https://github.com/wuxianlin/android_rom_tools) - unpack/deodex/decompile tools for Android ROM
-*   [ax/apk.sh](https://github.com/ax/apk.sh) - Makes reverse engineering Android apps easier, automating repetitive tasks like pulling, decoding, rebuilding and patching an APK.
-*   [labbots/google-drive-upload](https://github.com/labbots/google-drive-upload) - Bash scripts to upload files to google drive
-*   [CryptoManufaktur-io/solana-rpc](https://github.com/CryptoManufaktur-io/solana-rpc) - Solana RPC only node with traefik
-*   [d3/d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar\_chart::chart\_with\_upwards\_trend::tada:
-*   [TheFrenchGhosty/TheFrenchGhostys-Ultimate-YouTube-DL-Scripts-Collection](https://github.com/TheFrenchGhosty/TheFrenchGhostys-Ultimate-YouTube-DL-Scripts-Collection) - The ultimate collection of scripts for YouTube-DL.
-
 ## Python
 
+*   [bytedance/OneReward](https://github.com/bytedance/OneReward) -
 *   [pymupdf/PyMuPDF](https://github.com/pymupdf/PyMuPDF) - PyMuPDF is a high performance Python library for data extraction, analysis, conversion & manipulation of PDF (and other) documents.
 *   [NVlabs/Fast-dLLM](https://github.com/NVlabs/Fast-dLLM) - Official implementation of "Fast-dLLM: Training-free Acceleration of Diffusion LLM by Enabling KV Cache and Parallel Decoding"
 *   [GWUDCAP/cc-sessions](https://github.com/GWUDCAP/cc-sessions) - An opinionated extension set for Claude Code (hooks, subagents, commands, task/git management infrastructure)
@@ -361,7 +329,7 @@
 *   [SYSTRAN/faster-whisper](https://github.com/SYSTRAN/faster-whisper) - Faster Whisper transcription with CTranslate2
 *   [m-bain/whisperX](https://github.com/m-bain/whisperX) - WhisperX:  Automatic Speech Recognition with Word-level Timestamps (& Diarization)
 *   [microsoft/BitNet](https://github.com/microsoft/BitNet) - Official inference framework for 1-bit LLMs
-*   [agno-agi/agno](https://github.com/agno-agi/agno) - Open-source framework for building multi-agent systems with memory, knowledge and reasoning.
+*   [agno-agi/agno](https://github.com/agno-agi/agno) - High-performance runtime for multi-agent systems. Build, run and manage secure multi-agent systems in your cloud.
 *   [VRSEN/agency-swarm](https://github.com/VRSEN/agency-swarm) - Reliable Multi-Agent Orchestration Framework. (Extension of Agents SDK)
 *   [openai/swarm](https://github.com/openai/swarm) - Educational framework exploring ergonomic, lightweight multi-agent orchestration. Managed by OpenAI Solution team.
 *   [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
@@ -613,11 +581,10 @@
 *   [praw-dev/praw](https://github.com/praw-dev/praw) - PRAW, an acronym for "Python Reddit API Wrapper", is a python package that allows for simple access to Reddit's API.
 *   [LandGrey/pydictor](https://github.com/LandGrey/pydictor) - A powerful and useful hacker dictionary builder for a brute-force attack
 *   [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
-*   [itkfilelor/drone\_mobile](https://github.com/itkfilelor/drone_mobile) - API wrapper for Drone Mobile remote car starter.
-*   [LedgerHQ/app-monero](https://github.com/LedgerHQ/app-monero) - Monero wallet application for Ledger Nano S & X
 
 ## TypeScript
 
+*   [d-kimuson/claude-code-viewer](https://github.com/d-kimuson/claude-code-viewer) - A full-featured web-based Claude Code client that provides complete interactive functionality for managing Claude Code projects
 *   [logux/client](https://github.com/logux/client) - Logux base components to build web client
 *   [shivantra/react-web-camera](https://github.com/shivantra/react-web-camera) - React Web Camera — A React component for capturing multiple photos directly from the browser. Works on web, responsive apps, and PWAs. Solving the limitation of \<input type="file" capture> which only allows one photo at a time.
 *   [magnitudedev/magnitude](https://github.com/magnitudedev/magnitude) - Open-source, vision-first browser agent
@@ -698,7 +665,7 @@
 *   [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) - Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.
 *   [TrueStarHQ/browser-extension](https://github.com/TrueStarHQ/browser-extension) - A browser extension provides transparent, AI-powered fake review detection for smarter online shopping
 *   [Jpisnice/shadcn-ui-mcp-server](https://github.com/Jpisnice/shadcn-ui-mcp-server) - A mcp server to allow LLMS gain context about shadcn ui component structure,usage and installation,compaitable with react,svelte 5,and vue
-*   [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) - qwen-code is a coding agent that lives in digital world.
+*   [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) - Qwen Code is a coding agent that lives in the digital world.
 *   [yWorks/mcp-typescribe](https://github.com/yWorks/mcp-typescribe) - An MCP server implementation enabling LLMs to work with new APIs and frameworks
 *   [SaltyAom/kozeki-template](https://github.com/SaltyAom/kozeki-template) - Ready to deploy template Elysia-Next Bun monorepo
 *   [ruvnet/claude-flow](https://github.com/ruvnet/claude-flow) - Claude-Flow v2.0.0 Alpha represents a leap in AI-powered development orchestration. Built from the ground up with enterprise-grade architecture, advanced swarm intelligence, and seamless Claude Code integration.
@@ -1819,6 +1786,39 @@
 *   [awslabs/fhir-works-on-aws-deployment](https://github.com/awslabs/fhir-works-on-aws-deployment) - A serverless implementation of the FHIR standard that enables users to focus more on their business needs/uniqueness rather than the FHIR specification
 *   [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
 *   [philipmulcahy/azad](https://github.com/philipmulcahy/azad) - amazon order history reporter chrome extension
+
+## Shell
+
+*   [sabamdarif/termux-desktop](https://github.com/sabamdarif/termux-desktop) - Install a full Linux desktop environment on your Android device with Termux X11 ( VNC optional) and also enable hardware acceleration
+*   [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
+*   [termux-user-repository/tur](https://github.com/termux-user-repository/tur) - A place for all types of Termux packages.
+*   [automazeio/ccpm](https://github.com/automazeio/ccpm) - Project management system for Claude Code using GitHub Issues and Git worktrees for parallel agent execution.
+*   [vet-run/vet](https://github.com/vet-run/vet) - vet is a command-line tool that acts as a safety net for the risky curl | bash pattern. It lets you inspect, diff against previous versions, and lint remote scripts before asking for your explicit approval to execute. Promoting a safer, more transparent way to handle remote code execution.
+*   [cdnjs/packages](https://github.com/cdnjs/packages) - 📦 Package configurations - The #1 free and open source CDN built to make life easier for developers.
+*   [simonw/git-scraper-template](https://github.com/simonw/git-scraper-template) - Template repository for setting up a new git scraper
+*   [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server) - Docker image that provides a Minecraft Server for Java Edition that automatically downloads selected version at startup
+*   [KindleModding/WinterBreak](https://github.com/KindleModding/WinterBreak) - It do a thing
+*   [ublue-os/bazzite](https://github.com/ublue-os/bazzite) - Bazzite makes gaming and everyday use smoother and simpler across desktop PCs, handhelds, tablets, and home theater PCs.
+*   [playtron-os/gameos](https://github.com/playtron-os/gameos) - Playtron GameOS provides a seamless and secure Linux gaming experience.
+*   [termux/termux-packages](https://github.com/termux/termux-packages) - A package build system for Termux.
+*   [Hax4us/Nethunter-In-Termux](https://github.com/Hax4us/Nethunter-In-Termux) - This is a script by which you can install Kali nethunter (Kali Linux) in your termux application without rooted phone
+*   [ShanSuharban/termux4all](https://github.com/ShanSuharban/termux4all) - termux4all is not a project or something. This is some packages that can be used for the development and security purposes on android phone using the termux app itself. The main purpose of  this project is to install & setup all the important tools or packages in termux without researching a lot.
+*   [aj-seven/Android-Sysinfo](https://github.com/aj-seven/Android-Sysinfo) - A tool efficiently displays Android system details on Termux.
+*   [hackerb9/lsix](https://github.com/hackerb9/lsix) - Like "ls", but for images. Shows thumbnails in terminal using sixel graphics.
+*   [grondilu/bitcoin-bash-tools](https://github.com/grondilu/bitcoin-bash-tools) - Set of bitcoin-related bash functions
+*   [hcengineering/huly-selfhost](https://github.com/hcengineering/huly-selfhost) - Huly for Self Hosting
+*   [ArchiveTeam/IA.BAK](https://github.com/ArchiveTeam/IA.BAK) - We back up a lot of stuff from around the web; now it's time to back up the Internet Archive, just in case.
+*   [TermuxArch/TermuxArch](https://github.com/TermuxArch/TermuxArch) - Experience the pleasure of the Linux command prompt in Android, Chromebook, Fire OS and Windows on smartphone, smartTV, tablet and wearable https://termuxarch.github.io/TermuxArch/
+*   [AbdBarho/stable-diffusion-webui-docker](https://github.com/AbdBarho/stable-diffusion-webui-docker) - Easy Docker setup for Stable Diffusion with user-friendly UI
+*   [h4r5h1t/webcopilot](https://github.com/h4r5h1t/webcopilot) - An automation tool that enumerates subdomains then filters out xss, sqli, open redirect, lfi, ssrf and rce parameters and then scans for vulnerabilities.
+*   [foospidy/payloads](https://github.com/foospidy/payloads) - Git All the Payloads! A collection of web attack payloads.
+*   [many-passwords/many-passwords](https://github.com/many-passwords/many-passwords) - Default credentials list. 🐱‍💻 Leave a star if you like this project! (that motivates me)⭐️
+*   [wuxianlin/android\_rom\_tools](https://github.com/wuxianlin/android_rom_tools) - unpack/deodex/decompile tools for Android ROM
+*   [ax/apk.sh](https://github.com/ax/apk.sh) - Makes reverse engineering Android apps easier, automating repetitive tasks like pulling, decoding, rebuilding and patching an APK.
+*   [labbots/google-drive-upload](https://github.com/labbots/google-drive-upload) - Bash scripts to upload files to google drive
+*   [CryptoManufaktur-io/solana-rpc](https://github.com/CryptoManufaktur-io/solana-rpc) - Solana RPC only node with traefik
+*   [d3/d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar\_chart::chart\_with\_upwards\_trend::tada:
+*   [TheFrenchGhosty/TheFrenchGhostys-Ultimate-YouTube-DL-Scripts-Collection](https://github.com/TheFrenchGhosty/TheFrenchGhostys-Ultimate-YouTube-DL-Scripts-Collection) - The ultimate collection of scripts for YouTube-DL.
 
 ## Go
 
