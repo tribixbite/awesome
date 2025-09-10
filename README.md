@@ -668,7 +668,7 @@
 *   [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) - Qwen Code is a coding agent that lives in the digital world.
 *   [yWorks/mcp-typescribe](https://github.com/yWorks/mcp-typescribe) - An MCP server implementation enabling LLMs to work with new APIs and frameworks
 *   [SaltyAom/kozeki-template](https://github.com/SaltyAom/kozeki-template) - Ready to deploy template Elysia-Next Bun monorepo
-*   [ruvnet/claude-flow](https://github.com/ruvnet/claude-flow) - Claude-Flow v2.0.0 Alpha represents a leap in AI-powered development orchestration. Built from the ground up with enterprise-grade architecture, advanced swarm intelligence, and seamless Claude Code integration.
+*   [ruvnet/claude-flow](https://github.com/ruvnet/claude-flow) - 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features    enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code support via MCP protocol. Ranked #1 in agent-based frameworks.
 *   [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 *   [Comfy-Org/desktop](https://github.com/Comfy-Org/desktop) - The desktop app for ComfyUI (Windows & macOS)
 *   [phuctm97/dbsky](https://github.com/phuctm97/dbsky) - Open-source analytics for any Bluesky account, built with Next.js data cache
@@ -699,7 +699,7 @@
 *   [anthropics/claude-code-action](https://github.com/anthropics/claude-code-action) -
 *   [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
 *   [vikejs/vike](https://github.com/vikejs/vike) - The Modular Framework — Next.js & Nuxt alternative for unprecedented flexibility and stability.
-*   [claudio-silva/claude-artifact-runner](https://github.com/claudio-silva/claude-artifact-runner) - A template project for easily converting Claude AI’s Artifacts into React applications, ready to run out of the box or extend as needed.
+*   [claudio-silva/claude-artifact-runner](https://github.com/claudio-silva/claude-artifact-runner) - From Claude Artifact to deployable React app — in seconds!
 *   [NitroRCr/AIaW](https://github.com/NitroRCr/AIaW) - AI as Workspace - An elegant AI chat client. Full-featured, lightweight. Support multiple workspaces, plugin system, cross-platform, local first + real-time cloud sync, Artifacts, MCP | 更好的 AI 客户端
 *   [etrobot/nextArtifacts](https://github.com/etrobot/nextArtifacts) - A Next.js version of Claude Aritfacts , inspired by llamacoder
 *   [vgulerianb/react-exe](https://github.com/vgulerianb/react-exe) - A powerful React component executor that renders code with external dependencies and custom styling
@@ -1422,7 +1422,7 @@
 *   [anatine/zod-plugins](https://github.com/anatine/zod-plugins) - Plugins and utilities for Zod
 *   [asteasolutions/zod-to-openapi](https://github.com/asteasolutions/zod-to-openapi) - A library that generates OpenAPI (Swagger) docs from Zod schemas
 *   [fabien0102/ts-to-zod](https://github.com/fabien0102/ts-to-zod) - Generate zod schemas from typescript types/interfaces
-*   [sinclairzx81/typebox](https://github.com/sinclairzx81/typebox) - Json Schema Type Builder with Static Type Resolution for TypeScript
+*   [sinclairzx81/typebox](https://github.com/sinclairzx81/typebox) - A Runtime Type System for JavaScript
 *   [ianstormtaylor/superstruct](https://github.com/ianstormtaylor/superstruct) - A simple and composable way to validate data in JavaScript (and TypeScript).
 *   [web3omega/solana-nft-dressing](https://github.com/web3omega/solana-nft-dressing) -
 *   [TanStack/table](https://github.com/TanStack/table) - 🤖 Headless UI for building powerful tables & datagrids for TS/JS -  React-Table, Vue-Table, Solid-Table, Svelte-Table
@@ -2679,7 +2679,7 @@
 *   [codestoryai/sidecar](https://github.com/codestoryai/sidecar) - Sidecar is the AI brains for the Aide editor and works alongside it, locally on your machine
 *   [ronanyeah/sui-zk-airdrop](https://github.com/ronanyeah/sui-zk-airdrop) - Sui / Groth16 / Merkle Tree
 *   [metaplex-foundation/mpl-hybrid](https://github.com/metaplex-foundation/mpl-hybrid) - The hybrids program powering the MPL-404 standard
-*   [trailbaseio/trailbase](https://github.com/trailbaseio/trailbase) - A blazingly fast, open-source application server with type-safe APIs, built-in JS/ES6/TS runtime, realtime, auth, and admin UI built on Rust, SQLite & V8.
+*   [trailbaseio/trailbase](https://github.com/trailbaseio/trailbase) - A blazingly fast, open-source application server with type-safe APIs, built-in JS/ES6/TS runtime, realtime, auth, and admin UI built on Rust, SQLite & WASM.
 *   [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 *   [itzmeanjan/kangarootwelve](https://github.com/itzmeanjan/kangarootwelve) - BlaKE12: Blazing-fast KEccak on 12 rounds
 *   [keithnoguchi/multisig-lite](https://github.com/keithnoguchi/multisig-lite) - Native SOL multisig wallet for Solana Blockchain
