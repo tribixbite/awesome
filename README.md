@@ -1484,7 +1484,7 @@
 *   [huggingface/smolagents](https://github.com/huggingface/smolagents) - 🤗 smolagents: a barebones library for agents that think in code.
 *   [ai-robots-txt/ai.robots.txt](https://github.com/ai-robots-txt/ai.robots.txt) - A list of AI agents and robots to block.
 *   [microsoft/AIOpsLab](https://github.com/microsoft/AIOpsLab) - A holistic framework to enable the design, development, and evaluation of autonomous AIOps agents.
-*   [lotus-data/lotus](https://github.com/lotus-data/lotus) - LOTUS: fast, easy, and robust LLM-powered data processing
+*   [lotus-data/lotus](https://github.com/lotus-data/lotus) - Use LOTUS to process all of your datasets with LLMs and embeddings. Enjoy 1000x speedups with fast, accurate query processing, that's as simple as writing Pandas code
 *   [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 *   [jahwag/ClaudeSync](https://github.com/jahwag/ClaudeSync) - ClaudeSync is a Python tool that automates the synchronization of local files with Claude.ai Projects
 *   [SigmaNight/basiliskLLM](https://github.com/SigmaNight/basiliskLLM) - 🐍 Where LLMs Unite
@@ -2971,7 +2971,6 @@
 *   [tevador/equix](https://github.com/tevador/equix) - A CPU-friendly client puzzle with instant verification
 *   [veracrypt/VeraCrypt](https://github.com/veracrypt/VeraCrypt) - Disk encryption with strong security based on TrueCrypt
 *   [navit-gps/navit](https://github.com/navit-gps/navit) - The open source (GPL v2) turn-by-turn navigation software for many OS
-*   [basharovV/musicat](https://github.com/basharovV/musicat) - A sleek desktop music player and tagger for offline music 🪕. With gapless playback, smart playlists, and a map view! Built with Svelte and Tauri
 *   [gojue/ecapture](https://github.com/gojue/ecapture) - Capturing SSL/TLS plaintext without a CA certificate using eBPF. Supported on Linux/Android kernels for amd64/arm64.
 *   [adafruit/Adafruit\_Learning\_System\_Guides](https://github.com/adafruit/Adafruit_Learning_System_Guides) - Programs and scripts to display "inline" in Adafruit Learning System guides
 *   [upscayl/upscayl-ncnn](https://github.com/upscayl/upscayl-ncnn) - The Upscayl backend powered by the NCNN framework and Real-ESRGAN architecture.
@@ -3075,6 +3074,7 @@
 ## Svelte
 
 *   [flo-bit/jazz-multiplayer-drawings](https://github.com/flo-bit/jazz-multiplayer-drawings) - multiplayer drawing with svelte and jazz
+*   [basharovV/musicat](https://github.com/basharovV/musicat) - A sleek desktop music player and tagger for offline music 🪕. With gapless playback, smart playlists, and a map view! Built with Svelte and Tauri
 *   [supermilkdaddy/solana-anchor-sveltekit-skeleton-starter](https://github.com/supermilkdaddy/solana-anchor-sveltekit-skeleton-starter) -
 *   [xcaptain/solana-wallet-demo](https://github.com/xcaptain/solana-wallet-demo) -
 *   [aztemi/svelte-on-solana-wallet-adapter](https://github.com/aztemi/svelte-on-solana-wallet-adapter) - Svelte wallet adapter for Solana Dapps
