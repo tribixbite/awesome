@@ -2288,7 +2288,7 @@
 *   [open-condo-software/gitexporter](https://github.com/open-condo-software/gitexporter) - Make some private GitHub repo directories public
 *   [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
 *   [parcel-bundler/parcel](https://github.com/parcel-bundler/parcel) - The zero configuration build tool for the web. 📦🚀
-*   [SAP/ui5-tooling](https://github.com/SAP/ui5-tooling) - An open and modular toolchain to develop state of the art applications based on the UI5 framework
+*   [UI5/cli](https://github.com/UI5/cli) - An open and modular toolchain to develop state of the art applications based on the UI5 framework
 *   [stealjs/steal-tools](https://github.com/stealjs/steal-tools) - Build easy. Load fast.
 *   [stealjs/steal](https://github.com/stealjs/steal) - Gets JavaScript
 *   [developit/microbundle](https://github.com/developit/microbundle) - 📦 Zero-configuration bundler for tiny modules.
