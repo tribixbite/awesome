@@ -770,7 +770,7 @@
 *   [azer/react-analyzer-mcp](https://github.com/azer/react-analyzer-mcp) - MCP server for analyzing & generating docs for React code locally
 *   [lamemind/mcp-server-multiverse](https://github.com/lamemind/mcp-server-multiverse) - A middleware server that enables multiple isolated instances of the same MCP servers to coexist independently with unique namespaces and configurations.
 *   [TencentEdgeOne/edgeone-pages-mcp](https://github.com/TencentEdgeOne/edgeone-pages-mcp) - An MCP service designed for deploying HTML content to EdgeOne Pages and obtaining an accessible public URL.
-*   [getAsterisk/opcode](https://github.com/getAsterisk/opcode) - A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.
+*   [winfunc/opcode](https://github.com/winfunc/opcode) - A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.
 *   [outerbase/browsable-durable-object](https://github.com/outerbase/browsable-durable-object) - Extend Cloudflare Durable Objects to be browsable by database tools such as Outerbase Studio
 *   [mobile-next/mobile-mcp](https://github.com/mobile-next/mobile-mcp) - Model Context Protocol Server for Mobile Automation and Scraping (iOS, Android, Emulators, Simulators and Real Devices)
 *   [haydenbleasel/tersa](https://github.com/haydenbleasel/tersa) - Tersa is an open source canvas for building AI workflows.
@@ -804,7 +804,7 @@
 *   [janwilmake/contextbuilding](https://github.com/janwilmake/contextbuilding) - Collaborative Context Editor
 *   [modelcontextprotocol/modelcontextprotocol](https://github.com/modelcontextprotocol/modelcontextprotocol) - Specification and documentation for the Model Context Protocol
 *   [modelcontextprotocol/typescript-sdk](https://github.com/modelcontextprotocol/typescript-sdk) - The official TypeScript SDK for Model Context Protocol servers and clients
-*   [rivet-gg/rivetkit](https://github.com/rivet-gg/rivetkit) - A library for building stateful workloads anywhere
+*   [rivet-dev/rivetkit](https://github.com/rivet-dev/rivetkit) - A library for building stateful workloads anywhere
 *   [vermaysha/elysia-compress](https://github.com/vermaysha/elysia-compress) - Elysia Compression utils that works with Bun
 *   [ithacaxyz/porto](https://github.com/ithacaxyz/porto) - Authentication & payments on the web
 *   [janwilmake/uit](https://github.com/janwilmake/uit) - Library for performant, modular, low-memory file processing at scale, in the Cloud
@@ -1010,7 +1010,7 @@
 *   [copilot-extensions/github-models-extension](https://github.com/copilot-extensions/github-models-extension) - Copilot Extension to connect and chat with GitHub Models
 *   [szympajka/bun-ter](https://github.com/szympajka/bun-ter) - Bun playground
 *   [molefrog/wouter](https://github.com/molefrog/wouter) - 🥢 A minimalist-friendly ~2.1KB routing for React and Preact
-*   [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) - Build your own second brain with supermemory. Extremely fast, scalable, memory API for the AI era.
+*   [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) - Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.
 *   [vite-pwa/vite-plugin-pwa](https://github.com/vite-pwa/vite-plugin-pwa) - Zero-config PWA for Vite
 *   [rafgraph/spa-github-pages](https://github.com/rafgraph/spa-github-pages) - Host single page apps with GitHub Pages
 *   [adamelliotfields/react-template](https://github.com/adamelliotfields/react-template) - A starter kit for single page apps ⚛️
@@ -1251,7 +1251,7 @@
 *   [fxhash/fxhash-website](https://github.com/fxhash/fxhash-website) - fxhash front-end, nextjs
 *   [beemojs/conventional-changelog-beemo](https://github.com/beemojs/conventional-changelog-beemo) - Beemo's commit message guidelines and changelog structure.
 *   [multiversx/mx-sdk-js-core](https://github.com/multiversx/mx-sdk-js-core) -  MultiversX SDK for interacting with the MultiversX blockchain (in general) and Smart Contracts (in particular).
-*   [multiversx/mx-sdk-js-wallet](https://github.com/multiversx/mx-sdk-js-wallet) - Core wallet components (generation, signing) for TypeScript (JavaScript).
+*   [multiversx/mx-deprecated-sdk-js-wallet](https://github.com/multiversx/mx-deprecated-sdk-js-wallet) - Core wallet components (generation, signing) for TypeScript (JavaScript).
 *   [reddit/devvit-sandbox](https://github.com/reddit/devvit-sandbox) - Devvit example apps and sketches not ready for production.
 *   [nrwl/nx](https://github.com/nrwl/nx) - Get to green PRs in half the time. Nx optimizes your builds, scales your CI, and fixes failed PRs. Built for developers and AI agents.
 *   [buttercup/buttercup-core](https://github.com/buttercup/buttercup-core) - :tophat: The mighty NodeJS password vault
@@ -2295,7 +2295,7 @@
 *   [facet-rs/facet](https://github.com/facet-rs/facet) - Rust reflection, serialization, deserialization, pretty printing, etc. — the last proc macro you should need
 *   [Quozul/PicoLimbo](https://github.com/Quozul/PicoLimbo) - A lightweight Minecraft server written from scratch in Rust supporting Minecraft versions from 1.7.2 up to 1.21.8.
 *   [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) - TensorZero is an open-source stack for industrial-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluation, and experimentation.
-*   [rivet-gg/engine](https://github.com/rivet-gg/engine) - Scale and orchestrate RivetKit
+*   [rivet-dev/engine](https://github.com/rivet-dev/engine) - Scale and orchestrate RivetKit
 *   [BranchManager69/solana-vanity-grinder](https://github.com/BranchManager69/solana-vanity-grinder) - CUDA-accelerated Ed25519 keypair generator with massively parallel pattern matching for Solana vanity addresses. Features cuRAND, advanced Base58 encoding, configurable shared memory utilization, and optimized batching for maximum throughput on modern NVIDIA GPUs.
 *   [get-convex/convex-backend](https://github.com/get-convex/convex-backend) - The open-source reactive database for app developers
 *   [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex) - Data transformation framework for AI. Ultra performant, with incremental processing.
