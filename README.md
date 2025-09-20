@@ -780,7 +780,7 @@
 *   [MotiaDev/motia](https://github.com/MotiaDev/motia) - Modern Backend Framework that unifies APIs, background jobs, workflows, and AI Agents into a single core primitive with built-in observability and state management.
 *   [ashbuilds/payload-ai](https://github.com/ashbuilds/payload-ai) - AI Plugin is a powerful extension for the Payload CMS, integrating advanced AI capabilities to enhance content creation and management.
 *   [lit/lit](https://github.com/lit/lit) - Lit is a simple library for building fast, lightweight web components.
-*   [th-ch/youtube-music](https://github.com/th-ch/youtube-music) - YouTube Music Desktop App bundled with custom plugins
+*   [ytmd-devs/ytmd](https://github.com/ytmd-devs/ytmd) - YouTube Music Desktop App bundled with custom plugins
 *   [anyproto/anytype-ts](https://github.com/anyproto/anytype-ts) - Official Anytype client for MacOS, Linux, and Windows
 *   [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 *   [spartan-ng/spartan](https://github.com/spartan-ng/spartan) - Cutting-edge tools powering Angular full-stack development.
@@ -1577,7 +1577,7 @@
 *   [mil-tokyo/webdnn](https://github.com/mil-tokyo/webdnn) - The Fastest DNN Running Framework on Web Browser
 *   [antvis/G](https://github.com/antvis/G) - 💥 A flexible rendering engine for visualization.
 *   [alaingalvan/webgpu-seed](https://github.com/alaingalvan/webgpu-seed) - 🔺🌱 An example on how to render a hello triangle with WebGPU.
-*   [redcamel/RedGPU](https://github.com/redcamel/RedGPU) - RedGPU - WebGPU Library
+*   [redcamel/RedGPU](https://github.com/redcamel/RedGPU) - RedGPU - JavaScript WebGPU Library
 *   [sketchpunklabs/ossos](https://github.com/sketchpunklabs/ossos) - Webbased Character Animation System
 *   [BabylonJS/Babylon.js](https://github.com/BabylonJS/Babylon.js) - Babylon.js is a powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework.
 *   [TribecaHQ/tribeca](https://github.com/TribecaHQ/tribeca) - ♜ An open standard and toolkit for launching DAOs on Solana.
