@@ -1442,7 +1442,7 @@
 *   [h4rkl/unified-wallet-adapter-mui](https://github.com/h4rkl/unified-wallet-adapter-mui) - A fork of @jup-ag/wallet-adapter with MUI integration
 *   [quansync-dev/quansync](https://github.com/quansync-dev/quansync) - "Superposition" between sync and async
 *   [kkarimi/bergen](https://github.com/kkarimi/bergen) - Lightweight markdown reader
-*   [bknd-io/bknd](https://github.com/bknd-io/bknd) - Lightweight Firebase/Supabase alternative built to run anywhere — incl. Next.js, Remix, Astro, Cloudflare, Bun, Node, AWS Lambda & more.
+*   [bknd-io/bknd](https://github.com/bknd-io/bknd) - Lightweight Firebase/Supabase alternative built to run anywhere — incl. Next.js, React Router, Astro, Cloudflare, Bun, Node, AWS Lambda & more.
 *   [ln-dev7/square-ui](https://github.com/ln-dev7/square-ui) - Collection of beautifully crafted open-source layouts UI built with shadcn/ui.
 *   [daveyplate/better-auth-ui](https://github.com/daveyplate/better-auth-ui) - Beautiful shadcn/ui components built for better-auth.
 *   [skrulling/vite-plugin-biome](https://github.com/skrulling/vite-plugin-biome) - Vite plugin for using the Biome linter
@@ -1787,7 +1787,7 @@
 *   [epistemichorse/poll.blue](https://github.com/epistemichorse/poll.blue) -
 *   [WilfredAlmeida/capi](https://github.com/WilfredAlmeida/capi) - Solana cNFT API as a Service
 *   [pubkeyapp/solana-keygen-worker](https://github.com/pubkeyapp/solana-keygen-worker) - Example on how to grind a Solana keypair using a web worker
-*   [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - 🏓  The open-source synthetic monitoring platform  🏓
+*   [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - 🫖 Uptime monitoring & API monitoring as code with status page 🫖
 *   [maweiche/solana\_token\_extensions](https://github.com/maweiche/solana_token_extensions) - Basic build to interact with solana token extensions
 *   [solana-foundation/create-solana-dapp](https://github.com/solana-foundation/create-solana-dapp) - The fastest way to create Solana apps 🚀 Templates 👉 https://github.com/solana-foundation/templates
 *   [lwojcik/react-tridi-wrapper](https://github.com/lwojcik/react-tridi-wrapper) - 360-degree image viewer as a React component
