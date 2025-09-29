@@ -56,7 +56,6 @@
 *   [SVG](#svg)
 *   [Smalltalk](#smalltalk)
 *   [PLpgSQL](#plpgsql)
-*   [MoonBit](#moonbit)
 *   [Groovy](#groovy)
 *   [Rich Text Format](#rich-text-format)
 *   [Handlebars](#handlebars)
@@ -810,7 +809,7 @@
 *   [vadimdemedes/ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps
 *   [zilliztech/claude-context](https://github.com/zilliztech/claude-context) - Code search MCP for Claude Code. Make entire codebase the context for any coding agent.
 *   [yomotsu/camera-controls](https://github.com/yomotsu/camera-controls) - A camera control for three.js, similar to THREE.OrbitControls yet supports smooth transitions and more features.
-*   [idosal/mcp-ui](https://github.com/idosal/mcp-ui) - SDK for UI over MCP. Create next-gen UI experiences!
+*   [idosal/mcp-ui](https://github.com/idosal/mcp-ui) - UI over MCP. Create next-gen UI experiences with the protocol and SDK!
 *   [mattermost-community/focalboard](https://github.com/mattermost-community/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
 *   [playcanvas/editor](https://github.com/playcanvas/editor) - Browser-based visual editor for building WebGL, WebGPU, WebXR apps
 *   [jitsi/jitsi-meet](https://github.com/jitsi/jitsi-meet) - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
@@ -2520,7 +2519,7 @@
 ## C\#
 
 *   [legendsayantan/Extendroid-Win](https://github.com/legendsayantan/Extendroid-Win) - Extend your android device, to other platforms.
-*   [InterceptSuite/InterceptSuite](https://github.com/InterceptSuite/InterceptSuite) - A TLS MITM proxy for Non-HTTP traffic, with support for TLS upgrades like STARTTLS, PostgreSQL, and more.
+*   [InterceptSuite/InterceptSuite](https://github.com/InterceptSuite/InterceptSuite) - A TLS MITM proxy for TCP/TLS/UDP traffic, with support for TLS upgrades like STARTTLS, PostgreSQL, and more.
 *   [hermitdave/FrequencyWords](https://github.com/hermitdave/FrequencyWords) - Repository for Frequency Word List Generator and processed files
 *   [builtbybel/Flyoobe](https://github.com/builtbybel/Flyoobe) - Fly through your Windows 11 setup 🐝
 *   [EricZimmerman/MFTECmd](https://github.com/EricZimmerman/MFTECmd) - Parses $MFT from NTFS file systems
@@ -2823,6 +2822,7 @@
 *   [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure.
 *   [qdm12/gluetun](https://github.com/qdm12/gluetun) - VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.
 *   [42wim/matterbridge](https://github.com/42wim/matterbridge) - bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble, vk and more with REST API (mattermost not required!)
+*   [nikitavoloboev/go](https://github.com/nikitavoloboev/go) - Go tools, libraries and other code
 *   [evilmartians/lefthook](https://github.com/evilmartians/lefthook) - Fast and powerful Git hooks manager for any type of projects.
 *   [gptlang/dunno](https://github.com/gptlang/dunno) - AI powered command line
 *   [hashicorp/vault](https://github.com/hashicorp/vault) - A tool for secrets management, encryption as a service, and privileged access management
@@ -3286,7 +3286,7 @@
 *   [PhrozenIO/PowerRemoteDesktop](https://github.com/PhrozenIO/PowerRemoteDesktop) - Remote Desktop entirely coded in PowerShell.
 *   [schmurtzm/Onion-Desktop-Tools](https://github.com/schmurtzm/Onion-Desktop-Tools) - A software to install and configure Onion OS for Miyoo Mini
 *   [actions/runner-images](https://github.com/actions/runner-images) - GitHub Actions runner images
-*   [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, easy to use PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.
+*   [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, lightweight PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.
 *   [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates
 *   [velodo/youtube-dl\_script](https://github.com/velodo/youtube-dl_script) - Windows Powershell script with template config files for archiving YouTube channels.
 
@@ -3308,10 +3308,6 @@
 ## PLpgSQL
 
 *   [timescale/pgai](https://github.com/timescale/pgai) - A suite of tools to develop RAG, semantic search, and other AI applications more easily with PostgreSQL
-
-## MoonBit
-
-*   [nikitavoloboev/mbt](https://github.com/nikitavoloboev/mbt) - MoonBit tools, libraries and other code
 
 ## Groovy
 
