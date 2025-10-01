@@ -806,7 +806,7 @@
 ## TypeScript
 
 *   [cloudflare/capnweb](https://github.com/cloudflare/capnweb) - JavaScript/TypeScript-native, low-boilerplate, object-capability RPC system
-*   [cloudflare/vibesdk](https://github.com/cloudflare/vibesdk) -
+*   [cloudflare/vibesdk](https://github.com/cloudflare/vibesdk) - An open-source vibe coding platform that helps you build your own vibe-coding platform, built entirely on Cloudflare stack
 *   [Vanilagy/mediabunny](https://github.com/Vanilagy/mediabunny) - Pure TypeScript media toolkit for reading, writing, and converting video and audio files, directly in the browser.
 *   [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) - Chrome DevTools for coding agents
 *   [C0C0B01/Kettu](https://github.com/C0C0B01/Kettu) - A Discord mobile app client modification continuing Bunny's mission
@@ -1999,6 +1999,7 @@
 *   [saber-hq/saber-common](https://github.com/saber-hq/saber-common) - 🗡 Saber common utilities and libraries
 *   [scad-js/scad-js](https://github.com/scad-js/scad-js) - A Javascript frontend for solid modeling that compiles OpenSCAD.
 *   [moviendome/expo-solana-wallet](https://github.com/moviendome/expo-solana-wallet) - Cross-Platform Solana Wallet built with Expo and Solana/web3.js
+*   [bitpay/bitcore](https://github.com/bitpay/bitcore) - A full stack for bitcoin and blockchain-based applications
 *   [NftEyez/sol-rayz](https://github.com/NftEyez/sol-rayz) - 💫   Package to simplify parsing NFTs on Solana and build NFT galleries
 *   [hempworks/nft-maker-js](https://github.com/hempworks/nft-maker-js) -
 *   [MoonletLabs/tiexo-toolbox](https://github.com/MoonletLabs/tiexo-toolbox) -
@@ -2479,7 +2480,6 @@
 *   [halaprix/getHolderSnapshot](https://github.com/halaprix/getHolderSnapshot) - Get Solana NFT holder list based on mint address list.
 *   [flutternft/solana-nft-sales-tracker](https://github.com/flutternft/solana-nft-sales-tracker) - A rudimentary NodeJS script that scrapes Solana transactions to idenitfy NFT purchases on marketplaces.
 *   [hoangvvo/nextjs-mongodb-app](https://github.com/hoangvvo/nextjs-mongodb-app) - A Next.js and MongoDB web application, designed with simplicity for learning and real-world applicability in mind.
-*   [bitpay/bitcore](https://github.com/bitpay/bitcore) - A full stack for bitcoin and blockchain-based applications
 *   [CesiumGS/webglreport](https://github.com/CesiumGS/webglreport) - A web page that reports a browser's WebGL capabilities, including supported extensions and implementation specific capabilities, such as the maximum number of texture units.
 *   [HashLips/hashlips\_art\_engine](https://github.com/HashLips/hashlips_art_engine) - HashLips Art Engine is a tool used to create multiple different instances of artworks based on provided layers.
 *   [thuglabs/arweave-image-uploader](https://github.com/thuglabs/arweave-image-uploader) - Upload NFT metadata to the Arweave network
