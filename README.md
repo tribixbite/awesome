@@ -881,7 +881,7 @@
 *   [wbopan/cui](https://github.com/wbopan/cui) - A web UI for Claude Code agents
 *   [sugyan/claude-code-webui](https://github.com/sugyan/claude-code-webui) - Web-based interface for Claude CLI with streaming chat responses
 *   [sst/models.dev](https://github.com/sst/models.dev) - An open-source database of AI models.
-*   [sst/opencode](https://github.com/sst/opencode) - AI coding agent, built for the terminal.
+*   [sst/opencode](https://github.com/sst/opencode) - The AI coding agent built for the terminal.
 *   [kstonekuan/squash-browser-memory](https://github.com/kstonekuan/squash-browser-memory) - Squash adds an invisible memory layer to your browser, compressing every click into portable context for any AI agent
 *   [inkeep/mcp-for-cloudflare](https://github.com/inkeep/mcp-for-cloudflare) -
 *   [Pimzino/claude-code-spec-workflow](https://github.com/Pimzino/claude-code-spec-workflow) - Automated workflows for Claude Code. Features spec-driven development for new features (Requirements → Design → Tasks → Implementation) and streamlined bug fix workflow for quick issue resolution (Report → Analyze → Fix → Verify).
