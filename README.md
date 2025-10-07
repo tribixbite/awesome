@@ -241,7 +241,7 @@
 *   [AsenaJs/Asena](https://github.com/AsenaJs/Asena) - IoC web framework for bun
 *   [openai/openai-agents-js](https://github.com/openai/openai-agents-js) - A lightweight, powerful framework for multi-agent workflows and voice agents
 *   [arcanis/terminosaurus](https://github.com/arcanis/terminosaurus) - Agnostic terminal GUI library for TypeScript, distributed with a native React renderer
-*   [cjinhuo/blazwitcher](https://github.com/cjinhuo/blazwitcher) - Blazwitcher is a Chrome Extension for searching tabs, bookmarks, and history, with support for fuzzy Pinyin search.一款用于搜索标签、书签和历史记录的 Chrome 浏览器扩展，支持模糊拼音搜索
+*   [cjinhuo/blazwitcher](https://github.com/cjinhuo/blazwitcher) - A Chrome Extension to blaze through your tabs, bookmarks, and history — with powerful fuzzy Pinyin search. 一款用于极速搜索标签、书签和历史记录的 Chrome 浏览器扩展，支持模糊拼音搜索
 *   [solana-developers/solana-mobile-templates](https://github.com/solana-developers/solana-mobile-templates) - The official Solana Mobile templates have moved to the repo below:
 *   [tinarskii/manao](https://github.com/tinarskii/manao) - twitch chatbot and other stuff for twitch🥤🍋
 *   [taciturnaxolotl/bundom](https://github.com/taciturnaxolotl/bundom) - the pixel swarm shall conquer
