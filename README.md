@@ -649,7 +649,7 @@
 *   [weaviate/elysia-frontend](https://github.com/weaviate/elysia-frontend) - Frontend Repository for Elysia
 *   [TibixDev/winboat](https://github.com/TibixDev/winboat) - Run Windows apps on 🐧 Linux with ✨ seamless integration
 *   [colanode/colanode](https://github.com/colanode/colanode) - Open-source and local-first Slack and Notion alternative that puts you in control of your data
-*   [grillsdev/grills](https://github.com/grillsdev/grills) - Your own Gen UI platform. Open source alternative to Lovable, Bolt and v0.
+*   [grillsdev/grills](https://github.com/grillsdev/grills) - Your own Gen UI platform. Create components or whole frontend with your fav LLM
 *   [originjs/vite-plugin-federation](https://github.com/originjs/vite-plugin-federation) - Module Federation for vite & rollup
 *   [serafimcloud/21st](https://github.com/serafimcloud/21st) - npm for design engineers: largest marketplace of shadcn/ui-based React Tailwind components, blocks and hooks
 *   [swan-io/boxed](https://github.com/swan-io/boxed) - Essential building-blocks for functional & safe TypeScript code
