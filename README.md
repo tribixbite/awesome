@@ -4,13 +4,14 @@
 
 ## Table of Contents
 
+*   [PHP](#php)
 *   [Python](#python)
 *   [TypeScript](#typescript)
 *   [Rust](#rust)
 *   [Kotlin](#kotlin)
 *   [miscellaneous](#miscellaneous)
-*   [HTML](#html)
 *   [Zig](#zig)
+*   [HTML](#html)
 *   [C++](#c)
 *   [C](#c-1)
 *   [JavaScript](#javascript)
@@ -35,7 +36,6 @@
 *   [Markdown](#markdown)
 *   [SCSS](#scss)
 *   [MDX](#mdx)
-*   [PHP](#php)
 *   [Elixir](#elixir)
 *   [Svelte](#svelte)
 *   [PowerShell](#powershell)
@@ -76,10 +76,28 @@
 *   [AutoIt](#autoit)
 *   [Visual Basic .NET](#visual-basic-net)
 
+## PHP
+
+*   [luileito/swipetest](https://github.com/luileito/swipetest) - Shape-writing project
+*   [context-hub/generator](https://github.com/context-hub/generator) - CTX: a tool that solves the context management gap when working with LLMs like ChatGPT or Claude. It helps developers organize and automatically collect information from their codebase into structured documents that can be easily shared with AI assistants.
+*   [ErikThiart/cryptocurrency-icons](https://github.com/ErikThiart/cryptocurrency-icons) - All the cryptocurrency icons available on coinmarketcap.com
+*   [pterodactyl/panel](https://github.com/pterodactyl/panel) - Pterodactyl® is a free, open-source game server management panel built with PHP, React, and Go. Designed with security in mind, Pterodactyl runs all game servers in isolated Docker containers while exposing a beautiful and intuitive UI to end users.
+*   [wallabag/wallabag](https://github.com/wallabag/wallabag) - wallabag is a self hostable application for saving web pages: Save and classify articles. Read them later. Freely.
+*   [solcloud/Counter-Strike](https://github.com/solcloud/Counter-Strike) - Multiplayer FPS game - Counter-Strike: Football 🏉
+*   [popcorn-time-ru/popcorn-ru](https://github.com/popcorn-time-ru/popcorn-ru) - Multilang api for popcorn
+*   [linuxserver/Heimdall](https://github.com/linuxserver/Heimdall) - An Application dashboard and launcher
+*   [phoronix-test-suite/phoronix-test-suite](https://github.com/phoronix-test-suite/phoronix-test-suite) - The Phoronix Test Suite open-source, cross-platform automated testing/benchmarking software.
+*   [fuzzdb-project/fuzzdb](https://github.com/fuzzdb-project/fuzzdb) - Dictionary of attack patterns and primitives for black-box application fault injection and resource discovery.
+*   [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
+*   [discordlookup/discordlookup](https://github.com/discordlookup/discordlookup) - DiscordLookup | Get more out of Discord with Discord Lookup! Snowflake Decoder, Guild List with Stats, Invite Info and more...
+*   [mledoze/countries](https://github.com/mledoze/countries) - World countries in JSON, YAML, CSV and XML. Any help is welcome!
+*   [matthiasmullie/minify](https://github.com/matthiasmullie/minify) - CSS & JavaScript minifier, in PHP. Removes whitespace, strips comments, combines files (incl. @import statements and small assets in CSS files), and optimizes/shortens a few common programming patterns.
+
 ## Python
 
 *   [fabriziosalmi/shortlist](https://github.com/fabriziosalmi/shortlist) -
 *   [OpenImagingLab/FlashVSR](https://github.com/OpenImagingLab/FlashVSR) - Towards Real-Time Diffusion-Based Streaming Video Super-Resolution — An efficient one-step diffusion framework for streaming VSR with locality-constrained sparse attention and a tiny conditional decoder.
+*   [edent/SuperTinyIcons](https://github.com/edent/SuperTinyIcons) - Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
 *   [karpathy/nanochat](https://github.com/karpathy/nanochat) - The best ChatGPT that $100 can buy.
 *   [Continual-Intelligence/SEAL](https://github.com/Continual-Intelligence/SEAL) - Self-Adapting Language Models
 *   [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
@@ -2215,9 +2233,17 @@
 *   [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue) - 🎉 A curated list of awesome things related to Vue.js
 *   [hakluke/how-to-exit-vim](https://github.com/hakluke/how-to-exit-vim) - Below are some simple methods for exiting vim.
 
+## Zig
+
+*   [capy-ui/capy](https://github.com/capy-ui/capy) - 💻Build one codebase and get native UI on Windows, Linux and Web
+*   [ziglana/grincel.gpu](https://github.com/ziglana/grincel.gpu) - zig gpu vanity grinder
+*   [hexops-graveyard/mach-sysgpu](https://github.com/hexops-graveyard/mach-sysgpu) - Highly experimental, blazingly fast, lean & mean descendant of WebGPU written in Zig
+*   [lithdew/solana-zig](https://github.com/lithdew/solana-zig) - Write Solana programs in Zig.
+*   [hexops/mach](https://github.com/hexops/mach) - zig game engine & graphics toolkit
+*   [mkeeter/futureproof](https://github.com/mkeeter/futureproof) - A live editor for fragment shaders, powered by Neovim, WebGPU, and Zig!
+
 ## HTML
 
-*   [edent/SuperTinyIcons](https://github.com/edent/SuperTinyIcons) - Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
 *   [tribixbite/FlixCapacitor](https://github.com/tribixbite/FlixCapacitor) - ⚡ A modern, mobile-first streaming app with native torrent support
 *   [icsl-Jeon/traj\_gen](https://github.com/icsl-Jeon/traj_gen) - Optimal trajectory generation library given equality and inequality constraints (C++/Matlab)
 *   [steveruizok/perfect-freehand](https://github.com/steveruizok/perfect-freehand) - Draw perfect pressure-sensitive freehand lines.
@@ -2261,15 +2287,6 @@
 *   [trickytibo/next\_solana\_nft2mint](https://github.com/trickytibo/next_solana_nft2mint) - A package to easily find the next hyped solana nft to mint.
 *   [vasturiano/3d-force-graph](https://github.com/vasturiano/3d-force-graph) - 3D force-directed graph component using ThreeJS/WebGL
 *   [themesberg/flowbite](https://github.com/themesberg/flowbite) - Open-source UI component library and front-end development framework based on Tailwind CSS
-
-## Zig
-
-*   [capy-ui/capy](https://github.com/capy-ui/capy) - 💻Build one codebase and get native UI on Windows, Linux and Web
-*   [ziglana/grincel.gpu](https://github.com/ziglana/grincel.gpu) - zig gpu vanity grinder
-*   [hexops-graveyard/mach-sysgpu](https://github.com/hexops-graveyard/mach-sysgpu) - Highly experimental, blazingly fast, lean & mean descendant of WebGPU written in Zig
-*   [lithdew/solana-zig](https://github.com/lithdew/solana-zig) - Write Solana programs in Zig.
-*   [hexops/mach](https://github.com/hexops/mach) - zig game engine & graphics toolkit
-*   [mkeeter/futureproof](https://github.com/mkeeter/futureproof) - A live editor for fragment shaders, powered by Neovim, WebGPU, and Zig!
 
 ## C++
 
@@ -2779,7 +2796,6 @@
 *   [sudheerj/reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions) - List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!
 *   [claudioc/jingo](https://github.com/claudioc/jingo) - Node.js based Wiki
 *   [not-an-aardvark/snoowrap](https://github.com/not-an-aardvark/snoowrap) - A JavaScript wrapper for the reddit API
-*   [vladikoff/chromeos-apk](https://github.com/vladikoff/chromeos-apk) - ☢️  Run Android Apps in Chrome OS OR Chrome in OS X, Linux and Windows.
 
 ## Jupyter Notebook
 
@@ -3152,22 +3168,6 @@
 *   [e2b-dev/code-interpreter](https://github.com/e2b-dev/code-interpreter) - Python & JS/TS SDK for running AI-generated code/code interpreting in your AI app
 *   [wasp-lang/wasp](https://github.com/wasp-lang/wasp) - The fastest way to develop full-stack web apps with React & Node.js.
 *   [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
-
-## PHP
-
-*   [context-hub/generator](https://github.com/context-hub/generator) - CTX: a tool that solves the context management gap when working with LLMs like ChatGPT or Claude. It helps developers organize and automatically collect information from their codebase into structured documents that can be easily shared with AI assistants.
-*   [ErikThiart/cryptocurrency-icons](https://github.com/ErikThiart/cryptocurrency-icons) - All the cryptocurrency icons available on coinmarketcap.com
-*   [pterodactyl/panel](https://github.com/pterodactyl/panel) - Pterodactyl® is a free, open-source game server management panel built with PHP, React, and Go. Designed with security in mind, Pterodactyl runs all game servers in isolated Docker containers while exposing a beautiful and intuitive UI to end users.
-*   [wallabag/wallabag](https://github.com/wallabag/wallabag) - wallabag is a self hostable application for saving web pages: Save and classify articles. Read them later. Freely.
-*   [solcloud/Counter-Strike](https://github.com/solcloud/Counter-Strike) - Multiplayer FPS game - Counter-Strike: Football 🏉
-*   [popcorn-time-ru/popcorn-ru](https://github.com/popcorn-time-ru/popcorn-ru) - Multilang api for popcorn
-*   [linuxserver/Heimdall](https://github.com/linuxserver/Heimdall) - An Application dashboard and launcher
-*   [phoronix-test-suite/phoronix-test-suite](https://github.com/phoronix-test-suite/phoronix-test-suite) - The Phoronix Test Suite open-source, cross-platform automated testing/benchmarking software.
-*   [fuzzdb-project/fuzzdb](https://github.com/fuzzdb-project/fuzzdb) - Dictionary of attack patterns and primitives for black-box application fault injection and resource discovery.
-*   [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
-*   [discordlookup/discordlookup](https://github.com/discordlookup/discordlookup) - DiscordLookup | Get more out of Discord with Discord Lookup! Snowflake Decoder, Guild List with Stats, Invite Info and more...
-*   [mledoze/countries](https://github.com/mledoze/countries) - World countries in JSON, YAML, CSV and XML. Any help is welcome!
-*   [matthiasmullie/minify](https://github.com/matthiasmullie/minify) - CSS & JavaScript minifier, in PHP. Removes whitespace, strips comments, combines files (incl. @import statements and small assets in CSS files), and optimizes/shortens a few common programming patterns.
 
 ## Elixir
 
