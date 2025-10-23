@@ -1324,7 +1324,7 @@
 *   [sagar-n/deepagents](https://github.com/sagar-n/deepagents) -
 *   [SamsungSAILMontreal/TinyRecursiveModels](https://github.com/SamsungSAILMontreal/TinyRecursiveModels) -
 *   [microsoft/amplifier](https://github.com/microsoft/amplifier) -
-*   [google/computer-use-preview](https://github.com/google/computer-use-preview) -
+*   [google-gemini/computer-use-preview](https://github.com/google-gemini/computer-use-preview) -
 *   [CopilotKit/with-adk](https://github.com/CopilotKit/with-adk) - Demo for using copilotkit with the ada-middleware from ag-ui
 *   [huggingface/optimum](https://github.com/huggingface/optimum) - 🚀 Accelerate inference and training of 🤗 Transformers, Diffusers, TIMM and Sentence Transformers with easy to use hardware optimization tools
 *   [huggingface/accelerate](https://github.com/huggingface/accelerate) - 🚀 A simple way to launch, train, and use PyTorch models on almost any device and distributed configuration, automatic mixed precision (including fp8), and easy-to-configure FSDP and DeepSpeed support
