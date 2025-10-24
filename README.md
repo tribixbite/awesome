@@ -27,6 +27,7 @@
 *   [Go](#go)
 *   [Liquid](#liquid)
 *   [Clojure](#clojure)
+*   [Vue](#vue)
 *   [Bikeshed](#bikeshed)
 *   [Lua](#lua)
 *   [Dockerfile](#dockerfile)
@@ -45,7 +46,6 @@
 *   [CSS](#css)
 *   [Batchfile](#batchfile)
 *   [Ruby](#ruby)
-*   [Vue](#vue)
 *   [Cuda](#cuda)
 *   [MLIR](#mlir)
 *   [KiCad Layout](#kicad-layout)
@@ -113,7 +113,6 @@
 *   [fiberplane/mcp-lite](https://github.com/fiberplane/mcp-lite) - Lightweight, composable MCP framework for TypeScript
 *   [weaviate/elysia-frontend](https://github.com/weaviate/elysia-frontend) - Frontend Repository for Elysia
 *   [TibixDev/winboat](https://github.com/TibixDev/winboat) - Run Windows apps on 🐧 Linux with ✨ seamless integration
-*   [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.
 *   [colanode/colanode](https://github.com/colanode/colanode) - Open-source and local-first Slack and Notion alternative that puts you in control of your data
 *   [grillsdev/grills](https://github.com/grillsdev/grills) - Your own Gen UI platform. Create components or whole frontend with your fav LLM
 *   [originjs/vite-plugin-federation](https://github.com/originjs/vite-plugin-federation) - Module Federation for vite & rollup
@@ -1345,7 +1344,6 @@
 *   [pymupdf/PyMuPDF](https://github.com/pymupdf/PyMuPDF) - PyMuPDF is a high performance Python library for data extraction, analysis, conversion & manipulation of PDF (and other) documents.
 *   [NVlabs/Fast-dLLM](https://github.com/NVlabs/Fast-dLLM) - Official implementation of "Fast-dLLM: Training-free Acceleration of Diffusion LLM by Enabling KV Cache and Parallel Decoding"
 *   [yoavf/absolutelyright](https://github.com/yoavf/absolutelyright) - Claude said I'm absolutely right!
-*   [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
 *   [weaviate/elysia](https://github.com/weaviate/elysia) - Python package and backend for the Elysia platform app.
 *   [MaliosDark/wifi-3d-fusion](https://github.com/MaliosDark/wifi-3d-fusion) - WiFi-3D-Fusion is an open-source research project that leverages WiFi CSI signals and deep learning to estimate 3D human pose, fusing wireless sensing with computer vision techniques for next-generation spatial awareness.
 *   [QuentinFuxa/WhisperLiveKit](https://github.com/QuentinFuxa/WhisperLiveKit) - Real-time & local speech-to-text server.
@@ -1525,7 +1523,7 @@
 *   [deepseek-ai/Janus](https://github.com/deepseek-ai/Janus) - Janus-Series: Unified Multimodal Understanding and Generation Models
 *   [BrainBlend-AI/atomic-agents](https://github.com/BrainBlend-AI/atomic-agents) - Building AI agents, atomically
 *   [SWE-agent/SWE-agent](https://github.com/SWE-agent/SWE-agent) - SWE-agent takes a GitHub issue and tries to automatically fix it, using your LM of choice. It can also be employed for offensive cybersecurity or competitive coding challenges. \[NeurIPS 2024]
-*   [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
+*   [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: Code Less, Make More
 *   [OpenAutoCoder/Agentless](https://github.com/OpenAutoCoder/Agentless) - Agentless🐱:  an agentless approach to automatically solve software development problems
 *   [bespokelabsai/curator](https://github.com/bespokelabsai/curator) - Synthetic data curation for post-training and structured data extraction
 *   [ModelCloud/GPTQModel](https://github.com/ModelCloud/GPTQModel) - LLM model quantization (compression) toolkit with hw acceleration support for Nvidia CUDA, AMD ROCm, Intel XPU and Intel/AMD/Apple CPU via HF, vLLM, and SGLang.
@@ -2021,7 +2019,7 @@
 *   [solana-foundation/kora](https://github.com/solana-foundation/kora) - Implementation of a Solana relayer. Provides a lib and cli crate in order to enable signing experiences on Solana
 *   [tuananh/hyper-mcp](https://github.com/tuananh/hyper-mcp) - 📦️ A fast, secure MCP server that extends its capabilities through WebAssembly plugins.
 *   [lumina-ai-inc/chunkr](https://github.com/lumina-ai-inc/chunkr) - Vision infrastructure to turn complex documents into RAG/LLM-ready data
-*   [katanemo/archgw](https://github.com/katanemo/archgw) - The data plane for agents. Arch is a models-native proxy server that handles the plumbing work in AI: agent routing & hand off, guardrails, end-to-end logs and traces, unified access to LLMs from OpenAI, Anthropic, Ollama, etc. Build agents faster, and scale them reliably.
+*   [katanemo/archgw](https://github.com/katanemo/archgw) - The data plane for agents. Arch is a models-native proxy server that handles the plumbing work in AI: agent routing & hand off, guardrails, zero-code logs and traces, unified access to LLMs from OpenAI, Anthropic, Ollama, etc. Build agents faster, and scale them reliably.
 *   [Helicone/ai-gateway](https://github.com/Helicone/ai-gateway) - The fastest, lightest, and easiest-to-integrate AI gateway on the market. Fully open-sourced.
 *   [sxhxliang/mcp-access-point](https://github.com/sxhxliang/mcp-access-point) - Turn a web server into an MCP server in one click without making any code changes.
 *   [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
@@ -2965,6 +2963,7 @@
 
 *   [winapps-org/winapps](https://github.com/winapps-org/winapps) -  Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/winapps/
 *   [sabamdarif/termux-desktop](https://github.com/sabamdarif/termux-desktop) - Install a full Linux desktop environment on your Android device with Termux X11 ( VNC optional) and also enable hardware acceleration
+*   [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
 *   [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
 *   [termux-user-repository/tur](https://github.com/termux-user-repository/tur) - A place for all types of Termux packages.
 *   [automazeio/ccpm](https://github.com/automazeio/ccpm) - Project management system for Claude Code using GitHub Issues and Git worktrees for parallel agent execution.
@@ -3102,6 +3101,15 @@
 ## Clojure
 
 *   [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap
+
+## Vue
+
+*   [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.
+*   [webpilot-ai/Webpilot](https://github.com/webpilot-ai/Webpilot) -
+*   [scalar/scalar](https://github.com/scalar/scalar) - Scalar is an open-source API platform:　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　🌐 Modern Rest API Client　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　📖 Beautiful API References　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　✨ 1st-Class OpenAPI/Swagger Support
+*   [2501babe/revoken](https://github.com/2501babe/revoken) - web ui to revoke solana token approvals
+*   [mynftgg/nft-project](https://github.com/mynftgg/nft-project) - Game code for mynftgg
+*   [paul-schaaf/spl-token-ui](https://github.com/paul-schaaf/spl-token-ui) - Interface for creating and managing SPL Tokens
 
 ## Bikeshed
 
@@ -3249,14 +3257,6 @@
 *   [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The personal finance app for everyone
 *   [fastlane/fastlane](https://github.com/fastlane/fastlane) - 🚀 The easiest way to automate building and releasing your iOS and Android apps
 *   [toy/image\_optim](https://github.com/toy/image_optim) - Optimize images using multiple utilities
-
-## Vue
-
-*   [webpilot-ai/Webpilot](https://github.com/webpilot-ai/Webpilot) -
-*   [scalar/scalar](https://github.com/scalar/scalar) - Scalar is an open-source API platform:　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　🌐 Modern Rest API Client　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　📖 Beautiful API References　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　✨ 1st-Class OpenAPI/Swagger Support
-*   [2501babe/revoken](https://github.com/2501babe/revoken) - web ui to revoke solana token approvals
-*   [mynftgg/nft-project](https://github.com/mynftgg/nft-project) - Game code for mynftgg
-*   [paul-schaaf/spl-token-ui](https://github.com/paul-schaaf/spl-token-ui) - Interface for creating and managing SPL Tokens
 
 ## Cuda
 
