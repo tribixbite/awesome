@@ -816,7 +816,7 @@
 *   [Xunnamius/next-test-api-route-handler](https://github.com/Xunnamius/next-test-api-route-handler) - 🔧 Confidently unit and integration test your Next.js API routes/handlers in an isolated Next.js-like environment with buttery-smooth DX
 *   [stepci/stepci](https://github.com/stepci/stepci) - Automated API Testing and Quality Assurance
 *   [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
-*   [nass59/turborepo-nextjs](https://github.com/nass59/turborepo-nextjs) - TurboRepo with NextJS | Storybook
+*   [nass59/turborepo-nextjs](https://github.com/nass59/turborepo-nextjs) - A production-ready Next.js 15 monorepo with React 19, TypeScript, tRPC, and Prisma.
 *   [morinokami/next-zodenv](https://github.com/morinokami/next-zodenv) - next-zodenv makes dealing with environment variables in Next.js safer.
 *   [thirdweb-dev/solana](https://github.com/thirdweb-dev/solana) - Thirdweb Solana SDK
 *   [thekevinscott/UpscalerJS](https://github.com/thekevinscott/UpscalerJS) - Enhance Images with Javascript and AI. Increase resolution, retouch, denoise, and more. Open Source, Browser & Node Compatible, MIT License.
