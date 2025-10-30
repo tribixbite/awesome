@@ -1108,7 +1108,7 @@
 *   [pmndrs/uikit](https://github.com/pmndrs/uikit) - 🎨 user interfaces for react-three-fiber
 *   [yoavf/ai-sessions](https://github.com/yoavf/ai-sessions) - AI Sessions - share your Claude Code and Codex transcripts
 *   [eastlondoner/vibe-tools](https://github.com/eastlondoner/vibe-tools) - Give Cursor Agent an AI Team and Advanced Skills
-*   [Unistyles-OSS/uniwind](https://github.com/Unistyles-OSS/uniwind) - The fastest Tailwind bindings for React Native
+*   [Unistyles-OSS/uniwind](https://github.com/Unistyles-OSS/uniwind) - From the creators of Unistyles: The fastest Tailwind bindings for React Native
 *   [coder/cmux](https://github.com/coder/cmux) - A desktop app for isolated, parallel agentic development
 *   [evilmartians/agent-prism](https://github.com/evilmartians/agent-prism) - React components for visualizing traces from AI agents
 *   [kitlangton/visual-effect](https://github.com/kitlangton/visual-effect) - Interactive Effect Visualizations
