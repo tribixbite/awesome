@@ -2676,7 +2676,7 @@
 *   [linuxserver/Heimdall](https://github.com/linuxserver/Heimdall) - An Application dashboard and launcher
 *   [phoronix-test-suite/phoronix-test-suite](https://github.com/phoronix-test-suite/phoronix-test-suite) - The Phoronix Test Suite open-source, cross-platform automated testing/benchmarking software.
 *   [fuzzdb-project/fuzzdb](https://github.com/fuzzdb-project/fuzzdb) - Dictionary of attack patterns and primitives for black-box application fault injection and resource discovery.
-*   [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku and Netlify that lets you easily deploy static sites, databases, web applications and more than 280 one-click services on your own servers.
+*   [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
 *   [discordlookup/discordlookup](https://github.com/discordlookup/discordlookup) - DiscordLookup | Get more out of Discord with Discord Lookup! Snowflake Decoder, Guild List with Stats, Invite Info and more...
 *   [mledoze/countries](https://github.com/mledoze/countries) - World countries in JSON, YAML, CSV and XML. Any help is welcome!
 *   [matthiasmullie/minify](https://github.com/matthiasmullie/minify) - CSS & JavaScript minifier, in PHP. Removes whitespace, strips comments, combines files (incl. @import statements and small assets in CSS files), and optimizes/shortens a few common programming patterns.
