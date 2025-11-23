@@ -2344,7 +2344,7 @@
 *   [dawn-gpu/node-webgpu](https://github.com/dawn-gpu/node-webgpu) - webgpu for node.js
 *   [FunSoftWareTechologies/PlanetTech](https://github.com/FunSoftWareTechologies/PlanetTech) - PlanetTechJS is an open-source JavaScript library built using vanilla THREE.js, for creating and editing planets at scale
 *   [thorwebdev/browser-vector-search](https://github.com/thorwebdev/browser-vector-search) - Full in-browser Semantic Search with Huggingface Transformers.js and ElectricSQL's PGlite!
-*   [swgpu/ArcadeGPU](https://github.com/swgpu/ArcadeGPU) - A complete, fast and fun web game engine with examples
+*   [aliyah-corp/ArcadeGPU](https://github.com/aliyah-corp/ArcadeGPU) - A complete, fast and fun game arcade engine with examples
 *   [KindaBrazy/LynxHub-Module-Offline-Container](https://github.com/KindaBrazy/LynxHub-Module-Offline-Container) - A collection of local AI tools with full support for arguments, configurations, and extensions.
 *   [reorproject/reor](https://github.com/reorproject/reor) - Private & local AI personal knowledge management app for high entropy people.
 *   [fenomas/noa](https://github.com/fenomas/noa) - Experimental voxel game engine.
@@ -3313,7 +3313,7 @@
 
 ## CSS
 
-*   [swgpu/SWGPU-Vite](https://github.com/swgpu/SWGPU-Vite) - A SWGPU Starter-kit for browser games
+*   [aliyah-corp/SWGPU-Vite](https://github.com/aliyah-corp/SWGPU-Vite) - A SWGPU Starter-kit for browser games
 *   [tanabe/markdown-live-preview](https://github.com/tanabe/markdown-live-preview) - markdown editor with live preview
 *   [persys-ai/persys-desktop](https://github.com/persys-ai/persys-desktop) - Persys desktop. Electron based application to access your Persys server.
 *   [ParisNeo/lollms-webui](https://github.com/ParisNeo/lollms-webui) - Lord of Large Language and Multi modal Systems Web User Interface
