@@ -76,6 +76,8 @@
 *   [AutoIt](#autoit)
 *   [Visual Basic .NET](#visual-basic-net)
 *   [R](#r)
+*   [Arduino](#arduino)
+*   [G-code](#g-code)
 
 ## Python
 
@@ -739,7 +741,7 @@
 *   [jitsi/jitsi-meet](https://github.com/jitsi/jitsi-meet) - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
 *   [sourcebot-dev/sourcebot](https://github.com/sourcebot-dev/sourcebot) - Sourcebot is a self-hosted tool that helps you understand your codebase.
 *   [vybestack/llxprt-code](https://github.com/vybestack/llxprt-code) - An open-source multi-provider (including local) fork of gemini-cli. Use whatever LLM you want to code in your terminal.
-*   [chatboxai/chatbox](https://github.com/chatboxai/chatbox) - User-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama...)
+*   [chatboxai/chatbox](https://github.com/chatboxai/chatbox) - # Free AI at api.airforce https://discord.gg/AJDsM7jtbq
 *   [flydelabs/flyde](https://github.com/flydelabs/flyde) - Open-source Visual programming for backend logic that integrates with existing codebases. Flyde bridges the gap between technical and non-technical team members. Product managers, designers, and backend developers can collaborate on the same visual flows.
 *   [Helicone/helicone](https://github.com/Helicone/helicone) - 🧊 Open source LLM observability platform. One line of code to monitor, evaluate, and experiment. YC W23 🍓
 *   [jasonhedman/toolkit.dev](https://github.com/jasonhedman/toolkit.dev) - Get paid to build LLM tools
@@ -1660,7 +1662,6 @@
 *   [raydium-io/raydium-ui](https://github.com/raydium-io/raydium-ui) - Raydium Frontend V1
 *   [raydium-io/raydium-frontend](https://github.com/raydium-io/raydium-frontend) - Raydium Frontend V2
 *   [raydium-io/raydium-sdk-v1](https://github.com/raydium-io/raydium-sdk-v1) - An SDK for building applications on top of Raydium.
-*   [gemworks/gem-farm](https://github.com/gemworks/gem-farm) - Configurable staking for NFT Projects on Solana
 *   [solana-labs/break](https://github.com/solana-labs/break) - Break Solana Game
 *   [GenesysGo/shadow-drive](https://github.com/GenesysGo/shadow-drive) -
 *   [honey-protocol/honey-frontend-legacy](https://github.com/honey-protocol/honey-frontend-legacy) - 🍯 An open source interface for the Honey Finance protocol
@@ -2344,7 +2345,6 @@
 *   [dawn-gpu/node-webgpu](https://github.com/dawn-gpu/node-webgpu) - webgpu for node.js
 *   [FunSoftWareTechologies/PlanetTech](https://github.com/FunSoftWareTechologies/PlanetTech) - PlanetTechJS is an open-source JavaScript library built using vanilla THREE.js, for creating and editing planets at scale
 *   [thorwebdev/browser-vector-search](https://github.com/thorwebdev/browser-vector-search) - Full in-browser Semantic Search with Huggingface Transformers.js and ElectricSQL's PGlite!
-*   [aliyah-corp/ArcadeGPU](https://github.com/aliyah-corp/ArcadeGPU) - A complete, fast and fun game arcade engine with examples
 *   [KindaBrazy/LynxHub-Module-Offline-Container](https://github.com/KindaBrazy/LynxHub-Module-Offline-Container) - A collection of local AI tools with full support for arguments, configurations, and extensions.
 *   [reorproject/reor](https://github.com/reorproject/reor) - Private & local AI personal knowledge management app for high entropy people.
 *   [fenomas/noa](https://github.com/fenomas/noa) - Experimental voxel game engine.
@@ -3492,3 +3492,11 @@
 ## R
 
 *   [BorisNikulin/discord-chat-analysis](https://github.com/BorisNikulin/discord-chat-analysis) - Text analysis of a discord chat group
+
+## Arduino
+
+*   [RHWorkshop/TIPIC-Arduino](https://github.com/RHWorkshop/TIPIC-Arduino) - This is the Arduino code for the TIPIC Thermal Imaging Phone Camera device.
+
+## G-code
+
+*   [CarlosGS/Cyclone-PCB-Factory](https://github.com/CarlosGS/Cyclone-PCB-Factory) - Cyclone (Circuit Cloner) is a parametric CNC mill design intended for PCB manufacturing.
