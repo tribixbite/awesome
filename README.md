@@ -4,9 +4,9 @@
 
 ## Table of Contents
 
+*   [Java](#java)
 *   [Python](#python)
 *   [TypeScript](#typescript)
-*   [Java](#java)
 *   [Rust](#rust)
 *   [C](#c)
 *   [Go](#go)
@@ -77,6 +77,69 @@
 *   [AutoIt](#autoit)
 *   [Visual Basic .NET](#visual-basic-net)
 *   [R](#r)
+
+## Java
+
+*   [Minecraft-Transit-Railway/Minecraft-Transit-Railway](https://github.com/Minecraft-Transit-Railway/Minecraft-Transit-Railway) - A Minecraft mod that allows you to build your own transport network with automated trains, boats, cable cars, and planes!
+*   [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
+*   [termux/termux-tasker](https://github.com/termux/termux-tasker) - Termux add-on app for integration with Tasker.
+*   [jberkel/sms-backup-plus](https://github.com/jberkel/sms-backup-plus) - Backup Android SMS, MMS and call log to Gmail / Gcal / IMAP
+*   [termux/termux-boot](https://github.com/termux/termux-boot) - Termux add-on app allowing programs to be run at boot.
+*   [AlexModGuy/Ice\_and\_Fire](https://github.com/AlexModGuy/Ice_and_Fire) - Minecraft mystical mod
+*   [MuntashirAkon/AppManager](https://github.com/MuntashirAkon/AppManager) - A full-featured package manager and viewer for Android
+*   [Reginer/aosp-android-jar](https://github.com/Reginer/aosp-android-jar) - AOSP编译出的android.jar，sdk里面以前反射调用的方法，现在可以直接调用了。
+*   [jaredsburrows/open-quartz](https://github.com/jaredsburrows/open-quartz) - Google Glass Development - GDK + SDK
+*   [Srikanth1511/Glass-Stream](https://github.com/Srikanth1511/Glass-Stream) - Google Glass XE camera streamer with url
+*   [legendsayantan/Dimmy](https://github.com/legendsayantan/Dimmy) - Dim your brightness... Further! This app allows to dim any android device screen even lower than its lowest brightness, just with a quick settings toggle.
+*   [Null123-ASD/Android\_TTS\_OCR\_Converter](https://github.com/Null123-ASD/Android_TTS_OCR_Converter) - Android TTS OCR Converter (Mobile App)- A Mobile Assistive Tool for Text-to-Speech and Chatbot Interaction
+*   [Helium314/HeliBoard](https://github.com/Helium314/HeliBoard) - Customizable and privacy-conscious open-source keyboard
+*   [Povstalec/StargateJourney](https://github.com/Povstalec/StargateJourney) - A repository for the Stargate Journey Minecraft Mod
+*   [google/bundletool](https://github.com/google/bundletool) - Bundletool is a command-line tool to manipulate Android App Bundles
+*   [HeatherComputer/AdvancedBackups](https://github.com/HeatherComputer/AdvancedBackups) -
+*   [pcal43/fastback](https://github.com/pcal43/fastback) - Fast, incremental Minecraft world backups.  Powered by Git.
+*   [andreynovikov/trekarta](https://github.com/andreynovikov/trekarta) - Simple, responsive map for your trek. You decide how to journey today, not the application!
+*   [osmandapp/OsmAnd](https://github.com/osmandapp/OsmAnd) - OsmAnd
+*   [emanuele-f/PCAPdroid](https://github.com/emanuele-f/PCAPdroid) - No-root network monitor, firewall and PCAP dumper for Android
+*   [CreativeMD/LittleFrames](https://github.com/CreativeMD/LittleFrames) -
+*   [SrRapero720/waterframes](https://github.com/SrRapero720/waterframes) - Mod which let you see pictures in-game amen
+*   [BumbleSoftware/Fastload](https://github.com/BumbleSoftware/Fastload) - Mod to accelerate world init
+*   [PaperMC/Paper](https://github.com/PaperMC/Paper) - The most widely used, high performance Minecraft server that aims to fix gameplay and mechanics inconsistencies
+*   [PojavLauncherTeam/PojavLauncher](https://github.com/PojavLauncherTeam/PojavLauncher) - A Minecraft: Java Edition Launcher for Android and iOS based on Boardwalk. Succeeded by https://github.com/AngelAuraMC/Amethyst-Android
+*   [RikkaApps/Shizuku-API](https://github.com/RikkaApps/Shizuku-API) - The API and the developer guide for Shizuku and Sui.
+*   [bk138/droidVNC-NG](https://github.com/bk138/droidVNC-NG) - Android VNC remote desktop server for local networks
+*   [termux/termux-widget](https://github.com/termux/termux-widget) - Termux add-on app which adds shortcuts to commands on the home screen.
+*   [iiordanov/remote-desktop-clients](https://github.com/iiordanov/remote-desktop-clients) - VNC, RDP, SPICE, and oVirt/RHEV/Proxmox Clients for Android and Blackberry 10
+*   [WhiredPlanck/diskusage](https://github.com/WhiredPlanck/diskusage) - Automatically exported from code.google.com/p/diskusage
+*   [Julow/Unexpected-Keyboard](https://github.com/Julow/Unexpected-Keyboard) - A lightweight keyboard for Android
+*   [erkserkserks/openboard](https://github.com/erkserkserks/openboard) - 100% FOSS keyboard, based on AOSP
+*   [iterate-ch/cyberduck](https://github.com/iterate-ch/cyberduck) - Cyberduck is a libre FTP, SFTP, WebDAV, Amazon S3, Backblaze B2, Microsoft Azure & OneDrive and OpenStack Swift file transfer client for Mac and Windows.
+*   [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) - Access your entire server infrastructure from your local desktop
+*   [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) - Browse media content with your own rules on Android TV
+*   [arunajit/minio-android](https://github.com/arunajit/minio-android) - Android port of MinIO Client SDK for Java. For uploads to AWS S3 from Android.
+*   [developerxrahul/amazon-s3-android-uploader](https://github.com/developerxrahul/amazon-s3-android-uploader) - A library which helps developer to upload image and video in one line of code just by implementing rc-s3-uploader in your any android project.
+*   [ddsky/spoonacular-api-clients](https://github.com/ddsky/spoonacular-api-clients) -
+*   [LSPosed/AndroidHiddenApiBypass](https://github.com/LSPosed/AndroidHiddenApiBypass) - LSPass: Bypass restrictions on non-SDK interfaces
+*   [M66B/NetGuard](https://github.com/M66B/NetGuard) - A simple way to block access to the internet per app
+*   [zaproxy/zaproxy](https://github.com/zaproxy/zaproxy) - The ZAP by Checkmarx Core project
+*   [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
+*   [Tencent/tinker](https://github.com/Tencent/tinker) - Tinker is a hot-fix solution library for Android, it supports dex, library and resources update without reinstall apk.
+*   [Konloch/bytecode-viewer](https://github.com/Konloch/bytecode-viewer) - A Java 8+ Jar & Android APK Reverse Engineering Suite (Decompiler, Editor, Debugger & More)
+*   [google/android-classyshark](https://github.com/google/android-classyshark) - Android and Java bytecode viewer
+*   [asLody/VirtualApp](https://github.com/asLody/VirtualApp) - Virtual Engine for Android(Support 14.0 in business version)
+*   [skylot/jadx](https://github.com/skylot/jadx) - Dex to Java decompiler
+*   [charles2gan/GDA-android-reversing-Tool](https://github.com/charles2gan/GDA-android-reversing-Tool) - the fastest and most powerful android decompiler(native tool working without Java VM) for the APK, DEX, ODEX, OAT, JAR, AAR, and CLASS file. which supports malicious behavior detection, privacy leaking detection, vulnerability detection, path solving, packer identification, variable tracking, deobfuscation, python\&java scripts, device memory extraction, data decryption, and encryption, etc.
+*   [pengshn6/BlackBox](https://github.com/pengshn6/BlackBox) - BlackBox is a virtual engine, it can clone and run virtual application on Android,  users don't have to install APK file to run the application on devices. BlackBox control all virtual applications, so you can do anything you want by using BlackBox.
+*   [iBotPeaches/Apktool](https://github.com/iBotPeaches/Apktool) - A tool for reverse engineering Android apk files
+*   [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
+*   [swagger-api/swagger-parser](https://github.com/swagger-api/swagger-parser) - Swagger Spec to Java POJOs
+*   [swagger-api/validator-badge](https://github.com/swagger-api/validator-badge) - Validate your Swagger JSON/YAML today!
+*   [ripmeapp2/ripme](https://github.com/ripmeapp2/ripme) - Downloads albums in bulk
+*   [storyofdavid/Android-WorkoutTracker](https://github.com/storyofdavid/Android-WorkoutTracker) - Free to use demo repo of an android workout tracker application
+*   [arjunkaruvally/BluetoothPeripheral](https://github.com/arjunkaruvally/BluetoothPeripheral) -
+*   [solana-developers/dapp-scaffold-react-native](https://github.com/solana-developers/dapp-scaffold-react-native) - dApp scaffold for react native apps
+*   [azesmway/react-native-unity](https://github.com/azesmway/react-native-unity) -
+*   [LuigiVampa92/XLogger](https://github.com/LuigiVampa92/XLogger) - Xposed module that allows to sniff and record logs of NFC and Bluetooth communication on device
+*   [xtclang/xvm](https://github.com/xtclang/xvm) - Ecstasy and XVM
 
 ## Python
 
@@ -1314,7 +1377,6 @@
 *   [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 *   [KirianCaumes/In-Flames-Closet](https://github.com/KirianCaumes/In-Flames-Closet) - A NextJs project to handle a database of images, about the history of the band "In Flames" through their artworks. 🔥#NextJs #React
 *   [skypackjs/package-check](https://github.com/skypackjs/package-check) - A quality score checker for npm packages.
-*   [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 *   [popcorntime/popcorntime](https://github.com/popcorntime/popcorntime) - Popcorn Time™ puts everything in one place. Your favorite platforms, your shows, your movies-ready when you are.
 *   [privatenumber/pkgroll](https://github.com/privatenumber/pkgroll) - 📦  Zero-config package bundler for Node.js + TypeScript
 *   [helmetjs/helmet](https://github.com/helmetjs/helmet) - Help secure Express apps with various HTTP headers
@@ -1889,69 +1951,6 @@
 *   [luludotdev/beatsaver-reloaded](https://github.com/luludotdev/beatsaver-reloaded) - BeatSaver Again
 *   [DominicMaas/TimelineExtension](https://github.com/DominicMaas/TimelineExtension) - Windows Timeline & Project Rome Web Extension
 
-## Java
-
-*   [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
-*   [termux/termux-tasker](https://github.com/termux/termux-tasker) - Termux add-on app for integration with Tasker.
-*   [jberkel/sms-backup-plus](https://github.com/jberkel/sms-backup-plus) - Backup Android SMS, MMS and call log to Gmail / Gcal / IMAP
-*   [termux/termux-boot](https://github.com/termux/termux-boot) - Termux add-on app allowing programs to be run at boot.
-*   [AlexModGuy/Ice\_and\_Fire](https://github.com/AlexModGuy/Ice_and_Fire) - Minecraft mystical mod
-*   [MuntashirAkon/AppManager](https://github.com/MuntashirAkon/AppManager) - A full-featured package manager and viewer for Android
-*   [Reginer/aosp-android-jar](https://github.com/Reginer/aosp-android-jar) - AOSP编译出的android.jar，sdk里面以前反射调用的方法，现在可以直接调用了。
-*   [jaredsburrows/open-quartz](https://github.com/jaredsburrows/open-quartz) - Google Glass Development - GDK + SDK
-*   [Srikanth1511/Glass-Stream](https://github.com/Srikanth1511/Glass-Stream) - Google Glass XE camera streamer with url
-*   [legendsayantan/Dimmy](https://github.com/legendsayantan/Dimmy) - Dim your brightness... Further! This app allows to dim any android device screen even lower than its lowest brightness, just with a quick settings toggle.
-*   [Null123-ASD/Android\_TTS\_OCR\_Converter](https://github.com/Null123-ASD/Android_TTS_OCR_Converter) - Android TTS OCR Converter (Mobile App)- A Mobile Assistive Tool for Text-to-Speech and Chatbot Interaction
-*   [Helium314/HeliBoard](https://github.com/Helium314/HeliBoard) - Customizable and privacy-conscious open-source keyboard
-*   [Povstalec/StargateJourney](https://github.com/Povstalec/StargateJourney) - A repository for the Stargate Journey Minecraft Mod
-*   [google/bundletool](https://github.com/google/bundletool) - Bundletool is a command-line tool to manipulate Android App Bundles
-*   [HeatherComputer/AdvancedBackups](https://github.com/HeatherComputer/AdvancedBackups) -
-*   [pcal43/fastback](https://github.com/pcal43/fastback) - Fast, incremental Minecraft world backups.  Powered by Git.
-*   [andreynovikov/trekarta](https://github.com/andreynovikov/trekarta) - Simple, responsive map for your trek. You decide how to journey today, not the application!
-*   [osmandapp/OsmAnd](https://github.com/osmandapp/OsmAnd) - OsmAnd
-*   [emanuele-f/PCAPdroid](https://github.com/emanuele-f/PCAPdroid) - No-root network monitor, firewall and PCAP dumper for Android
-*   [CreativeMD/LittleFrames](https://github.com/CreativeMD/LittleFrames) -
-*   [SrRapero720/waterframes](https://github.com/SrRapero720/waterframes) - Mod which let you see pictures in-game amen
-*   [BumbleSoftware/Fastload](https://github.com/BumbleSoftware/Fastload) - Mod to accelerate world init
-*   [PaperMC/Paper](https://github.com/PaperMC/Paper) - The most widely used, high performance Minecraft server that aims to fix gameplay and mechanics inconsistencies
-*   [PojavLauncherTeam/PojavLauncher](https://github.com/PojavLauncherTeam/PojavLauncher) - A Minecraft: Java Edition Launcher for Android and iOS based on Boardwalk. Succeeded by https://github.com/AngelAuraMC/Amethyst-Android
-*   [RikkaApps/Shizuku-API](https://github.com/RikkaApps/Shizuku-API) - The API and the developer guide for Shizuku and Sui.
-*   [bk138/droidVNC-NG](https://github.com/bk138/droidVNC-NG) - Android VNC remote desktop server for local networks
-*   [termux/termux-widget](https://github.com/termux/termux-widget) - Termux add-on app which adds shortcuts to commands on the home screen.
-*   [iiordanov/remote-desktop-clients](https://github.com/iiordanov/remote-desktop-clients) - VNC, RDP, SPICE, and oVirt/RHEV/Proxmox Clients for Android and Blackberry 10
-*   [WhiredPlanck/diskusage](https://github.com/WhiredPlanck/diskusage) - Automatically exported from code.google.com/p/diskusage
-*   [Julow/Unexpected-Keyboard](https://github.com/Julow/Unexpected-Keyboard) - A lightweight keyboard for Android
-*   [erkserkserks/openboard](https://github.com/erkserkserks/openboard) - 100% FOSS keyboard, based on AOSP
-*   [iterate-ch/cyberduck](https://github.com/iterate-ch/cyberduck) - Cyberduck is a libre FTP, SFTP, WebDAV, Amazon S3, Backblaze B2, Microsoft Azure & OneDrive and OpenStack Swift file transfer client for Mac and Windows.
-*   [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) - Access your entire server infrastructure from your local desktop
-*   [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) - Browse media content with your own rules on Android TV
-*   [arunajit/minio-android](https://github.com/arunajit/minio-android) - Android port of MinIO Client SDK for Java. For uploads to AWS S3 from Android.
-*   [developerxrahul/amazon-s3-android-uploader](https://github.com/developerxrahul/amazon-s3-android-uploader) - A library which helps developer to upload image and video in one line of code just by implementing rc-s3-uploader in your any android project.
-*   [ddsky/spoonacular-api-clients](https://github.com/ddsky/spoonacular-api-clients) -
-*   [LSPosed/AndroidHiddenApiBypass](https://github.com/LSPosed/AndroidHiddenApiBypass) - LSPass: Bypass restrictions on non-SDK interfaces
-*   [M66B/NetGuard](https://github.com/M66B/NetGuard) - A simple way to block access to the internet per app
-*   [zaproxy/zaproxy](https://github.com/zaproxy/zaproxy) - The ZAP by Checkmarx Core project
-*   [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
-*   [Tencent/tinker](https://github.com/Tencent/tinker) - Tinker is a hot-fix solution library for Android, it supports dex, library and resources update without reinstall apk.
-*   [Konloch/bytecode-viewer](https://github.com/Konloch/bytecode-viewer) - A Java 8+ Jar & Android APK Reverse Engineering Suite (Decompiler, Editor, Debugger & More)
-*   [google/android-classyshark](https://github.com/google/android-classyshark) - Android and Java bytecode viewer
-*   [asLody/VirtualApp](https://github.com/asLody/VirtualApp) - Virtual Engine for Android(Support 14.0 in business version)
-*   [skylot/jadx](https://github.com/skylot/jadx) - Dex to Java decompiler
-*   [charles2gan/GDA-android-reversing-Tool](https://github.com/charles2gan/GDA-android-reversing-Tool) - the fastest and most powerful android decompiler(native tool working without Java VM) for the APK, DEX, ODEX, OAT, JAR, AAR, and CLASS file. which supports malicious behavior detection, privacy leaking detection, vulnerability detection, path solving, packer identification, variable tracking, deobfuscation, python\&java scripts, device memory extraction, data decryption, and encryption, etc.
-*   [pengshn6/BlackBox](https://github.com/pengshn6/BlackBox) - BlackBox is a virtual engine, it can clone and run virtual application on Android,  users don't have to install APK file to run the application on devices. BlackBox control all virtual applications, so you can do anything you want by using BlackBox.
-*   [iBotPeaches/Apktool](https://github.com/iBotPeaches/Apktool) - A tool for reverse engineering Android apk files
-*   [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
-*   [swagger-api/swagger-parser](https://github.com/swagger-api/swagger-parser) - Swagger Spec to Java POJOs
-*   [swagger-api/validator-badge](https://github.com/swagger-api/validator-badge) - Validate your Swagger JSON/YAML today!
-*   [ripmeapp2/ripme](https://github.com/ripmeapp2/ripme) - Downloads albums in bulk
-*   [storyofdavid/Android-WorkoutTracker](https://github.com/storyofdavid/Android-WorkoutTracker) - Free to use demo repo of an android workout tracker application
-*   [arjunkaruvally/BluetoothPeripheral](https://github.com/arjunkaruvally/BluetoothPeripheral) -
-*   [solana-developers/dapp-scaffold-react-native](https://github.com/solana-developers/dapp-scaffold-react-native) - dApp scaffold for react native apps
-*   [azesmway/react-native-unity](https://github.com/azesmway/react-native-unity) -
-*   [LuigiVampa92/XLogger](https://github.com/LuigiVampa92/XLogger) - Xposed module that allows to sniff and record logs of NFC and Bluetooth communication on device
-*   [xtclang/xvm](https://github.com/xtclang/xvm) - Ecstasy and XVM
-*   [RBWare/Glass-App-Manager](https://github.com/RBWare/Glass-App-Manager) - Simple app manager for Google Glass
-
 ## Rust
 
 *   [unhappychoice/gitlogue](https://github.com/unhappychoice/gitlogue) - A cinematic Git commit replay tool for the terminal, turning your Git history into a living, animated story.
@@ -2089,6 +2088,7 @@
 *   [shuttle-hq/shuttle](https://github.com/shuttle-hq/shuttle) - Build & ship backends without writing any infrastructure files.
 *   [solana-playground/solana-playground](https://github.com/solana-playground/solana-playground) - Quickly develop, deploy and test Solana programs from browsers
 *   [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
+*   [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 *   [metaplex-foundation/mpl-bubblegum](https://github.com/metaplex-foundation/mpl-bubblegum) - Create and manage Metaplex compressed NFTs
 *   [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is an open-source declarative GUI toolkit to build native user interfaces for Rust, C++, JavaScript, or Python apps.
 *   [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
