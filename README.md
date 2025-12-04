@@ -140,6 +140,7 @@
 *   [azesmway/react-native-unity](https://github.com/azesmway/react-native-unity) -
 *   [LuigiVampa92/XLogger](https://github.com/LuigiVampa92/XLogger) - Xposed module that allows to sniff and record logs of NFC and Bluetooth communication on device
 *   [xtclang/xvm](https://github.com/xtclang/xvm) - Ecstasy and XVM
+*   [RBWare/Glass-App-Manager](https://github.com/RBWare/Glass-App-Manager) - Simple app manager for Google Glass
 
 ## Python
 
@@ -442,7 +443,7 @@
 *   [SYSTRAN/faster-whisper](https://github.com/SYSTRAN/faster-whisper) - Faster Whisper transcription with CTranslate2
 *   [m-bain/whisperX](https://github.com/m-bain/whisperX) - WhisperX:  Automatic Speech Recognition with Word-level Timestamps (& Diarization)
 *   [microsoft/BitNet](https://github.com/microsoft/BitNet) - Official inference framework for 1-bit LLMs
-*   [agno-agi/agno](https://github.com/agno-agi/agno) - Multi-agent framework, runtime and control plane. Built for speed, privacy, and scale.
+*   [agno-agi/agno](https://github.com/agno-agi/agno) - The open-source stack for building, running and managing multi-agent systems.
 *   [VRSEN/agency-swarm](https://github.com/VRSEN/agency-swarm) - Reliable Multi-Agent Orchestration Framework (Extension of Agents SDK)
 *   [openai/swarm](https://github.com/openai/swarm) - Educational framework exploring ergonomic, lightweight multi-agent orchestration. Managed by OpenAI Solution team.
 *   [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
@@ -820,6 +821,7 @@
 *   [kstonekuan/squash-browser-memory](https://github.com/kstonekuan/squash-browser-memory) - Squash adds an invisible memory layer to your browser, compressing every click into portable context for any AI agent
 *   [inkeep/mcp-for-cloudflare](https://github.com/inkeep/mcp-for-cloudflare) -
 *   [Pimzino/claude-code-spec-workflow](https://github.com/Pimzino/claude-code-spec-workflow) - Automated workflows for Claude Code. Features spec-driven development for new features (Requirements → Design → Tasks → Implementation) and streamlined bug fix workflow for quick issue resolution (Report → Analyze → Fix → Verify).
+*   [letta-ai/letta-discord-bot-example](https://github.com/letta-ai/letta-discord-bot-example) -  An example Discord chatbot built on the Letta API, which uses a stateful agent (agent with memory) under the hood.
 *   [tdurieux/anonymous\_github](https://github.com/tdurieux/anonymous_github) - Anonymous Github is a proxy server to support anonymous browsing of Github repositories for open-science code and data.
 *   [toolsdk-ai/toolsdk-mcp-registry](https://github.com/toolsdk-ai/toolsdk-mcp-registry) - ToolSDK.ai's Awesome MCP Servers and Packages Registry and Database with Structured JSON configurations
 *   [andrea9293/mcp-documentation-server](https://github.com/andrea9293/mcp-documentation-server) - MCP Documentation Server - Bridge the AI Knowledge Gap.  ✨ Features: Document management • Gemini integration • AI-powered semantic search • File uploads • Smart chunking • Multilingual support • Zero-setup  🎯 Perfect for: New frameworks • API docs • Internal guides
@@ -952,7 +954,7 @@
 *   [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 *   [spartan-ng/spartan](https://github.com/spartan-ng/spartan) - Cutting-edge tools powering Angular full-stack development.
 *   [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui) - AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.
-*   [redwoodjs/sdk](https://github.com/redwoodjs/sdk) - Simple, server-first React framework. Built on Vite, TypeScript, & Cloudflare.
+*   [redwoodjs/sdk](https://github.com/redwoodjs/sdk) - The Keep it Simple Stack. Server-first, React, Vite, TypeScript, & Cloudflare
 *   [vvo/iron-session](https://github.com/vvo/iron-session) - 🛠 Secure, stateless, and cookie-based session library for JavaScript
 *   [inaridiy/webforai](https://github.com/inaridiy/webforai) - The best HTML to Markdown library, A esm-native & Useful Utilities with simple, lightweight and epic quality.
 *   [vitdocjs/vitdoc](https://github.com/vitdocjs/vitdoc) - Use markdown to write documentation, and automatically extract interface definitions.
@@ -1128,7 +1130,6 @@
 *   [AlmostEfficient/hvr](https://github.com/AlmostEfficient/hvr) - Full-stack Hono + Vite + React template w/ Bun
 *   [adithya-s-k/RAG-SaaS](https://github.com/adithya-s-k/RAG-SaaS) - ⚡Ship RAG Solutions Quickly and effortlessly
 *   [kadumedim/bun-hono](https://github.com/kadumedim/bun-hono) -
-*   [Vontigo/Vontigo](https://github.com/Vontigo/Vontigo) - 🛸 Vontigo is an open-source CMS built with SvelteKit, featuring 🤖 AI-powered (ChatGPT) content generation. With fast page loads and seamless routing, Vontigo offers a user-friendly interface with customizable themes and templates.
 *   [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
 *   [corbt/agent.exe](https://github.com/corbt/agent.exe) -
 *   [transitive-bullshit/openai-realtime-api](https://github.com/transitive-bullshit/openai-realtime-api) - TypeScript client for OpenAI's realtime voice API.
@@ -2302,7 +2303,6 @@
 *   [JessyTsui/Claude-Code-Remote](https://github.com/JessyTsui/Claude-Code-Remote) - Control Claude Code remotely via email、discord、telegram. Start tasks locally, receive notifications when Claude completes them, and send new commands by simply replying to emails.
 *   [juliangarnier/anime](https://github.com/juliangarnier/anime) - JavaScript animation engine
 *   [stagas/tsbro](https://github.com/stagas/tsbro) - TypeScript for the Browser
-*   [letta-ai/letta-discord-bot-example](https://github.com/letta-ai/letta-discord-bot-example) -  An example Discord chatbot built on the Letta API, which uses a stateful agent (agent with memory) under the hood.
 *   [vectorize-io/vectorize-mcp-server](https://github.com/vectorize-io/vectorize-mcp-server) - Official Vectorize MCP Server
 *   [u14app/deep-research](https://github.com/u14app/deep-research) - Use any LLMs (Large Language Models) for Deep Research. Support SSE API and MCP server.
 *   [AgentDeskAI/browser-tools-mcp](https://github.com/AgentDeskAI/browser-tools-mcp) - Monitor browser logs directly from Cursor and other MCP compatible IDEs.
