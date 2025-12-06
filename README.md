@@ -238,7 +238,7 @@
 *   [arjunguha/BigCodeBench-X](https://github.com/arjunguha/BigCodeBench-X) - A benchmark of programming tasks for LLMs that supports almost any programming language.
 *   [sapientinc/HRM](https://github.com/sapientinc/HRM) - Hierarchical Reasoning Model Official Release
 *   [AsyncFuncAI/deepwiki-open](https://github.com/AsyncFuncAI/deepwiki-open) - Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab/Bitbucket Repositories. Join the discord: https://discord.gg/gMwThUMeme
-*   [Alpha-Innovator/InternAgent](https://github.com/Alpha-Innovator/InternAgent) - When Agent Becomes the Scientist – Building Closed-Loop System from Hypothesis to Verification
+*   [InternScience/InternAgent](https://github.com/InternScience/InternAgent) - When Agent Becomes the Scientist – Building Closed-Loop System from Hypothesis to Verification
 *   [letta-ai/agent-file](https://github.com/letta-ai/agent-file) - Agent File (.af): An open file format for serializing stateful AI agents with persistent memory and behavior. Share, checkpoint, and version control agents across compatible frameworks.
 *   [SalesforceAIResearch/MCPEval](https://github.com/SalesforceAIResearch/MCPEval) - MCP-based Agent Deep Evaluation System
 *   [SAAgent/MCPWorld](https://github.com/SAAgent/MCPWorld) -
