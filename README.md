@@ -1980,7 +1980,7 @@
 *   [solana-foundation/kora](https://github.com/solana-foundation/kora) - Implementation of a Solana relayer. Provides a lib and cli crate in order to enable signing experiences on Solana
 *   [tuananh/hyper-mcp](https://github.com/tuananh/hyper-mcp) - 📦️ A fast, secure MCP server that extends its capabilities through WebAssembly plugins.
 *   [lumina-ai-inc/chunkr](https://github.com/lumina-ai-inc/chunkr) - Vision infrastructure to turn complex documents into RAG/LLM-ready data
-*   [katanemo/archgw](https://github.com/katanemo/archgw) - The data plane for agents. Arch is a models-native proxy server that handles the plumbing work in AI: agent routing & hand off, guardrails, zero-code logs and traces, unified access to LLMs from OpenAI, Anthropic, Ollama, etc. Build agents faster, and scale them reliably.
+*   [katanemo/archgw](https://github.com/katanemo/archgw) - Delivery infrastructure for agents. Arch is a models-native proxy server that handles the plumbing work in AI: agent routing & orchestration, guardrails, zero-code logs and traces, unified access to LLMs from OpenAI, Anthropic, Ollama, etc. Build agents faster, and deliver them reliably to production.
 *   [Helicone/ai-gateway](https://github.com/Helicone/ai-gateway) - The fastest, lightest, and easiest-to-integrate AI gateway on the market. Fully open-sourced.
 *   [sxhxliang/mcp-access-point](https://github.com/sxhxliang/mcp-access-point) - Turn a web server into an MCP server in one click without making any code changes.
 *   [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
@@ -3126,7 +3126,7 @@
 ## C\#
 
 *   [legendsayantan/Extendroid-Win](https://github.com/legendsayantan/Extendroid-Win) - Extend your android device, to other platforms.
-*   [InterceptSuite/InterceptSuite](https://github.com/InterceptSuite/InterceptSuite) - MITM proxy for TCP/TLS/DTLS/UDP traffic, with support for TLS upgrades like STARTTLS, PostgreSQL, and more.
+*   [InterceptSuite/InterceptSuite](https://github.com/InterceptSuite/InterceptSuite) - MITM proxy for TCP/TLS/DTLS/UDP traffic, with STARTTLS, IoT, Thick Client and more.
 *   [hermitdave/FrequencyWords](https://github.com/hermitdave/FrequencyWords) - Repository for Frequency Word List Generator and processed files
 *   [builtbybel/FlyOOBE](https://github.com/builtbybel/FlyOOBE) - Fly through your Windows 11 setup 🐝
 *   [EricZimmerman/MFTECmd](https://github.com/EricZimmerman/MFTECmd) - Parses $MFT from NTFS file systems
