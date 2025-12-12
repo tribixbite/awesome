@@ -1533,7 +1533,7 @@
 *   [mmomtchev/rlayers](https://github.com/mmomtchev/rlayers) - React Component Library for OpenLayers
 *   [cipherstash-archive/cipherstash.js](https://github.com/cipherstash-archive/cipherstash.js) - CipherStash clients for JavaScript and TypeScript
 *   [Stonks-Luma-Liberty/GuiltySpark](https://github.com/Stonks-Luma-Liberty/GuiltySpark) - Solana NFT wallet monitor discord bot
-*   [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
+*   [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 *   [bhagyamudgal/soltok](https://github.com/bhagyamudgal/soltok) - A react web app to find spl-tokens with same or similar token name or symbol on the solana blockchain
 *   [fukaoi/smart-token-tools](https://github.com/fukaoi/smart-token-tools) - SPL Token/ NFT  issue tool on solana blockchain by React
 *   [orca-so/typescript-sdk](https://github.com/orca-so/typescript-sdk) - The Orca SDK contains a set of simple to use APIs to allow developers to integrate with the Orca platform.
