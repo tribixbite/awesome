@@ -90,7 +90,7 @@
 *   [expo/examples](https://github.com/expo/examples) - Example projects that demonstrate how to use Expo APIs and integrate Expo with other popular tools
 *   [serkodev/markdown-exit](https://github.com/serkodev/markdown-exit) - Fast, customizable Markdown parser and renderer with full CommonMark support. TypeScript rewrite of markdown-it with enhancements.
 *   [numman-ali/openskills](https://github.com/numman-ali/openskills) - Universal skills loader for AI coding agents - npm i -g openskills
-*   [CaviraOSS/OpenMemory](https://github.com/CaviraOSS/OpenMemory) - OpenMemory gives AI agents real long-term memory. Not vector search. Not RAG. Actual memory.
+*   [CaviraOSS/OpenMemory](https://github.com/CaviraOSS/OpenMemory) - Local persistent memory store for LLM applications including claude desktop, github copilot, codex, antigravity, etc.
 *   [anthropic-experimental/sandbox-runtime](https://github.com/anthropic-experimental/sandbox-runtime) - A lightweight sandboxing tool for enforcing filesystem and network restrictions on arbitrary processes at the OS level, without requiring a container.
 *   [pmndrs/uikit](https://github.com/pmndrs/uikit) - 🎨 user interfaces for react-three-fiber
 *   [yoavf/ai-sessions](https://github.com/yoavf/ai-sessions) - AI Sessions - share your Claude Code and Codex transcripts
@@ -709,7 +709,7 @@
 *   [pubkeyapp/pubkey-stack](https://github.com/pubkeyapp/pubkey-stack) - A starter to generate apps using the PubKey stack. Nx, Nest, Prisma, GraphQL, React, Mantine, advanced code generators and more... Join our Discord for questions.
 *   [hanielu/sk-trpc-payload](https://github.com/hanielu/sk-trpc-payload) - A turborepo template featuring Sveltekit and Payload CMS, ready to be deployed to a single node server - specifically using https://railway.app.
 *   [FantomeBeignet/railway-sapphire-bot-template](https://github.com/FantomeBeignet/railway-sapphire-bot-template) - Railway template for a Discord bot using the Sapphire framework and TypeScript
-*   [neplextech/edge-ui](https://github.com/neplextech/edge-ui) - Internal components library based on shadcn-ui
+*   [neplexlabs/edge-ui](https://github.com/neplexlabs/edge-ui) - Internal components library based on shadcn-ui
 *   [owenventer/galleria](https://github.com/owenventer/galleria) - Helius Portfolio Viewer
 *   [helius-labs/galleria](https://github.com/helius-labs/galleria) - An open source portfolio viewer that is built on top of Helius's DAS API.
 *   [warp-id/solana-trading-bot](https://github.com/warp-id/solana-trading-bot) - Solana Trading Bot - Beta
@@ -1327,7 +1327,7 @@
 *   [MemoriLabs/Memori](https://github.com/MemoriLabs/Memori) - SQL Native Memory Layer for LLMs, AI Agents & Multi-Agent Systems
 *   [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).
 *   [mistralai/mistral-vibe](https://github.com/mistralai/mistral-vibe) - Minimal CLI coding agent by Mistral
-*   [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Skills
+*   [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Agent Skills
 *   [aiming-lab/Agent0](https://github.com/aiming-lab/Agent0) - Agent0 Series: Self-Evolving Agents from Zero Data
 *   [karpathy/llm-council](https://github.com/karpathy/llm-council) - LLM Council works together to answer your hardest questions
 *   [K-Dense-AI/karpathy](https://github.com/K-Dense-AI/karpathy) - An agentic Machine Learning Engineer
