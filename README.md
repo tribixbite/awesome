@@ -2829,6 +2829,7 @@
 *   [dkkocab/WebSiteBot\_PS5](https://github.com/dkkocab/WebSiteBot_PS5) - This is a bot that will buy a PS5 through Walmart. It's written in python and uses selenium to interact with web pages. *WORK IN PROGRESS*
 *   [oriziv/sync-files-blob-storage-ha](https://github.com/oriziv/sync-files-blob-storage-ha) -
 *   [kylepaulsen/ResourceOverride](https://github.com/kylepaulsen/ResourceOverride) - An extension to help you gain full control of any website by redirecting traffic, replacing, editing, or inserting new content.
+*   [NUKnightLab/juxtapose](https://github.com/NUKnightLab/juxtapose) - JuxtaposeJS is a JavaScript library for making before/after image sliders
 
 ## HTML
 
@@ -2866,7 +2867,6 @@
 *   [littleark/githut](https://github.com/littleark/githut) - Visualization of data from github archive.
 *   [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot) - An advanced discord music bot, supports Spotify, Soundcloud, YouTube with Shuffling, Volume Control and Web Dashboard with Slash Commands support!
 *   [Clueless-Community/seamless-ui](https://github.com/Clueless-Community/seamless-ui) - The next gen UI made with simple HTML and Tailwind CSS. It's compatible with simple HTML, CSS static website or a React, Vue, Angular or Next.js Complex app. Zero JS and no-plugins installed.
-*   [ehxu/termius-cracked](https://github.com/ehxu/termius-cracked) - Terminus Cracked Version
 *   [anubra266/chakra-play](https://github.com/anubra266/chakra-play) - 🤽‍♀️ An advanced online playground for Chakra UI
 *   [MyMiniFactory/stl2gltf](https://github.com/MyMiniFactory/stl2gltf) - Convert STL to glb
 *   [carbon-design-system/carbon-charts](https://github.com/carbon-design-system/carbon-charts) - :bar\_chart: :chart\_with\_upwards\_trend:⠀Robust dataviz framework implemented using D3 & typescript
