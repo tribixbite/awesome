@@ -4,10 +4,10 @@
 
 ## Table of Contents
 
+*   [TypeScript](#typescript)
 *   [Java](#java)
 *   [Kotlin](#kotlin)
 *   [C](#c)
-*   [TypeScript](#typescript)
 *   [JavaScript](#javascript)
 *   [Shell](#shell)
 *   [Python](#python)
@@ -79,195 +79,14 @@
 *   [Visual Basic .NET](#visual-basic-net)
 *   [R](#r)
 
-## Java
-
-*   [xodiosx/termux-x11-xodmod](https://github.com/xodiosx/termux-x11-xodmod) -
-*   [ArcaneChat/android](https://github.com/ArcaneChat/android) - ArcaneChat for Android: ⚡ Fast encrypted chats for the family
-*   [Minecraft-Transit-Railway/Minecraft-Transit-Railway](https://github.com/Minecraft-Transit-Railway/Minecraft-Transit-Railway) - A Minecraft mod that allows you to build your own transport network with automated trains, boats, cable cars, and planes!
-*   [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
-*   [termux/termux-tasker](https://github.com/termux/termux-tasker) - Termux add-on app for integration with Tasker.
-*   [jberkel/sms-backup-plus](https://github.com/jberkel/sms-backup-plus) - Backup Android SMS, MMS and call log to Gmail / Gcal / IMAP
-*   [termux/termux-boot](https://github.com/termux/termux-boot) - Termux add-on app allowing programs to be run at boot.
-*   [AlexModGuy/Ice\_and\_Fire](https://github.com/AlexModGuy/Ice_and_Fire) - Minecraft mystical mod
-*   [MuntashirAkon/AppManager](https://github.com/MuntashirAkon/AppManager) - A full-featured package manager and viewer for Android
-*   [Reginer/aosp-android-jar](https://github.com/Reginer/aosp-android-jar) - AOSP编译出的android.jar，sdk里面以前反射调用的方法，现在可以直接调用了。
-*   [jaredsburrows/open-quartz](https://github.com/jaredsburrows/open-quartz) - Google Glass Development - GDK + SDK
-*   [Srikanth1511/Glass-Stream](https://github.com/Srikanth1511/Glass-Stream) - Google Glass XE camera streamer with url
-*   [legendsayantan/Dimmy](https://github.com/legendsayantan/Dimmy) - Dim your brightness... Further! This app allows to dim any android device screen even lower than its lowest brightness, just with a quick settings toggle.
-*   [Null123-ASD/Android\_TTS\_OCR\_Converter](https://github.com/Null123-ASD/Android_TTS_OCR_Converter) - Android TTS OCR Converter (Mobile App)- A Mobile Assistive Tool for Text-to-Speech and Chatbot Interaction
-*   [Helium314/HeliBoard](https://github.com/Helium314/HeliBoard) - Customizable and privacy-conscious open-source keyboard
-*   [Povstalec/StargateJourney](https://github.com/Povstalec/StargateJourney) - A repository for the Stargate Journey Minecraft Mod
-*   [google/bundletool](https://github.com/google/bundletool) - Bundletool is a command-line tool to manipulate Android App Bundles
-*   [HeatherComputer/AdvancedBackups](https://github.com/HeatherComputer/AdvancedBackups) -
-*   [pcal43/fastback](https://github.com/pcal43/fastback) - Fast, incremental Minecraft world backups.  Powered by Git.
-*   [andreynovikov/trekarta](https://github.com/andreynovikov/trekarta) - Simple, responsive map for your trek. You decide how to journey today, not the application!
-*   [osmandapp/OsmAnd](https://github.com/osmandapp/OsmAnd) - OsmAnd
-*   [emanuele-f/PCAPdroid](https://github.com/emanuele-f/PCAPdroid) - No-root network monitor, firewall and PCAP dumper for Android
-*   [CreativeMD/LittleFrames](https://github.com/CreativeMD/LittleFrames) -
-*   [SrRapero720/waterframes](https://github.com/SrRapero720/waterframes) - Mod which let you see pictures in-game amen
-*   [BumbleSoftware/Fastload](https://github.com/BumbleSoftware/Fastload) - Mod to accelerate world init
-*   [PaperMC/Paper](https://github.com/PaperMC/Paper) - The most widely used, high performance Minecraft server that aims to fix gameplay and mechanics inconsistencies
-*   [PojavLauncherTeam/PojavLauncher](https://github.com/PojavLauncherTeam/PojavLauncher) - A Minecraft: Java Edition Launcher for Android and iOS based on Boardwalk. Succeeded by https://github.com/AngelAuraMC/Amethyst-Android
-*   [RikkaApps/Shizuku-API](https://github.com/RikkaApps/Shizuku-API) - The API and the developer guide for Shizuku and Sui.
-*   [bk138/droidVNC-NG](https://github.com/bk138/droidVNC-NG) - Android VNC remote desktop server for local networks
-*   [termux/termux-widget](https://github.com/termux/termux-widget) - Termux add-on app which adds shortcuts to commands on the home screen.
-*   [iiordanov/remote-desktop-clients](https://github.com/iiordanov/remote-desktop-clients) - VNC, RDP, SPICE, and oVirt/RHEV/Proxmox Clients for Android and Blackberry 10
-*   [WhiredPlanck/diskusage](https://github.com/WhiredPlanck/diskusage) - Automatically exported from code.google.com/p/diskusage
-*   [Julow/Unexpected-Keyboard](https://github.com/Julow/Unexpected-Keyboard) - A lightweight keyboard for Android
-*   [erkserkserks/openboard](https://github.com/erkserkserks/openboard) - 100% FOSS keyboard, based on AOSP
-*   [iterate-ch/cyberduck](https://github.com/iterate-ch/cyberduck) - Cyberduck is a libre FTP, SFTP, WebDAV, Amazon S3, Backblaze B2, Microsoft Azure & OneDrive and OpenStack Swift file transfer client for Mac and Windows.
-*   [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) - Access your entire server infrastructure from your local desktop
-*   [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) - Browse media content with your own rules on Android TV
-*   [arunajit/minio-android](https://github.com/arunajit/minio-android) - Android port of MinIO Client SDK for Java. For uploads to AWS S3 from Android.
-*   [developerxrahul/amazon-s3-android-uploader](https://github.com/developerxrahul/amazon-s3-android-uploader) - A library which helps developer to upload image and video in one line of code just by implementing rc-s3-uploader in your any android project.
-*   [ddsky/spoonacular-api-clients](https://github.com/ddsky/spoonacular-api-clients) -
-*   [LSPosed/AndroidHiddenApiBypass](https://github.com/LSPosed/AndroidHiddenApiBypass) - LSPass: Bypass restrictions on non-SDK interfaces
-*   [M66B/NetGuard](https://github.com/M66B/NetGuard) - A simple way to block access to the internet per app
-*   [zaproxy/zaproxy](https://github.com/zaproxy/zaproxy) - The ZAP by Checkmarx Core project
-*   [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
-*   [Tencent/tinker](https://github.com/Tencent/tinker) - Tinker is a hot-fix solution library for Android, it supports dex, library and resources update without reinstall apk.
-*   [Konloch/bytecode-viewer](https://github.com/Konloch/bytecode-viewer) - A Java 8+ Jar & Android APK Reverse Engineering Suite (Decompiler, Editor, Debugger & More)
-*   [google/android-classyshark](https://github.com/google/android-classyshark) - Android and Java bytecode viewer
-*   [asLody/VirtualApp](https://github.com/asLody/VirtualApp) - Virtual Engine for Android(Support 14.0 in business version)
-*   [skylot/jadx](https://github.com/skylot/jadx) - Dex to Java decompiler
-*   [charles2gan/GDA-android-reversing-Tool](https://github.com/charles2gan/GDA-android-reversing-Tool) - the fastest and most powerful android decompiler(native tool working without Java VM) for the APK, DEX, ODEX, OAT, JAR, AAR, and CLASS file. which supports malicious behavior detection, privacy leaking detection, vulnerability detection, path solving, packer identification, variable tracking, deobfuscation, python\&java scripts, device memory extraction, data decryption, and encryption, etc.
-*   [pengshn6/BlackBox](https://github.com/pengshn6/BlackBox) - BlackBox is a virtual engine, it can clone and run virtual application on Android,  users don't have to install APK file to run the application on devices. BlackBox control all virtual applications, so you can do anything you want by using BlackBox.
-*   [iBotPeaches/Apktool](https://github.com/iBotPeaches/Apktool) - A tool for reverse engineering Android apk files
-*   [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
-*   [swagger-api/swagger-parser](https://github.com/swagger-api/swagger-parser) - Swagger Spec to Java POJOs
-*   [swagger-api/validator-badge](https://github.com/swagger-api/validator-badge) - Validate your Swagger JSON/YAML today!
-*   [ripmeapp2/ripme](https://github.com/ripmeapp2/ripme) - Downloads albums in bulk
-*   [storyofdavid/Android-WorkoutTracker](https://github.com/storyofdavid/Android-WorkoutTracker) - Free to use demo repo of an android workout tracker application
-*   [arjunkaruvally/BluetoothPeripheral](https://github.com/arjunkaruvally/BluetoothPeripheral) -
-*   [solana-developers/dapp-scaffold-react-native](https://github.com/solana-developers/dapp-scaffold-react-native) - dApp scaffold for react native apps
-*   [azesmway/react-native-unity](https://github.com/azesmway/react-native-unity) -
-*   [LuigiVampa92/XLogger](https://github.com/LuigiVampa92/XLogger) - Xposed module that allows to sniff and record logs of NFC and Bluetooth communication on device
-*   [xtclang/xvm](https://github.com/xtclang/xvm) - Ecstasy and XVM
-
-## Kotlin
-
-*   [rainxchzed/Github-Store](https://github.com/rainxchzed/Github-Store) - A free, open-source app store for GitHub releases — browse, discover, and install apps with one click. Powered by Kotlin and Compose Multiplatform for Android & Desktop.
-*   [sakethpathike/Otic](https://github.com/sakethpathike/Otic) - Minimal Android app to stream microphone input to the local network.
-*   [ReVanced/revanced-patcher](https://github.com/ReVanced/revanced-patcher) - 💉 ReVanced Patcher used to patch Android applications
-*   [Catrobat/Paintroid](https://github.com/Catrobat/Paintroid) - The standard image manipulation app for Catroid.
-*   [tribixbite/CustomCamera](https://github.com/tribixbite/CustomCamera) - Professional plugin-based Android camera app with modular architecture, manual controls, and advanced features
-*   [VREMSoftwareDevelopment/WiFiAnalyzer](https://github.com/VREMSoftwareDevelopment/WiFiAnalyzer) - Android application to analyze Wi-Fi signals.
-*   [tytydraco/LADB](https://github.com/tytydraco/LADB) - A local ADB shell for Android!
-*   [supershadoe/delta](https://github.com/supershadoe/delta) - Advanced hotspot settings for Pixel-like devices
-*   [tribixbite/GlassAssistant](https://github.com/tribixbite/GlassAssistant) - Assistant for Google Glass EE2
-*   [Jonathan-R-Anderson/glass-plex](https://github.com/Jonathan-R-Anderson/glass-plex) - plex client for google glass
-*   [inckie/AnotherGlass](https://github.com/inckie/AnotherGlass) - Companion application to handle Google Glass communication with a phone without Glass related Google Services.
-*   [legendsayantan/Extendroid](https://github.com/legendsayantan/Extendroid) - Android Multi-Tasking Manager with desktop-like multi window and remote access support.
-*   [tribixbite/CleverKeys](https://github.com/tribixbite/CleverKeys) - Privacy-first neural Android keyboard with advanced swipe prediction
-*   [bmax121/APatch](https://github.com/bmax121/APatch) - The patching of Android kernel and Android system
-*   [legendsayantan/ShizuTools](https://github.com/legendsayantan/ShizuTools) - Contains many tools to control android system via shizuku.
-*   [FossifyOrg/Flashlight](https://github.com/FossifyOrg/Flashlight) - A simple modern flashlight with SOS, stroboscope & bright display, has no ads.
-*   [FossifyOrg/Voice-Recorder](https://github.com/FossifyOrg/Voice-Recorder) - An easy way of recording any discussion or sounds without ads or internet access
-*   [FossifyOrg/Messages](https://github.com/FossifyOrg/Messages) - An easy and quick way of managing SMS and MMS messages without ads.
-*   [liriliri/eruda-android](https://github.com/liriliri/eruda-android) - Simple webview with eruda loaded automatically
-*   [shubham0204/SmolChat-Android](https://github.com/shubham0204/SmolChat-Android) - Running any GGUF SLMs/LLMs locally, on-device in Android
-*   [d4rken-org/sdmaid-se](https://github.com/d4rken-org/sdmaid-se) - SD Maid 2/SE is Android's most thorough cleaning tool.
-*   [LinkSheet/LinkSheet](https://github.com/LinkSheet/LinkSheet) - Link handling for modern Android
-*   [fork-maintainers/iceraven-browser](https://github.com/fork-maintainers/iceraven-browser) - Iceraven Browser
-*   [JunkFood02/Seal](https://github.com/JunkFood02/Seal) - 🦭 Video/Audio Downloader for Android, based on yt-dlp
-*   [deniscerri/ytdlnis](https://github.com/deniscerri/ytdlnis) - Full-featured audio/video downloader for Android using yt-dlp
-*   [RikkaApps/Shizuku](https://github.com/RikkaApps/Shizuku) - Using system APIs directly with adb/root privileges from normal apps through a Java process started with app\_process.
-*   [newhinton/disky](https://github.com/newhinton/disky) - An android filesystem analyzer that can show you the usage of your storage!
-*   [iamr0s/Dhizuku](https://github.com/iamr0s/Dhizuku) - A tool that can share DeviceOwner permissions to other application.
-*   [libre-tube/LibreTube](https://github.com/libre-tube/LibreTube) - An alternative frontend for YouTube, for Android.
-*   [FossifyOrg/Keyboard](https://github.com/FossifyOrg/Keyboard) - Easy keyboard for inserting all kinds of texts, special characters and numbers.
-*   [T8RIN/ImageToolbox](https://github.com/T8RIN/ImageToolbox) - 🖼️ Image Toolbox is a powerful app for advanced image manipulation. It offers dozens of features, from basic tools like crop and draw to filters, OCR, and a wide range of image processing options
-*   [thunderbird/thunderbird-android](https://github.com/thunderbird/thunderbird-android) - Thunderbird for Android – Open Source Email App for Android (fka K-9 Mail)
-*   [keymapperorg/KeyMapper](https://github.com/keymapperorg/KeyMapper) - An Android app to remap the buttons on your devices
-*   [hardillb/S3Share](https://github.com/hardillb/S3Share) - An Android app for sharing images and videos to an S3 Bucket
-*   [horizontalsystems/unstoppable-wallet-android](https://github.com/horizontalsystems/unstoppable-wallet-android) - A powerful non-custodial multi-wallet for Bitcoin, Ethereum, Binance Smart Chain, Avalanche, Solana and other blockchains. Non-custodial crypto and NFT storage, onchain decentralized exchange, institutional grade analytics for cryptcurrency and NFT markets, extensive privacy controls and human oriented design. Implemented on Kotlin.
-*   [patxibocos/google-photos-exporter](https://github.com/patxibocos/google-photos-exporter) - Get your Google Photos synced to Dropbox, OneDrive, Box or GitHub
-*   [saket/unfurl](https://github.com/saket/unfurl) - Generate rich previews of links, inspired by Slack.
-*   [accrescent/accrescent](https://github.com/accrescent/accrescent) - A novel Android app store focused on security, privacy, and usability
-*   [Kotlin/kmp-production-sample](https://github.com/Kotlin/kmp-production-sample) - This is an open-source, mobile, cross-platform application built with Kotlin Multiplatform Mobile. It's a simple RSS reader, and you can download it from the App Store and Google Play. It's been designed to demonstrate how KMM can be used in real production projects.
-*   [OpenArchive/Save-app-android](https://github.com/OpenArchive/Save-app-android) - This is the Save app for Android
-*   [caydey/ffshare](https://github.com/caydey/ffshare) - An android app to compress image, video and audio files through ffmpeg before sharing them
-*   [PatilShreyas/NotyKT](https://github.com/PatilShreyas/NotyKT) - 📒 NotyKT is a complete 💎Kotlin-stack (Backend + Android) 📱 application built to demonstrate the use of Modern development tools with best practices implementation🦸.
-*   [skydoves/chatgpt-android](https://github.com/skydoves/chatgpt-android) - 📲 ChatGPT Android demonstrates a Chatbot application using OpenAI's chat API on Android with Stream Chat SDK for Compose.
-*   [ptrpaws/Oculess](https://github.com/ptrpaws/Oculess) - Removes account requirements and telemetry from Oculus Quest devices
-*   [SimonMarquis/Android-App-Linking](https://github.com/SimonMarquis/Android-App-Linking) - 🔗 The ultimate developer guide to Android application linking methods
-*   [pyamsoft/tetherfusenet](https://github.com/pyamsoft/tetherfusenet) - TetherFuseNet - Internet sharing without Root
-*   [p2p-org/key-app-android](https://github.com/p2p-org/key-app-android) -
-*   [zachbr/Dis4IRC](https://github.com/zachbr/Dis4IRC) - A modern Discord <-> IRC bridge
-*   [metrodroid/metrodroid](https://github.com/metrodroid/metrodroid) - Read data from public transit cards using your NFC Android phone! (iOS 13 and PC/SC support coming soon)
-*   [kiwix/kiwix-android](https://github.com/kiwix/kiwix-android) - Kiwix for Android
-*   [Lucchetto/SuperImage](https://github.com/Lucchetto/SuperImage) - Sharpen your low-resolution pictures with the power of AI upscaling
-*   [tejado/android-usb-gadget](https://github.com/tejado/android-usb-gadget) - Convert your Android phone to any USB device you like! USB Gadget Tool allows you to create and activate USB device roles, like a mouse or a keyboard.  🛠🛡📱
-*   [coral-xyz/mobile-wallet-adapter-react-native](https://github.com/coral-xyz/mobile-wallet-adapter-react-native) - Solana Mobile Wallet Adapter for React Native & Expo
-*   [LorittaBot/Loritta](https://github.com/LorittaBot/Loritta) - 💁 A multipurpose, multilanguage, customizable, modular, and very cute bot for Discord! ~Making your server more awesome~
-*   [DanielMartinus/Konfetti](https://github.com/DanielMartinus/Konfetti) - Celebrate more with this lightweight confetti particle system 🎊
-*   [TeamVanced/VancedManager](https://github.com/TeamVanced/VancedManager) - Vanced Installer
-*   [TeamVanced/VancedStore](https://github.com/TeamVanced/VancedStore) - General Application Store with support for root apps and more
-
-## C
-
-*   [ading2210/doompdf](https://github.com/ading2210/doompdf) - A port of Doom (1993) that runs inside a PDF file
-*   [antonic901/xbmc4xbox-redux](https://github.com/antonic901/xbmc4xbox-redux) - XBMC is free and open source home theater/media center software and entertainment hub for Original Xbox.
-*   [ptitSeb/box86](https://github.com/ptitSeb/box86) - Box86 - Linux Userspace x86 Emulator with a twist, targeted at ARM Linux devices
-*   [usbbluetooth/usbbluetooth](https://github.com/usbbluetooth/usbbluetooth) - Take full control of your USB Bluetooth controllers!
-*   [tribixbite/Glass-Thermal-Imaging](https://github.com/tribixbite/Glass-Thermal-Imaging) - Real-time thermal imaging for Google Glass Explorer Edition using FLIR Boson cameras via USB OTG
-*   [BogdanTheGeek/semihost-ip](https://github.com/BogdanTheGeek/semihost-ip) - Running TCP/IP over SWD lines
-*   [haiwen/seafile](https://github.com/haiwen/seafile) - Beyond file syncing and sharing, a new way to organize your files with extensible file properties and flexible views
-*   [radareorg/radare2](https://github.com/radareorg/radare2) - UNIX-like reverse engineering framework and command-line toolset
-*   [winsiderss/systeminformer](https://github.com/winsiderss/systeminformer) - A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware. Brought to you by Winsider Seminars & Solutions, Inc. @ http://www.windows-internals.com
-*   [RsyncProject/rsync](https://github.com/RsyncProject/rsync) - An open source utility that provides fast incremental file transfer. It also has useful features for backup and restore operations among many other use cases.
-*   [termux/termux-x11](https://github.com/termux/termux-x11) - Termux X-server add-on.
-*   [tevador/equix](https://github.com/tevador/equix) - A CPU-friendly client puzzle with instant verification
-*   [veracrypt/VeraCrypt](https://github.com/veracrypt/VeraCrypt) - Disk encryption with strong security based on TrueCrypt
-*   [navit-gps/navit](https://github.com/navit-gps/navit) - The open source (GPL v2) turn-by-turn navigation software for many OS
-*   [gojue/ecapture](https://github.com/gojue/ecapture) - Capturing SSL/TLS plaintext without a CA certificate using eBPF. Supported on Linux/Android kernels for amd64/arm64.
-*   [adafruit/Adafruit\_Learning\_System\_Guides](https://github.com/adafruit/Adafruit_Learning_System_Guides) - Programs and scripts to display "inline" in Adafruit Learning System guides
-*   [upscayl/upscayl-ncnn](https://github.com/upscayl/upscayl-ncnn) - The Upscayl backend powered by the NCNN framework and Real-ESRGAN architecture.
-*   [cgsecurity/testdisk](https://github.com/cgsecurity/testdisk) - TestDisk & PhotoRec
-*   [kohler/gifsicle](https://github.com/kohler/gifsicle) - Create, manipulate, and optimize GIF images and animations
-*   [LongSoft/UEFITool](https://github.com/LongSoft/UEFITool) - UEFI firmware image viewer and editor
-*   [google/pebble](https://github.com/google/pebble) - This is the latest version of the internal repository from Pebble Technology providing the software to run on Pebble watches. Proprietary source code has been removed from this repository and it will not compile as-is. This is for information only.
-*   [axboe/fio](https://github.com/axboe/fio) - Flexible I/O Tester
-*   [ashvardanian/StringZilla](https://github.com/ashvardanian/StringZilla) - Up to 100x faster strings for C, C++, CUDA, Python, Rust, Swift, JS, & Go, leveraging NEON, AVX2, AVX-512, SVE, GPGPU, & SWAR to accelerate search, hashing, sorting, edit distances, sketches, and memory ops 🦖
-*   [ichisadashioko/windows-touchpad](https://github.com/ichisadashioko/windows-touchpad) - Make use of touchpad for handwriting in Windows
-*   [lzhiyong/termux-ndk](https://github.com/lzhiyong/termux-ndk) - android-ndk for termux
-*   [wireshark/wireshark](https://github.com/wireshark/wireshark) - Read-only mirror of Wireshark's Git repository at https://gitlab.com/wireshark/wireshark. ⚠️ GitHub won't let us disable pull requests. ⚠️ THEY WILL BE IGNORED HERE ⚠️ Upload them at GitLab instead.
-*   [wazuh/wazuh](https://github.com/wazuh/wazuh) - Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.
-*   [VictorTaelin/Interaction-Calculus](https://github.com/VictorTaelin/Interaction-Calculus) - A programming language and model of computation that matches the optimal λ-calculus reduction algorithm perfectly.
-*   [tevador/hashx](https://github.com/tevador/hashx) - A family of pseudorandomly generated hash functions for proof-of-work and client puzzles
-*   [FreeRDP/FreeRDP](https://github.com/FreeRDP/FreeRDP) - FreeRDP is a free remote desktop protocol library and clients
-*   [shauninman/MinUI](https://github.com/shauninman/MinUI) - MinUI is a focused, custom launcher and libretro frontend for a variety of retro handhelds.
-*   [Next-Flip/Momentum-Firmware](https://github.com/Next-Flip/Momentum-Firmware) - 🐬 Feature-rich, stable and customizable Flipper Firmware
-*   [rebol/rebol](https://github.com/rebol/rebol) - Source code for the Rebol interpreter
-*   [Waterdish/Shipwright-Android](https://github.com/Waterdish/Shipwright-Android) - Ship of Harkinian Android Port
-*   [noproto/flipper\_kdf](https://github.com/noproto/flipper_kdf) - Collection of KDF plugins for the Flipper Zero
-*   [tvnn/BlackBox](https://github.com/tvnn/BlackBox) - BlackBox is a virtual engine, it can clone and run virtual application on Android,  users don't have to install APK file to run the application on devices. BlackBox control all virtual applications, so you can do anything you want by using BlackBox.
-*   [Rukongai/CatDjinni](https://github.com/Rukongai/CatDjinni) - Cat Genie AI exploit research
-*   [hassananayi/nfc-srix-programmer](https://github.com/hassananayi/nfc-srix-programmer) - An CLI NFC application for reading, writing, analyzing, NFC ST SRI512 and SRIX4K tags.
-*   [ToyKeeper/anduril](https://github.com/ToyKeeper/anduril) - Anduril 2 Flashlight Firmware and FSM UI Toolkit
-*   [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
-*   [starryalley/Anduril2](https://github.com/starryalley/Anduril2) - my Anduril2 fork that provides much more features
-*   [libvips/libvips](https://github.com/libvips/libvips) - A fast image processing library with low memory needs.
-*   [libusb/hidapi](https://github.com/libusb/hidapi) - A Simple cross-platform library for communicating with HID devices
-*   [security-geeks/oclHashcat](https://github.com/security-geeks/oclHashcat) - World's fastest and most advanced GPGPU-based password recovery utility
-*   [hashcat/hashcat](https://github.com/hashcat/hashcat) - World's fastest and most advanced password recovery utility
-*   [lvaccaro/truecrack](https://github.com/lvaccaro/truecrack) - TrueCrack is a brute-force password cracker for TrueCrypt (Copyrigth) volumes. It works on Linux and it is optimized for Nvidia Cuda technology.
-*   [sabrogden/Ditto](https://github.com/sabrogden/Ditto) - Ditto is an extension to the Windows Clipboard. You copy something to the Clipboard and Ditto takes what you copied and stores it in a database to retrieve at a later time.
-*   [Flipper-XFW/Xtreme-Firmware](https://github.com/Flipper-XFW/Xtreme-Firmware) - The Dom amongst the Flipper Zero Firmware. Give your Flipper the power and freedom it is really craving. Let it show you its true form. Dont delay, switch to the one and only true Master today!
-*   [DarkFlippers/unleashed-firmware](https://github.com/DarkFlippers/unleashed-firmware) - Flipper Zero Unleashed Firmware
-*   [mcf-rocks/solanity](https://github.com/mcf-rocks/solanity) - Solanity - Solana GPU Address Grinder
-*   [avaneev/prvhash](https://github.com/avaneev/prvhash) - PRVHASH - Pseudo-Random-Value Hash. Hash functions, PRNG with unlimited period, randomness extractor, and a glimpse into abyss. (header-only C/C++) (Codename Gradilac/Градилак)
-*   [RoganDawes/LOGITacker](https://github.com/RoganDawes/LOGITacker) - Enumerate and test Logitech wireless input devices for vulnerabilities with a nRF52840 radio dongle.
-*   [FABtotum/FABlin](https://github.com/FABtotum/FABlin) - The FABtotum Personal Fabricator Firmware, a Marlin derivate made to support hybrid manufacturing and digital acquisition
-*   [arendst/Tasmota](https://github.com/arendst/Tasmota) - Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at
-
 ## TypeScript
 
+*   [google/A2UI](https://github.com/google/A2UI) -
 *   [letta-ai/letta-code](https://github.com/letta-ai/letta-code) - The memory-first coding agent
 *   [aidenybai/react-grab](https://github.com/aidenybai/react-grab) - Select context for coding agents directly from your website
 *   [garzj/google-photos-migrate](https://github.com/garzj/google-photos-migrate) - A tool to fix EXIF data and recover filenames from a Google Photos takeout, preserving albums within the directory structure.
 *   [prag-matt-ic/imagen-header-rebuild](https://github.com/prag-matt-ic/imagen-header-rebuild) - A recreation of the DeepMind Imagen 3 header video in code
-*   [countertype/three-text](https://github.com/countertype/three-text) - High fidelity 3D font rendering and text layout for the web, supporting Three.js, p5.js, WebGL, and WebGPU
+*   [countertype/three-text](https://github.com/countertype/three-text) - High fidelity 3D font geometry and text layout for the web, supporting Three.js, p5.js, WebGL, and WebGPU
 *   [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.
 *   [photon-js/photon](https://github.com/photon-js/photon) - Next-generation infrastructure for deploying any JavaScript server.
 *   [tribixbite/imaginize](https://github.com/tribixbite/imaginize) -
@@ -379,7 +198,7 @@
 *   [toolsdk-ai/toolsdk-mcp-registry](https://github.com/toolsdk-ai/toolsdk-mcp-registry) - ToolSDK.ai's Awesome MCP Servers and Packages Registry and Database with Structured JSON configurations. Supports OAuth2.1, DCR...
 *   [andrea9293/mcp-documentation-server](https://github.com/andrea9293/mcp-documentation-server) - MCP Documentation Server - Bridge the AI Knowledge Gap.  ✨ Features: Document management • Gemini integration • AI-powered semantic search • File uploads • Smart chunking • Multilingual support • Zero-setup  🎯 Perfect for: New frameworks • API docs • Internal guides
 *   [ref-tools/ref-tools-mcp](https://github.com/ref-tools/ref-tools-mcp) - Helping coding agents never make mistakes working with public or private libraries without wasting the context window.
-*   [docfork/docfork-mcp](https://github.com/docfork/docfork-mcp) - Up-to-date documentation for devs and AI agents.
+*   [docfork/docfork-mcp](https://github.com/docfork/docfork-mcp) - Up-to-date Documentation for AI Agents.
 *   [samanhappy/mcphub](https://github.com/samanhappy/mcphub) - A unified hub for centrally managing and dynamically orchestrating multiple MCP servers/APIs into separate endpoints with flexible routing strategies
 *   [AmoyLab/Unla](https://github.com/AmoyLab/Unla) - 🧩 MCP Gateway - A lightweight gateway service that instantly transforms existing MCP Servers and APIs into MCP servers with zero code changes. Features Docker deployment and management UI, requiring no infrastructure modifications.
 *   [BrowserMCP/mcp](https://github.com/BrowserMCP/mcp) - Browser MCP is a Model Context Provider (MCP) server that allows AI applications to control your browser
@@ -1505,6 +1324,188 @@
 *   [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Progressive Web Framework.
 *   [thomasloven/lovelace-auto-entities](https://github.com/thomasloven/lovelace-auto-entities) - 🔹Automatically populate the entities-list of lovelace cards
 
+## Java
+
+*   [xodiosx/termux-x11-xodmod](https://github.com/xodiosx/termux-x11-xodmod) -
+*   [ArcaneChat/android](https://github.com/ArcaneChat/android) - ArcaneChat for Android: ⚡ Fast encrypted chats for the family
+*   [Minecraft-Transit-Railway/Minecraft-Transit-Railway](https://github.com/Minecraft-Transit-Railway/Minecraft-Transit-Railway) - A Minecraft mod that allows you to build your own transport network with automated trains, boats, cable cars, and planes!
+*   [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
+*   [termux/termux-tasker](https://github.com/termux/termux-tasker) - Termux add-on app for integration with Tasker.
+*   [jberkel/sms-backup-plus](https://github.com/jberkel/sms-backup-plus) - Backup Android SMS, MMS and call log to Gmail / Gcal / IMAP
+*   [termux/termux-boot](https://github.com/termux/termux-boot) - Termux add-on app allowing programs to be run at boot.
+*   [AlexModGuy/Ice\_and\_Fire](https://github.com/AlexModGuy/Ice_and_Fire) - Minecraft mystical mod
+*   [MuntashirAkon/AppManager](https://github.com/MuntashirAkon/AppManager) - A full-featured package manager and viewer for Android
+*   [Reginer/aosp-android-jar](https://github.com/Reginer/aosp-android-jar) - AOSP编译出的android.jar，sdk里面以前反射调用的方法，现在可以直接调用了。
+*   [jaredsburrows/open-quartz](https://github.com/jaredsburrows/open-quartz) - Google Glass Development - GDK + SDK
+*   [Srikanth1511/Glass-Stream](https://github.com/Srikanth1511/Glass-Stream) - Google Glass XE camera streamer with url
+*   [legendsayantan/Dimmy](https://github.com/legendsayantan/Dimmy) - Dim your brightness... Further! This app allows to dim any android device screen even lower than its lowest brightness, just with a quick settings toggle.
+*   [Null123-ASD/Android\_TTS\_OCR\_Converter](https://github.com/Null123-ASD/Android_TTS_OCR_Converter) - Android TTS OCR Converter (Mobile App)- A Mobile Assistive Tool for Text-to-Speech and Chatbot Interaction
+*   [Helium314/HeliBoard](https://github.com/Helium314/HeliBoard) - Customizable and privacy-conscious open-source keyboard
+*   [Povstalec/StargateJourney](https://github.com/Povstalec/StargateJourney) - A repository for the Stargate Journey Minecraft Mod
+*   [google/bundletool](https://github.com/google/bundletool) - Bundletool is a command-line tool to manipulate Android App Bundles
+*   [HeatherComputer/AdvancedBackups](https://github.com/HeatherComputer/AdvancedBackups) -
+*   [pcal43/fastback](https://github.com/pcal43/fastback) - Fast, incremental Minecraft world backups.  Powered by Git.
+*   [andreynovikov/trekarta](https://github.com/andreynovikov/trekarta) - Simple, responsive map for your trek. You decide how to journey today, not the application!
+*   [osmandapp/OsmAnd](https://github.com/osmandapp/OsmAnd) - OsmAnd
+*   [emanuele-f/PCAPdroid](https://github.com/emanuele-f/PCAPdroid) - No-root network monitor, firewall and PCAP dumper for Android
+*   [CreativeMD/LittleFrames](https://github.com/CreativeMD/LittleFrames) -
+*   [SrRapero720/waterframes](https://github.com/SrRapero720/waterframes) - Mod which let you see pictures in-game amen
+*   [BumbleSoftware/Fastload](https://github.com/BumbleSoftware/Fastload) - Mod to accelerate world init
+*   [PaperMC/Paper](https://github.com/PaperMC/Paper) - The most widely used, high performance Minecraft server that aims to fix gameplay and mechanics inconsistencies
+*   [PojavLauncherTeam/PojavLauncher](https://github.com/PojavLauncherTeam/PojavLauncher) - A Minecraft: Java Edition Launcher for Android and iOS based on Boardwalk. Succeeded by https://github.com/AngelAuraMC/Amethyst-Android
+*   [RikkaApps/Shizuku-API](https://github.com/RikkaApps/Shizuku-API) - The API and the developer guide for Shizuku and Sui.
+*   [bk138/droidVNC-NG](https://github.com/bk138/droidVNC-NG) - Android VNC remote desktop server for local networks
+*   [termux/termux-widget](https://github.com/termux/termux-widget) - Termux add-on app which adds shortcuts to commands on the home screen.
+*   [iiordanov/remote-desktop-clients](https://github.com/iiordanov/remote-desktop-clients) - VNC, RDP, SPICE, and oVirt/RHEV/Proxmox Clients for Android and Blackberry 10
+*   [WhiredPlanck/diskusage](https://github.com/WhiredPlanck/diskusage) - Automatically exported from code.google.com/p/diskusage
+*   [Julow/Unexpected-Keyboard](https://github.com/Julow/Unexpected-Keyboard) - A lightweight keyboard for Android
+*   [erkserkserks/openboard](https://github.com/erkserkserks/openboard) - 100% FOSS keyboard, based on AOSP
+*   [iterate-ch/cyberduck](https://github.com/iterate-ch/cyberduck) - Cyberduck is a libre FTP, SFTP, WebDAV, Amazon S3, Backblaze B2, Microsoft Azure & OneDrive and OpenStack Swift file transfer client for Mac and Windows.
+*   [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) - Access your entire server infrastructure from your local desktop
+*   [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) - Browse media content with your own rules on Android TV
+*   [arunajit/minio-android](https://github.com/arunajit/minio-android) - Android port of MinIO Client SDK for Java. For uploads to AWS S3 from Android.
+*   [developerxrahul/amazon-s3-android-uploader](https://github.com/developerxrahul/amazon-s3-android-uploader) - A library which helps developer to upload image and video in one line of code just by implementing rc-s3-uploader in your any android project.
+*   [ddsky/spoonacular-api-clients](https://github.com/ddsky/spoonacular-api-clients) -
+*   [LSPosed/AndroidHiddenApiBypass](https://github.com/LSPosed/AndroidHiddenApiBypass) - LSPass: Bypass restrictions on non-SDK interfaces
+*   [M66B/NetGuard](https://github.com/M66B/NetGuard) - A simple way to block access to the internet per app
+*   [zaproxy/zaproxy](https://github.com/zaproxy/zaproxy) - The ZAP by Checkmarx Core project
+*   [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
+*   [Tencent/tinker](https://github.com/Tencent/tinker) - Tinker is a hot-fix solution library for Android, it supports dex, library and resources update without reinstall apk.
+*   [Konloch/bytecode-viewer](https://github.com/Konloch/bytecode-viewer) - A Java 8+ Jar & Android APK Reverse Engineering Suite (Decompiler, Editor, Debugger & More)
+*   [google/android-classyshark](https://github.com/google/android-classyshark) - Android and Java bytecode viewer
+*   [asLody/VirtualApp](https://github.com/asLody/VirtualApp) - Virtual Engine for Android(Support 14.0 in business version)
+*   [skylot/jadx](https://github.com/skylot/jadx) - Dex to Java decompiler
+*   [charles2gan/GDA-android-reversing-Tool](https://github.com/charles2gan/GDA-android-reversing-Tool) - the fastest and most powerful android decompiler(native tool working without Java VM) for the APK, DEX, ODEX, OAT, JAR, AAR, and CLASS file. which supports malicious behavior detection, privacy leaking detection, vulnerability detection, path solving, packer identification, variable tracking, deobfuscation, python\&java scripts, device memory extraction, data decryption, and encryption, etc.
+*   [pengshn6/BlackBox](https://github.com/pengshn6/BlackBox) - BlackBox is a virtual engine, it can clone and run virtual application on Android,  users don't have to install APK file to run the application on devices. BlackBox control all virtual applications, so you can do anything you want by using BlackBox.
+*   [iBotPeaches/Apktool](https://github.com/iBotPeaches/Apktool) - A tool for reverse engineering Android apk files
+*   [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
+*   [swagger-api/swagger-parser](https://github.com/swagger-api/swagger-parser) - Swagger Spec to Java POJOs
+*   [swagger-api/validator-badge](https://github.com/swagger-api/validator-badge) - Validate your Swagger JSON/YAML today!
+*   [ripmeapp2/ripme](https://github.com/ripmeapp2/ripme) - Downloads albums in bulk
+*   [storyofdavid/Android-WorkoutTracker](https://github.com/storyofdavid/Android-WorkoutTracker) - Free to use demo repo of an android workout tracker application
+*   [arjunkaruvally/BluetoothPeripheral](https://github.com/arjunkaruvally/BluetoothPeripheral) -
+*   [solana-developers/dapp-scaffold-react-native](https://github.com/solana-developers/dapp-scaffold-react-native) - dApp scaffold for react native apps
+*   [azesmway/react-native-unity](https://github.com/azesmway/react-native-unity) -
+*   [LuigiVampa92/XLogger](https://github.com/LuigiVampa92/XLogger) - Xposed module that allows to sniff and record logs of NFC and Bluetooth communication on device
+*   [xtclang/xvm](https://github.com/xtclang/xvm) - Ecstasy and XVM
+
+## Kotlin
+
+*   [rainxchzed/Github-Store](https://github.com/rainxchzed/Github-Store) - A free, open-source app store for GitHub releases — browse, discover, and install apps with one click. Powered by Kotlin and Compose Multiplatform for Android & Desktop.
+*   [sakethpathike/Otic](https://github.com/sakethpathike/Otic) - Minimal Android app to stream microphone input to the local network.
+*   [ReVanced/revanced-patcher](https://github.com/ReVanced/revanced-patcher) - 💉 ReVanced Patcher used to patch Android applications
+*   [Catrobat/Paintroid](https://github.com/Catrobat/Paintroid) - The standard image manipulation app for Catroid.
+*   [tribixbite/CustomCamera](https://github.com/tribixbite/CustomCamera) - Professional plugin-based Android camera app with modular architecture, manual controls, and advanced features
+*   [VREMSoftwareDevelopment/WiFiAnalyzer](https://github.com/VREMSoftwareDevelopment/WiFiAnalyzer) - Android application to analyze Wi-Fi signals.
+*   [tytydraco/LADB](https://github.com/tytydraco/LADB) - A local ADB shell for Android!
+*   [supershadoe/delta](https://github.com/supershadoe/delta) - Advanced hotspot settings for Pixel-like devices
+*   [tribixbite/GlassAssistant](https://github.com/tribixbite/GlassAssistant) - Assistant for Google Glass EE2
+*   [Jonathan-R-Anderson/glass-plex](https://github.com/Jonathan-R-Anderson/glass-plex) - plex client for google glass
+*   [inckie/AnotherGlass](https://github.com/inckie/AnotherGlass) - Companion application to handle Google Glass communication with a phone without Glass related Google Services.
+*   [legendsayantan/Extendroid](https://github.com/legendsayantan/Extendroid) - Android Multi-Tasking Manager with desktop-like multi window and remote access support.
+*   [tribixbite/CleverKeys](https://github.com/tribixbite/CleverKeys) - Privacy-first neural Android keyboard with advanced swipe prediction
+*   [bmax121/APatch](https://github.com/bmax121/APatch) - The patching of Android kernel and Android system
+*   [legendsayantan/ShizuTools](https://github.com/legendsayantan/ShizuTools) - Contains many tools to control android system via shizuku.
+*   [FossifyOrg/Flashlight](https://github.com/FossifyOrg/Flashlight) - A simple modern flashlight with SOS, stroboscope & bright display, has no ads.
+*   [FossifyOrg/Voice-Recorder](https://github.com/FossifyOrg/Voice-Recorder) - An easy way of recording any discussion or sounds without ads or internet access
+*   [FossifyOrg/Messages](https://github.com/FossifyOrg/Messages) - An easy and quick way of managing SMS and MMS messages without ads.
+*   [liriliri/eruda-android](https://github.com/liriliri/eruda-android) - Simple webview with eruda loaded automatically
+*   [shubham0204/SmolChat-Android](https://github.com/shubham0204/SmolChat-Android) - Running any GGUF SLMs/LLMs locally, on-device in Android
+*   [d4rken-org/sdmaid-se](https://github.com/d4rken-org/sdmaid-se) - SD Maid 2/SE is Android's most thorough cleaning tool.
+*   [LinkSheet/LinkSheet](https://github.com/LinkSheet/LinkSheet) - Link handling for modern Android
+*   [fork-maintainers/iceraven-browser](https://github.com/fork-maintainers/iceraven-browser) - Iceraven Browser
+*   [JunkFood02/Seal](https://github.com/JunkFood02/Seal) - 🦭 Video/Audio Downloader for Android, based on yt-dlp
+*   [deniscerri/ytdlnis](https://github.com/deniscerri/ytdlnis) - Full-featured audio/video downloader for Android using yt-dlp
+*   [RikkaApps/Shizuku](https://github.com/RikkaApps/Shizuku) - Using system APIs directly with adb/root privileges from normal apps through a Java process started with app\_process.
+*   [newhinton/disky](https://github.com/newhinton/disky) - An android filesystem analyzer that can show you the usage of your storage!
+*   [iamr0s/Dhizuku](https://github.com/iamr0s/Dhizuku) - A tool that can share DeviceOwner permissions to other application.
+*   [libre-tube/LibreTube](https://github.com/libre-tube/LibreTube) - An alternative frontend for YouTube, for Android.
+*   [FossifyOrg/Keyboard](https://github.com/FossifyOrg/Keyboard) - Easy keyboard for inserting all kinds of texts, special characters and numbers.
+*   [T8RIN/ImageToolbox](https://github.com/T8RIN/ImageToolbox) - 🖼️ Image Toolbox is a powerful app for advanced image manipulation. It offers dozens of features, from basic tools like crop and draw to filters, OCR, and a wide range of image processing options
+*   [thunderbird/thunderbird-android](https://github.com/thunderbird/thunderbird-android) - Thunderbird for Android – Open Source Email App for Android (fka K-9 Mail)
+*   [keymapperorg/KeyMapper](https://github.com/keymapperorg/KeyMapper) - An Android app to remap the buttons on your devices
+*   [hardillb/S3Share](https://github.com/hardillb/S3Share) - An Android app for sharing images and videos to an S3 Bucket
+*   [horizontalsystems/unstoppable-wallet-android](https://github.com/horizontalsystems/unstoppable-wallet-android) - A powerful non-custodial multi-wallet for Bitcoin, Ethereum, Binance Smart Chain, Avalanche, Solana and other blockchains. Non-custodial crypto and NFT storage, onchain decentralized exchange, institutional grade analytics for cryptcurrency and NFT markets, extensive privacy controls and human oriented design. Implemented on Kotlin.
+*   [patxibocos/google-photos-exporter](https://github.com/patxibocos/google-photos-exporter) - Get your Google Photos synced to Dropbox, OneDrive, Box or GitHub
+*   [saket/unfurl](https://github.com/saket/unfurl) - Generate rich previews of links, inspired by Slack.
+*   [accrescent/accrescent](https://github.com/accrescent/accrescent) - A novel Android app store focused on security, privacy, and usability
+*   [Kotlin/kmp-production-sample](https://github.com/Kotlin/kmp-production-sample) - This is an open-source, mobile, cross-platform application built with Kotlin Multiplatform Mobile. It's a simple RSS reader, and you can download it from the App Store and Google Play. It's been designed to demonstrate how KMM can be used in real production projects.
+*   [OpenArchive/Save-app-android](https://github.com/OpenArchive/Save-app-android) - This is the Save app for Android
+*   [caydey/ffshare](https://github.com/caydey/ffshare) - An android app to compress image, video and audio files through ffmpeg before sharing them
+*   [PatilShreyas/NotyKT](https://github.com/PatilShreyas/NotyKT) - 📒 NotyKT is a complete 💎Kotlin-stack (Backend + Android) 📱 application built to demonstrate the use of Modern development tools with best practices implementation🦸.
+*   [skydoves/chatgpt-android](https://github.com/skydoves/chatgpt-android) - 📲 ChatGPT Android demonstrates a Chatbot application using OpenAI's chat API on Android with Stream Chat SDK for Compose.
+*   [ptrpaws/Oculess](https://github.com/ptrpaws/Oculess) - Removes account requirements and telemetry from Oculus Quest devices
+*   [SimonMarquis/Android-App-Linking](https://github.com/SimonMarquis/Android-App-Linking) - 🔗 The ultimate developer guide to Android application linking methods
+*   [pyamsoft/tetherfusenet](https://github.com/pyamsoft/tetherfusenet) - TetherFuseNet - Internet sharing without Root
+*   [p2p-org/key-app-android](https://github.com/p2p-org/key-app-android) -
+*   [zachbr/Dis4IRC](https://github.com/zachbr/Dis4IRC) - A modern Discord <-> IRC bridge
+*   [metrodroid/metrodroid](https://github.com/metrodroid/metrodroid) - Read data from public transit cards using your NFC Android phone! (iOS 13 and PC/SC support coming soon)
+*   [kiwix/kiwix-android](https://github.com/kiwix/kiwix-android) - Kiwix for Android
+*   [Lucchetto/SuperImage](https://github.com/Lucchetto/SuperImage) - Sharpen your low-resolution pictures with the power of AI upscaling
+*   [tejado/android-usb-gadget](https://github.com/tejado/android-usb-gadget) - Convert your Android phone to any USB device you like! USB Gadget Tool allows you to create and activate USB device roles, like a mouse or a keyboard.  🛠🛡📱
+*   [coral-xyz/mobile-wallet-adapter-react-native](https://github.com/coral-xyz/mobile-wallet-adapter-react-native) - Solana Mobile Wallet Adapter for React Native & Expo
+*   [LorittaBot/Loritta](https://github.com/LorittaBot/Loritta) - 💁 A multipurpose, multilanguage, customizable, modular, and very cute bot for Discord! ~Making your server more awesome~
+*   [DanielMartinus/Konfetti](https://github.com/DanielMartinus/Konfetti) - Celebrate more with this lightweight confetti particle system 🎊
+*   [TeamVanced/VancedManager](https://github.com/TeamVanced/VancedManager) - Vanced Installer
+*   [TeamVanced/VancedStore](https://github.com/TeamVanced/VancedStore) - General Application Store with support for root apps and more
+
+## C
+
+*   [ading2210/doompdf](https://github.com/ading2210/doompdf) - A port of Doom (1993) that runs inside a PDF file
+*   [antonic901/xbmc4xbox-redux](https://github.com/antonic901/xbmc4xbox-redux) - XBMC is free and open source home theater/media center software and entertainment hub for Original Xbox.
+*   [ptitSeb/box86](https://github.com/ptitSeb/box86) - Box86 - Linux Userspace x86 Emulator with a twist, targeted at ARM Linux devices
+*   [usbbluetooth/usbbluetooth](https://github.com/usbbluetooth/usbbluetooth) - Take full control of your USB Bluetooth controllers!
+*   [tribixbite/Glass-Thermal-Imaging](https://github.com/tribixbite/Glass-Thermal-Imaging) - Real-time thermal imaging for Google Glass Explorer Edition using FLIR Boson cameras via USB OTG
+*   [BogdanTheGeek/semihost-ip](https://github.com/BogdanTheGeek/semihost-ip) - Running TCP/IP over SWD lines
+*   [haiwen/seafile](https://github.com/haiwen/seafile) - Beyond file syncing and sharing, a new way to organize your files with extensible file properties and flexible views
+*   [radareorg/radare2](https://github.com/radareorg/radare2) - UNIX-like reverse engineering framework and command-line toolset
+*   [winsiderss/systeminformer](https://github.com/winsiderss/systeminformer) - A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware. Brought to you by Winsider Seminars & Solutions, Inc. @ http://www.windows-internals.com
+*   [RsyncProject/rsync](https://github.com/RsyncProject/rsync) - An open source utility that provides fast incremental file transfer. It also has useful features for backup and restore operations among many other use cases.
+*   [termux/termux-x11](https://github.com/termux/termux-x11) - Termux X-server add-on.
+*   [tevador/equix](https://github.com/tevador/equix) - A CPU-friendly client puzzle with instant verification
+*   [veracrypt/VeraCrypt](https://github.com/veracrypt/VeraCrypt) - Disk encryption with strong security based on TrueCrypt
+*   [navit-gps/navit](https://github.com/navit-gps/navit) - The open source (GPL v2) turn-by-turn navigation software for many OS
+*   [gojue/ecapture](https://github.com/gojue/ecapture) - Capturing SSL/TLS plaintext without a CA certificate using eBPF. Supported on Linux/Android kernels for amd64/arm64.
+*   [adafruit/Adafruit\_Learning\_System\_Guides](https://github.com/adafruit/Adafruit_Learning_System_Guides) - Programs and scripts to display "inline" in Adafruit Learning System guides
+*   [upscayl/upscayl-ncnn](https://github.com/upscayl/upscayl-ncnn) - The Upscayl backend powered by the NCNN framework and Real-ESRGAN architecture.
+*   [cgsecurity/testdisk](https://github.com/cgsecurity/testdisk) - TestDisk & PhotoRec
+*   [kohler/gifsicle](https://github.com/kohler/gifsicle) - Create, manipulate, and optimize GIF images and animations
+*   [LongSoft/UEFITool](https://github.com/LongSoft/UEFITool) - UEFI firmware image viewer and editor
+*   [google/pebble](https://github.com/google/pebble) - This is the latest version of the internal repository from Pebble Technology providing the software to run on Pebble watches. Proprietary source code has been removed from this repository and it will not compile as-is. This is for information only.
+*   [axboe/fio](https://github.com/axboe/fio) - Flexible I/O Tester
+*   [ashvardanian/StringZilla](https://github.com/ashvardanian/StringZilla) - Up to 100x faster strings for C, C++, CUDA, Python, Rust, Swift, JS, & Go, leveraging NEON, AVX2, AVX-512, SVE, GPGPU, & SWAR to accelerate search, hashing, sorting, edit distances, sketches, and memory ops 🦖
+*   [ichisadashioko/windows-touchpad](https://github.com/ichisadashioko/windows-touchpad) - Make use of touchpad for handwriting in Windows
+*   [lzhiyong/termux-ndk](https://github.com/lzhiyong/termux-ndk) - android-ndk for termux
+*   [wireshark/wireshark](https://github.com/wireshark/wireshark) - Read-only mirror of Wireshark's Git repository at https://gitlab.com/wireshark/wireshark. ⚠️ GitHub won't let us disable pull requests. ⚠️ THEY WILL BE IGNORED HERE ⚠️ Upload them at GitLab instead.
+*   [wazuh/wazuh](https://github.com/wazuh/wazuh) - Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.
+*   [VictorTaelin/Interaction-Calculus](https://github.com/VictorTaelin/Interaction-Calculus) - A programming language and model of computation that matches the optimal λ-calculus reduction algorithm perfectly.
+*   [tevador/hashx](https://github.com/tevador/hashx) - A family of pseudorandomly generated hash functions for proof-of-work and client puzzles
+*   [FreeRDP/FreeRDP](https://github.com/FreeRDP/FreeRDP) - FreeRDP is a free remote desktop protocol library and clients
+*   [shauninman/MinUI](https://github.com/shauninman/MinUI) - MinUI is a focused, custom launcher and libretro frontend for a variety of retro handhelds.
+*   [Next-Flip/Momentum-Firmware](https://github.com/Next-Flip/Momentum-Firmware) - 🐬 Feature-rich, stable and customizable Flipper Firmware
+*   [rebol/rebol](https://github.com/rebol/rebol) - Source code for the Rebol interpreter
+*   [Waterdish/Shipwright-Android](https://github.com/Waterdish/Shipwright-Android) - Ship of Harkinian Android Port
+*   [noproto/flipper\_kdf](https://github.com/noproto/flipper_kdf) - Collection of KDF plugins for the Flipper Zero
+*   [tvnn/BlackBox](https://github.com/tvnn/BlackBox) - BlackBox is a virtual engine, it can clone and run virtual application on Android,  users don't have to install APK file to run the application on devices. BlackBox control all virtual applications, so you can do anything you want by using BlackBox.
+*   [Rukongai/CatDjinni](https://github.com/Rukongai/CatDjinni) - Cat Genie AI exploit research
+*   [hassananayi/nfc-srix-programmer](https://github.com/hassananayi/nfc-srix-programmer) - An CLI NFC application for reading, writing, analyzing, NFC ST SRI512 and SRIX4K tags.
+*   [ToyKeeper/anduril](https://github.com/ToyKeeper/anduril) - Anduril 2 Flashlight Firmware and FSM UI Toolkit
+*   [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
+*   [starryalley/Anduril2](https://github.com/starryalley/Anduril2) - my Anduril2 fork that provides much more features
+*   [libvips/libvips](https://github.com/libvips/libvips) - A fast image processing library with low memory needs.
+*   [libusb/hidapi](https://github.com/libusb/hidapi) - A Simple cross-platform library for communicating with HID devices
+*   [security-geeks/oclHashcat](https://github.com/security-geeks/oclHashcat) - World's fastest and most advanced GPGPU-based password recovery utility
+*   [hashcat/hashcat](https://github.com/hashcat/hashcat) - World's fastest and most advanced password recovery utility
+*   [lvaccaro/truecrack](https://github.com/lvaccaro/truecrack) - TrueCrack is a brute-force password cracker for TrueCrypt (Copyrigth) volumes. It works on Linux and it is optimized for Nvidia Cuda technology.
+*   [sabrogden/Ditto](https://github.com/sabrogden/Ditto) - Ditto is an extension to the Windows Clipboard. You copy something to the Clipboard and Ditto takes what you copied and stores it in a database to retrieve at a later time.
+*   [Flipper-XFW/Xtreme-Firmware](https://github.com/Flipper-XFW/Xtreme-Firmware) - The Dom amongst the Flipper Zero Firmware. Give your Flipper the power and freedom it is really craving. Let it show you its true form. Dont delay, switch to the one and only true Master today!
+*   [DarkFlippers/unleashed-firmware](https://github.com/DarkFlippers/unleashed-firmware) - Flipper Zero Unleashed Firmware
+*   [mcf-rocks/solanity](https://github.com/mcf-rocks/solanity) - Solanity - Solana GPU Address Grinder
+*   [avaneev/prvhash](https://github.com/avaneev/prvhash) - PRVHASH - Pseudo-Random-Value Hash. Hash functions, PRNG with unlimited period, randomness extractor, and a glimpse into abyss. (header-only C/C++) (Codename Gradilac/Градилак)
+*   [RoganDawes/LOGITacker](https://github.com/RoganDawes/LOGITacker) - Enumerate and test Logitech wireless input devices for vulnerabilities with a nRF52840 radio dongle.
+*   [FABtotum/FABlin](https://github.com/FABtotum/FABlin) - The FABtotum Personal Fabricator Firmware, a Marlin derivate made to support hybrid manufacturing and digital acquisition
+*   [arendst/Tasmota](https://github.com/arendst/Tasmota) - Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at
+
 ## JavaScript
 
 *   [MisterPrada/morph-particles](https://github.com/MisterPrada/morph-particles) - Models -> Particles -> Morph + Animation + Smooth Scroll
@@ -1893,7 +1894,6 @@
 *   [tylerburleigh/nike-buy-bot](https://github.com/tylerburleigh/nike-buy-bot) - A bot using Node.js / puppeteer that buys a Nike shoe when it drops
 *   [dkkocab/WebSiteBot\_PS5](https://github.com/dkkocab/WebSiteBot_PS5) - This is a bot that will buy a PS5 through Walmart. It's written in python and uses selenium to interact with web pages. *WORK IN PROGRESS*
 *   [oriziv/sync-files-blob-storage-ha](https://github.com/oriziv/sync-files-blob-storage-ha) -
-*   [kylepaulsen/ResourceOverride](https://github.com/kylepaulsen/ResourceOverride) - An extension to help you gain full control of any website by redirecting traffic, replacing, editing, or inserting new content.
 
 ## Shell
 
@@ -2544,7 +2544,7 @@
 *   [solana-foundation/kora](https://github.com/solana-foundation/kora) - Implementation of a Solana relayer. Provides a lib and cli crate in order to enable signing experiences on Solana
 *   [tuananh/hyper-mcp](https://github.com/tuananh/hyper-mcp) - 📦️ A fast, secure MCP server that extends its capabilities through WebAssembly plugins.
 *   [lumina-ai-inc/chunkr](https://github.com/lumina-ai-inc/chunkr) - Vision infrastructure to turn complex documents into RAG/LLM-ready data
-*   [katanemo/archgw](https://github.com/katanemo/archgw) - Delivery infrastructure for agents. Arch is a models-native proxy and data plane for agents that handles plumbing work in AI - like agent routing and orchestration, guardrails, zero-code logs and traces, and unified access to LLMs (OpenAI, Anthropic, Ollama, etc.). Build agents faster and deliver them reliably to prod.
+*   [katanemo/archgw](https://github.com/katanemo/archgw) - Ship agents faster. Arch is delivery infrastructure for agentic apps — a models-native proxy server & dataplane that offloads the plumbing work, so you stay focused on product logic.
 *   [Helicone/ai-gateway](https://github.com/Helicone/ai-gateway) - The fastest, lightest, and easiest-to-integrate AI gateway on the market. Fully open-sourced.
 *   [sxhxliang/mcp-access-point](https://github.com/sxhxliang/mcp-access-point) - Turn a web server into an MCP server in one click without making any code changes.
 *   [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
