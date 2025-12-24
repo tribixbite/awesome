@@ -4,12 +4,13 @@
 
 ## Table of Contents
 
+*   [Shell](#shell)
+*   [Nix](#nix)
 *   [Java](#java)
 *   [TypeScript](#typescript)
 *   [Kotlin](#kotlin)
 *   [C](#c)
 *   [JavaScript](#javascript)
-*   [Shell](#shell)
 *   [Python](#python)
 *   [Zig](#zig)
 *   [Rust](#rust)
@@ -52,7 +53,6 @@
 *   [KiCad Layout](#kicad-layout)
 *   [OCaml](#ocaml)
 *   [Astro](#astro)
-*   [Nix](#nix)
 *   [PowerShell](#powershell)
 *   [AutoHotkey](#autohotkey)
 *   [SVG](#svg)
@@ -78,6 +78,52 @@
 *   [AutoIt](#autoit)
 *   [Visual Basic .NET](#visual-basic-net)
 *   [R](#r)
+
+## Shell
+
+*   [termux-pacman/glibc-packages](https://github.com/termux-pacman/glibc-packages) - Glibc packages for termux
+*   [Gentleman-Programming/gentleman-guardian-angel](https://github.com/Gentleman-Programming/gentleman-guardian-angel) - 😇 Gentleman Guardian Angel (gga) - Provider-agnostic code review using AI. Use Claude, Gemini, Codex, Ollama to enforce your coding standards.
+*   [jqssun/android-helium-browser](https://github.com/jqssun/android-helium-browser) - Private and secure Android browser with support for browser extensions.
+*   [tribixbite/bun-on-termux](https://github.com/tribixbite/bun-on-termux) - Native Bun JavaScript runtime working on Termux Android using glibc-runner
+*   [winapps-org/winapps](https://github.com/winapps-org/winapps) -  Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/winapps/
+*   [sabamdarif/termux-desktop](https://github.com/sabamdarif/termux-desktop) - Install a full Linux desktop environment on your Android device with Termux X11 ( VNC optional) and also enable hardware acceleration
+*   [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
+*   [termux-user-repository/tur](https://github.com/termux-user-repository/tur) - A place for all types of Termux packages.
+*   [automazeio/ccpm](https://github.com/automazeio/ccpm) - Project management system for Claude Code using GitHub Issues and Git worktrees for parallel agent execution.
+*   [vet-run/vet](https://github.com/vet-run/vet) - vet is a command-line tool that acts as a safety net for the risky curl | bash pattern. It lets you inspect, diff against previous versions, and lint remote scripts before asking for your explicit approval to execute. Promoting a safer, more transparent way to handle remote code execution.
+*   [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
+*   [cdnjs/packages](https://github.com/cdnjs/packages) - 📦 Package configurations - The #1 free and open source CDN built to make life easier for developers.
+*   [a2aproject/A2A](https://github.com/a2aproject/A2A) - An open protocol enabling communication and interoperability between opaque agentic applications.
+*   [ImBIOS/bun-node](https://github.com/ImBIOS/bun-node) - Pre-configured Bun and Node.js Docker Images for Seamless, Optimized Development and Deployment.
+*   [simonw/git-scraper-template](https://github.com/simonw/git-scraper-template) - Template repository for setting up a new git scraper
+*   [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server) - Docker image that provides a Minecraft Server for Java Edition that automatically installs/upgrades versions, modloaders, modpacks and more at startup
+*   [KindleModding/WinterBreak](https://github.com/KindleModding/WinterBreak) - It do a thing
+*   [ublue-os/bazzite](https://github.com/ublue-os/bazzite) - Bazzite makes gaming and everyday use smoother and simpler across desktop PCs, handhelds, tablets, and home theater PCs.
+*   [playtron-os/gameos](https://github.com/playtron-os/gameos) - Playtron GameOS provides a seamless and secure Linux gaming experience.
+*   [termux/termux-packages](https://github.com/termux/termux-packages) - A package build system for Termux.
+*   [Hax4us/Nethunter-In-Termux](https://github.com/Hax4us/Nethunter-In-Termux) - This is a script by which you can install Kali nethunter (Kali Linux) in your termux application without rooted phone
+*   [ShanSuharban/termux4all](https://github.com/ShanSuharban/termux4all) - termux4all is not a project or something. This is some packages that can be used for the development and security purposes on android phone using the termux app itself. The main purpose of  this project is to install & setup all the important tools or packages in termux without researching a lot.
+*   [aj-seven/Android-Sysinfo](https://github.com/aj-seven/Android-Sysinfo) - A tool efficiently displays Android system details on Termux.
+*   [hackerb9/lsix](https://github.com/hackerb9/lsix) - Like "ls", but for images. Shows thumbnails in terminal using sixel graphics.
+*   [grondilu/bitcoin-bash-tools](https://github.com/grondilu/bitcoin-bash-tools) - Set of bitcoin-related bash functions
+*   [hcengineering/huly-selfhost](https://github.com/hcengineering/huly-selfhost) - Huly for Self Hosting
+*   [ArchiveTeam/IA.BAK](https://github.com/ArchiveTeam/IA.BAK) - We back up a lot of stuff from around the web; now it's time to back up the Internet Archive, just in case.
+*   [TermuxArch/TermuxArch](https://github.com/TermuxArch/TermuxArch) - Experience the pleasure of the Linux command prompt in Android, Chromebook, Fire OS and Windows on smartphone, smartTV, tablet and wearable https://termuxarch.github.io/TermuxArch/
+*   [AbdBarho/stable-diffusion-webui-docker](https://github.com/AbdBarho/stable-diffusion-webui-docker) - Easy Docker setup for Stable Diffusion with user-friendly UI
+*   [h4r5h1t/webcopilot](https://github.com/h4r5h1t/webcopilot) - An automation tool that enumerates subdomains then filters out xss, sqli, open redirect, lfi, ssrf and rce parameters and then scans for vulnerabilities.
+*   [foospidy/payloads](https://github.com/foospidy/payloads) - Git All the Payloads! A collection of web attack payloads.
+*   [many-passwords/many-passwords](https://github.com/many-passwords/many-passwords) - Default credentials list. 🐱‍💻 Leave a star if you like this project! (that motivates me)⭐️
+*   [wuxianlin/android\_rom\_tools](https://github.com/wuxianlin/android_rom_tools) - unpack/deodex/decompile tools for Android ROM
+*   [ax/apk.sh](https://github.com/ax/apk.sh) - Makes reverse engineering Android apps easier, automating repetitive tasks like pulling, decoding, rebuilding and patching an APK.
+*   [labbots/google-drive-upload](https://github.com/labbots/google-drive-upload) - Bash scripts to upload files to google drive
+*   [CryptoManufaktur-io/solana-rpc](https://github.com/CryptoManufaktur-io/solana-rpc) - Solana RPC only node with traefik
+*   [d3/d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar\_chart::chart\_with\_upwards\_trend::tada:
+*   [TheFrenchGhosty/TheFrenchGhostys-Ultimate-YouTube-DL-Scripts-Collection](https://github.com/TheFrenchGhosty/TheFrenchGhostys-Ultimate-YouTube-DL-Scripts-Collection) - The ultimate collection of scripts for YouTube-DL.
+
+## Nix
+
+*   [nix-community/nix-on-droid](https://github.com/nix-community/nix-on-droid) - Nix-enabled environment for your Android device. \[maintainers=@t184256,@Gerschtli]
+*   [k3d3/claude-desktop-linux-flake](https://github.com/k3d3/claude-desktop-linux-flake) - Nix Flake for Claude Desktop on Linux
 
 ## Java
 
@@ -1428,7 +1474,6 @@
 *   [hardillb/S3Share](https://github.com/hardillb/S3Share) - An Android app for sharing images and videos to an S3 Bucket
 *   [horizontalsystems/unstoppable-wallet-android](https://github.com/horizontalsystems/unstoppable-wallet-android) - A powerful non-custodial multi-wallet for Bitcoin, Ethereum, Binance Smart Chain, Avalanche, Solana and other blockchains. Non-custodial crypto and NFT storage, onchain decentralized exchange, institutional grade analytics for cryptcurrency and NFT markets, extensive privacy controls and human oriented design. Implemented on Kotlin.
 *   [patxibocos/google-photos-exporter](https://github.com/patxibocos/google-photos-exporter) - Get your Google Photos synced to Dropbox, OneDrive, Box or GitHub
-*   [saket/unfurl](https://github.com/saket/unfurl) - Generate rich previews of links, inspired by Slack.
 *   [accrescent/accrescent](https://github.com/accrescent/accrescent) - A novel Android app store focused on security, privacy, and usability
 *   [Kotlin/kmp-production-sample](https://github.com/Kotlin/kmp-production-sample) - This is an open-source, mobile, cross-platform application built with Kotlin Multiplatform Mobile. It's a simple RSS reader, and you can download it from the App Store and Google Play. It's been designed to demonstrate how KMM can be used in real production projects.
 *   [OpenArchive/Save-app-android](https://github.com/OpenArchive/Save-app-android) - This is the Save app for Android
@@ -1894,46 +1939,6 @@
 *   [tylerburleigh/nike-buy-bot](https://github.com/tylerburleigh/nike-buy-bot) - A bot using Node.js / puppeteer that buys a Nike shoe when it drops
 *   [dkkocab/WebSiteBot\_PS5](https://github.com/dkkocab/WebSiteBot_PS5) - This is a bot that will buy a PS5 through Walmart. It's written in python and uses selenium to interact with web pages. *WORK IN PROGRESS*
 *   [oriziv/sync-files-blob-storage-ha](https://github.com/oriziv/sync-files-blob-storage-ha) -
-
-## Shell
-
-*   [Gentleman-Programming/gentleman-guardian-angel](https://github.com/Gentleman-Programming/gentleman-guardian-angel) - 😇 Gentleman Guardian Angel (gga) - Provider-agnostic code review using AI. Use Claude, Gemini, Codex, Ollama to enforce your coding standards.
-*   [jqssun/android-helium-browser](https://github.com/jqssun/android-helium-browser) - Private and secure Android browser with support for browser extensions.
-*   [tribixbite/bun-on-termux](https://github.com/tribixbite/bun-on-termux) - Native Bun JavaScript runtime working on Termux Android using glibc-runner
-*   [winapps-org/winapps](https://github.com/winapps-org/winapps) -  Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/winapps/
-*   [sabamdarif/termux-desktop](https://github.com/sabamdarif/termux-desktop) - Install a full Linux desktop environment on your Android device with Termux X11 ( VNC optional) and also enable hardware acceleration
-*   [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
-*   [termux-user-repository/tur](https://github.com/termux-user-repository/tur) - A place for all types of Termux packages.
-*   [automazeio/ccpm](https://github.com/automazeio/ccpm) - Project management system for Claude Code using GitHub Issues and Git worktrees for parallel agent execution.
-*   [vet-run/vet](https://github.com/vet-run/vet) - vet is a command-line tool that acts as a safety net for the risky curl | bash pattern. It lets you inspect, diff against previous versions, and lint remote scripts before asking for your explicit approval to execute. Promoting a safer, more transparent way to handle remote code execution.
-*   [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
-*   [cdnjs/packages](https://github.com/cdnjs/packages) - 📦 Package configurations - The #1 free and open source CDN built to make life easier for developers.
-*   [a2aproject/A2A](https://github.com/a2aproject/A2A) - An open protocol enabling communication and interoperability between opaque agentic applications.
-*   [ImBIOS/bun-node](https://github.com/ImBIOS/bun-node) - Pre-configured Bun and Node.js Docker Images for Seamless, Optimized Development and Deployment.
-*   [simonw/git-scraper-template](https://github.com/simonw/git-scraper-template) - Template repository for setting up a new git scraper
-*   [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server) - Docker image that provides a Minecraft Server for Java Edition that automatically installs/upgrades versions, modloaders, modpacks and more at startup
-*   [KindleModding/WinterBreak](https://github.com/KindleModding/WinterBreak) - It do a thing
-*   [ublue-os/bazzite](https://github.com/ublue-os/bazzite) - Bazzite makes gaming and everyday use smoother and simpler across desktop PCs, handhelds, tablets, and home theater PCs.
-*   [playtron-os/gameos](https://github.com/playtron-os/gameos) - Playtron GameOS provides a seamless and secure Linux gaming experience.
-*   [termux/termux-packages](https://github.com/termux/termux-packages) - A package build system for Termux.
-*   [Hax4us/Nethunter-In-Termux](https://github.com/Hax4us/Nethunter-In-Termux) - This is a script by which you can install Kali nethunter (Kali Linux) in your termux application without rooted phone
-*   [ShanSuharban/termux4all](https://github.com/ShanSuharban/termux4all) - termux4all is not a project or something. This is some packages that can be used for the development and security purposes on android phone using the termux app itself. The main purpose of  this project is to install & setup all the important tools or packages in termux without researching a lot.
-*   [aj-seven/Android-Sysinfo](https://github.com/aj-seven/Android-Sysinfo) - A tool efficiently displays Android system details on Termux.
-*   [hackerb9/lsix](https://github.com/hackerb9/lsix) - Like "ls", but for images. Shows thumbnails in terminal using sixel graphics.
-*   [grondilu/bitcoin-bash-tools](https://github.com/grondilu/bitcoin-bash-tools) - Set of bitcoin-related bash functions
-*   [hcengineering/huly-selfhost](https://github.com/hcengineering/huly-selfhost) - Huly for Self Hosting
-*   [ArchiveTeam/IA.BAK](https://github.com/ArchiveTeam/IA.BAK) - We back up a lot of stuff from around the web; now it's time to back up the Internet Archive, just in case.
-*   [TermuxArch/TermuxArch](https://github.com/TermuxArch/TermuxArch) - Experience the pleasure of the Linux command prompt in Android, Chromebook, Fire OS and Windows on smartphone, smartTV, tablet and wearable https://termuxarch.github.io/TermuxArch/
-*   [AbdBarho/stable-diffusion-webui-docker](https://github.com/AbdBarho/stable-diffusion-webui-docker) - Easy Docker setup for Stable Diffusion with user-friendly UI
-*   [h4r5h1t/webcopilot](https://github.com/h4r5h1t/webcopilot) - An automation tool that enumerates subdomains then filters out xss, sqli, open redirect, lfi, ssrf and rce parameters and then scans for vulnerabilities.
-*   [foospidy/payloads](https://github.com/foospidy/payloads) - Git All the Payloads! A collection of web attack payloads.
-*   [many-passwords/many-passwords](https://github.com/many-passwords/many-passwords) - Default credentials list. 🐱‍💻 Leave a star if you like this project! (that motivates me)⭐️
-*   [wuxianlin/android\_rom\_tools](https://github.com/wuxianlin/android_rom_tools) - unpack/deodex/decompile tools for Android ROM
-*   [ax/apk.sh](https://github.com/ax/apk.sh) - Makes reverse engineering Android apps easier, automating repetitive tasks like pulling, decoding, rebuilding and patching an APK.
-*   [labbots/google-drive-upload](https://github.com/labbots/google-drive-upload) - Bash scripts to upload files to google drive
-*   [CryptoManufaktur-io/solana-rpc](https://github.com/CryptoManufaktur-io/solana-rpc) - Solana RPC only node with traefik
-*   [d3/d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar\_chart::chart\_with\_upwards\_trend::tada:
-*   [TheFrenchGhosty/TheFrenchGhostys-Ultimate-YouTube-DL-Scripts-Collection](https://github.com/TheFrenchGhosty/TheFrenchGhostys-Ultimate-YouTube-DL-Scripts-Collection) - The ultimate collection of scripts for YouTube-DL.
 
 ## Python
 
@@ -2503,8 +2508,6 @@
 *   [parametrek/gm1020](https://github.com/parametrek/gm1020) - Cross platform utility for the Benetech GM1020 USB logging luxmeter
 *   [IBM/MicroscoPy](https://github.com/IBM/MicroscoPy) - An open-source, motorized, and modular microscope built using LEGO bricks, Arduino, Raspberry Pi and 3D printing.
 *   [PrusaOwners/OctoPrint-PrusaMeshMap](https://github.com/PrusaOwners/OctoPrint-PrusaMeshMap) - This plugin performs a mesh bed leveling operation then returns the results as an easy to read heatmap.
-*   [sbidy/wiz\_light](https://github.com/sbidy/wiz_light) - A WiZ Light integration for Home Assistant
-*   [sbidy/pywizlight](https://github.com/sbidy/pywizlight) - A python connector for WiZ devices
 
 ## Zig
 
@@ -2544,7 +2547,7 @@
 *   [solana-foundation/kora](https://github.com/solana-foundation/kora) - Implementation of a Solana relayer. Provides a lib and cli crate in order to enable signing experiences on Solana
 *   [tuananh/hyper-mcp](https://github.com/tuananh/hyper-mcp) - 📦️ A fast, secure MCP server that extends its capabilities through WebAssembly plugins.
 *   [lumina-ai-inc/chunkr](https://github.com/lumina-ai-inc/chunkr) - Vision infrastructure to turn complex documents into RAG/LLM-ready data
-*   [katanemo/archgw](https://github.com/katanemo/archgw) - Ship agents faster. Arch is delivery infrastructure for agentic apps — a models-native proxy server & dataplane that offloads the plumbing work, so you stay focused on product logic.
+*   [katanemo/plano](https://github.com/katanemo/plano) - Ship agents faster. Plano is delivery infrastructure for agentic applications. A models-native proxy server & dataplane that offloads the plumbing work, so you stay focused on product logic.
 *   [Helicone/ai-gateway](https://github.com/Helicone/ai-gateway) - The fastest, lightest, and easiest-to-integrate AI gateway on the market. Fully open-sourced.
 *   [sxhxliang/mcp-access-point](https://github.com/sxhxliang/mcp-access-point) - Turn a web server into an MCP server in one click without making any code changes.
 *   [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
@@ -2898,6 +2901,7 @@
 *   [w3c-ccg/vcalm](https://github.com/w3c-ccg/vcalm) - An HTTP API for performing credential lifecycle management for Verifiable Credentials.
 *   [pkgforge-dev/Termux-Packages](https://github.com/pkgforge-dev/Termux-Packages) - Markdown List (Table), JSON & YAML of all the officially Available Packages in the Termux Registry :: https://termux-packages.ajam.dev \[Maintainer=@Azathothas]
 *   [vitalets/github-trending-repos](https://github.com/vitalets/github-trending-repos) - Track GitHub trending repositories in your favorite programming language by native GitHub notifications!
+*   [saket/unfurl](https://github.com/saket/unfurl) - Generate rich previews of links, inspired by Slack.
 *   [run-llama/create\_llama\_projects](https://github.com/run-llama/create_llama_projects) -
 *   [thedevdojo/pines](https://github.com/thedevdojo/pines) - The Pines UI library
 *   [LangbaseInc/langui](https://github.com/LangbaseInc/langui) - UI for your AI. Open Source Tailwind components tailored for your GPT, generative AI, and LLM projects.
@@ -3383,10 +3387,6 @@
 *   [aidanaden/donut.zig](https://github.com/aidanaden/donut.zig) - donut.zig (astro/zig wasm)
 *   [markhorn-dev/astro-sphere](https://github.com/markhorn-dev/astro-sphere) - Astro Sphere is a static, minimalist, lightweight, lightning fast portfolio and blog.
 *   [fimbres/astro-3-experimental](https://github.com/fimbres/astro-3-experimental) - A basic project to test out the new features of Astro 3.0, specially View Transitions API, using React.js, TailwindCSS, TypeScript, Zod, and many more technologies!
-
-## Nix
-
-*   [k3d3/claude-desktop-linux-flake](https://github.com/k3d3/claude-desktop-linux-flake) - Nix Flake for Claude Desktop on Linux
 
 ## PowerShell
 
