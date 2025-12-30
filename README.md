@@ -31,6 +31,7 @@
 *   [Roff](#roff)
 *   [Liquid](#liquid)
 *   [Clojure](#clojure)
+*   [Vue](#vue)
 *   [Bikeshed](#bikeshed)
 *   [Lua](#lua)
 *   [Dockerfile](#dockerfile)
@@ -48,7 +49,6 @@
 *   [Jinja](#jinja)
 *   [Batchfile](#batchfile)
 *   [Ruby](#ruby)
-*   [Vue](#vue)
 *   [Cuda](#cuda)
 *   [MLIR](#mlir)
 *   [KiCad Layout](#kicad-layout)
@@ -328,7 +328,6 @@
 *   [fiberplane/mcp-lite](https://github.com/fiberplane/mcp-lite) - Lightweight, composable MCP framework for TypeScript
 *   [weaviate/elysia-frontend](https://github.com/weaviate/elysia-frontend) - Frontend Repository for Elysia
 *   [TibixDev/winboat](https://github.com/TibixDev/winboat) - Run Windows apps on 🐧 Linux with ✨ seamless integration
-*   [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.
 *   [colanode/colanode](https://github.com/colanode/colanode) - Open-source and local-first Slack and Notion alternative that puts you in control of your data
 *   [grillsdev/grills](https://github.com/grillsdev/grills) - Your own Gen UI platform. Create components or whole frontend with your fav LLM
 *   [originjs/vite-plugin-federation](https://github.com/originjs/vite-plugin-federation) - Module Federation for vite & rollup
@@ -3225,6 +3224,16 @@
 
 *   [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: https://discuss.logseq.com/t/logseq-product-roadmap/34267
 
+## Vue
+
+*   [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.
+*   [webpilot-ai/Webpilot](https://github.com/webpilot-ai/Webpilot) -
+*   [2501babe/revoken](https://github.com/2501babe/revoken) - web ui to revoke solana token approvals
+*   [mynftgg/nft-project](https://github.com/mynftgg/nft-project) - Game code for mynftgg
+*   [paul-schaaf/spl-token-ui](https://github.com/paul-schaaf/spl-token-ui) - Interface for creating and managing SPL Tokens
+*   [Alaanor/beatlist](https://github.com/Alaanor/beatlist) - Beatlist is an app to manage playlists and beatmaps for the game Beat Saber.
+*   [samatt/herbivore](https://github.com/samatt/herbivore) - Packet sniffing made simple
+
 ## Bikeshed
 
 *   [WICG/local-peer-to-peer](https://github.com/WICG/local-peer-to-peer) - ↔️ Proposal for local communication between browsers without the aid of a server.
@@ -3360,15 +3369,6 @@
 *   [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The personal finance app for everyone
 *   [fastlane/fastlane](https://github.com/fastlane/fastlane) - 🚀 The easiest way to automate building and releasing your iOS and Android apps
 *   [toy/image\_optim](https://github.com/toy/image_optim) - Optimize images using multiple utilities
-
-## Vue
-
-*   [webpilot-ai/Webpilot](https://github.com/webpilot-ai/Webpilot) -
-*   [2501babe/revoken](https://github.com/2501babe/revoken) - web ui to revoke solana token approvals
-*   [mynftgg/nft-project](https://github.com/mynftgg/nft-project) - Game code for mynftgg
-*   [paul-schaaf/spl-token-ui](https://github.com/paul-schaaf/spl-token-ui) - Interface for creating and managing SPL Tokens
-*   [Alaanor/beatlist](https://github.com/Alaanor/beatlist) - Beatlist is an app to manage playlists and beatmaps for the game Beat Saber.
-*   [samatt/herbivore](https://github.com/samatt/herbivore) - Packet sniffing made simple
 
 ## Cuda
 
