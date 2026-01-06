@@ -2185,7 +2185,7 @@
 *   [SYSTRAN/faster-whisper](https://github.com/SYSTRAN/faster-whisper) - Faster Whisper transcription with CTranslate2
 *   [m-bain/whisperX](https://github.com/m-bain/whisperX) - WhisperX:  Automatic Speech Recognition with Word-level Timestamps (& Diarization)
 *   [microsoft/BitNet](https://github.com/microsoft/BitNet) - Official inference framework for 1-bit LLMs
-*   [agno-agi/agno](https://github.com/agno-agi/agno) - The complete stack for AI Agents: framework, runtime and control plane.
+*   [agno-agi/agno](https://github.com/agno-agi/agno) - The unified stack for running systems of agents: framework, runtime and control plane.
 *   [VRSEN/agency-swarm](https://github.com/VRSEN/agency-swarm) - Reliable Multi-Agent Orchestration Framework
 *   [openai/swarm](https://github.com/openai/swarm) - Educational framework exploring ergonomic, lightweight multi-agent orchestration. Managed by OpenAI Solution team.
 *   [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
@@ -2857,7 +2857,7 @@
 *   [sysadminsmedia/homebox](https://github.com/sysadminsmedia/homebox) - A continuation of HomeBox the inventory and organization system built for the Home User
 *   [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
 *   [dstotijn/hetty](https://github.com/dstotijn/hetty) - An HTTP toolkit for security research.
-*   [dagger/dagger](https://github.com/dagger/dagger) - An open-source runtime for composable workflows. Great for AI agents and CI/CD.
+*   [dagger/dagger](https://github.com/dagger/dagger) - The agent-ready test platform. Test any codebase end-to-end, repeatably and at scale. Runs locally, in your CI server, or directly in the cloud.
 *   [marcopiovanello/yt-dlp-web-ui](https://github.com/marcopiovanello/yt-dlp-web-ui) - A terrible web ui and RPC server for yt-dlp. Designed to be self-hosted.
 *   [eja/wikilite](https://github.com/eja/wikilite) - Offline Lexical and Semantic Wikipedia Search
 *   [nalgeon/howto](https://github.com/nalgeon/howto) - Humble command-line assistant
@@ -2960,7 +2960,7 @@
 *   [EnzeD/vibe-coding](https://github.com/EnzeD/vibe-coding) -
 *   [endorhq/cli](https://github.com/endorhq/cli) - Endor provides instant, private, sandboxed environments for your favorite services anywhere Node is available. Run MariaDB, PostgreSQL and many more servers securely and in just a few seconds. Perfect for AI agents and humans in a hurry.
 *   [ai-for-developers/awesome-ai-coding-tools](https://github.com/ai-for-developers/awesome-ai-coding-tools) - A curated list of AI-powered coding tools
-*   [VoltAgent/awesome-claude-code-subagents](https://github.com/VoltAgent/awesome-claude-code-subagents) - Claude subagents collection with 100+ specialized AI agents for full-stack development, DevOps, data science, and business operations.
+*   [VoltAgent/awesome-claude-code-subagents](https://github.com/VoltAgent/awesome-claude-code-subagents) - A collection of 100+ specialized Claude Code subagents covering a wide range of development use cases
 *   [google-labs-code/jules-awesome-list](https://github.com/google-labs-code/jules-awesome-list) - Some awesome prompts for Jules Agent
 *   [Allegra42/ZEReader-KiCad](https://github.com/Allegra42/ZEReader-KiCad) - ZEReader is an open source hardware and software E-Book Reader platform. Originally developed as a bachelor's thesis in electrical engineering, the project now evolves as a hobby initiative dedicated to further develop this hackable and customizable platform.
 *   [marv1nnnnn/rooroo](https://github.com/marv1nnnnn/rooroo) - 🚀 rooroo (如如): Minimalist AI Orchestration with Swiss Army Knife Agents 🚀
