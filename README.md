@@ -2676,7 +2676,7 @@
 *   [microsoft/wassette](https://github.com/microsoft/wassette) - Wassette: A security-oriented runtime that runs WebAssembly Components via MCP
 *   [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) - Get 10X more out of Claude Code, Codex or any coding agent
 *   [solana-foundation/kora](https://github.com/solana-foundation/kora) - Implementation of a Solana relayer. Provides a lib and cli crate in order to enable signing experiences on Solana
-*   [tuananh/hyper-mcp](https://github.com/tuananh/hyper-mcp) - 📦️ A fast, secure MCP server that extends its capabilities through WebAssembly plugins.
+*   [joseph-wortmann/hyper-mcp](https://github.com/joseph-wortmann/hyper-mcp) - 📦️ A fast, secure MCP server that extends its capabilities through WebAssembly plugins.
 *   [lumina-ai-inc/chunkr](https://github.com/lumina-ai-inc/chunkr) - Vision infrastructure to turn complex documents into RAG/LLM-ready data
 *   [katanemo/plano](https://github.com/katanemo/plano) - Ship agents faster. Plano is delivery infrastructure for agentic applications: an AI-native proxy and data plane that offloads plumbing work, so you stay focused on your agent's core logic.
 *   [Helicone/ai-gateway](https://github.com/Helicone/ai-gateway) - The fastest, lightest, and easiest-to-integrate AI gateway on the market. Fully open-sourced.
