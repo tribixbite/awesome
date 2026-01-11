@@ -2065,7 +2065,7 @@
 *   [letta-ai/letta](https://github.com/letta-ai/letta) - Letta is the platform for building stateful agents: open AI with advanced memory that can learn and self-improve over time.
 *   [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
 *   [searxng/searx-space](https://github.com/searxng/searx-space) - Statistics of the public SearXNG instances
-*   [nunchaku-tech/nunchaku](https://github.com/nunchaku-tech/nunchaku) - \[ICLR2025 Spotlight] SVDQuant: Absorbing Outliers by Low-Rank Components for 4-Bit Diffusion Models
+*   [nunchaku-ai/nunchaku](https://github.com/nunchaku-ai/nunchaku) - \[ICLR2025 Spotlight] SVDQuant: Absorbing Outliers by Low-Rank Components for 4-Bit Diffusion Models
 *   [OWASP/www-project-ai-testing-guide](https://github.com/OWASP/www-project-ai-testing-guide) - OWASP Foundation web repository
 *   [coleam00/ottomator-agents](https://github.com/coleam00/ottomator-agents) - All the open source AI Agents hosted on the oTTomator Live Agent Studio platform!
 *   [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need.
@@ -3309,7 +3309,7 @@
 *   [jonjaques/react-loaders](https://github.com/jonjaques/react-loaders) - Lightweight wrapper around Loaders.css.
 *   [animate-css/animate.css](https://github.com/animate-css/animate.css) - 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.
 *   [primefaces/primereact](https://github.com/primefaces/primereact) - The Most Complete React UI Component Library
-*   [atisawd/boxicons](https://github.com/atisawd/boxicons) - High Quality web friendly icons
+*   [box-icons/boxicons](https://github.com/box-icons/boxicons) - High Quality web friendly icons
 *   [HTMLElements/smart-webcomponents](https://github.com/HTMLElements/smart-webcomponents) - Enterprise UI Components - Grid, Scheduler, Gantt, Kanban & more. Works with Angular, React, NextJS, Vue, Vanilla Javascript and .NET Blazor
 *   [creativetimofficial/nextjs-argon-dashboard](https://github.com/creativetimofficial/nextjs-argon-dashboard) - NextJS version of Argon Dashboard React
 *   [lafeber/world-flags-sprite](https://github.com/lafeber/world-flags-sprite) - A sprite of all the worlds' flags.
