@@ -716,7 +716,7 @@
 *   [cloudflare/mcp-server-cloudflare](https://github.com/cloudflare/mcp-server-cloudflare) -
 *   [jason-tan-swe/railway-mcp](https://github.com/jason-tan-swe/railway-mcp) - An unofficial and community-built MCP server for integrating with https://railway.app
 *   [FauxFaux/discord-irc](https://github.com/FauxFaux/discord-irc) - Connects Discord and IRC channels by sending messages back and forth.
-*   [punkpeye/mcp-proxy](https://github.com/punkpeye/mcp-proxy) - A TypeScript SSE proxy for MCP servers that use stdio transport.
+*   [punkpeye/mcp-proxy](https://github.com/punkpeye/mcp-proxy) - A TypeScript streamable HTTP and SSE proxy for MCP servers that use stdio transport.
 *   [punkpeye/fastmcp](https://github.com/punkpeye/fastmcp) - A TypeScript framework for building MCP servers.
 *   [tevonsb/homeassistant-mcp](https://github.com/tevonsb/homeassistant-mcp) - A MCP server for Home Assistant
 *   [metatool-ai/metamcp](https://github.com/metatool-ai/metamcp) - MCP Aggregator, Orchestrator, Middleware, Gateway in one docker
@@ -1862,7 +1862,7 @@
 ## C++
 
 *   [jbohack/nyanBOX](https://github.com/jbohack/nyanBOX) - A compact ESP32 Wroom32U toolkit for wireless security—scan, analyze, and spoof RF, Wi-Fi, and BLE protocols, all from an intuitive menu-driven interface. No complex commands or coding required. Designed for ease of use while exploring wireless communication in a responsible, educational manner.
-*   [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx) - Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, HarmonyOS, Raspberry Pi, RISC-V, RK NPU, Ascend NPU, x86\_64 servers, websocket server/client, support 12 programming languages
+*   [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx) - Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, HarmonyOS, Raspberry Pi, RISC-V, RK NPU, Axera NPU, Ascend NPU, x86\_64 servers, websocket server/client, support 12 programming languages
 *   [pia-foss/desktop](https://github.com/pia-foss/desktop) - Private Internet Access - Desktop VPN Client for Windows/macOS/Linux
 *   [futo-org/android-keyboard](https://github.com/futo-org/android-keyboard) - Offical FUTO Keyboard Issue Tracker and Source Mirror of https://gitlab.futo.org/keyboard/latinime
 *   [AddisonPrairie/Tree-Generator](https://github.com/AddisonPrairie/Tree-Generator) - Tree Generation in Web Assembly
@@ -2247,7 +2247,7 @@
 *   [SYSTRAN/faster-whisper](https://github.com/SYSTRAN/faster-whisper) - Faster Whisper transcription with CTranslate2
 *   [m-bain/whisperX](https://github.com/m-bain/whisperX) - WhisperX:  Automatic Speech Recognition with Word-level Timestamps (& Diarization)
 *   [microsoft/BitNet](https://github.com/microsoft/BitNet) - Official inference framework for 1-bit LLMs
-*   [agno-agi/agno](https://github.com/agno-agi/agno) - The unified stack for Agent Engineering: framework, runtime and control plane.
+*   [agno-agi/agno](https://github.com/agno-agi/agno) - The comple stack for Agent Engineering: framework, runtime and control plane.
 *   [VRSEN/agency-swarm](https://github.com/VRSEN/agency-swarm) - Reliable Multi-Agent Orchestration Framework
 *   [openai/swarm](https://github.com/openai/swarm) - Educational framework exploring ergonomic, lightweight multi-agent orchestration. Managed by OpenAI Solution team.
 *   [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
@@ -2677,7 +2677,7 @@
 *   [solana-foundation/kora](https://github.com/solana-foundation/kora) - Implementation of a Solana relayer. Provides a lib and cli crate in order to enable signing experiences on Solana
 *   [hyper-mcp-rs/hyper-mcp](https://github.com/hyper-mcp-rs/hyper-mcp) - 📦️ A fast, secure MCP server that extends its capabilities through WebAssembly plugins.
 *   [lumina-ai-inc/chunkr](https://github.com/lumina-ai-inc/chunkr) - Vision infrastructure to turn complex documents into RAG/LLM-ready data
-*   [katanemo/plano](https://github.com/katanemo/plano) - Delivery infrastructure for agentic apps: An AI-native proxy and data plane that offloads plumbing work in AI, so you stay focused on your agent's core logic (using any AI framework).
+*   [katanemo/plano](https://github.com/katanemo/plano) - Delivery infrastructure for agentic apps - an AI-native proxy and data plane that offloads plumbing work, so you stay focused on your agent's core logic (via any AI framework).
 *   [Helicone/ai-gateway](https://github.com/Helicone/ai-gateway) - The fastest, lightest, and easiest-to-integrate AI gateway on the market. Fully open-sourced.
 *   [sxhxliang/mcp-access-point](https://github.com/sxhxliang/mcp-access-point) - Turn a web server into an MCP server in one click without making any code changes.
 *   [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
