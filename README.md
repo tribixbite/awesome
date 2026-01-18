@@ -20,7 +20,6 @@
 *   [Go](#go)
 *   [Dart](#dart)
 *   [Vala](#vala)
-*   [Fluent](#fluent)
 *   [PHP](#php)
 *   [miscellaneous](#miscellaneous)
 *   [Jupyter Notebook](#jupyter-notebook)
@@ -859,7 +858,7 @@
 *   [icebreakerlabs/merlin](https://github.com/icebreakerlabs/merlin) - All-in-one NFT minter app
 *   [dicebear/dicebear](https://github.com/dicebear/dicebear) - DiceBear is an avatar library for designers and developers. 🌍
 *   [mockoon/mockoon](https://github.com/mockoon/mockoon) - Mockoon is the easiest and quickest way to run mock APIs locally. No remote deployment, no account required, open source.
-*   [linsa-io/linsa](https://github.com/linsa-io/linsa) - Save anything. Share, sell or collaborate. Privately.
+*   [linsa-io/linsa](https://github.com/linsa-io/linsa) - Save anything. Share, chat, sell or collaborate. Privately.
 *   [BrainJS/brain.js](https://github.com/BrainJS/brain.js) - 🤖 GPU accelerated Neural networks in JavaScript for Browsers and Node.js
 *   [mswjs/msw](https://github.com/mswjs/msw) - Industry standard API mocking for JavaScript.
 *   [Envuso/framework](https://github.com/Envuso/framework) - Envuso is a backend framework focusing building apis using Fastify and MongoDB support.
@@ -1438,6 +1437,7 @@
 *   [dgreenheck/webgpu-galaxy](https://github.com/dgreenheck/webgpu-galaxy) - Galaxy shader written using TSL + WebGPU
 *   [discord-relay-chat/drc](https://github.com/discord-relay-chat/drc) - Discord Relay Chat
 *   [awesome-android-root/awesome-android-root](https://github.com/awesome-android-root/awesome-android-root) - Discover best root apps, Magisk & LSPosed(xposed) modules with step-by-step rooting guides
+*   [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
 *   [dgreenheck/ez-tree](https://github.com/dgreenheck/ez-tree) - Procedural tree generator written with JavaScript and Three.js
 *   [espruino/BangleApps](https://github.com/espruino/BangleApps) - Bangle.js App Loader (and Apps)
 *   [ferrolho/magnet-player](https://github.com/ferrolho/magnet-player) - :movie\_camera: A place for streaming torrents directly from your browser
@@ -2934,10 +2934,6 @@
 ## Vala
 
 *   [tkashkin/GameHub](https://github.com/tkashkin/GameHub) - All your games in one place
-
-## Fluent
-
-*   [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
 
 ## PHP
 
