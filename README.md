@@ -858,7 +858,7 @@
 *   [icebreakerlabs/merlin](https://github.com/icebreakerlabs/merlin) - All-in-one NFT minter app
 *   [dicebear/dicebear](https://github.com/dicebear/dicebear) - DiceBear is an avatar library for designers and developers. 🌍
 *   [mockoon/mockoon](https://github.com/mockoon/mockoon) - Mockoon is the easiest and quickest way to run mock APIs locally. No remote deployment, no account required, open source.
-*   [linsa-io/linsa](https://github.com/linsa-io/linsa) - Save anything. Share, chat, sell or collaborate. Privately.
+*   [linsa-io/linsa](https://github.com/linsa-io/linsa) - Save. Share. Privately.
 *   [BrainJS/brain.js](https://github.com/BrainJS/brain.js) - 🤖 GPU accelerated Neural networks in JavaScript for Browsers and Node.js
 *   [mswjs/msw](https://github.com/mswjs/msw) - Industry standard API mocking for JavaScript.
 *   [Envuso/framework](https://github.com/Envuso/framework) - Envuso is a backend framework focusing building apis using Fastify and MongoDB support.
@@ -2718,7 +2718,7 @@
 *   [codestoryai/sidecar](https://github.com/codestoryai/sidecar) - Sidecar is the AI brains for the Aide editor and works alongside it, locally on your machine
 *   [ronanyeah/sui-zk-airdrop](https://github.com/ronanyeah/sui-zk-airdrop) - Sui / Groth16 / Merkle Tree
 *   [metaplex-foundation/mpl-hybrid](https://github.com/metaplex-foundation/mpl-hybrid) - The hybrids program powering the MPL-404 standard
-*   [trailbaseio/trailbase](https://github.com/trailbaseio/trailbase) - A blazingly fast, open-source application server with type-safe APIs, built-in WebAssembly runtime, realtime, auth, and admin UI built on Rust, SQLite & Wasmtime.
+*   [trailbaseio/trailbase](https://github.com/trailbaseio/trailbase) - An open, sub-millisecond, single-executable Firebase alternative with type-safe APIs, built-in WebAssembly runtime, realtime subscriptions, auth, and admin UI built on Rust, SQLite & Wasmtime.
 *   [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 *   [itzmeanjan/kangarootwelve](https://github.com/itzmeanjan/kangarootwelve) - BlaKE12: Blazing-fast KEccak on 12 rounds
 *   [keithnoguchi/multisig-lite](https://github.com/keithnoguchi/multisig-lite) - Native SOL multisig wallet for Solana Blockchain
