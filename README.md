@@ -1446,7 +1446,7 @@
 *   [bvaughn/react-window](https://github.com/bvaughn/react-window) - React components for efficiently rendering large lists and tabular data
 *   [salvia-kit/salvia-kit](https://github.com/salvia-kit/salvia-kit) - Provides 10 Free Beautiful dashboard templates built with Tailwind CSS for React, Next.js, Svelte, Solid, Angular, Vue and Nuxt.js
 *   [wclr/yalc](https://github.com/wclr/yalc) - Work with yarn/npm packages locally like a boss.
-*   [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
+*   [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative
 *   [awslabs/fhir-works-on-aws-deployment](https://github.com/awslabs/fhir-works-on-aws-deployment) - A serverless implementation of the FHIR standard that enables users to focus more on their business needs/uniqueness rather than the FHIR specification
 *   [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
 *   [philipmulcahy/azad](https://github.com/philipmulcahy/azad) - amazon order history reporter chrome extension
@@ -2163,7 +2163,6 @@
 *   [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb) - 🛡️ Open-source and next-generation Web Application Firewall (WAF)
 *   [byt3bl33d3r/CrackMapExec](https://github.com/byt3bl33d3r/CrackMapExec) - A swiss army knife for pentesting networks
 *   [pat-jj/s3](https://github.com/pat-jj/s3) - \[EMNLP'25] s3 - ⚡ Efficient & Effective Search Agent Training via RL for RAG (RLVR for Search with Minimal Data)
-*   [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex) - Data transformation framework for AI. Ultra performant, with incremental processing.  🌟 Star if you like it!
 *   [QwenLM/ParScale](https://github.com/QwenLM/ParScale) - Parallel Scaling Law for Language Model — Beyond Parameter and Inference Time Scaling
 *   [pixeltable/pixelagent](https://github.com/pixeltable/pixelagent) - Pixelagent  — Multimodal stateful agents
 *   [browser-use/workflow-use](https://github.com/browser-use/workflow-use) - ⚙️ Create and run workflows (RPA 2.0)
@@ -2543,7 +2542,6 @@
 *   [ymgve/bitcoin\_fork\_claimer](https://github.com/ymgve/bitcoin_fork_claimer) - Script for transferring/claiming your coins on various Bitcoin forks
 *   [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.
 *   [newren/git-filter-repo](https://github.com/newren/git-filter-repo) - Quickly rewrite git repository history (filter-branch replacement)
-*   [EmDecay/solana-sales-watcher](https://github.com/EmDecay/solana-sales-watcher) - Watch a mint address for sales on the blockchain and report on what you see
 *   [BedrosovaYulia/NFT-minting-using-python](https://github.com/BedrosovaYulia/NFT-minting-using-python) - Minting Solana NFT using candy-machine-cli is quite expensive, so I searched and I have found a cheaper option: it is 20% cheaper!!! In the video from my chanel, I'll directly upload the image file and a metadata file to arweave.net, and then I'll show you how to mint an NFT using the Python script developed by me.
 *   [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 *   [Jeeaaasus/youtube-dl](https://github.com/Jeeaaasus/youtube-dl) - Automated yt-dlp Docker image
@@ -2576,6 +2574,7 @@
 *   [LedgerHQ/app-monero](https://github.com/LedgerHQ/app-monero) - Monero wallet application for Ledger Nano S & X
 *   [klattimer/LGWebOSRemote](https://github.com/klattimer/LGWebOSRemote) - Command line webOS remote for LGTVs
 *   [Hari-Nagarajan/fairgame](https://github.com/Hari-Nagarajan/fairgame) - Tool to help us buy hard to find items.
+*   [berkuhlee/KeywordBot](https://github.com/berkuhlee/KeywordBot) - Keyword Notifications, similar to skype, for Discord!
 
 ## Swift
 
@@ -2691,6 +2690,7 @@
 *   [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) - TensorZero is an open-source stack for industrial-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluation, and experimentation.
 *   [rivet-dev/rivet](https://github.com/rivet-dev/rivet) - Rivet Actors are long-lived, in-memory processes. It's what you reach for when you hit the limitations of HTTP, databases, or queues.
 *   [get-convex/convex-backend](https://github.com/get-convex/convex-backend) - The open-source reactive database for app developers
+*   [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex) - Data transformation framework for AI. Ultra performant, with incremental processing.  🌟 Star if you like it!
 *   [jsr-io/jsr](https://github.com/jsr-io/jsr) - The open-source package registry for modern JavaScript and TypeScript
 *   [microsoft/edit](https://github.com/microsoft/edit) - We all edit.
 *   [yazaldefilimone/ghost.ai](https://github.com/yazaldefilimone/ghost.ai) - 🧠 your second brain at the computer.
