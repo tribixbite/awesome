@@ -889,7 +889,7 @@
 *   [jordaaash/typescript-monorepo](https://github.com/jordaaash/typescript-monorepo) - A minimal, fast monorepo template for TypeScript (and React) projects with hot module reloading
 *   [heroui-inc/heroui](https://github.com/heroui-inc/heroui) - 🚀 Beautiful, fast and modern React UI library. (Previously NextUI)
 *   [StefanTerdell/zod-to-json-schema](https://github.com/StefanTerdell/zod-to-json-schema) - Converts Zod schemas to Json schemas
-*   [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Ship faster with Continuous AI. Open-source CLI that can be used in TUI mode as a coding agent or Headless mode to run background agents
+*   [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Ship faster with Continuous AI. Open-source CLI that can be used in Headless mode to run async cloud agents or TUI mode as an in sync coding agent
 *   [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open framework for building developer portals
 *   [CarlosZiegler/zodios-stack](https://github.com/CarlosZiegler/zodios-stack) -
 *   [lzehrung/zod-express-openapi-routes](https://github.com/lzehrung/zod-express-openapi-routes) - POC for cozy API validation, typing, and OpenAPI/swagger schema generation with Zod and Express
@@ -1542,7 +1542,7 @@
 *   [Domenicobrz/R3F-takes-flight](https://github.com/Domenicobrz/R3F-takes-flight) - Repo for the project of a youtube video
 *   [anaisbetts/mcp-installer](https://github.com/anaisbetts/mcp-installer) - An MCP server that installs other MCP servers for you
 *   [cjo4m06/mcp-shrimp-task-manager](https://github.com/cjo4m06/mcp-shrimp-task-manager) - Shrimp Task Manager is a task tool built for AI Agents, emphasizing chain-of-thought, reflection, and style consistency. It converts natural language into structured dev tasks with dependency tracking and iterative refinement, enabling agent-like developer behavior in reasoning AI systems.
-*   [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file\_folder: Universal Data Access Gateway / File Management Platform (without FUSE)
+*   [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file\_folder: File Management Platform / Universal Data Access Gateway (without FUSE)
 *   [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
 *   [croquet/croquet](https://github.com/croquet/croquet) - Client-side (!) Multiplayer for JavaScript
 *   [samestrin/llm-interface](https://github.com/samestrin/llm-interface) - A simple NPM interface for seamlessly interacting with 36 Large Language Model (LLM) providers, including OpenAI, Anthropic, Google Gemini, Cohere, Hugging Face Inference, NVIDIA AI, Mistral AI, AI21 Studio, LLaMA.CPP, and Ollama, and hundreds of models.
@@ -2160,7 +2160,7 @@
 *   [SWE-agent/SWE-ReX](https://github.com/SWE-agent/SWE-ReX) - Sandboxed code execution for AI agents, locally or on the cloud. Massively parallel, easy to extend. Powering SWE-agent and more.
 *   [morphik-org/morphik-core](https://github.com/morphik-org/morphik-core) - The most accurate document search and store for building AI apps
 *   [microsoft/renderformer](https://github.com/microsoft/renderformer) - Official Code Release for \[SIGGRAPH 2025] RenderFormer: Transformer-based Neural Rendering of Triangle Meshes with Global Illumination
-*   [vladmeer/polymarket-arbitrage-bot](https://github.com/vladmeer/polymarket-arbitrage-bot) - Polymarket Arbitrage Bot Polymarket trading bot Polymarket Arbitrage Bot Polymarket trading bot Polymarket Arbitrage Bot Polymarket trading bot Polymarket Arbitrage Bot Polymarket trading bot Polymarket Arbitrage Bot Polymarket trading bot Polymarket Arbitrage Bot Polymarket trading bot Polymarket Arbitrage Bot Polymarket trading bot Polymarket Bot
+*   [vladmeer/polymarket-arbitrage-bot](https://github.com/vladmeer/polymarket-arbitrage-bot) - This bot has good stratagy Polymarket arbitrage bot Polymarket arbitrage bot polymarket Arbitrage bot polymarket arbitrage Bot polymarket arbitrage bot polymarket Arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket trading bot
 *   [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb) - 🛡️ Open-source and next-generation Web Application Firewall (WAF)
 *   [byt3bl33d3r/CrackMapExec](https://github.com/byt3bl33d3r/CrackMapExec) - A swiss army knife for pentesting networks
 *   [pat-jj/s3](https://github.com/pat-jj/s3) - \[EMNLP'25] s3 - ⚡ Efficient & Effective Search Agent Training via RL for RAG (RLVR for Search with Minimal Data)
