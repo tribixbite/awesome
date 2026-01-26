@@ -234,7 +234,7 @@
 *   [alizdavoodi/MCPDocSearch](https://github.com/alizdavoodi/MCPDocSearch) - This project provides a toolset to crawl websites wikis, tool/library documentions and generate Markdown documentation, and make that documentation searchable via a Model Context Protocol (MCP) server, designed for integration with tools like Cursor.
 *   [existence-master/Sentient](https://github.com/existence-master/Sentient) - A personal AI assistant for everyone
 *   [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - An autonomous agent that conducts deep research on any data using any LLM providers.
-*   [NPC-Worldwide/npcpy](https://github.com/NPC-Worldwide/npcpy) - AI research and development
+*   [NPC-Worldwide/npcpy](https://github.com/NPC-Worldwide/npcpy) - The python library for research and development in NLP, multimodal LLMs, Agents, ML, Knowledge Graphs, and more.
 *   [blazickjp/arxiv-mcp-server](https://github.com/blazickjp/arxiv-mcp-server) - A Model Context Protocol server for searching and analyzing arXiv papers
 *   [mrexodia/ida-pro-mcp](https://github.com/mrexodia/ida-pro-mcp) - AI-powered reverse engineering assistant that bridges IDA Pro with language models through MCP.
 *   [Klavis-AI/klavis](https://github.com/Klavis-AI/klavis) - Klavis AI (YC X25):  MCP integration platforms that let AI agents use tools reliably at any scale
@@ -260,7 +260,6 @@
 *   [vladkens/twscrape](https://github.com/vladkens/twscrape) - 2025! X / Twitter API scrapper with authorization support. Allows you to scrape search results, User's profiles (followers/following), Tweets (favoriters/retweeters) and more.
 *   [alirezamika/autoscraper](https://github.com/alirezamika/autoscraper) - A Smart, Automatic, Fast and Lightweight Web Scraper for Python
 *   [av/harbor](https://github.com/av/harbor) - Effortlessly run LLM backends, APIs, frontends, and services with one command.
-*   [lemonade-sdk/lemonade](https://github.com/lemonade-sdk/lemonade) - Lemonade helps users discover and run local AI apps by serving optimized LLMs right from their own GPUs and NPUs. Join our discord: https://discord.gg/5xXzkMu8Zk
 *   [GeeeekExplorer/nano-vllm](https://github.com/GeeeekExplorer/nano-vllm) - Nano vLLM
 *   [BeehiveInnovations/pal-mcp-server](https://github.com/BeehiveInnovations/pal-mcp-server) - The power of Claude Code / GeminiCLI / CodexCLI + \[Gemini / OpenAI / OpenRouter / Azure / Grok / Ollama / Custom Model / All Of The Above] working as one.
 *   [camel-ai/owl](https://github.com/camel-ai/owl) - 🦉 OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation
@@ -1078,7 +1077,7 @@
 *   [mattermost-community/focalboard](https://github.com/mattermost-community/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
 *   [playcanvas/editor](https://github.com/playcanvas/editor) - Browser-based visual editor for building WebGL, WebGPU, WebXR apps
 *   [jitsi/jitsi-meet](https://github.com/jitsi/jitsi-meet) - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
-*   [sourcebot-dev/sourcebot](https://github.com/sourcebot-dev/sourcebot) - Sourcebot is a self-hosted tool that helps you understand your codebase.
+*   [sourcebot-dev/sourcebot](https://github.com/sourcebot-dev/sourcebot) - Sourcebot is a self-hosted tool that helps developers and agents understand your codebase.
 *   [vybestack/llxprt-code](https://github.com/vybestack/llxprt-code) - An open-source multi-provider AI assisted CLI development tool. Use whatever LLM you want to code in your terminal.
 *   [chatboxai/chatbox](https://github.com/chatboxai/chatbox) - Powerful AI Client
 *   [flydelabs/flyde](https://github.com/flydelabs/flyde) - Open-source Visual programming for backend logic that integrates with existing codebases. Flyde bridges the gap between technical and non-technical team members. Product managers, designers, and backend developers can collaborate on the same visual flows.
@@ -1569,7 +1568,7 @@
 *   [twinnydotdev/twinny](https://github.com/twinnydotdev/twinny) - The most no-nonsense, locally or API-hosted AI code completion plugin for Visual Studio Code - like GitHub Copilot but 100% free.
 *   [kevinthedang/discord-ollama](https://github.com/kevinthedang/discord-ollama) - Discord Bot that utilizes Ollama to interact with any Large Language Models to talk with users and allow them to host/create their own models.
 *   [symphony-hq/symphony](https://github.com/symphony-hq/symphony) - Write programs you can talk to.
-*   [raidendotai/openv0](https://github.com/raidendotai/openv0) - AI generated UI components
+*   [nraiden/openv0](https://github.com/nraiden/openv0) - AI generated UI components
 *   [hudy9x/namviek](https://github.com/hudy9x/namviek) - The open-source project management tool for tiny teams
 *   [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - AI chat for any model.
 *   [0xStarLabs/STAR-LABS-LAYER-ZERO](https://github.com/0xStarLabs/STAR-LABS-LAYER-ZERO) -
@@ -2668,6 +2667,7 @@
 *   [microsoft/AirSim](https://github.com/microsoft/AirSim) - Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft AI & Research
 *   [jrouwe/JoltPhysics](https://github.com/jrouwe/JoltPhysics) - A multi core friendly rigid body physics and collision detection library. Written in C++. Suitable for games and VR applications. Used by Horizon Forbidden West and Death Stranding 2.
 *   [defold/defold](https://github.com/defold/defold) - Defold is a completely free to use game engine for development of desktop, mobile and web games.
+*   [lemonade-sdk/lemonade](https://github.com/lemonade-sdk/lemonade) - Lemonade helps users discover and run local AI apps by serving optimized LLMs right from their own GPUs and NPUs. Join our discord: https://discord.gg/5xXzkMu8Zk
 *   [kuzudb/kuzu](https://github.com/kuzudb/kuzu) - Embedded property graph database built for speed. Vector search and full-text search built in. Implements Cypher.
 *   [cactus-compute/cactus](https://github.com/cactus-compute/cactus) - Kernels & AI inference engine for mobile devices.
 *   [kiwibrowser/src.next](https://github.com/kiwibrowser/src.next) - Source-code for Kiwi Next, a Kiwi Browser auto-rebased with latest Chromium
@@ -3006,7 +3006,7 @@
 *   [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 *   [openbao/openbao](https://github.com/openbao/openbao) - OpenBao exists to provide a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
 *   [modelcontextprotocol/registry](https://github.com/modelcontextprotocol/registry) - A community driven registry service for Model Context Protocol (MCP) servers.
-*   [claraverse-space/ClaraVerse](https://github.com/claraverse-space/ClaraVerse) - Claraverse is a opesource privacy focust ecosystem to replace ChatGPT, Claude, N8N, ImageGen with your own hosted llm, keys and compute. With desktop, IOS, Android Apps.
+*   [claraverse-space/ClaraVerse](https://github.com/claraverse-space/ClaraVerse) - Claraverse is a opesource privacy focused ecosystem to replace ChatGPT, Claude, N8N, ImageGen with your own hosted llm, keys and compute. With desktop, IOS, Android Apps.
 *   [inngest/inngest](https://github.com/inngest/inngest) - The leading workflow orchestration platform.  Run stateful step functions and AI workflows on serverless, servers, or the edge.
 *   [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
 *   [kopia/kopia](https://github.com/kopia/kopia) - Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
