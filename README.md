@@ -218,7 +218,7 @@
 *   [phuctm97/dbsky](https://github.com/phuctm97/dbsky) - Open-source analytics for any Bluesky account, built with Next.js data cache
 *   [solana-foundation/solana-attestation-site](https://github.com/solana-foundation/solana-attestation-site) -
 *   [tscircuit/tscircuit](https://github.com/tscircuit/tscircuit) - Create real electronics with Typescript and React
-*   [MCPJam/inspector](https://github.com/MCPJam/inspector) - Local inspector for ChatGPT apps & MCP apps (ext-apps)
+*   [MCPJam/inspector](https://github.com/MCPJam/inspector) - Test & Debug MCP servers, ChatGPT apps, and MCP Apps (ext-apps)
 *   [gillsdk/gill](https://github.com/gillsdk/gill) - Solana JavaScript/TypeScript SDK - client library for interacting with the Solana blockchain
 *   [systempromptio/systemprompt-mcp-server](https://github.com/systempromptio/systemprompt-mcp-server) - A complete, production-ready implementation of a Model Context Protocol (MCP) server demonstrating OAuth 2.1, tools, prompts, resources, sampling, and notifications using Reddit as a real-world integration example.
 *   [Panzer-Jack/feuse-mcp](https://github.com/Panzer-Jack/feuse-mcp) - Frontend Useful MCP Tools - Essential utilities for web developers to automate API integration and code generation
@@ -1077,7 +1077,7 @@
 *   [react-component/tree](https://github.com/react-component/tree) - React Tree
 *   [hauptrolle/chakra-templates](https://github.com/hauptrolle/chakra-templates) - A growing collection of responsive Chakra UI Templates ready to drop into your React project.
 *   [BuilderIO/builder](https://github.com/BuilderIO/builder) - Visual Development for React, Vue, Svelte, Qwik, and more
-*   [BearStudio/start-ui-web](https://github.com/BearStudio/start-ui-web) - 🚀 Start UI \[web] is an opinionated UI starter from the 🐻 Beastudio Team with ⚙️ Node.js, 🟦 TypeScript, ⚛️ React, 📦 TanStack Start, 💨 Tailwind CSS, 🧩 shadcn/ui, 📋 React Hook Form, 🔌 oRPC, 🛠 Prisma, 🔐 Better Auth, 📚 Storybook, 🧪 Vitest, 🎭 Playwright
+*   [BearStudio/start-ui-web](https://github.com/BearStudio/start-ui-web) - 🚀 Start UI \[web] is an opinionated UI starter from the 🐻 BearStudio Team with ⚙️ Node.js, 🟦 TypeScript, ⚛️ React, 📦 TanStack Start, 💨 Tailwind CSS, 🧩 shadcn/ui, 📋 React Hook Form, 🔌 oRPC, 🛠 Prisma, 🔐 Better Auth, 📚 Storybook, 🧪 Vitest, 🎭 Playwright
 *   [agustinusnathaniel/nextarter-chakra](https://github.com/agustinusnathaniel/nextarter-chakra) - battery packed template / boilerplate to initialize Next.js app with Chakra UI & Typescript setup ✨
 *   [dimitropoulos/react-ui-roundup](https://github.com/dimitropoulos/react-ui-roundup) - A one-stop-shop for comparing the features of all the best React frameworks.  Useful for designers and engineers alike!
 *   [MA-Ahmad/templatesKart](https://github.com/MA-Ahmad/templatesKart) - A powerful set of fully responsive and accessible ChakraUI React components and projects list
@@ -3046,7 +3046,7 @@
 *   [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps, now OpenID Certified™
 *   [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement,  running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more. Features: Generate Text, MCP, Audio, Video, Images, Voice Cloning, Distributed, P2P and decentralized inference
 *   [championswimmer/onepixel\_backend](https://github.com/championswimmer/onepixel_backend) -
-*   [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+*   [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 *   [casibase/casibase](https://github.com/casibase/casibase) - ⚡️AI Cloud OS: Open-source enterprise-level AI knowledge base and MCP (model-context-protocol)/A2A (agent-to-agent) management platform with admin UI, user management and Single-Sign-On⚡️, supports ChatGPT, Claude, Llama, Ollama, HuggingFace, etc., chat bot demo: https://ai.casibase.com, admin UI demo: https://ai-admin.casibase.com
 *   [apicat/apicat](https://github.com/apicat/apicat) - An efficient API documentation management tool that fully adheres to the OpenAPI specification and incorporates advanced LLM technology. This tool can automate the generation of API documentation, data models, and test cases, greatly enhancing development efficiency and documentation quality.
 *   [Layr-Labs/incredible-squaring-avs](https://github.com/Layr-Labs/incredible-squaring-avs) - Basic repo demoing a simple AVS middleware with full eigenlayer integration
