@@ -264,6 +264,7 @@
 *   [panva/openid-client](https://github.com/panva/openid-client) - OAuth 2 / OpenID Connect Client API for JavaScript Runtimes
 *   [alfonsograziano/node-code-sandbox-mcp](https://github.com/alfonsograziano/node-code-sandbox-mcp) - A Node.js–based Model Context Protocol server that spins up disposable Docker containers to execute arbitrary JavaScript.
 *   [idosal/git-mcp](https://github.com/idosal/git-mcp) - Put an end to code hallucinations! GitMCP is a free, open-source, remote MCP server for any GitHub project
+*   [janwilmake/openapisearch](https://github.com/janwilmake/openapisearch) - Making APIs accessible to AI Codegen
 *   [janwilmake/contextbuilding](https://github.com/janwilmake/contextbuilding) - Collaborative Context Editor
 *   [modelcontextprotocol/modelcontextprotocol](https://github.com/modelcontextprotocol/modelcontextprotocol) - Specification and documentation for the Model Context Protocol
 *   [modelcontextprotocol/typescript-sdk](https://github.com/modelcontextprotocol/typescript-sdk) - The official TypeScript SDK for Model Context Protocol servers and clients
@@ -1739,7 +1740,7 @@
 *   [SYSTRAN/faster-whisper](https://github.com/SYSTRAN/faster-whisper) - Faster Whisper transcription with CTranslate2
 *   [m-bain/whisperX](https://github.com/m-bain/whisperX) - WhisperX:  Automatic Speech Recognition with Word-level Timestamps (& Diarization)
 *   [microsoft/BitNet](https://github.com/microsoft/BitNet) - Official inference framework for 1-bit LLMs
-*   [agno-agi/agno](https://github.com/agno-agi/agno) - Build agents that learn and improve.
+*   [agno-agi/agno](https://github.com/agno-agi/agno) - Build multi-agent systems that learn and improve with every interaction.
 *   [VRSEN/agency-swarm](https://github.com/VRSEN/agency-swarm) - Reliable Multi-Agent Orchestration Framework
 *   [openai/swarm](https://github.com/openai/swarm) - Educational framework exploring ergonomic, lightweight multi-agent orchestration. Managed by OpenAI Solution team.
 *   [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
@@ -2617,7 +2618,6 @@
 *   [multisynq/physics-fountain](https://github.com/multisynq/physics-fountain) - Multiplayer Physics Demo
 *   [modelyaml/modelyaml](https://github.com/modelyaml/modelyaml) - model.yaml is an open standard for defining crossplatform, composable AI models
 *   [mayfer/open-artifacts](https://github.com/mayfer/open-artifacts) - Like Claude Artifacts but lives in a single static HTML page which you can use with any language model of your choosing
-*   [janwilmake/openapisearch](https://github.com/janwilmake/openapisearch) - Making APIs accessible to AI Codegen
 *   [LouisShark/chatgpt\_system\_prompt](https://github.com/LouisShark/chatgpt_system_prompt) - A collection of GPT system prompts and various prompt injection/leaking knowledge.
 *   [robinmoisson/staticrypt](https://github.com/robinmoisson/staticrypt) - Password protect a static HTML page, decrypted in-browser in JS with no dependency. No server logic needed.
 *   [Croquetx/pingkong](https://github.com/Croquetx/pingkong) - Multiplayer Pong
