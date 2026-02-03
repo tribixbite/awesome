@@ -81,7 +81,7 @@
 ## Python
 
 *   [vllm-project/vllm-omni](https://github.com/vllm-project/vllm-omni) - A framework for efficient model inference with omni-modality models
-*   [llm-in-sandbox/llm-in-sandbox](https://github.com/llm-in-sandbox/llm-in-sandbox) -
+*   [llm-in-sandbox/llm-in-sandbox](https://github.com/llm-in-sandbox/llm-in-sandbox) - LLM-in-Sandbox Elicits General Agentic Intelligence
 *   [Gameye98/DTL-X](https://github.com/Gameye98/DTL-X) - Python APK Reverser & Patcher Tool
 *   [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) - Open-Source Frontier Voice AI
 *   [trustedsec/social-engineer-toolkit](https://github.com/trustedsec/social-engineer-toolkit) - The Social-Engineer Toolkit (SET) repository from TrustedSec - All new versions of SET will be deployed here.
@@ -991,7 +991,7 @@
 *   [Pryority/farframe](https://github.com/Pryority/farframe) - My attempt at building a Farcaster Frame.
 *   [metonym/RhythmicVisage](https://github.com/metonym/RhythmicVisage) - LLM-driven graphic design using my personal Spotify streaming history.
 *   [bexlite-stack/litelms](https://github.com/bexlite-stack/litelms) -
-*   [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - open source rewind | 100% local | dev friendly | 24/7 screen, mic recording
+*   [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - screenpipe turns your computer into a personal AI that knows everything you've done. record. search. automate. all local, all private, all yours.
 *   [anomalyco/sst](https://github.com/anomalyco/sst) - Build full-stack apps on your own infrastructure.
 *   [i-am-alice/3rd-devs](https://github.com/i-am-alice/3rd-devs) -
 *   [sullyo/webapp-starter](https://github.com/sullyo/webapp-starter) - A monorepo template for building webapps - perfect for LLMs
@@ -1155,7 +1155,6 @@
 *   [anza-xyz/kit](https://github.com/anza-xyz/kit) - Solana JavaScript SDK
 *   [solana-foundation/mucho](https://github.com/solana-foundation/mucho) - Command-line tool that simplifies the development and testing of Solana blockchain programs.
 *   [anomalyco/openauth](https://github.com/anomalyco/openauth) - ▦ Universal, standards-based auth provider.
-*   [GitDataAI/jzfs](https://github.com/GitDataAI/jzfs) - Git based Version Control File System for joint management of code, data, model and their relationship.
 *   [xcaptain/solana-wallet-svelte](https://github.com/xcaptain/solana-wallet-svelte) - solana wallet demo
 *   [BuilderIO/micro-agent](https://github.com/BuilderIO/micro-agent) - An AI agent that writes (actually useful) code for you
 *   [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
@@ -3199,6 +3198,7 @@
 *   [RuolinZheng08/twewy-discord-chatbot](https://github.com/RuolinZheng08/twewy-discord-chatbot) - Discord AI Chatbot using DialoGPT, trained on the game transcript of The World Ends With You
 *   [benyaminahmed/nft-image-generator](https://github.com/benyaminahmed/nft-image-generator) -
 *   [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
+*   [PacktPublishing/Machine-Learning-for-Algorithmic-Trading-Second-Edition\_Original](https://github.com/PacktPublishing/Machine-Learning-for-Algorithmic-Trading-Second-Edition_Original) - Machine Learning for Algorithmic Trading, Second Edition - published by Packt
 
 ## TeX
 
