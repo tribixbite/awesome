@@ -291,7 +291,7 @@
 *   [SomeOddCodeGuy/OfflineWikipediaTextApi](https://github.com/SomeOddCodeGuy/OfflineWikipediaTextApi) - This small API downloads and exposes access to NeuML's txtai-wikipedia and full wikipedia datasets, taking in a query and returning full article text
 *   [NotJoeMartinez/yt-fts](https://github.com/NotJoeMartinez/yt-fts) - YouTube Full Text Search - Search all of YouTube from the command line
 *   [GitToby/howto-ai](https://github.com/GitToby/howto-ai) - Dont know the right command? Just ask howto!
-*   [QwenLM/Qwen3-Coder](https://github.com/QwenLM/Qwen3-Coder) - Qwen3-Coder is the code version of Qwen3, the large language model series developed by Qwen team, Alibaba Cloud.
+*   [QwenLM/Qwen3-Coder](https://github.com/QwenLM/Qwen3-Coder) - Qwen3-Coder is the code version of Qwen3, the large language model series developed by Qwen team.
 *   [huggingface/open-r1](https://github.com/huggingface/open-r1) - Fully open reproduction of DeepSeek-R1
 *   [handrew/browserpilot](https://github.com/handrew/browserpilot) - Natural language browser automation
 *   [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) - Automate browser based workflows with AI
@@ -991,7 +991,6 @@
 *   [Pryority/farframe](https://github.com/Pryority/farframe) - My attempt at building a Farcaster Frame.
 *   [metonym/RhythmicVisage](https://github.com/metonym/RhythmicVisage) - LLM-driven graphic design using my personal Spotify streaming history.
 *   [bexlite-stack/litelms](https://github.com/bexlite-stack/litelms) -
-*   [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - screenpipe turns your computer into a personal AI that knows everything you've done. record. search. automate. all local, all private, all yours.
 *   [anomalyco/sst](https://github.com/anomalyco/sst) - Build full-stack apps on your own infrastructure.
 *   [i-am-alice/3rd-devs](https://github.com/i-am-alice/3rd-devs) -
 *   [sullyo/webapp-starter](https://github.com/sullyo/webapp-starter) - A monorepo template for building webapps - perfect for LLMs
@@ -2987,6 +2986,7 @@
 *   [memvid/memvid](https://github.com/memvid/memvid) - Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory.
 *   [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) - TensorZero is an open-source stack for industrial-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluation, and experimentation.
 *   [rivet-dev/rivet](https://github.com/rivet-dev/rivet) - Rivet Actors are long-lived, in-memory processes. It's what you reach for when you hit the limitations of HTTP, databases, or queues.
+*   [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - screenpipe turns your computer into a personal AI that knows everything you've done. record. search. automate. all local, all private, all yours.
 *   [get-convex/convex-backend](https://github.com/get-convex/convex-backend) - The open-source reactive database for app developers
 *   [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex) - Data transformation framework for AI. Ultra performant, with incremental processing.  🌟 Star if you like it!
 *   [jsr-io/jsr](https://github.com/jsr-io/jsr) - The open-source package registry for modern JavaScript and TypeScript
