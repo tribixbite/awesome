@@ -80,6 +80,7 @@
 
 ## Python
 
+*   [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
 *   [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - practice made claude perfect
 *   [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) - 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG
 *   [vllm-project/vllm-omni](https://github.com/vllm-project/vllm-omni) - A framework for efficient model inference with omni-modality models
@@ -1023,7 +1024,6 @@
 *   [bropat/ioBroker.eusec](https://github.com/bropat/ioBroker.eusec) - This ioBroker adapter allows to control Eufy security devices by connecting to the Eufy cloud servers.
 *   [brainwalletX/brainwalletX.github.io](https://github.com/brainwalletX/brainwalletX.github.io) - Brainwallet site
 *   [bitcoinjs/bip39](https://github.com/bitcoinjs/bip39) - JavaScript implementation of Bitcoin BIP39: Mnemonic code for generating deterministic keys
-*   [jonbloom/stonkbot](https://github.com/jonbloom/stonkbot) -
 
 ## Rust
 
