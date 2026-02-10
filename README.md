@@ -185,7 +185,7 @@
 *   [arjunguha/BigCodeBench-X](https://github.com/arjunguha/BigCodeBench-X) - A benchmark of programming tasks for LLMs that supports almost any programming language.
 *   [sapientinc/HRM](https://github.com/sapientinc/HRM) - Hierarchical Reasoning Model Official Release
 *   [AsyncFuncAI/deepwiki-open](https://github.com/AsyncFuncAI/deepwiki-open) - Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab/Bitbucket Repositories. Join the discord: https://discord.gg/gMwThUMeme
-*   [InternScience/InternAgent](https://github.com/InternScience/InternAgent) - When Agent Becomes the Scientist – Building Closed-Loop System from Hypothesis to Verification
+*   [InternScience/InternAgent](https://github.com/InternScience/InternAgent) - InternAgent-1.5: A Unified Agentic Framework for Long-Horizon Autonomous Scientific Discovery
 *   [SalesforceAIResearch/MCPEval](https://github.com/SalesforceAIResearch/MCPEval) - MCP-based Agent Deep Evaluation System
 *   [SAAgent/MCPWorld](https://github.com/SAAgent/MCPWorld) -
 *   [chroma-core/chroma-mcp](https://github.com/chroma-core/chroma-mcp) - A Model Context Protocol (MCP) server implementation that provides database capabilities for Chroma
@@ -377,7 +377,6 @@
 *   [elder-plinius/STEGOSAURUS-WRECKS](https://github.com/elder-plinius/STEGOSAURUS-WRECKS) - A steganography tool for automatically encoding images that act as prompt injections/jailbreaks for AIs with code interpreter and vision.
 *   [mishakorzik/MailFinder](https://github.com/mishakorzik/MailFinder) - OSINT tool for finding email by first and last name
 *   [anthropics/claude-quickstarts](https://github.com/anthropics/claude-quickstarts) - A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API
-*   [moonshine-ai/moonshine](https://github.com/moonshine-ai/moonshine) - Fast and accurate automatic speech recognition (ASR) for edge devices
 *   [facebookresearch/lingua](https://github.com/facebookresearch/lingua) - Meta Lingua: a lean, efficient, and easy-to-hack codebase to research LLMs.
 *   [cyberchitta/llm-context.py](https://github.com/cyberchitta/llm-context.py) - Share code with LLMs via Model Context Protocol or clipboard. Rule-based customization enables easy switching between different tasks (like code review and documentation). Includes smart code outlining.
 *   [serengil/deepface](https://github.com/serengil/deepface) - A Lightweight Face Recognition and Facial Attribute Analysis (Age, Gender, Emotion and Race) Library for Python
@@ -590,7 +589,7 @@
 *   [IrisRainbowNeko/DreamArtist-stable-diffusion](https://github.com/IrisRainbowNeko/DreamArtist-stable-diffusion) - stable diffusion webui with contrastive prompt tuning
 *   [Cog-Creators/Red-DiscordBot](https://github.com/Cog-Creators/Red-DiscordBot) - A multi-function Discord bot
 *   [chamburr/modmail](https://github.com/chamburr/modmail) - A feature-rich Discord bot for easy communication between server staff and users.
-*   [DXsmiley/mathbot](https://github.com/DXsmiley/mathbot) - Discord bot for mathematics
+*   [dxsmiley/mathbot](https://github.com/dxsmiley/mathbot) - Discord bot for mathematics
 *   [feffy380/prompt-morph](https://github.com/feffy380/prompt-morph) - Generate morph sequences with Stable Diffusion. Interpolate between two or more prompts and create an image at each step.
 *   [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 *   [harubaru/discord-stable-diffusion](https://github.com/harubaru/discord-stable-diffusion) - A neat Discord bot to run Stable Diffusion locally
@@ -687,7 +686,7 @@
 *   [Domenicobrz/R3F-takes-flight](https://github.com/Domenicobrz/R3F-takes-flight) - Repo for the project of a youtube video
 *   [anaisbetts/mcp-installer](https://github.com/anaisbetts/mcp-installer) - An MCP server that installs other MCP servers for you
 *   [cjo4m06/mcp-shrimp-task-manager](https://github.com/cjo4m06/mcp-shrimp-task-manager) - Shrimp Task Manager is a task tool built for AI Agents, emphasizing chain-of-thought, reflection, and style consistency. It converts natural language into structured dev tasks with dependency tracking and iterative refinement, enabling agent-like developer behavior in reasoning AI systems.
-*   [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file\_folder: File Management Platform / Universal Data Access Gateway (without FUSE)
+*   [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file\_folder: File Management Platform / Universal Data Access Layer (without FUSE)
 *   [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
 *   [croquet/croquet](https://github.com/croquet/croquet) - Client-side (!) Multiplayer for JavaScript
 *   [samestrin/llm-interface](https://github.com/samestrin/llm-interface) - A simple NPM interface for seamlessly interacting with 36 Large Language Model (LLM) providers, including OpenAI, Anthropic, Google Gemini, Cohere, Hugging Face Inference, NVIDIA AI, Mistral AI, AI21 Studio, LLaMA.CPP, and Ollama, and hundreds of models.
@@ -809,6 +808,7 @@
 *   [phantom/synpress](https://github.com/phantom/synpress) - Synpress is e2e testing framework based on Cypress.io and playwright with support for metamask.
 *   [metaplex-foundation/developer-hub](https://github.com/metaplex-foundation/developer-hub) - One place for all Metaplex developer resources
 *   [MNisarAli/Metrics-Webapp](https://github.com/MNisarAli/Metrics-Webapp) - A single-page web application (SPA) that allows users to check world continents/countries' information, e.g; Population, Flags, Longitude, Latitude, etc.
+*   [ivanoats/nextweather](https://github.com/ivanoats/nextweather) - Weather station data focused on wind and tide for human powered watercraft
 *   [fastify/light-my-request](https://github.com/fastify/light-my-request) - Fake HTTP injection library
 *   [kristianmandrup/vault-ai](https://github.com/kristianmandrup/vault-ai) - OP Vault ChatGPT: Give ChatGPT long-term memory using the OP Stack (OpenAI + Pinecone Vector Database). Upload your own custom knowledge base files (PDF, txt, etc) using a simple React frontend.
 *   [Tanza3D/reddark](https://github.com/Tanza3D/reddark) - reddark, but it's in realtime
@@ -2220,7 +2220,6 @@
 *   [mortuary-inc/mortuary-burn](https://github.com/mortuary-inc/mortuary-burn) -
 *   [solana-mobile/dapp-publishing](https://github.com/solana-mobile/dapp-publishing) -
 *   [FreakinWard/nextjs-boilerplate](https://github.com/FreakinWard/nextjs-boilerplate) - Start up a nextjs app quickly
-*   [ivanoats/nextweather](https://github.com/ivanoats/nextweather) - Weather station data focused on wind and tide for human powered watercraft
 *   [jellydn/next-validations](https://github.com/jellydn/next-validations) - NextJS API Validations,  support Zod, Yup, Fastest-Validator, Joi, and more
 *   [openapi-library/OpenAPIValidators](https://github.com/openapi-library/OpenAPIValidators) - Use Jest or Chai to assert that HTTP responses satisfy an OpenAPI spec
 *   [fukaoi/solana-suite](https://github.com/fukaoi/solana-suite) - To develop Solana applications easily, even for beginners
@@ -3078,6 +3077,7 @@
 *   [ichisadashioko/windows-touchpad](https://github.com/ichisadashioko/windows-touchpad) - Make use of touchpad for handwriting in Windows
 *   [lzhiyong/termux-ndk](https://github.com/lzhiyong/termux-ndk) - android-ndk for termux
 *   [wireshark/wireshark](https://github.com/wireshark/wireshark) - Read-only mirror of Wireshark's Git repository at https://gitlab.com/wireshark/wireshark. ⚠️ GitHub won't let us disable pull requests. ⚠️ THEY WILL BE IGNORED HERE ⚠️ Upload them at GitLab instead.
+*   [moonshine-ai/moonshine](https://github.com/moonshine-ai/moonshine) - Fast and accurate automatic speech recognition (ASR) for edge devices
 *   [wazuh/wazuh](https://github.com/wazuh/wazuh) - Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.
 *   [VictorTaelin/Interaction-Calculus](https://github.com/VictorTaelin/Interaction-Calculus) - A programming language and model of computation that matches the optimal λ-calculus reduction algorithm perfectly.
 *   [tevador/hashx](https://github.com/tevador/hashx) - A family of pseudorandomly generated hash functions for proof-of-work and client puzzles
