@@ -3349,7 +3349,7 @@
 
 ## Jinja
 
-*   [jlevy/simple-modern-uv](https://github.com/jlevy/simple-modern-uv) - A minimal, modern Python project template using uv. Also available as a GitHub template.
+*   [jlevy/simple-modern-uv](https://github.com/jlevy/simple-modern-uv) - A minimal, modern Python project template using uv
 
 ## Batchfile
 
