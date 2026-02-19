@@ -132,7 +132,7 @@
 *   [logux/client](https://github.com/logux/client) - Logux base components to build web client
 *   [shivantra/react-web-camera](https://github.com/shivantra/react-web-camera) - React Web Camera — A React component for capturing multiple photos directly from the browser. Works on web, responsive apps, and PWAs. Solving the limitation of \<input type="file" capture> which only allows one photo at a time.
 *   [magnitudedev/browser-agent](https://github.com/magnitudedev/browser-agent) - Open-source, vision-first browser agent
-*   [mcp-use/mcp-use](https://github.com/mcp-use/mcp-use) - mcp-use is the easiest way to interact with mcp servers with custom agents
+*   [mcp-use/mcp-use](https://github.com/mcp-use/mcp-use) - The fullstack MCP framework to develop MCP Apps for ChatGPT / Claude & MCP Servers for AI Agents.
 *   [shadcn-ui/alpine-registry](https://github.com/shadcn-ui/alpine-registry) - An example registry for distributing code using shadcn.
 *   [fiberplane/mcp-lite](https://github.com/fiberplane/mcp-lite) - Lightweight, composable MCP framework for TypeScript
 *   [weaviate/elysia-frontend](https://github.com/weaviate/elysia-frontend) - Frontend Repository for Elysia
