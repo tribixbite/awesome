@@ -185,7 +185,7 @@
 *   [ovg-project/kvcached](https://github.com/ovg-project/kvcached) - Virtualized Elastic KV Cache for Dynamic GPU Sharing and Beyond
 *   [VILA-Lab/ATLAS](https://github.com/VILA-Lab/ATLAS) - A principled instruction benchmark on formulating effective queries and prompts for large language models (LLMs). Our paper: https://arxiv.org/abs/2312.16171
 *   [fabriziosalmi/shortlist](https://github.com/fabriziosalmi/shortlist) - Decentralized broadcasting system that uses Git as a coordination backend
-*   [OpenImagingLab/FlashVSR](https://github.com/OpenImagingLab/FlashVSR) - Towards Real-Time Diffusion-Based Streaming Video Super-Resolution — An efficient one-step diffusion framework for streaming VSR with locality-constrained sparse attention and a tiny conditional decoder.
+*   [OpenImagingLab/FlashVSR](https://github.com/OpenImagingLab/FlashVSR) - \[CVPR 2026] Towards Real-Time Diffusion-Based Streaming Video Super-Resolution — An efficient one-step diffusion framework for streaming VSR with locality-constrained sparse attention and a tiny conditional decoder.
 *   [edent/SuperTinyIcons](https://github.com/edent/SuperTinyIcons) - Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
 *   [karpathy/nanochat](https://github.com/karpathy/nanochat) - The best ChatGPT that $100 can buy.
 *   [Continual-Intelligence/SEAL](https://github.com/Continual-Intelligence/SEAL) - Self-Adapting Language Models
