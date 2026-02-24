@@ -550,7 +550,7 @@
 *   [huggingface/autotrain-advanced](https://github.com/huggingface/autotrain-advanced) - 🤗 AutoTrain Advanced
 *   [zhangzhejian/codeinterpreter-codebox](https://github.com/zhangzhejian/codeinterpreter-codebox) - Easy to deploy.A cloud service for python code interpreter sandbox for Code-Interpreter.
 *   [llm-platform-security/SecGPT](https://github.com/llm-platform-security/SecGPT) - An Execution Isolation Architecture for LLM-Based Agentic Systems
-*   [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - The open source AI platform for enterprise agents and automation.
+*   [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - The open source AI platform for secure enterprise agents.
 *   [truefoundry/cognita](https://github.com/truefoundry/cognita) - RAG (Retrieval Augmented Generation) Framework for building modular, open source applications for production by TrueFoundry
 *   [Chainlit/chainlit](https://github.com/Chainlit/chainlit) - Build Conversational AI in minutes ⚡️
 *   [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache) - Semantic cache for LLMs. Fully integrated with LangChain and llama\_index.
@@ -1368,7 +1368,7 @@
 *   [maweiche/solana\_token\_extensions](https://github.com/maweiche/solana_token_extensions) - Basic build to interact with solana token extensions
 *   [solana-foundation/create-solana-dapp](https://github.com/solana-foundation/create-solana-dapp) - The fastest way to create Solana apps 🚀 Templates 👉 https://github.com/solana-foundation/templates
 *   [lwojcik/react-tridi-wrapper](https://github.com/lwojcik/react-tridi-wrapper) - 360-degree image viewer as a React component
-*   [wasp-lang/wasp](https://github.com/wasp-lang/wasp) - The fastest way to develop full-stack web apps with React & Node.js.
+*   [wasp-lang/wasp](https://github.com/wasp-lang/wasp) - The batteries-included full-stack framework for the AI era. Develop JS/TS web apps (React, Node.js, and Prisma) using declarative code that abstracts away complex full-stack features like auth, background jobs, RPC, email sending, end-to-end type safety, single-command deployment, and more.
 *   [zhangrenyang/chatgpt](https://github.com/zhangrenyang/chatgpt) - A free AI assistant that supports GPT-4,支持GPT-4的免费AI助手
 *   [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) - A blazing fast AI Gateway with integrated guardrails. Route to 200+ LLMs, 50+ AI Guardrails with 1 fast & friendly API.
 *   [pubkeyapp/pubkey-link-v1](https://github.com/pubkeyapp/pubkey-link-v1) - PubKey Link is the first Solana Discord bot that supports cNFTs. Free and open source. **DEPRECATED** Check https://github.com/pubkeyapp/pubkey-link
