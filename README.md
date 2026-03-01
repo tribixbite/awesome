@@ -195,7 +195,7 @@
 *   [solana-foundation/kora](https://github.com/solana-foundation/kora) - Implementation of a Solana relayer. Provides a lib and cli crate in order to enable signing experiences on Solana
 *   [hyper-mcp-rs/hyper-mcp](https://github.com/hyper-mcp-rs/hyper-mcp) - 📦️ A fast, secure MCP server that extends its capabilities through WebAssembly plugins.
 *   [lumina-ai-inc/chunkr](https://github.com/lumina-ai-inc/chunkr) - Vision infrastructure to turn complex documents into RAG/LLM-ready data
-*   [katanemo/plano](https://github.com/katanemo/plano) - Delivery infrastructure for agentic apps - Plano is an AI-native proxy and data plane that offloads plumbing work, so you stay focused on your agent's core logic (via any AI framework).
+*   [katanemo/plano](https://github.com/katanemo/plano) - Plano is an AI-native proxy server and data plane for agentic apps — centralizing orchestration, safety, observability, and smart LLM routing so you can deliver agents faster.
 *   [Helicone/ai-gateway](https://github.com/Helicone/ai-gateway) - The fastest, lightest, and easiest-to-integrate AI gateway on the market. Fully open-sourced.
 *   [tigranbs/mcgravity](https://github.com/tigranbs/mcgravity) - Fast TUI that orchestrates AI coding tools (Claude Code, Codex, Gemini) in a plan→execute→review loop. Breaks work into atomic tasks for easier verification and course-correction.
 *   [sxhxliang/mcp-access-point](https://github.com/sxhxliang/mcp-access-point) - Turn a web server into an MCP server in one click without making any code changes.
@@ -515,7 +515,7 @@
 *   [Zentar-Ai/Zentara-Code](https://github.com/Zentar-Ai/Zentara-Code) - AI debugger and AI coder integrated.  Use AI to code and drives runtime debugger
 *   [callbacked/qwen3-semantic-search](https://github.com/callbacked/qwen3-semantic-search) - interactive semantic search demo using Qwen3-0.6B-Embedding in your browser
 *   [izadoesdev/Zephra](https://github.com/izadoesdev/Zephra) -
-*   [sjdonado/idonthavespotify](https://github.com/sjdonado/idonthavespotify) - Effortlessly convert Spotify links to your preferred streaming service
+*   [sjdonado/idonthavespotify](https://github.com/sjdonado/idonthavespotify) - Effortlessly convert music links between streaming services
 *   [kitajs/html](https://github.com/kitajs/html) - 🏛️ Super fast JSX runtime to generate HTML strings that works everywhere. If it supports string we got you covered.
 *   [iamvishnusankar/next-sitemap](https://github.com/iamvishnusankar/next-sitemap) - Sitemap generator for next.js. Generate sitemap(s) and robots.txt for all static/pre-rendered/dynamic/server-side pages.
 *   [iib0011/omni-tools](https://github.com/iib0011/omni-tools) - Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser!
