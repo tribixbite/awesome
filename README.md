@@ -4,20 +4,20 @@
 
 ## Table of Contents
 
-*   [Kotlin](#kotlin)
+*   [C++](#c)
+*   [Rust](#rust)
 *   [TypeScript](#typescript)
+*   [Kotlin](#kotlin)
+*   [C#](#c-1)
 *   [Go](#go)
 *   [JavaScript](#javascript)
 *   [Python](#python)
-*   [C++](#c)
 *   [MDX](#mdx)
 *   [Java](#java)
-*   [Rust](#rust)
 *   [Shell](#shell)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [HTML](#html)
 *   [miscellaneous](#miscellaneous)
-*   [C#](#c-1)
 *   [Swift](#swift)
 *   [Nix](#nix)
 *   [C](#c-2)
@@ -78,99 +78,269 @@
 *   [AutoIt](#autoit)
 *   [Visual Basic .NET](#visual-basic-net)
 *   [R](#r)
-*   [Arduino](#arduino)
-*   [G-code](#g-code)
 
-## Kotlin
+## C++
 
-*   [JingMatrix/TEESimulator](https://github.com/JingMatrix/TEESimulator) - Software simulation for Android hardware-backed key pairs with key attestation
-*   [MatsuriDayo/NekoBoxForAndroid](https://github.com/MatsuriDayo/NekoBoxForAndroid) - NekoBox for Android / sing-box / universal proxy toolchain for Android
-*   [ZalithLauncher/ZalithLauncher2](https://github.com/ZalithLauncher/ZalithLauncher2) - A Minecraft: Java Edition Launcher for Android
-*   [mobile-dev-inc/Maestro](https://github.com/mobile-dev-inc/Maestro) - Painless E2E Automation for Mobile and Web
-*   [breezy-weather/breezy-weather](https://github.com/breezy-weather/breezy-weather) - A feature-rich weather app with good visualizations and more than 50 sources.
-*   [recloudstream/cloudstream](https://github.com/recloudstream/cloudstream) - Android app for streaming and downloading media.
-*   [tribixbite/Embeddy](https://github.com/tribixbite/Embeddy) - Swiss-army knife for embeddable media on Android — animated WebP converter, image compressor (WebP/JPEG/PNG/AVIF), OG metadata inspector, anonymous file uploader
-*   [square/leakcanary](https://github.com/square/leakcanary) - A memory leak detection library for Android.
-*   [shadowsocks/shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android) - A shadowsocks client for Android
-*   [android/architecture-samples](https://github.com/android/architecture-samples) - A collection of samples to discuss and showcase different architectural tools and patterns for Android apps.
-*   [FossifyOrg/File-Manager](https://github.com/FossifyOrg/File-Manager) - Easy app for managing your files without ads, respecting your privacy & security
-*   [truefedex/tv-bro](https://github.com/truefedex/tv-bro) - Simple web browser for android optimized to use with TV remote
-*   [JetBrains/koog](https://github.com/JetBrains/koog) - Koog is the official Kotlin framework for building predictable, fault-tolerant and enterprise-ready AI agents across all platforms – from backend services to Android and iOS, JVM, and even in-browser environments. Koog is based on our AI products expertise and provides proven solutions for complex LLM and AI problems
-*   [permissionlesstech/bitchat-android](https://github.com/permissionlesstech/bitchat-android) - bluetooth mesh chat, IRC vibes
-*   [utkarshdalal/GameNative](https://github.com/utkarshdalal/GameNative) - Lightweight unofficial Steam client for Android
-*   [tribixbite/stoatally](https://github.com/tribixbite/stoatally) - Unofficial Stoat (formerly Revolt) chat client for Android
-*   [stoatchat/for-android](https://github.com/stoatchat/for-android) - Stoat for Android — App and internal API library
-*   [session-foundation/session-android](https://github.com/session-foundation/session-android) - Session Android - A Decentralized, Onion Routed, Private Messenger
-*   [isaac-udy/Enro](https://github.com/isaac-udy/Enro) - A simple navigation library for Android 🗺️
-*   [leokwsw/Emoji-Keyboard](https://github.com/leokwsw/Emoji-Keyboard) - A simple library to add Emoji support to your Android Application
-*   [Kunzisoft/KeePassDX](https://github.com/Kunzisoft/KeePassDX) - Lightweight vault and password manager for Android, KeePassDX allows editing encrypted data in a single file in KeePass format and fill in the forms in a secure way.
-*   [urikdev/Urik](https://github.com/urikdev/Urik) - Privacy-focused Android keyboard with swipe typing, custom layouts, and password manager support. No tracking, 100% on-device, and fully open source.
-*   [rainxchzed/Github-Store](https://github.com/rainxchzed/Github-Store) - A free, open-source app store for GitHub releases — browse, discover, and install apps with one click. Powered by Kotlin and Compose Multiplatform for Android & Desktop (Linux, MacOS, Windows).
-*   [sakethpathike/Otic](https://github.com/sakethpathike/Otic) - Minimal Android app to stream microphone input to the local network.
-*   [ReVanced/revanced-patcher](https://github.com/ReVanced/revanced-patcher) - 💉 ReVanced Patcher used to patch Android applications
-*   [Catrobat/Paintroid](https://github.com/Catrobat/Paintroid) - The standard image manipulation app for Catroid.
-*   [tribixbite/CustomCamera](https://github.com/tribixbite/CustomCamera) - Professional plugin-based Android camera app with modular architecture, manual controls, and advanced features
-*   [VREMSoftwareDevelopment/WiFiAnalyzer](https://github.com/VREMSoftwareDevelopment/WiFiAnalyzer) - Android application to analyze Wi-Fi signals.
-*   [tytydraco/LADB](https://github.com/tytydraco/LADB) - A local ADB shell for Android!
-*   [supershadoe/delta](https://github.com/supershadoe/delta) - Advanced hotspot settings for Pixel-like devices
-*   [tribixbite/GlassAssistant](https://github.com/tribixbite/GlassAssistant) - Assistant for Google Glass EE2
-*   [Jonathan-R-Anderson/glass-plex](https://github.com/Jonathan-R-Anderson/glass-plex) - plex client for google glass
-*   [inckie/AnotherGlass](https://github.com/inckie/AnotherGlass) - Companion application to handle Google Glass communication with a phone without Glass related Google Services.
-*   [legendsayantan/Extendroid](https://github.com/legendsayantan/Extendroid) - Android Multi-Tasking Manager with desktop-like multi window and remote access support.
-*   [tribixbite/CleverKeys](https://github.com/tribixbite/CleverKeys) - Privacy-first neural Android keyboard with advanced swipe prediction
-*   [bmax121/APatch](https://github.com/bmax121/APatch) - The patching of Android kernel and Android system
-*   [legendsayantan/ShizuTools](https://github.com/legendsayantan/ShizuTools) - Contains many tools to control android system via shizuku.
-*   [FossifyOrg/Flashlight](https://github.com/FossifyOrg/Flashlight) - A simple modern flashlight with SOS, stroboscope & bright display, has no ads.
-*   [FossifyOrg/Voice-Recorder](https://github.com/FossifyOrg/Voice-Recorder) - An easy way of recording any discussion or sounds without ads or internet access
-*   [FossifyOrg/Messages](https://github.com/FossifyOrg/Messages) - An easy and quick way of managing SMS and MMS messages without ads.
-*   [liriliri/eruda-android](https://github.com/liriliri/eruda-android) - Simple webview with eruda loaded automatically
-*   [shubham0204/SmolChat-Android](https://github.com/shubham0204/SmolChat-Android) - Running any GGUF SLMs/LLMs locally, on-device in Android
-*   [d4rken-org/sdmaid-se](https://github.com/d4rken-org/sdmaid-se) - SD Maid 2/SE is Android's most thorough cleaning tool.
-*   [LinkSheet/LinkSheet](https://github.com/LinkSheet/LinkSheet) - Link handling for modern Android
-*   [fork-maintainers/iceraven-browser](https://github.com/fork-maintainers/iceraven-browser) - Iceraven Browser
-*   [JunkFood02/Seal](https://github.com/JunkFood02/Seal) - 🦭 Video/Audio Downloader for Android, based on yt-dlp
-*   [deniscerri/ytdlnis](https://github.com/deniscerri/ytdlnis) - Full-featured audio/video downloader for Android using yt-dlp
-*   [RikkaApps/Shizuku](https://github.com/RikkaApps/Shizuku) - Using system APIs directly with adb/root privileges from normal apps through a Java process started with app\_process.
-*   [newhinton/disky](https://github.com/newhinton/disky) - An android filesystem analyzer that can show you the usage of your storage!
-*   [iamr0s/Dhizuku](https://github.com/iamr0s/Dhizuku) - A tool that can share DeviceOwner permissions to other application.
-*   [libre-tube/LibreTube](https://github.com/libre-tube/LibreTube) - An alternative frontend for YouTube, for Android.
-*   [FossifyOrg/Keyboard](https://github.com/FossifyOrg/Keyboard) - Easy keyboard for inserting all kinds of texts, special characters and numbers.
-*   [T8RIN/ImageToolbox](https://github.com/T8RIN/ImageToolbox) - 🖼️ Image Toolbox is a powerful app for advanced image manipulation. It offers dozens of features, from basic tools like crop and draw to filters, OCR, and a wide range of image processing options
-*   [thunderbird/thunderbird-android](https://github.com/thunderbird/thunderbird-android) - Thunderbird for Android – Open Source Email App for Android (fka K-9 Mail)
-*   [keymapperorg/KeyMapper](https://github.com/keymapperorg/KeyMapper) - An Android app to remap the buttons on your devices
-*   [hardillb/S3Share](https://github.com/hardillb/S3Share) - An Android app for sharing images and videos to an S3 Bucket
-*   [horizontalsystems/unstoppable-wallet-android](https://github.com/horizontalsystems/unstoppable-wallet-android) - A powerful non-custodial multi-wallet for Bitcoin, Ethereum, Binance Smart Chain, Avalanche, Solana and other blockchains. Non-custodial crypto and NFT storage, onchain decentralized exchange, institutional grade analytics for cryptcurrency and NFT markets, extensive privacy controls and human oriented design. Implemented on Kotlin.
-*   [patxibocos/google-photos-exporter](https://github.com/patxibocos/google-photos-exporter) - Get your Google Photos synced to Dropbox, OneDrive, Box or GitHub
-*   [saket/unfurl](https://github.com/saket/unfurl) - Generate rich previews of links, inspired by Slack.
-*   [accrescent/accrescent](https://github.com/accrescent/accrescent) - A novel Android app store focused on security, privacy, and usability
-*   [Kotlin/kmp-production-sample](https://github.com/Kotlin/kmp-production-sample) - This is an open-source, mobile, cross-platform application built with Kotlin Multiplatform Mobile. It's a simple RSS reader, and you can download it from the App Store and Google Play. It's been designed to demonstrate how KMM can be used in real production projects.
-*   [OpenArchive/Save-app-android](https://github.com/OpenArchive/Save-app-android) - This is the Save app for Android
-*   [caydey/ffshare](https://github.com/caydey/ffshare) - An android app to compress image, video and audio files through ffmpeg before sharing them
-*   [PatilShreyas/NotyKT](https://github.com/PatilShreyas/NotyKT) - 📒 NotyKT is a complete 💎Kotlin-stack (Backend + Android) 📱 application built to demonstrate the use of Modern development tools with best practices implementation🦸.
-*   [skydoves/chatgpt-android](https://github.com/skydoves/chatgpt-android) - 📲 ChatGPT Android demonstrates a Chatbot application using OpenAI's chat API on Android with Stream Chat SDK for Compose.
-*   [ptrpaws/Oculess](https://github.com/ptrpaws/Oculess) - Removes account requirements and telemetry from Oculus Quest devices
-*   [SimonMarquis/Android-App-Linking](https://github.com/SimonMarquis/Android-App-Linking) - 🔗 The ultimate developer guide to Android application linking methods
-*   [pyamsoft/tetherfusenet](https://github.com/pyamsoft/tetherfusenet) - TetherFuseNet - Internet sharing without Root
-*   [p2p-org/key-app-android](https://github.com/p2p-org/key-app-android) -
-*   [zachbr/Dis4IRC](https://github.com/zachbr/Dis4IRC) - A modern Discord <-> IRC bridge
-*   [metrodroid/metrodroid](https://github.com/metrodroid/metrodroid) - Read data from public transit cards using your NFC Android phone! (iOS 13 and PC/SC support coming soon)
-*   [kiwix/kiwix-android](https://github.com/kiwix/kiwix-android) - Kiwix for Android
-*   [Lucchetto/SuperImage](https://github.com/Lucchetto/SuperImage) - Sharpen your low-resolution pictures with the power of AI upscaling
-*   [tejado/android-usb-gadget](https://github.com/tejado/android-usb-gadget) - Convert your Android phone to any USB device you like! USB Gadget Tool allows you to create and activate USB device roles, like a mouse or a keyboard.  🛠🛡📱
-*   [coral-xyz/mobile-wallet-adapter-react-native](https://github.com/coral-xyz/mobile-wallet-adapter-react-native) - Solana Mobile Wallet Adapter for React Native & Expo
-*   [LorittaBot/Loritta](https://github.com/LorittaBot/Loritta) - 💁 A multipurpose, multilanguage, customizable, modular, and very cute bot for Discord! ~Making your server more awesome~
-*   [DanielMartinus/Konfetti](https://github.com/DanielMartinus/Konfetti) - Celebrate more with this lightweight confetti particle system 🎊
-*   [TeamVanced/VancedManager](https://github.com/TeamVanced/VancedManager) - Vanced Installer
-*   [TeamVanced/VancedStore](https://github.com/TeamVanced/VancedStore) - General Application Store with support for root apps and more
+*   [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
+*   [PaddlePaddle/Paddle](https://github.com/PaddlePaddle/Paddle) - PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）
+*   [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “KeePass Password Safe”.
+*   [7h30th3r0n3/Evil-M5Project](https://github.com/7h30th3r0n3/Evil-M5Project) - Evil-M5Project is an innovative tool developed for ethical  hacking and exploration of WiFi networks. It's compatible with Cardputer, Atoms3, Fire, core2. You can scan, monitor, and interact with WiFi networks in a controlled environment. This project is designed for educational purposes, aiding in understanding network security and vulnerabilities
+*   [jbohack/nyanBOX](https://github.com/jbohack/nyanBOX) - A compact ESP32 Wroom32U toolkit for wireless security—scan, analyze, and spoof RF, Wi-Fi, and BLE protocols, all from an intuitive menu-driven interface. No complex commands or coding required. Designed for ease of use while exploring wireless communication in a responsible, educational manner.
+*   [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx) - Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, HarmonyOS, Raspberry Pi, RISC-V, RK NPU, Axera NPU, Ascend NPU, x86\_64 servers, websocket server/client, support 12 programming languages
+*   [pia-foss/desktop](https://github.com/pia-foss/desktop) - Private Internet Access - Desktop VPN Client for Windows/macOS/Linux
+*   [futo-org/android-keyboard](https://github.com/futo-org/android-keyboard) - Official FUTO Keyboard Issue Tracker and Source Mirror of https://gitlab.futo.org/keyboard/latinime
+*   [AddisonPrairie/Tree-Generator](https://github.com/AddisonPrairie/Tree-Generator) - Tree Generation in Web Assembly
+*   [ProjectPhysX/FluidX3D](https://github.com/ProjectPhysX/FluidX3D) - The fastest and most memory efficient lattice Boltzmann CFD software, running on all GPUs and CPUs via OpenCL. Free for non-commercial use.
+*   [daijro/camoufox](https://github.com/daijro/camoufox) - 🦊 Anti-detect browser
+*   [aplyer/flir\_one\_node](https://github.com/aplyer/flir_one_node) - ROS node for Flir one camera on linux
+*   [FLIR/BosonUSB](https://github.com/FLIR/BosonUSB) - Tool to capture Boson USB video in Linux
+*   [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
+*   [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) - Tesseract Open Source OCR Engine (main repository)
+*   [acaudwell/Gource](https://github.com/acaudwell/Gource) - software version control visualization
+*   [microsoft/AirSim](https://github.com/microsoft/AirSim) - Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft AI & Research
+*   [jrouwe/JoltPhysics](https://github.com/jrouwe/JoltPhysics) - A multi core friendly rigid body physics and collision detection library. Written in C++. Suitable for games and VR applications. Used by Horizon Forbidden West and Death Stranding 2.
+*   [defold/defold](https://github.com/defold/defold) - Defold is a completely free to use game engine for development of desktop, mobile and web games.
+*   [lemonade-sdk/lemonade](https://github.com/lemonade-sdk/lemonade) - Lemonade helps users discover and run local AI apps by serving optimized LLMs right from their own GPUs and NPUs. Join our discord: https://discord.gg/5xXzkMu8Zk
+*   [kuzudb/kuzu](https://github.com/kuzudb/kuzu) - Embedded property graph database built for speed. Vector search and full-text search built in. Implements Cypher.
+*   [kiwibrowser/src.next](https://github.com/kiwibrowser/src.next) - Source-code for Kiwi Next, a Kiwi Browser auto-rebased with latest Chromium
+*   [uNetworking/uWebSockets](https://github.com/uNetworking/uWebSockets) - Simple, secure & standards compliant web server for the most demanding of applications
+*   [gpustack/llama-box](https://github.com/gpustack/llama-box) - LM inference server implementation based on \*.cpp.
+*   [unslothai/llama.cpp](https://github.com/unslothai/llama.cpp) - LLM inference in C/C++
+*   [aicodix/rattlegram](https://github.com/aicodix/rattlegram) - Transceive UTF-8 text messages with up to 170 bytes over audio in about a second!
+*   [KolosalAI/Kolosal](https://github.com/KolosalAI/Kolosal) - Kolosal AI is an OpenSource and Lightweight alternative to LM Studio to run LLMs 100% offline on your device.
+*   [MerginMaps/mobile](https://github.com/MerginMaps/mobile) - Mergin Maps mobile app 📲 Open QGIS projects and manage vector data on your phone, even offline 📶 (Android/iOS/Windows app)
+*   [Maproom/qmapshack](https://github.com/Maproom/qmapshack) - Consumer grade GIS software
+*   [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community. No ads, no tracking, no data collection, no crapware. Please donate to support the development!
+*   [upf-gti/rooms](https://github.com/upf-gti/rooms) -
+*   [cocos/cocos-engine](https://github.com/cocos/cocos-engine) - Cocos simplifies game creation and distribution with Cocos Creator, a free, open-source, cross-platform game engine. Empowering millions of developers to create high-performance, engaging 2D/3D games and instant web entertainment.
+*   [luanti-org/luanti](https://github.com/luanti-org/luanti) - Luanti (formerly Minetest) is an open source voxel game-creation platform with easy modding and game creation
+*   [webaverse-studios/webaverse](https://github.com/webaverse-studios/webaverse) - An open metaverse engine for everyone
+*   [overte-org/overte](https://github.com/overte-org/overte) - Overte open source virtual worlds platform.
+*   [mikelma/craftium](https://github.com/mikelma/craftium) - A framework for creating rich, 3D, Minecraft-like single and multi-agent environments for AI research. (Accepted at ICML 2025).
+*   [PrismLauncher/PrismLauncher](https://github.com/PrismLauncher/PrismLauncher) - A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once (Fork of MultiMC)
+*   [MultiCraft/MultiCraft](https://github.com/MultiCraft/MultiCraft) - 🌍 MultiCraft Engine | Open Source
+*   [aria2/aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
+*   [aphrodite-engine/aphrodite-engine](https://github.com/aphrodite-engine/aphrodite-engine) - Large-scale LLM inference engine
+*   [foldl/chatllm.cpp](https://github.com/foldl/chatllm.cpp) - Pure C++ implementation of several models for real-time chatting on your computer (CPU & GPU)
+*   [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
+*   [kamektx/TouchpadGestures\_Advanced](https://github.com/kamektx/TouchpadGestures_Advanced) - Extends your Precision Touchpad experience.
+*   [TigerVNC/tigervnc](https://github.com/TigerVNC/tigervnc) - High performance, multi-platform VNC client and server
+*   [LostRuins/koboldcpp](https://github.com/LostRuins/koboldcpp) - Run GGUF models easily with a KoboldAI UI. One File. Zero Install.
+*   [moonshine-ai/useful-transformers](https://github.com/moonshine-ai/useful-transformers) - Efficient Inference of Transformer models
+*   [CalcProgrammer1/OpenRGB](https://github.com/CalcProgrammer1/OpenRGB) - Open source RGB lighting control that doesn't depend on manufacturer software. Supports Windows, Linux, MacOS.  Mirror of https://gitlab.com/CalcProgrammer1/OpenRGB.  Releases can be found on GitLab.
+*   [cvuchener/hidpp](https://github.com/cvuchener/hidpp) - Collection of HID++ tools
+*   [breach/thrust](https://github.com/breach/thrust) - Chromium-based cross-platform / cross-language application framework
+*   [Distributive-Network/PythonMonkey](https://github.com/Distributive-Network/PythonMonkey) - A Mozilla SpiderMonkey JavaScript engine embedded into the Python VM, using the Python engine to provide the JS host environment.
+*   [Stellarium/stellarium](https://github.com/Stellarium/stellarium) - Stellarium is a free GPL software which renders realistic skies in real time with OpenGL. It is available for Linux/Unix, Windows and macOS. With Stellarium, you really see what you can see with your eyes, binoculars or a small telescope.
+*   [Linux-on-droid/vendor\_lindroid](https://github.com/Linux-on-droid/vendor_lindroid) -
+*   [activeloopai/deeplake](https://github.com/activeloopai/deeplake) - Database for AI. Store Vectors, Images, Texts, Videos, etc. Use with LLMs/LangChain. Store, query, version, & visualize any AI data. Stream data in real-time to PyTorch/TensorFlow. https://activeloop.ai
+*   [rive-app/rive-runtime](https://github.com/rive-app/rive-runtime) - Low-level C++ Rive runtime and renderer
+*   [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.
+*   [plv8/plv8](https://github.com/plv8/plv8) -  V8 Engine Javascript Procedural Language add-on for PostgreSQL
+*   [ArsenArsen/KShare](https://github.com/ArsenArsen/KShare) - The free and open source and cross platform screen sharing software.
+*   [doxygen/doxygen](https://github.com/doxygen/doxygen) - Official doxygen git repository
+*   [AlexandrVIvanov/InstallerFileTakeOver](https://github.com/AlexandrVIvanov/InstallerFileTakeOver) -
+*   [CodingGay/BlackDex](https://github.com/CodingGay/BlackDex) - BlackDex is an Android unpack(dexdump) tool, it supports Android 5.0~12 and need not rely to any environment. BlackDex can run on any Android mobile phone or emulator, you can unpack APK File in several seconds.
+*   [kefir500/apk-editor-studio](https://github.com/kefir500/apk-editor-studio) - Powerful yet easy to use APK editor for PC and Mac.
+*   [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) - LLM inference in C/C++
+*   [davidhampgonsalves/CR14-emulator-for-CatGenie-120](https://github.com/davidhampgonsalves/CR14-emulator-for-CatGenie-120) - Suppress the CatGenie 120 DRM and refill soap cartridges using an Arduino
+*   [fusionlanguage/fut](https://github.com/fusionlanguage/fut) - Fusion programming language. Transpiling to C, C++, C#, D, Java, JavaScript, Python, Swift, TypeScript and OpenCL C.
+*   [sanni/cartreader](https://github.com/sanni/cartreader) - A shield for the Arduino Mega that can back up video game cartridges.
+*   [c0re100/qBittorrent-Enhanced-Edition](https://github.com/c0re100/qBittorrent-Enhanced-Edition) - \[Unofficial] qBittorrent Enhanced, based on qBittorrent
+*   [XorTroll/emuiibo](https://github.com/XorTroll/emuiibo) - Virtual amiibo (amiibo emulation) system for Nintendo Switch
+*   [AmusementClub/vs-mlrt](https://github.com/AmusementClub/vs-mlrt) - Efficient CPU/GPU ML Runtimes for VapourSynth (with built-in support for waifu2x, DPIR, RealESRGANv2/v3, Real-CUGAN, RIFE, SCUNet, ArtCNN and more!)
+*   [codingo/DNSCewl](https://github.com/codingo/DNSCewl) - A DNS Bruteforcing Wordlist Generator
+*   [AaronFeng753/Waifu2x-Extension-GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI) - Video, Image and GIF upscale/enlarge(Super-Resolution) and Video frame interpolation. Achieved with Waifu2x,  Real-ESRGAN, Real-CUGAN, RTX Video Super Resolution VSR, SRMD, RealSR, Anime4K, RIFE, IFRNet, CAIN, DAIN,  and ACNet.
+*   [opencv/opencv](https://github.com/opencv/opencv) - Open Source Computer Vision Library
+*   [mongodb/mongo](https://github.com/mongodb/mongo) - The MongoDB Database
+*   [NerdLang/nerd](https://github.com/NerdLang/nerd) - 🔱 Javascript's God Mode. No VM. No Bytecode. No GC. Just native binaries.
+*   [shajen/rtl-sdr-scanner-cpp](https://github.com/shajen/rtl-sdr-scanner-cpp) -
+*   [berthubert/googerteller](https://github.com/berthubert/googerteller) - audible feedback on just how much your browsing feeds into google
+*   [f3d-app/f3d](https://github.com/f3d-app/f3d) - Fast and minimalist 3D viewer.
+*   [bkaradzic/bgfx](https://github.com/bkaradzic/bgfx) - Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style rendering library.
+*   [typesense/typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
+*   [google-deepmind/code\_contests](https://github.com/google-deepmind/code_contests) -
+*   [HASwitchPlate/openHASP](https://github.com/HASwitchPlate/openHASP) - HomeAutomation Switchplate based on lvgl for ESP32
+*   [esphome/esphome](https://github.com/esphome/esphome) - ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems.
+*   [mozilla/DeepSpeech](https://github.com/mozilla/DeepSpeech) - DeepSpeech is an open source embedded (offline, on-device) speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers.
+*   [projectM-visualizer/projectm](https://github.com/projectM-visualizer/projectm) - projectM - Cross-platform Music Visualization Library. Open-source and Milkdrop-compatible.
+
+## Rust
+
+*   [clockworklabs/SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB) - Development at the speed of light
+*   [louis-e/arnis](https://github.com/louis-e/arnis) - Generate any location from the real world in Minecraft with a high level of detail.
+*   [anthropics/claudes-c-compiler](https://github.com/anthropics/claudes-c-compiler) - Claude Opus 4.6 wrote a dependency-free C compiler in Rust, with backends targeting x86 (64- and 32-bit), ARM, and RISC-V, capable of compiling a booting Linux kernel.
+*   [txtx/surfpool](https://github.com/txtx/surfpool) - Surfpool is where developers start their Solana journey.
+*   [unhappychoice/gitlogue](https://github.com/unhappychoice/gitlogue) - A cinematic Git commit replay tool for the terminal, turning your Git history into a living, animated story.
+*   [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
+*   [rust-windowing/winit](https://github.com/rust-windowing/winit) - Window handling library in pure Rust
+*   [BoundaryML/baml](https://github.com/BoundaryML/baml) - The AI framework that adds the engineering to prompt engineering (Python/TS/Ruby/Java/C#/Rust/Go compatible)
+*   [SilasMarvin/wasmind](https://github.com/SilasMarvin/wasmind) - A modular framework for building massively parallel agentic systems
+*   [postgresml/postgresml](https://github.com/postgresml/postgresml) - Postgres with GPUs for ML/AI apps.
+*   [DavidLiedle/DriftDB](https://github.com/DavidLiedle/DriftDB) - DriftDB - An experimental append-only database with built-in time travel. Query any point in history, guaranteed data integrity, and immutable audit trails. Written in Rust.
+*   [veloren/veloren](https://github.com/veloren/veloren) - \[mirror of https://gitlab.com/veloren/veloren] An open world, open source voxel RPG inspired by Dwarf Fortress and Cube World. This repository is a mirror. Please submit all PRs and issues on our GitLab page.
+*   [nautechsystems/nautilus\_trader](https://github.com/nautechsystems/nautilus_trader) - A high-performance algorithmic trading platform and event-driven backtester
+*   [jamsocket/y-sweet](https://github.com/jamsocket/y-sweet) - A realtime CRDT-based document store, backed by S3.
+*   [inkandswitch/keyhive](https://github.com/inkandswitch/keyhive) - 🗝️🐝✨ Rust workspace for Keyhive and related crates
+*   [haasonsaas/buildli](https://github.com/haasonsaas/buildli) - A Rust-native command-line assistant for understanding and navigating codebases in plain English
+*   [mehrantsi/feoxdb](https://github.com/mehrantsi/feoxdb) - FeOx (Iron-Oxide) is an ultra-fast, embedded and persisted KV store in pure Rust.
+*   [NiREvil/vless](https://github.com/NiREvil/vless) - v2ray subscription links
+*   [bahdotsh/wrkflw](https://github.com/bahdotsh/wrkflw) - Validate and Run GitHub Actions locally.
+*   [BA-CalderonMorales/terminal-jarvis](https://github.com/BA-CalderonMorales/terminal-jarvis) - In the midst of all the tools out there that you can possibly use to keep track of them. Here's a "shovel" that just works to try them all out.
+*   [dimforge/rapier](https://github.com/dimforge/rapier) - 2D and 3D physics engines focused on performance.
+*   [mutasim77/xfer](https://github.com/mutasim77/xfer) - ✨ A minimalist, lightning-fast file transfer tool for terminal lovers.
+*   [MagicBeansAI/magictunnel](https://github.com/MagicBeansAI/magictunnel) -
+*   [microsoft/wassette](https://github.com/microsoft/wassette) - Wassette: A security-oriented runtime that runs WebAssembly Components via MCP
+*   [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) - Get 10X more out of Claude Code, Codex or any coding agent
+*   [solana-foundation/kora](https://github.com/solana-foundation/kora) - Implementation of a Solana relayer. Provides a lib and cli crate in order to enable signing experiences on Solana
+*   [hyper-mcp-rs/hyper-mcp](https://github.com/hyper-mcp-rs/hyper-mcp) - 📦️ A fast, secure MCP server that extends its capabilities through WebAssembly plugins.
+*   [lumina-ai-inc/chunkr](https://github.com/lumina-ai-inc/chunkr) - Vision infrastructure to turn complex documents into RAG/LLM-ready data
+*   [katanemo/plano](https://github.com/katanemo/plano) - Delivery infrastructure for agentic apps - Plano is an AI-native proxy and data plane that offloads plumbing work, so you stay focused on your agent's core logic (via any AI framework).
+*   [Helicone/ai-gateway](https://github.com/Helicone/ai-gateway) - The fastest, lightest, and easiest-to-integrate AI gateway on the market. Fully open-sourced.
+*   [tigranbs/mcgravity](https://github.com/tigranbs/mcgravity) - Fast TUI that orchestrates AI coding tools (Claude Code, Codex, Gemini) in a plan→execute→review loop. Breaks work into atomic tasks for easier verification and course-correction.
+*   [sxhxliang/mcp-access-point](https://github.com/sxhxliang/mcp-access-point) - Turn a web server into an MCP server in one click without making any code changes.
+*   [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
+*   [facet-rs/facet](https://github.com/facet-rs/facet) - Rust reflection, serialization, deserialization, pretty printing, etc. — the last proc macro you should need
+*   [Quozul/PicoLimbo](https://github.com/Quozul/PicoLimbo) - A lightweight Minecraft server written from scratch in Rust supporting Minecraft versions from 1.7.2 up to 1.21.11.
+*   [memvid/memvid](https://github.com/memvid/memvid) - Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory.
+*   [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) - TensorZero is an open-source stack for industrial-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluation, and experimentation.
+*   [rivet-dev/rivet](https://github.com/rivet-dev/rivet) - Rivet Actors are a serverless primitive for stateful workloads. Each actor has built-in state, storage, workflows, scheduling, and WebSockets — everything needed to build the next generation of software.
+*   [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - screenpipe turns your computer into a personal AI that knows everything you've done. record. search. automate. all local, all private, all yours.
+*   [get-convex/convex-backend](https://github.com/get-convex/convex-backend) - The open-source reactive database for app developers
+*   [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex) - Data transformation framework for AI. Ultra performant, with incremental processing.  🌟 Star if you like it!
+*   [jsr-io/jsr](https://github.com/jsr-io/jsr) - The open-source package registry for modern JavaScript and TypeScript
+*   [microsoft/edit](https://github.com/microsoft/edit) - We all edit.
+*   [yazaldefilimone/ghost.ai](https://github.com/yazaldefilimone/ghost.ai) - 🧠 your second brain at the computer.
+*   [lambdamechanic/groma](https://github.com/lambdamechanic/groma) -
+*   [sec3-service/IDLGuesser](https://github.com/sec3-service/IDLGuesser) - IDL Guesser is an open-source tool that automatically recovers the IDL information from closed-source Anchor-based Solana programs.
+*   [PrimeIntellect-ai/protocol](https://github.com/PrimeIntellect-ai/protocol) -  peer-to-peer compute and intelligence network that enables decentralized AI development at scale
+*   [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig) - ⚙️🦀 Build modular and scalable LLM Applications in Rust
+*   [isaccanedo/arnis](https://github.com/isaccanedo/arnis) - 🌎🗺 Generate any location from the real world in Minecraft Java Edition with a high level of detail
+*   [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
+*   [huggingface/candle](https://github.com/huggingface/candle) - Minimalist ML framework for Rust
+*   [jessebmiller/volition](https://github.com/jessebmiller/volition) - Volition is an open-source, Rust-specialized AI coding assistant. Early Development Warning: BE CAREFUL
+*   [block/goose](https://github.com/block/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
+*   [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
+*   [smallcloudai/refact](https://github.com/smallcloudai/refact) - AI Agent that handles engineering tasks end-to-end: integrates with developers’ tools, plans, executes, and iterates until it achieves a successful result.
+*   [Dreamtowards/Ethertum](https://github.com/Dreamtowards/Ethertum) - A Voxel Multiplayer Sandbox Survival Game built in Rust & Bevy.
+*   [gents83/INOX](https://github.com/gents83/INOX) - Rust Game engine integrated in Blender \[WebGPU ready]
+*   [tracel-ai/burn](https://github.com/tracel-ai/burn) - Burn is a next generation tensor library and Deep Learning Framework that doesn't compromise on flexibility, efficiency and portability.
+*   [nannou-org/nannou](https://github.com/nannou-org/nannou) - A Creative Coding Framework for Rust.
+*   [AryanpurTech/BlueEngine](https://github.com/AryanpurTech/BlueEngine) - Blue Engine is a general-purpose and easy-to-use graphics engine written in rust.
+*   [rustcycles/rustcycles](https://github.com/rustcycles/rustcycles) - A fast multiplayer shooter on wheels written in Rust using the Fyrox engine. Free and open source.
+*   [mrDIMAS/StationIapetus](https://github.com/mrDIMAS/StationIapetus) - 3rd person shooter in the very early development phase
+*   [FyroxEngine/Fyrox](https://github.com/FyroxEngine/Fyrox) - 3D and 2D game engine written in Rust
+*   [modrinth/code](https://github.com/modrinth/code) - The Modrinth monorepo containing all code which powers Modrinth!
+*   [codestoryai/sidecar](https://github.com/codestoryai/sidecar) - Sidecar is the AI brains for the Aide editor and works alongside it, locally on your machine
+*   [ronanyeah/sui-zk-airdrop](https://github.com/ronanyeah/sui-zk-airdrop) - Sui / Groth16 / Merkle Tree
+*   [metaplex-foundation/mpl-hybrid](https://github.com/metaplex-foundation/mpl-hybrid) - The hybrids program powering the MPL-404 standard
+*   [trailbaseio/trailbase](https://github.com/trailbaseio/trailbase) - An open, sub-millisecond, single-executable Firebase alternative with type-safe APIs, built-in WebAssembly runtime, realtime subscriptions, auth, and admin UI built on Rust, SQLite & Wasmtime.
+*   [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
+*   [itzmeanjan/kangarootwelve](https://github.com/itzmeanjan/kangarootwelve) - BlaKE12: Blazing-fast KEccak on 12 rounds
+*   [keithnoguchi/multisig-lite](https://github.com/keithnoguchi/multisig-lite) - Native SOL multisig wallet for Solana Blockchain
+*   [rerun-io/rerun](https://github.com/rerun-io/rerun) - An open source SDK for logging, storing, querying, and visualizing multimodal and multi-rate data
+*   [HigherOrderCO/Bend](https://github.com/HigherOrderCO/Bend) - A massively parallel, high-level programming language
+*   [sevenlabs-hq/carbon](https://github.com/sevenlabs-hq/carbon) - Carbon is an indexing framework on Solana.
+*   [sayantn/keccak-rs](https://github.com/sayantn/keccak-rs) - A fast library for the Keccak-p permutation
+*   [kermanx/jsshaker](https://github.com/kermanx/jsshaker) - 🪚 A JavaScript code size optimizer based on abstract interpretation
+*   [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
+*   [marhkb/pods](https://github.com/marhkb/pods) - Keep track of your podman containers
+*   [LimeChain/zest](https://github.com/LimeChain/zest) - Limechain Solana Code Coverage CLI
+*   [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of high-performance JavaScript tools.
+*   [solana-program/stake](https://github.com/solana-program/stake) - The Solana Stake program and its clients
+*   [CrunchyData/pg\_parquet](https://github.com/CrunchyData/pg_parquet) - Copy to/from Parquet in S3, Azure Blob Storage, Google Cloud Storage, http(s) stores, local files or standard inout stream from within PostgreSQL
+*   [rosenpass/rosenpass](https://github.com/rosenpass/rosenpass) - Rosenpass is a post-quantum-secure VPN that uses WireGuard to transport the actual data.
+*   [justjavac/dvm](https://github.com/justjavac/dvm) - 🦕 Deno Version Manager - Easy way to manage multiple active deno versions.
+*   [LiteSVM/litesvm](https://github.com/LiteSVM/litesvm) -
+*   [Fredolx/open-tv](https://github.com/Fredolx/open-tv) - Ultra-fast, simple and powerful cross-platform IPTV app
+*   [EricLBuehler/mistral.rs](https://github.com/EricLBuehler/mistral.rs) - Fast, flexible LLM inference
+*   [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
+*   [zeromq/zmq.rs](https://github.com/zeromq/zmq.rs) - A native implementation of ØMQ in Rust
+*   [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden\_rs
+*   [Turbin3/poseidon](https://github.com/Turbin3/poseidon) - A Transpiler to convert your Solana programs from Typescript to Anchor
+*   [valentinmadrid/waverider](https://github.com/valentinmadrid/waverider) - Geyser plugin that streams Solana account changes to PostgREST
+*   [launchbadge/sqlx](https://github.com/launchbadge/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
+*   [cavemanloverboy/oxylana](https://github.com/cavemanloverboy/oxylana) -
+*   [cavemanloverboy/sol](https://github.com/cavemanloverboy/sol) - A command line explorer for the Solana Blockchain.
+*   [cavemanloverboy/nanotoken](https://github.com/cavemanloverboy/nanotoken) -
+*   [metaplex-foundation/aura](https://github.com/metaplex-foundation/aura) -
+*   [anza-xyz/agave](https://github.com/anza-xyz/agave) - Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.
+*   [metaplex-foundation/solana-project-template](https://github.com/metaplex-foundation/solana-project-template) - A template for vanilla Solana programs and their clients
+*   [metaplex-foundation/mpl-core](https://github.com/metaplex-foundation/mpl-core) -
+*   [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
+*   [raydium-io/raydium-clmm](https://github.com/raydium-io/raydium-clmm) - Open-Source Concentrated Liquidity Market Maker
+*   [timescale/pgvectorscale](https://github.com/timescale/pgvectorscale) - Postgres extension for vector search (DiskANN), complements pgvector for performance and scale. Postgres OSS licensed.
+*   [coral-xyz/sealevel-attacks](https://github.com/coral-xyz/sealevel-attacks) - ☠️ Common Security Exploits and Protections on Solana
+*   [clockwork-xyz/clockwork](https://github.com/clockwork-xyz/clockwork) - Smart-contract automation on Solana.
+*   [barter-rs/barter-rs](https://github.com/barter-rs/barter-rs) - Open-source Rust framework for building event-driven live-trading & backtesting systems
+*   [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
+*   [surrealdb/echodb](https://github.com/surrealdb/echodb) - An embedded, in-memory, immutable, copy-on-write, key-value database engine
+*   [surrealdb/surrealkv](https://github.com/surrealdb/surrealkv) - A low-level, versioned, embedded, ACID-compliant, key-value database for Rust
+*   [solana-labs/perpetuals](https://github.com/solana-labs/perpetuals) - Solana perpetuals reference implementation
+*   [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
+*   [metaplex-foundation/solana\_serialization\_benchmark](https://github.com/metaplex-foundation/solana_serialization_benchmark) - Benchmarks for rust serialization frameworks, inspired by https://github.com/djkoloski/rust\_serialization\_benchmark
+*   [nikivdev/rust](https://github.com/nikivdev/rust) - Rust tools, libraries and other code
+*   [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
+*   [postgresml/korvus](https://github.com/postgresml/korvus) - Korvus is a search SDK that unifies the entire RAG pipeline in a single database query. Built on top of Postgres with bindings for Python, JavaScript, Rust and C.
+*   [space-operator/flow-backend](https://github.com/space-operator/flow-backend) - Space Operator Backend
+*   [space-operator/rhai](https://github.com/space-operator/rhai) - Rhai - An embedded scripting language for Rust.
+*   [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+*   [rpcpool/yellowstone-vixen](https://github.com/rpcpool/yellowstone-vixen) - Solana program parsing toolkit
+*   [awslabs/distill-cli](https://github.com/awslabs/distill-cli) -
+*   [orhun/rustypaste](https://github.com/orhun/rustypaste) - A minimal file upload/pastebin service.
+*   [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
+*   [anthias-labs/flare](https://github.com/anthias-labs/flare) - Flare is a CLI tool for interacting with Solana.
+*   [fire-scale/pregrind.sol](https://github.com/fire-scale/pregrind.sol) - We grind Solana keys for you so you don't have to wait.
+*   [tonyke-bot/ore-miner](https://github.com/tonyke-bot/ore-miner) - ORE Miner built on top of Jito bundle with both CPU and GPU support.
+*   [regolith-labs/ore-cli](https://github.com/regolith-labs/ore-cli) - Command line interface for ORE cryptocurrency mining.
+*   [regolith-labs/ore](https://github.com/regolith-labs/ore) - It's time to mine.
+*   [railwayapp/nixpacks](https://github.com/railwayapp/nixpacks) - App source + Nix packages + Docker = Image
+*   [suptejas/volt](https://github.com/suptejas/volt) - An experimental package management tool for JavaScript. Upto 30x faster installation of dependencies using pre-flattened dependency trees.
+*   [moonrepo/starbase](https://github.com/moonrepo/starbase) - Framework for building performant command line applications and developer tools.
+*   [moonrepo/moon](https://github.com/moonrepo/moon) - A build system and monorepo management tool for the web ecosystem, written in Rust.
+*   [levicook/derive-keys-please](https://github.com/levicook/derive-keys-please) -
+*   [cavemanloverboy/multigrind](https://github.com/cavemanloverboy/multigrind) -
+*   [pipXBT/Vanaddy](https://github.com/pipXBT/Vanaddy) - Solana Vanity Address Generator
+*   [WilfredAlmeida/LightDAS](https://github.com/WilfredAlmeida/LightDAS) - Lightweight DAS for Solana
+*   [vi/websocat](https://github.com/vi/websocat) - Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions
+*   [0xlarry/byo\_mint](https://github.com/0xlarry/byo_mint) - A compressed NFT mint program on Solana.
+*   [shuttle-hq/shuttle](https://github.com/shuttle-hq/shuttle) - Build & ship backends without writing any infrastructure files.
+*   [solana-playground/solana-playground](https://github.com/solana-playground/solana-playground) - Quickly develop, deploy and test Solana programs from browsers
+*   [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
+*   [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
+*   [metaplex-foundation/mpl-bubblegum](https://github.com/metaplex-foundation/mpl-bubblegum) - Create and manage Metaplex compressed NFTs
+*   [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is an open-source declarative GUI toolkit to build native user interfaces for Rust, C++, JavaScript, or Python apps.
+*   [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
+*   [blockworks-foundation/mango-v4](https://github.com/blockworks-foundation/mango-v4) - mango-v4 monorepo, contains program, ts client, and py client
+*   [CaviesLabs/hamsterswap-program](https://github.com/CaviesLabs/hamsterswap-program) -
+*   [metaplex-foundation/metaplex-program-library](https://github.com/metaplex-foundation/metaplex-program-library) - Smart contracts maintained by the Metaplex team
+*   [metaplex-foundation/get-collection](https://github.com/metaplex-foundation/get-collection) - Rust and TypeScript example code for finding all members from a collection id.
+*   [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
+*   [matter-labs/zksync](https://github.com/matter-labs/zksync) - zkSync: trustless scaling and privacy engine for Ethereum
+*   [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
+*   [Bonfida/bonfida-utils](https://github.com/Bonfida/bonfida-utils) - Collection of different utilities in use across various Bonfida projects
+*   [Bonfida/name-tokenizer](https://github.com/Bonfida/name-tokenizer) - Tokenize a domain name into an NFT
+*   [solana-labs/solana-program-library](https://github.com/solana-labs/solana-program-library) - A collection of Solana programs maintained by Solana Labs
+*   [ironaddicteddog/anchor-amm](https://github.com/ironaddicteddog/anchor-amm) - SPL token-swap (AMM) implemented in Anchor
+*   [GenesysGo/shadow-drive-rust](https://github.com/GenesysGo/shadow-drive-rust) -
+*   [anoushk1234/metaplex-anchor-nft](https://github.com/anoushk1234/metaplex-anchor-nft) - An example repo to demonstrate how to use anchor and metaplex to mint nfts on solana
+*   [Flawm/solana-dao-vote](https://github.com/Flawm/solana-dao-vote) -
+*   [solana-foundation/anchor](https://github.com/solana-foundation/anchor) - ⚓ Solana Program Framework
+*   [facebook/relay](https://github.com/facebook/relay) - Relay is a JavaScript framework for building data-driven React applications.
+*   [ckamm/solana-accountsdb-connector](https://github.com/ckamm/solana-accountsdb-connector) -
+*   [samuelvanderwaal/metaboss](https://github.com/samuelvanderwaal/metaboss) - The Metaplex NFT-standard Swiss Army Knife tool.
+*   [yoav-lavi/melody](https://github.com/yoav-lavi/melody) - Melody is a language that compiles to regular expressions and aims to be more readable and maintainable
 
 ## TypeScript
 
+*   [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) - GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration
 *   [badlogic/pi-mono](https://github.com/badlogic/pi-mono) - AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
 *   [virattt/dexter](https://github.com/virattt/dexter) - An autonomous agent for deep financial research
 *   [steipete/summarize](https://github.com/steipete/summarize) - Point at any URL/YouTube/Podcast or file. Get the gist. CLI and Chrome Extension.
 *   [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
 *   [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.
 *   [Effect-TS/effect-smol](https://github.com/Effect-TS/effect-smol) - Core libraries and experimental work for Effect v4
+*   [blackboardsh/electrobun](https://github.com/blackboardsh/electrobun) - Build ultra fast, tiny, and cross-platform desktop apps with Typescript.
 *   [fluxerapp/fluxer](https://github.com/fluxerapp/fluxer) - A free and open source instant messaging and VoIP platform built for friends, groups, and communities.
 *   [tribixbite/craftmatic](https://github.com/tribixbite/craftmatic) - Minecraft schematic toolkit — parse, generate, render, and convert .schem files
 *   [session-foundation/session-desktop](https://github.com/session-foundation/session-desktop) - Session Desktop - A Decentralized, Onion Routed, Private Messenger
@@ -1417,10 +1587,143 @@
 *   [luludotdev/beatsaver-reloaded](https://github.com/luludotdev/beatsaver-reloaded) - BeatSaver Again
 *   [DominicMaas/TimelineExtension](https://github.com/DominicMaas/TimelineExtension) - Windows Timeline & Project Rome Web Extension
 
+## Kotlin
+
+*   [open-ani/animeko](https://github.com/open-ani/animeko) - 集找番、追番、看番的一站式弹幕追番平台，云收藏同步 (Bangumi)，离线缓存，BitTorrent，弹幕云过滤。100% Kotlin/Compose Multiplatform
+*   [Turbo1123/roubao](https://github.com/Turbo1123/roubao) - Android Automation Tool Based on Vision-Language Models
+*   [android/compose-samples](https://github.com/android/compose-samples) - Official Jetpack Compose samples.
+*   [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery) - A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.
+*   [sdex/ActivityManager](https://github.com/sdex/ActivityManager) - Launch any application activity
+*   [JingMatrix/TEESimulator](https://github.com/JingMatrix/TEESimulator) - Software simulation for Android hardware-backed key pairs with key attestation
+*   [MatsuriDayo/NekoBoxForAndroid](https://github.com/MatsuriDayo/NekoBoxForAndroid) - NekoBox for Android / sing-box / universal proxy toolchain for Android
+*   [ZalithLauncher/ZalithLauncher2](https://github.com/ZalithLauncher/ZalithLauncher2) - A Minecraft: Java Edition Launcher for Android
+*   [mobile-dev-inc/Maestro](https://github.com/mobile-dev-inc/Maestro) - Painless E2E Automation for Mobile and Web
+*   [breezy-weather/breezy-weather](https://github.com/breezy-weather/breezy-weather) - A feature-rich weather app with good visualizations and more than 50 sources.
+*   [recloudstream/cloudstream](https://github.com/recloudstream/cloudstream) - Android app for streaming and downloading media.
+*   [tribixbite/Embeddy](https://github.com/tribixbite/Embeddy) - Swiss-army knife for embeddable media on Android — animated WebP converter, image compressor (WebP/JPEG/PNG/AVIF), OG metadata inspector, anonymous file uploader
+*   [square/leakcanary](https://github.com/square/leakcanary) - A memory leak detection library for Android.
+*   [shadowsocks/shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android) - A shadowsocks client for Android
+*   [android/architecture-samples](https://github.com/android/architecture-samples) - A collection of samples to discuss and showcase different architectural tools and patterns for Android apps.
+*   [FossifyOrg/File-Manager](https://github.com/FossifyOrg/File-Manager) - Easy app for managing your files without ads, respecting your privacy & security
+*   [truefedex/tv-bro](https://github.com/truefedex/tv-bro) - Simple web browser for android optimized to use with TV remote
+*   [JetBrains/koog](https://github.com/JetBrains/koog) - Koog is the official Kotlin framework for building predictable, fault-tolerant and enterprise-ready AI agents across all platforms – from backend services to Android and iOS, JVM, and even in-browser environments. Koog is based on our AI products expertise and provides proven solutions for complex LLM and AI problems
+*   [permissionlesstech/bitchat-android](https://github.com/permissionlesstech/bitchat-android) - bluetooth mesh chat, IRC vibes
+*   [utkarshdalal/GameNative](https://github.com/utkarshdalal/GameNative) - Lightweight unofficial Steam client for Android
+*   [tribixbite/stoatally](https://github.com/tribixbite/stoatally) - Unofficial Stoat (formerly Revolt) chat client for Android
+*   [stoatchat/for-android](https://github.com/stoatchat/for-android) - Stoat for Android — App and internal API library
+*   [session-foundation/session-android](https://github.com/session-foundation/session-android) - Session Android - A Decentralized, Onion Routed, Private Messenger
+*   [isaac-udy/Enro](https://github.com/isaac-udy/Enro) - A simple navigation library for Android 🗺️
+*   [leokwsw/Emoji-Keyboard](https://github.com/leokwsw/Emoji-Keyboard) - A simple library to add Emoji support to your Android Application
+*   [Kunzisoft/KeePassDX](https://github.com/Kunzisoft/KeePassDX) - Lightweight vault and password manager for Android, KeePassDX allows editing encrypted data in a single file in KeePass format and fill in the forms in a secure way.
+*   [urikdev/Urik](https://github.com/urikdev/Urik) - Privacy-focused Android keyboard with swipe typing, custom layouts, and password manager support. No tracking, 100% on-device, and fully open source.
+*   [rainxchzed/Github-Store](https://github.com/rainxchzed/Github-Store) - A free, open-source app store for GitHub releases — browse, discover, and install apps with one click. Powered by Kotlin and Compose Multiplatform for Android & Desktop (Linux, MacOS, Windows).
+*   [sakethpathike/Otic](https://github.com/sakethpathike/Otic) - Minimal Android app to stream microphone input to the local network.
+*   [ReVanced/revanced-patcher](https://github.com/ReVanced/revanced-patcher) - 💉 ReVanced Patcher used to patch Android applications
+*   [Catrobat/Paintroid](https://github.com/Catrobat/Paintroid) - The standard image manipulation app for Catroid.
+*   [tribixbite/CustomCamera](https://github.com/tribixbite/CustomCamera) - Professional plugin-based Android camera app with modular architecture, manual controls, and advanced features
+*   [VREMSoftwareDevelopment/WiFiAnalyzer](https://github.com/VREMSoftwareDevelopment/WiFiAnalyzer) - Android application to analyze Wi-Fi signals.
+*   [tytydraco/LADB](https://github.com/tytydraco/LADB) - A local ADB shell for Android!
+*   [supershadoe/delta](https://github.com/supershadoe/delta) - Advanced hotspot settings for Pixel-like devices
+*   [tribixbite/GlassAssistant](https://github.com/tribixbite/GlassAssistant) - Assistant for Google Glass EE2
+*   [Jonathan-R-Anderson/glass-plex](https://github.com/Jonathan-R-Anderson/glass-plex) - plex client for google glass
+*   [inckie/AnotherGlass](https://github.com/inckie/AnotherGlass) - Companion application to handle Google Glass communication with a phone without Glass related Google Services.
+*   [legendsayantan/Extendroid](https://github.com/legendsayantan/Extendroid) - Android Multi-Tasking Manager with desktop-like multi window and remote access support.
+*   [tribixbite/CleverKeys](https://github.com/tribixbite/CleverKeys) - Privacy-first neural Android keyboard with advanced swipe prediction
+*   [bmax121/APatch](https://github.com/bmax121/APatch) - The patching of Android kernel and Android system
+*   [legendsayantan/ShizuTools](https://github.com/legendsayantan/ShizuTools) - Contains many tools to control android system via shizuku.
+*   [FossifyOrg/Flashlight](https://github.com/FossifyOrg/Flashlight) - A simple modern flashlight with SOS, stroboscope & bright display, has no ads.
+*   [FossifyOrg/Voice-Recorder](https://github.com/FossifyOrg/Voice-Recorder) - An easy way of recording any discussion or sounds without ads or internet access
+*   [FossifyOrg/Messages](https://github.com/FossifyOrg/Messages) - An easy and quick way of managing SMS and MMS messages without ads.
+*   [liriliri/eruda-android](https://github.com/liriliri/eruda-android) - Simple webview with eruda loaded automatically
+*   [shubham0204/SmolChat-Android](https://github.com/shubham0204/SmolChat-Android) - Running any GGUF SLMs/LLMs locally, on-device in Android
+*   [d4rken-org/sdmaid-se](https://github.com/d4rken-org/sdmaid-se) - SD Maid 2/SE is Android's most thorough cleaning tool.
+*   [LinkSheet/LinkSheet](https://github.com/LinkSheet/LinkSheet) - Link handling for modern Android
+*   [fork-maintainers/iceraven-browser](https://github.com/fork-maintainers/iceraven-browser) - Iceraven Browser
+*   [JunkFood02/Seal](https://github.com/JunkFood02/Seal) - 🦭 Video/Audio Downloader for Android, based on yt-dlp
+*   [deniscerri/ytdlnis](https://github.com/deniscerri/ytdlnis) - Full-featured audio/video downloader for Android using yt-dlp
+*   [RikkaApps/Shizuku](https://github.com/RikkaApps/Shizuku) - Using system APIs directly with adb/root privileges from normal apps through a Java process started with app\_process.
+*   [newhinton/disky](https://github.com/newhinton/disky) - An android filesystem analyzer that can show you the usage of your storage!
+*   [iamr0s/Dhizuku](https://github.com/iamr0s/Dhizuku) - A tool that can share DeviceOwner permissions to other application.
+*   [libre-tube/LibreTube](https://github.com/libre-tube/LibreTube) - An alternative frontend for YouTube, for Android.
+*   [FossifyOrg/Keyboard](https://github.com/FossifyOrg/Keyboard) - Easy keyboard for inserting all kinds of texts, special characters and numbers.
+*   [T8RIN/ImageToolbox](https://github.com/T8RIN/ImageToolbox) - 🖼️ Image Toolbox is a powerful app for advanced image manipulation. It offers dozens of features, from basic tools like crop and draw to filters, OCR, and a wide range of image processing options
+*   [thunderbird/thunderbird-android](https://github.com/thunderbird/thunderbird-android) - Thunderbird for Android – Open Source Email App for Android (fka K-9 Mail)
+*   [keymapperorg/KeyMapper](https://github.com/keymapperorg/KeyMapper) - An Android app to remap the buttons on your devices
+*   [hardillb/S3Share](https://github.com/hardillb/S3Share) - An Android app for sharing images and videos to an S3 Bucket
+*   [horizontalsystems/unstoppable-wallet-android](https://github.com/horizontalsystems/unstoppable-wallet-android) - A powerful non-custodial multi-wallet for Bitcoin, Ethereum, Binance Smart Chain, Avalanche, Solana and other blockchains. Non-custodial crypto and NFT storage, onchain decentralized exchange, institutional grade analytics for cryptcurrency and NFT markets, extensive privacy controls and human oriented design. Implemented on Kotlin.
+*   [patxibocos/google-photos-exporter](https://github.com/patxibocos/google-photos-exporter) - Get your Google Photos synced to Dropbox, OneDrive, Box or GitHub
+*   [saket/unfurl](https://github.com/saket/unfurl) - Generate rich previews of links, inspired by Slack.
+*   [accrescent/accrescent](https://github.com/accrescent/accrescent) - A novel Android app store focused on security, privacy, and usability
+*   [Kotlin/kmp-production-sample](https://github.com/Kotlin/kmp-production-sample) - This is an open-source, mobile, cross-platform application built with Kotlin Multiplatform Mobile. It's a simple RSS reader, and you can download it from the App Store and Google Play. It's been designed to demonstrate how KMM can be used in real production projects.
+*   [OpenArchive/Save-app-android](https://github.com/OpenArchive/Save-app-android) - This is the Save app for Android
+*   [caydey/ffshare](https://github.com/caydey/ffshare) - An android app to compress image, video and audio files through ffmpeg before sharing them
+*   [PatilShreyas/NotyKT](https://github.com/PatilShreyas/NotyKT) - 📒 NotyKT is a complete 💎Kotlin-stack (Backend + Android) 📱 application built to demonstrate the use of Modern development tools with best practices implementation🦸.
+*   [skydoves/chatgpt-android](https://github.com/skydoves/chatgpt-android) - 📲 ChatGPT Android demonstrates a Chatbot application using OpenAI's chat API on Android with Stream Chat SDK for Compose.
+*   [ptrpaws/Oculess](https://github.com/ptrpaws/Oculess) - Removes account requirements and telemetry from Oculus Quest devices
+*   [SimonMarquis/Android-App-Linking](https://github.com/SimonMarquis/Android-App-Linking) - 🔗 The ultimate developer guide to Android application linking methods
+*   [pyamsoft/tetherfusenet](https://github.com/pyamsoft/tetherfusenet) - TetherFuseNet - Internet sharing without Root
+*   [p2p-org/key-app-android](https://github.com/p2p-org/key-app-android) -
+*   [zachbr/Dis4IRC](https://github.com/zachbr/Dis4IRC) - A modern Discord <-> IRC bridge
+*   [metrodroid/metrodroid](https://github.com/metrodroid/metrodroid) - Read data from public transit cards using your NFC Android phone! (iOS 13 and PC/SC support coming soon)
+*   [kiwix/kiwix-android](https://github.com/kiwix/kiwix-android) - Kiwix for Android
+*   [Lucchetto/SuperImage](https://github.com/Lucchetto/SuperImage) - Sharpen your low-resolution pictures with the power of AI upscaling
+*   [tejado/android-usb-gadget](https://github.com/tejado/android-usb-gadget) - Convert your Android phone to any USB device you like! USB Gadget Tool allows you to create and activate USB device roles, like a mouse or a keyboard.  🛠🛡📱
+*   [coral-xyz/mobile-wallet-adapter-react-native](https://github.com/coral-xyz/mobile-wallet-adapter-react-native) - Solana Mobile Wallet Adapter for React Native & Expo
+*   [LorittaBot/Loritta](https://github.com/LorittaBot/Loritta) - 💁 A multipurpose, multilanguage, customizable, modular, and very cute bot for Discord! ~Making your server more awesome~
+*   [DanielMartinus/Konfetti](https://github.com/DanielMartinus/Konfetti) - Celebrate more with this lightweight confetti particle system 🎊
+*   [TeamVanced/VancedManager](https://github.com/TeamVanced/VancedManager) - Vanced Installer
+*   [TeamVanced/VancedStore](https://github.com/TeamVanced/VancedStore) - General Application Store with support for root apps and more
+
+## C\#
+
+*   [Flow-Launcher/Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher) - :mag: Quick file search & app launcher for Windows with community-made plugins
+*   [LenovoLegionToolkit-Team/LenovoLegionToolkit](https://github.com/LenovoLegionToolkit-Team/LenovoLegionToolkit) - Lenovo Legion Toolkit (LLT) is a Windows desktop utility created for Lenovo gaming laptops that replaces Lenovo Vantage / Legion Zone / Legion Space.
+*   [legendsayantan/Extendroid-Win](https://github.com/legendsayantan/Extendroid-Win) - Extend your android device, to other platforms.
+*   [InterceptSuite/InterceptSuite](https://github.com/InterceptSuite/InterceptSuite) - MITM proxy for TCP/TLS/DTLS/UDP traffic, with STARTTLS, IoT, Thick Client and more.
+*   [hermitdave/FrequencyWords](https://github.com/hermitdave/FrequencyWords) - Repository for Frequency Word List Generator and processed files
+*   [builtbybel/FlyOOBE](https://github.com/builtbybel/FlyOOBE) - Fly through your Windows 11 setup 🐝
+*   [EricZimmerman/MFTECmd](https://github.com/EricZimmerman/MFTECmd) - Parses $MFT from NTFS file systems
+*   [builtbybel/CrapFixer](https://github.com/builtbybel/CrapFixer) - Cr\*ap Fixer
+*   [dotnet/Silk.NET](https://github.com/dotnet/Silk.NET) - The high-speed OpenGL, OpenCL, OpenAL, OpenXR, GLFW, SDL, Vulkan, Assimp, WebGPU, and DirectX bindings library your mother warned you about.
+*   [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
+*   [maxim-saplin/CrossPlatformDiskTest](https://github.com/maxim-saplin/CrossPlatformDiskTest) - Windows, macOS and Android storage (HDD, SSD, RAM) speed testing/performance benchmarking app
+*   [LykosAI/StabilityMatrix](https://github.com/LykosAI/StabilityMatrix) - Multi-Platform Package Manager for Stable Diffusion
+*   [BartoszCichecki/LenovoLegionToolkit](https://github.com/BartoszCichecki/LenovoLegionToolkit) - Lightweight Lenovo Vantage and Hotkeys replacement for Lenovo Legion laptops.
+*   [1Remote/1Remote](https://github.com/1Remote/1Remote) - One Remote Access Manager to Rule Them All
+*   [duplicati/duplicati](https://github.com/duplicati/duplicati) - Store securely encrypted backups in the cloud!
+*   [multisynq/m4u-package](https://github.com/multisynq/m4u-package) -
+*   [KirillOsenkov/MSBuildStructuredLog](https://github.com/KirillOsenkov/MSBuildStructuredLog) - A logger for MSBuild that records a structured representation of executed targets, tasks, property and item values.
+*   [Unity-Technologies/UnityCsReference](https://github.com/Unity-Technologies/UnityCsReference) - Unity C# reference source code.
+*   [ShareX/ShareX](https://github.com/ShareX/ShareX) - ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.
+*   [LimerBoy/Adamantium-Thief](https://github.com/LimerBoy/Adamantium-Thief) - :key: (THIS CODE IS OUTDATED FOR NEW CHROME VERSIONS) Decrypt chromium based browsers passwords, cookies, credit cards, history, bookmarks, autofill. Version > 80 is supported.
+*   [Tyrrrz/LightBulb](https://github.com/Tyrrrz/LightBulb) - Reduces eye strain by adjusting screen gamma based on the current time
+*   [solana-developers/solana-game-preset](https://github.com/solana-developers/solana-game-preset) - A npx preset with anchor program and multiple clients
+*   [solana-developers/solana-game-examples](https://github.com/solana-developers/solana-game-examples) -
+*   [CrazyGamesCom/unity-optimizations-package](https://github.com/CrazyGamesCom/unity-optimizations-package) -
+*   [marticliment/UniGetUI](https://github.com/marticliment/UniGetUI) - UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
+*   [reddy2004/7Zip-And-TrueCrypt-Password-Cracker](https://github.com/reddy2004/7Zip-And-TrueCrypt-Password-Cracker) - A password checking tool for finding out forgotten passwords for 7Zip files and TrueCrypt volumes.
+*   [lostindark/DriverStoreExplorer](https://github.com/lostindark/DriverStoreExplorer) - Driver Store Explorer
+*   [SHOEGAZEssb/Last.fm-Scrubbler-WPF](https://github.com/SHOEGAZEssb/Last.fm-Scrubbler-WPF) - Manual Last.fm scrobbling for when a service (or you!) failed to scrobble.
+*   [magicblock-labs/Solana.Unity-SDK](https://github.com/magicblock-labs/Solana.Unity-SDK) - Open-Source Unity-Solana SDK with Full RPC coverage, NFT support and more
+*   [julienkay/com.doji.genesis](https://github.com/julienkay/com.doji.genesis) -
+*   [natmlx/natml-unity](https://github.com/natmlx/natml-unity) - High performance, cross-platform machine learning for Unity Engine.
+*   [DarkRiftNetworking/DarkRift](https://github.com/DarkRiftNetworking/DarkRift) - DarkRift Networking by Unordinal
+*   [nftport/sample-unity3D-nft-metaverse-template](https://github.com/nftport/sample-unity3D-nft-metaverse-template) - Adv. Playground : Gallery - Customizable Unity Template
+*   [Unity-Technologies/ml-agents](https://github.com/Unity-Technologies/ml-agents) - The Unity Machine Learning Agents Toolkit (ML-Agents) is an open-source project that enables games and simulations to serve as environments for training intelligent agents using deep reinforcement learning and imitation learning.
+*   [sttz/trimmer](https://github.com/sttz/trimmer) - An editor, build and player configuration framework for the Unity game engine.
+*   [Banana4Life/Drillromantik](https://github.com/Banana4Life/Drillromantik) -
+*   [allartprotocol/unity-solana-wallet](https://github.com/allartprotocol/unity-solana-wallet) - The First Open-Source Unity-Solana Wallet with NFT support
+*   [furkandeveloper/EasyCronJob](https://github.com/furkandeveloper/EasyCronJob) - This repository provides easy cron job to your application on IHostedService.
+*   [MonkeDAO/observer](https://github.com/MonkeDAO/observer) - A command-line tracking tool for Solana-based NFT marketplaces and a metadata scraper for Metaplex protocol.
+*   [Tyrrrz/DiscordChatExporter](https://github.com/Tyrrrz/DiscordChatExporter) - Saves Discord chat logs to a file
+*   [JumpmanSr/BailOutMode](https://github.com/JumpmanSr/BailOutMode) - BailOutMode, a Beat Saber mod that automatically switches to no fail instead of ending a song.
+*   [bsmg/ModAssistant](https://github.com/bsmg/ModAssistant) - Simple Beat Saber Mod Installer
+*   [Tichau/FileConverter](https://github.com/Tichau/FileConverter) - File Converter is a very simple tool which allows you to convert and compress files using the context menu in windows explorer.
+*   [evilC/AutoHotInterception](https://github.com/evilC/AutoHotInterception) - An AutoHotkey wrapper for the Interception driver
+
 ## Go
 
 *   [steipete/gogcli](https://github.com/steipete/gogcli) - Google Suite CLI: Gmail, GCal, GDrive, GContacts.
-*   [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 *   [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) - ✨ Fully autonomous AI Agents system capable of performing complex penetration testing tasks
 *   [steipete/gifgrep](https://github.com/steipete/gifgrep) - Grep the GIF. Stick the landing.
 *   [sky22333/hubproxy](https://github.com/sky22333/hubproxy) - 多功能代理加速服务，提供 Docker 镜像加速、GitHub 加速、下载离线镜像等功能。一个二进制文件实现所有功能，支持仓库审计。流式转发，不占用存储空间。
@@ -2497,91 +2800,6 @@
 *   [tribixbite/BrokenRecordBot](https://github.com/tribixbite/BrokenRecordBot) - reddit copypasta bot for subreddit wiki text
 *   [janick/ArloDownload](https://github.com/janick/ArloDownload) - Automatically download new video recordings from Arlo
 
-## C++
-
-*   [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “KeePass Password Safe”.
-*   [blackboardsh/electrobun](https://github.com/blackboardsh/electrobun) - Build ultra fast, tiny, and cross-platform desktop apps with Typescript.
-*   [jbohack/nyanBOX](https://github.com/jbohack/nyanBOX) - A compact ESP32 Wroom32U toolkit for wireless security—scan, analyze, and spoof RF, Wi-Fi, and BLE protocols, all from an intuitive menu-driven interface. No complex commands or coding required. Designed for ease of use while exploring wireless communication in a responsible, educational manner.
-*   [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx) - Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, HarmonyOS, Raspberry Pi, RISC-V, RK NPU, Axera NPU, Ascend NPU, x86\_64 servers, websocket server/client, support 12 programming languages
-*   [pia-foss/desktop](https://github.com/pia-foss/desktop) - Private Internet Access - Desktop VPN Client for Windows/macOS/Linux
-*   [futo-org/android-keyboard](https://github.com/futo-org/android-keyboard) - Official FUTO Keyboard Issue Tracker and Source Mirror of https://gitlab.futo.org/keyboard/latinime
-*   [AddisonPrairie/Tree-Generator](https://github.com/AddisonPrairie/Tree-Generator) - Tree Generation in Web Assembly
-*   [ProjectPhysX/FluidX3D](https://github.com/ProjectPhysX/FluidX3D) - The fastest and most memory efficient lattice Boltzmann CFD software, running on all GPUs and CPUs via OpenCL. Free for non-commercial use.
-*   [daijro/camoufox](https://github.com/daijro/camoufox) - 🦊 Anti-detect browser
-*   [aplyer/flir\_one\_node](https://github.com/aplyer/flir_one_node) - ROS node for Flir one camera on linux
-*   [FLIR/BosonUSB](https://github.com/FLIR/BosonUSB) - Tool to capture Boson USB video in Linux
-*   [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
-*   [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) - Tesseract Open Source OCR Engine (main repository)
-*   [acaudwell/Gource](https://github.com/acaudwell/Gource) - software version control visualization
-*   [microsoft/AirSim](https://github.com/microsoft/AirSim) - Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft AI & Research
-*   [jrouwe/JoltPhysics](https://github.com/jrouwe/JoltPhysics) - A multi core friendly rigid body physics and collision detection library. Written in C++. Suitable for games and VR applications. Used by Horizon Forbidden West and Death Stranding 2.
-*   [defold/defold](https://github.com/defold/defold) - Defold is a completely free to use game engine for development of desktop, mobile and web games.
-*   [lemonade-sdk/lemonade](https://github.com/lemonade-sdk/lemonade) - Lemonade helps users discover and run local AI apps by serving optimized LLMs right from their own GPUs and NPUs. Join our discord: https://discord.gg/5xXzkMu8Zk
-*   [kuzudb/kuzu](https://github.com/kuzudb/kuzu) - Embedded property graph database built for speed. Vector search and full-text search built in. Implements Cypher.
-*   [kiwibrowser/src.next](https://github.com/kiwibrowser/src.next) - Source-code for Kiwi Next, a Kiwi Browser auto-rebased with latest Chromium
-*   [uNetworking/uWebSockets](https://github.com/uNetworking/uWebSockets) - Simple, secure & standards compliant web server for the most demanding of applications
-*   [gpustack/llama-box](https://github.com/gpustack/llama-box) - LM inference server implementation based on \*.cpp.
-*   [unslothai/llama.cpp](https://github.com/unslothai/llama.cpp) - LLM inference in C/C++
-*   [aicodix/rattlegram](https://github.com/aicodix/rattlegram) - Transceive UTF-8 text messages with up to 170 bytes over audio in about a second!
-*   [KolosalAI/Kolosal](https://github.com/KolosalAI/Kolosal) - Kolosal AI is an OpenSource and Lightweight alternative to LM Studio to run LLMs 100% offline on your device.
-*   [MerginMaps/mobile](https://github.com/MerginMaps/mobile) - Mergin Maps mobile app 📲 Open QGIS projects and manage vector data on your phone, even offline 📶 (Android/iOS/Windows app)
-*   [Maproom/qmapshack](https://github.com/Maproom/qmapshack) - Consumer grade GIS software
-*   [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community. No ads, no tracking, no data collection, no crapware. Please donate to support the development!
-*   [upf-gti/rooms](https://github.com/upf-gti/rooms) -
-*   [cocos/cocos-engine](https://github.com/cocos/cocos-engine) - Cocos simplifies game creation and distribution with Cocos Creator, a free, open-source, cross-platform game engine. Empowering millions of developers to create high-performance, engaging 2D/3D games and instant web entertainment.
-*   [luanti-org/luanti](https://github.com/luanti-org/luanti) - Luanti (formerly Minetest) is an open source voxel game-creation platform with easy modding and game creation
-*   [webaverse-studios/webaverse](https://github.com/webaverse-studios/webaverse) - An open metaverse engine for everyone
-*   [overte-org/overte](https://github.com/overte-org/overte) - Overte open source virtual worlds platform.
-*   [mikelma/craftium](https://github.com/mikelma/craftium) - A framework for creating rich, 3D, Minecraft-like single and multi-agent environments for AI research. (Accepted at ICML 2025).
-*   [PrismLauncher/PrismLauncher](https://github.com/PrismLauncher/PrismLauncher) - A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once (Fork of MultiMC)
-*   [MultiCraft/MultiCraft](https://github.com/MultiCraft/MultiCraft) - 🌍 MultiCraft Engine | Open Source
-*   [aria2/aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
-*   [aphrodite-engine/aphrodite-engine](https://github.com/aphrodite-engine/aphrodite-engine) - Large-scale LLM inference engine
-*   [foldl/chatllm.cpp](https://github.com/foldl/chatllm.cpp) - Pure C++ implementation of several models for real-time chatting on your computer (CPU & GPU)
-*   [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
-*   [kamektx/TouchpadGestures\_Advanced](https://github.com/kamektx/TouchpadGestures_Advanced) - Extends your Precision Touchpad experience.
-*   [TigerVNC/tigervnc](https://github.com/TigerVNC/tigervnc) - High performance, multi-platform VNC client and server
-*   [LostRuins/koboldcpp](https://github.com/LostRuins/koboldcpp) - Run GGUF models easily with a KoboldAI UI. One File. Zero Install.
-*   [moonshine-ai/useful-transformers](https://github.com/moonshine-ai/useful-transformers) - Efficient Inference of Transformer models
-*   [CalcProgrammer1/OpenRGB](https://github.com/CalcProgrammer1/OpenRGB) - Open source RGB lighting control that doesn't depend on manufacturer software. Supports Windows, Linux, MacOS.  Mirror of https://gitlab.com/CalcProgrammer1/OpenRGB.  Releases can be found on GitLab.
-*   [cvuchener/hidpp](https://github.com/cvuchener/hidpp) - Collection of HID++ tools
-*   [breach/thrust](https://github.com/breach/thrust) - Chromium-based cross-platform / cross-language application framework
-*   [Distributive-Network/PythonMonkey](https://github.com/Distributive-Network/PythonMonkey) - A Mozilla SpiderMonkey JavaScript engine embedded into the Python VM, using the Python engine to provide the JS host environment.
-*   [Stellarium/stellarium](https://github.com/Stellarium/stellarium) - Stellarium is a free GPL software which renders realistic skies in real time with OpenGL. It is available for Linux/Unix, Windows and macOS. With Stellarium, you really see what you can see with your eyes, binoculars or a small telescope.
-*   [Linux-on-droid/vendor\_lindroid](https://github.com/Linux-on-droid/vendor_lindroid) -
-*   [activeloopai/deeplake](https://github.com/activeloopai/deeplake) - Database for AI. Store Vectors, Images, Texts, Videos, etc. Use with LLMs/LangChain. Store, query, version, & visualize any AI data. Stream data in real-time to PyTorch/TensorFlow. https://activeloop.ai
-*   [rive-app/rive-runtime](https://github.com/rive-app/rive-runtime) - Low-level C++ Rive runtime and renderer
-*   [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.
-*   [plv8/plv8](https://github.com/plv8/plv8) -  V8 Engine Javascript Procedural Language add-on for PostgreSQL
-*   [ArsenArsen/KShare](https://github.com/ArsenArsen/KShare) - The free and open source and cross platform screen sharing software.
-*   [doxygen/doxygen](https://github.com/doxygen/doxygen) - Official doxygen git repository
-*   [AlexandrVIvanov/InstallerFileTakeOver](https://github.com/AlexandrVIvanov/InstallerFileTakeOver) -
-*   [CodingGay/BlackDex](https://github.com/CodingGay/BlackDex) - BlackDex is an Android unpack(dexdump) tool, it supports Android 5.0~12 and need not rely to any environment. BlackDex can run on any Android mobile phone or emulator, you can unpack APK File in several seconds.
-*   [kefir500/apk-editor-studio](https://github.com/kefir500/apk-editor-studio) - Powerful yet easy to use APK editor for PC and Mac.
-*   [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) - LLM inference in C/C++
-*   [davidhampgonsalves/CR14-emulator-for-CatGenie-120](https://github.com/davidhampgonsalves/CR14-emulator-for-CatGenie-120) - Suppress the CatGenie 120 DRM and refill soap cartridges using an Arduino
-*   [fusionlanguage/fut](https://github.com/fusionlanguage/fut) - Fusion programming language. Transpiling to C, C++, C#, D, Java, JavaScript, Python, Swift, TypeScript and OpenCL C.
-*   [sanni/cartreader](https://github.com/sanni/cartreader) - A shield for the Arduino Mega that can back up video game cartridges.
-*   [c0re100/qBittorrent-Enhanced-Edition](https://github.com/c0re100/qBittorrent-Enhanced-Edition) - \[Unofficial] qBittorrent Enhanced, based on qBittorrent
-*   [XorTroll/emuiibo](https://github.com/XorTroll/emuiibo) - Virtual amiibo (amiibo emulation) system for Nintendo Switch
-*   [AmusementClub/vs-mlrt](https://github.com/AmusementClub/vs-mlrt) - Efficient CPU/GPU ML Runtimes for VapourSynth (with built-in support for waifu2x, DPIR, RealESRGANv2/v3, Real-CUGAN, RIFE, SCUNet, ArtCNN and more!)
-*   [codingo/DNSCewl](https://github.com/codingo/DNSCewl) - A DNS Bruteforcing Wordlist Generator
-*   [AaronFeng753/Waifu2x-Extension-GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI) - Video, Image and GIF upscale/enlarge(Super-Resolution) and Video frame interpolation. Achieved with Waifu2x,  Real-ESRGAN, Real-CUGAN, RTX Video Super Resolution VSR, SRMD, RealSR, Anime4K, RIFE, IFRNet, CAIN, DAIN,  and ACNet.
-*   [opencv/opencv](https://github.com/opencv/opencv) - Open Source Computer Vision Library
-*   [mongodb/mongo](https://github.com/mongodb/mongo) - The MongoDB Database
-*   [NerdLang/nerd](https://github.com/NerdLang/nerd) - 🔱 Javascript's God Mode. No VM. No Bytecode. No GC. Just native binaries.
-*   [shajen/rtl-sdr-scanner-cpp](https://github.com/shajen/rtl-sdr-scanner-cpp) -
-*   [berthubert/googerteller](https://github.com/berthubert/googerteller) - audible feedback on just how much your browsing feeds into google
-*   [f3d-app/f3d](https://github.com/f3d-app/f3d) - Fast and minimalist 3D viewer.
-*   [bkaradzic/bgfx](https://github.com/bkaradzic/bgfx) - Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style rendering library.
-*   [typesense/typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
-*   [google-deepmind/code\_contests](https://github.com/google-deepmind/code_contests) -
-*   [HASwitchPlate/openHASP](https://github.com/HASwitchPlate/openHASP) - HomeAutomation Switchplate based on lvgl for ESP32
-*   [esphome/esphome](https://github.com/esphome/esphome) - ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems.
-*   [mozilla/DeepSpeech](https://github.com/mozilla/DeepSpeech) - DeepSpeech is an open source embedded (offline, on-device) speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers.
-*   [projectM-visualizer/projectm](https://github.com/projectM-visualizer/projectm) - projectM - Cross-platform Music Visualization Library. Open-source and Milkdrop-compatible.
-*   [x64dbg/x64dbg](https://github.com/x64dbg/x64dbg) - An open-source user mode debugger for Windows. Optimized for reverse engineering and malware analysis.
-
 ## MDX
 
 *   [GeyserMC/GeyserWebsite](https://github.com/GeyserMC/GeyserWebsite) - Source code for the GeyserMC Website
@@ -2664,173 +2882,6 @@
 *   [azesmway/react-native-unity](https://github.com/azesmway/react-native-unity) -
 *   [LuigiVampa92/XLogger](https://github.com/LuigiVampa92/XLogger) - Xposed module that allows to sniff and record logs of NFC and Bluetooth communication on device
 *   [xtclang/xvm](https://github.com/xtclang/xvm) - Ecstasy and XVM
-*   [RBWare/Glass-App-Manager](https://github.com/RBWare/Glass-App-Manager) - Simple app manager for Google Glass
-*   [wearscript/wearscript-android](https://github.com/wearscript/wearscript-android) - JavaScript with Batteries Included for Google Glass
-
-## Rust
-
-*   [louis-e/arnis](https://github.com/louis-e/arnis) - Generate any location from the real world in Minecraft with a high level of detail.
-*   [anthropics/claudes-c-compiler](https://github.com/anthropics/claudes-c-compiler) - Claude Opus 4.6 wrote a dependency-free C compiler in Rust, with backends targeting x86 (64- and 32-bit), ARM, and RISC-V, capable of compiling a booting Linux kernel.
-*   [txtx/surfpool](https://github.com/txtx/surfpool) - Surfpool is where developers start their Solana journey.
-*   [unhappychoice/gitlogue](https://github.com/unhappychoice/gitlogue) - A cinematic Git commit replay tool for the terminal, turning your Git history into a living, animated story.
-*   [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
-*   [rust-windowing/winit](https://github.com/rust-windowing/winit) - Window handling library in pure Rust
-*   [BoundaryML/baml](https://github.com/BoundaryML/baml) - The AI framework that adds the engineering to prompt engineering (Python/TS/Ruby/Java/C#/Rust/Go compatible)
-*   [SilasMarvin/wasmind](https://github.com/SilasMarvin/wasmind) - A modular framework for building massively parallel agentic systems
-*   [postgresml/postgresml](https://github.com/postgresml/postgresml) - Postgres with GPUs for ML/AI apps.
-*   [DavidLiedle/DriftDB](https://github.com/DavidLiedle/DriftDB) - DriftDB - An experimental append-only database with built-in time travel. Query any point in history, guaranteed data integrity, and immutable audit trails. Written in Rust.
-*   [veloren/veloren](https://github.com/veloren/veloren) - \[mirror of https://gitlab.com/veloren/veloren] An open world, open source voxel RPG inspired by Dwarf Fortress and Cube World. This repository is a mirror. Please submit all PRs and issues on our GitLab page.
-*   [nautechsystems/nautilus\_trader](https://github.com/nautechsystems/nautilus_trader) - A high-performance algorithmic trading platform and event-driven backtester
-*   [jamsocket/y-sweet](https://github.com/jamsocket/y-sweet) - A realtime CRDT-based document store, backed by S3.
-*   [inkandswitch/keyhive](https://github.com/inkandswitch/keyhive) - 🗝️🐝✨ Rust workspace for Keyhive and related crates
-*   [haasonsaas/buildli](https://github.com/haasonsaas/buildli) - A Rust-native command-line assistant for understanding and navigating codebases in plain English
-*   [mehrantsi/feoxdb](https://github.com/mehrantsi/feoxdb) - FeOx (Iron-Oxide) is an ultra-fast, embedded and persisted KV store in pure Rust.
-*   [NiREvil/vless](https://github.com/NiREvil/vless) - v2ray subscription links
-*   [bahdotsh/wrkflw](https://github.com/bahdotsh/wrkflw) - Validate and Run GitHub Actions locally.
-*   [BA-CalderonMorales/terminal-jarvis](https://github.com/BA-CalderonMorales/terminal-jarvis) - In the midst of all the tools out there that you can possibly use to keep track of them. Here's a "shovel" that just works to try them all out.
-*   [dimforge/rapier](https://github.com/dimforge/rapier) - 2D and 3D physics engines focused on performance.
-*   [mutasim77/xfer](https://github.com/mutasim77/xfer) - ✨ A minimalist, lightning-fast file transfer tool for terminal lovers.
-*   [MagicBeansAI/magictunnel](https://github.com/MagicBeansAI/magictunnel) -
-*   [microsoft/wassette](https://github.com/microsoft/wassette) - Wassette: A security-oriented runtime that runs WebAssembly Components via MCP
-*   [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) - Get 10X more out of Claude Code, Codex or any coding agent
-*   [solana-foundation/kora](https://github.com/solana-foundation/kora) - Implementation of a Solana relayer. Provides a lib and cli crate in order to enable signing experiences on Solana
-*   [hyper-mcp-rs/hyper-mcp](https://github.com/hyper-mcp-rs/hyper-mcp) - 📦️ A fast, secure MCP server that extends its capabilities through WebAssembly plugins.
-*   [lumina-ai-inc/chunkr](https://github.com/lumina-ai-inc/chunkr) - Vision infrastructure to turn complex documents into RAG/LLM-ready data
-*   [katanemo/plano](https://github.com/katanemo/plano) - Delivery infrastructure for agentic apps - Plano is an AI-native proxy and data plane that offloads plumbing work, so you stay focused on your agent's core logic (via any AI framework).
-*   [Helicone/ai-gateway](https://github.com/Helicone/ai-gateway) - The fastest, lightest, and easiest-to-integrate AI gateway on the market. Fully open-sourced.
-*   [tigranbs/mcgravity](https://github.com/tigranbs/mcgravity) - Fast TUI that orchestrates AI coding tools (Claude Code, Codex, Gemini) in a plan→execute→review loop. Breaks work into atomic tasks for easier verification and course-correction.
-*   [sxhxliang/mcp-access-point](https://github.com/sxhxliang/mcp-access-point) - Turn a web server into an MCP server in one click without making any code changes.
-*   [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
-*   [facet-rs/facet](https://github.com/facet-rs/facet) - Rust reflection, serialization, deserialization, pretty printing, etc. — the last proc macro you should need
-*   [Quozul/PicoLimbo](https://github.com/Quozul/PicoLimbo) - A lightweight Minecraft server written from scratch in Rust supporting Minecraft versions from 1.7.2 up to 1.21.11.
-*   [memvid/memvid](https://github.com/memvid/memvid) - Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory.
-*   [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) - TensorZero is an open-source stack for industrial-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluation, and experimentation.
-*   [rivet-dev/rivet](https://github.com/rivet-dev/rivet) - Rivet Actors are a serverless primitive for stateful workloads. Each actor has built-in state, storage, workflows, scheduling, and WebSockets — everything needed to build the next generation of software.
-*   [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - screenpipe turns your computer into a personal AI that knows everything you've done. record. search. automate. all local, all private, all yours.
-*   [get-convex/convex-backend](https://github.com/get-convex/convex-backend) - The open-source reactive database for app developers
-*   [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex) - Data transformation framework for AI. Ultra performant, with incremental processing.  🌟 Star if you like it!
-*   [jsr-io/jsr](https://github.com/jsr-io/jsr) - The open-source package registry for modern JavaScript and TypeScript
-*   [microsoft/edit](https://github.com/microsoft/edit) - We all edit.
-*   [yazaldefilimone/ghost.ai](https://github.com/yazaldefilimone/ghost.ai) - 🧠 your second brain at the computer.
-*   [lambdamechanic/groma](https://github.com/lambdamechanic/groma) -
-*   [sec3-service/IDLGuesser](https://github.com/sec3-service/IDLGuesser) - IDL Guesser is an open-source tool that automatically recovers the IDL information from closed-source Anchor-based Solana programs.
-*   [PrimeIntellect-ai/protocol](https://github.com/PrimeIntellect-ai/protocol) -  peer-to-peer compute and intelligence network that enables decentralized AI development at scale
-*   [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig) - ⚙️🦀 Build modular and scalable LLM Applications in Rust
-*   [isaccanedo/arnis](https://github.com/isaccanedo/arnis) - 🌎🗺 Generate any location from the real world in Minecraft Java Edition with a high level of detail
-*   [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
-*   [huggingface/candle](https://github.com/huggingface/candle) - Minimalist ML framework for Rust
-*   [jessebmiller/volition](https://github.com/jessebmiller/volition) - Volition is an open-source, Rust-specialized AI coding assistant. Early Development Warning: BE CAREFUL
-*   [block/goose](https://github.com/block/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
-*   [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
-*   [smallcloudai/refact](https://github.com/smallcloudai/refact) - AI Agent that handles engineering tasks end-to-end: integrates with developers’ tools, plans, executes, and iterates until it achieves a successful result.
-*   [Dreamtowards/Ethertum](https://github.com/Dreamtowards/Ethertum) - A Voxel Multiplayer Sandbox Survival Game built in Rust & Bevy.
-*   [gents83/INOX](https://github.com/gents83/INOX) - Rust Game engine integrated in Blender \[WebGPU ready]
-*   [tracel-ai/burn](https://github.com/tracel-ai/burn) - Burn is a next generation tensor library and Deep Learning Framework that doesn't compromise on flexibility, efficiency and portability.
-*   [nannou-org/nannou](https://github.com/nannou-org/nannou) - A Creative Coding Framework for Rust.
-*   [AryanpurTech/BlueEngine](https://github.com/AryanpurTech/BlueEngine) - Blue Engine is a general-purpose and easy-to-use graphics engine written in rust.
-*   [rustcycles/rustcycles](https://github.com/rustcycles/rustcycles) - A fast multiplayer shooter on wheels written in Rust using the Fyrox engine. Free and open source.
-*   [mrDIMAS/StationIapetus](https://github.com/mrDIMAS/StationIapetus) - 3rd person shooter in the very early development phase
-*   [FyroxEngine/Fyrox](https://github.com/FyroxEngine/Fyrox) - 3D and 2D game engine written in Rust
-*   [modrinth/code](https://github.com/modrinth/code) - The Modrinth monorepo containing all code which powers Modrinth!
-*   [codestoryai/sidecar](https://github.com/codestoryai/sidecar) - Sidecar is the AI brains for the Aide editor and works alongside it, locally on your machine
-*   [ronanyeah/sui-zk-airdrop](https://github.com/ronanyeah/sui-zk-airdrop) - Sui / Groth16 / Merkle Tree
-*   [metaplex-foundation/mpl-hybrid](https://github.com/metaplex-foundation/mpl-hybrid) - The hybrids program powering the MPL-404 standard
-*   [trailbaseio/trailbase](https://github.com/trailbaseio/trailbase) - An open, sub-millisecond, single-executable Firebase alternative with type-safe APIs, built-in WebAssembly runtime, realtime subscriptions, auth, and admin UI built on Rust, SQLite & Wasmtime.
-*   [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
-*   [itzmeanjan/kangarootwelve](https://github.com/itzmeanjan/kangarootwelve) - BlaKE12: Blazing-fast KEccak on 12 rounds
-*   [keithnoguchi/multisig-lite](https://github.com/keithnoguchi/multisig-lite) - Native SOL multisig wallet for Solana Blockchain
-*   [rerun-io/rerun](https://github.com/rerun-io/rerun) - An open source SDK for logging, storing, querying, and visualizing multimodal and multi-rate data
-*   [HigherOrderCO/Bend](https://github.com/HigherOrderCO/Bend) - A massively parallel, high-level programming language
-*   [sevenlabs-hq/carbon](https://github.com/sevenlabs-hq/carbon) - Carbon is an indexing framework on Solana.
-*   [sayantn/keccak-rs](https://github.com/sayantn/keccak-rs) - A fast library for the Keccak-p permutation
-*   [kermanx/jsshaker](https://github.com/kermanx/jsshaker) - 🪚 A JavaScript code size optimizer based on abstract interpretation
-*   [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
-*   [marhkb/pods](https://github.com/marhkb/pods) - Keep track of your podman containers
-*   [LimeChain/zest](https://github.com/LimeChain/zest) - Limechain Solana Code Coverage CLI
-*   [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of high-performance JavaScript tools.
-*   [solana-program/stake](https://github.com/solana-program/stake) - The Solana Stake program and its clients
-*   [CrunchyData/pg\_parquet](https://github.com/CrunchyData/pg_parquet) - Copy to/from Parquet in S3, Azure Blob Storage, Google Cloud Storage, http(s) stores, local files or standard inout stream from within PostgreSQL
-*   [rosenpass/rosenpass](https://github.com/rosenpass/rosenpass) - Rosenpass is a post-quantum-secure VPN that uses WireGuard to transport the actual data.
-*   [justjavac/dvm](https://github.com/justjavac/dvm) - 🦕 Deno Version Manager - Easy way to manage multiple active deno versions.
-*   [LiteSVM/litesvm](https://github.com/LiteSVM/litesvm) -
-*   [Fredolx/open-tv](https://github.com/Fredolx/open-tv) - Ultra-fast, simple and powerful cross-platform IPTV app
-*   [EricLBuehler/mistral.rs](https://github.com/EricLBuehler/mistral.rs) - Fast, flexible LLM inference
-*   [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
-*   [zeromq/zmq.rs](https://github.com/zeromq/zmq.rs) - A native implementation of ØMQ in Rust
-*   [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden\_rs
-*   [Turbin3/poseidon](https://github.com/Turbin3/poseidon) - A Transpiler to convert your Solana programs from Typescript to Anchor
-*   [valentinmadrid/waverider](https://github.com/valentinmadrid/waverider) - Geyser plugin that streams Solana account changes to PostgREST
-*   [launchbadge/sqlx](https://github.com/launchbadge/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
-*   [cavemanloverboy/oxylana](https://github.com/cavemanloverboy/oxylana) -
-*   [cavemanloverboy/sol](https://github.com/cavemanloverboy/sol) - A command line explorer for the Solana Blockchain.
-*   [cavemanloverboy/nanotoken](https://github.com/cavemanloverboy/nanotoken) -
-*   [metaplex-foundation/aura](https://github.com/metaplex-foundation/aura) -
-*   [anza-xyz/agave](https://github.com/anza-xyz/agave) - Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.
-*   [metaplex-foundation/solana-project-template](https://github.com/metaplex-foundation/solana-project-template) - A template for vanilla Solana programs and their clients
-*   [metaplex-foundation/mpl-core](https://github.com/metaplex-foundation/mpl-core) -
-*   [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
-*   [raydium-io/raydium-clmm](https://github.com/raydium-io/raydium-clmm) - Open-Source Concentrated Liquidity Market Maker
-*   [timescale/pgvectorscale](https://github.com/timescale/pgvectorscale) - Postgres extension for vector search (DiskANN), complements pgvector for performance and scale. Postgres OSS licensed.
-*   [coral-xyz/sealevel-attacks](https://github.com/coral-xyz/sealevel-attacks) - ☠️ Common Security Exploits and Protections on Solana
-*   [clockwork-xyz/clockwork](https://github.com/clockwork-xyz/clockwork) - Smart-contract automation on Solana.
-*   [barter-rs/barter-rs](https://github.com/barter-rs/barter-rs) - Open-source Rust framework for building event-driven live-trading & backtesting systems
-*   [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
-*   [surrealdb/echodb](https://github.com/surrealdb/echodb) - An embedded, in-memory, immutable, copy-on-write, key-value database engine
-*   [surrealdb/surrealkv](https://github.com/surrealdb/surrealkv) - A low-level, versioned, embedded, ACID-compliant, key-value database for Rust
-*   [solana-labs/perpetuals](https://github.com/solana-labs/perpetuals) - Solana perpetuals reference implementation
-*   [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
-*   [metaplex-foundation/solana\_serialization\_benchmark](https://github.com/metaplex-foundation/solana_serialization_benchmark) - Benchmarks for rust serialization frameworks, inspired by https://github.com/djkoloski/rust\_serialization\_benchmark
-*   [nikivdev/rust](https://github.com/nikivdev/rust) - Rust tools, libraries and other code
-*   [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
-*   [postgresml/korvus](https://github.com/postgresml/korvus) - Korvus is a search SDK that unifies the entire RAG pipeline in a single database query. Built on top of Postgres with bindings for Python, JavaScript, Rust and C.
-*   [space-operator/flow-backend](https://github.com/space-operator/flow-backend) - Space Operator Backend
-*   [space-operator/rhai](https://github.com/space-operator/rhai) - Rhai - An embedded scripting language for Rust.
-*   [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
-*   [rpcpool/yellowstone-vixen](https://github.com/rpcpool/yellowstone-vixen) - Solana program parsing toolkit
-*   [awslabs/distill-cli](https://github.com/awslabs/distill-cli) -
-*   [orhun/rustypaste](https://github.com/orhun/rustypaste) - A minimal file upload/pastebin service.
-*   [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
-*   [anthias-labs/flare](https://github.com/anthias-labs/flare) - Flare is a CLI tool for interacting with Solana.
-*   [fire-scale/pregrind.sol](https://github.com/fire-scale/pregrind.sol) - We grind Solana keys for you so you don't have to wait.
-*   [tonyke-bot/ore-miner](https://github.com/tonyke-bot/ore-miner) - ORE Miner built on top of Jito bundle with both CPU and GPU support.
-*   [regolith-labs/ore-cli](https://github.com/regolith-labs/ore-cli) - Command line interface for ORE cryptocurrency mining.
-*   [regolith-labs/ore](https://github.com/regolith-labs/ore) - It's time to mine.
-*   [railwayapp/nixpacks](https://github.com/railwayapp/nixpacks) - App source + Nix packages + Docker = Image
-*   [suptejas/volt](https://github.com/suptejas/volt) - An experimental package management tool for JavaScript. Upto 30x faster installation of dependencies using pre-flattened dependency trees.
-*   [moonrepo/starbase](https://github.com/moonrepo/starbase) - Framework for building performant command line applications and developer tools.
-*   [moonrepo/moon](https://github.com/moonrepo/moon) - A build system and monorepo management tool for the web ecosystem, written in Rust.
-*   [levicook/derive-keys-please](https://github.com/levicook/derive-keys-please) -
-*   [cavemanloverboy/multigrind](https://github.com/cavemanloverboy/multigrind) -
-*   [pipXBT/Vanaddy](https://github.com/pipXBT/Vanaddy) - Solana Vanity Address Generator
-*   [WilfredAlmeida/LightDAS](https://github.com/WilfredAlmeida/LightDAS) - Lightweight DAS for Solana
-*   [vi/websocat](https://github.com/vi/websocat) - Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions
-*   [0xlarry/byo\_mint](https://github.com/0xlarry/byo_mint) - A compressed NFT mint program on Solana.
-*   [shuttle-hq/shuttle](https://github.com/shuttle-hq/shuttle) - Build & ship backends without writing any infrastructure files.
-*   [solana-playground/solana-playground](https://github.com/solana-playground/solana-playground) - Quickly develop, deploy and test Solana programs from browsers
-*   [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
-*   [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
-*   [metaplex-foundation/mpl-bubblegum](https://github.com/metaplex-foundation/mpl-bubblegum) - Create and manage Metaplex compressed NFTs
-*   [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is an open-source declarative GUI toolkit to build native user interfaces for Rust, C++, JavaScript, or Python apps.
-*   [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
-*   [blockworks-foundation/mango-v4](https://github.com/blockworks-foundation/mango-v4) - mango-v4 monorepo, contains program, ts client, and py client
-*   [CaviesLabs/hamsterswap-program](https://github.com/CaviesLabs/hamsterswap-program) -
-*   [metaplex-foundation/metaplex-program-library](https://github.com/metaplex-foundation/metaplex-program-library) - Smart contracts maintained by the Metaplex team
-*   [metaplex-foundation/get-collection](https://github.com/metaplex-foundation/get-collection) - Rust and TypeScript example code for finding all members from a collection id.
-*   [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
-*   [matter-labs/zksync](https://github.com/matter-labs/zksync) - zkSync: trustless scaling and privacy engine for Ethereum
-*   [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
-*   [Bonfida/bonfida-utils](https://github.com/Bonfida/bonfida-utils) - Collection of different utilities in use across various Bonfida projects
-*   [Bonfida/name-tokenizer](https://github.com/Bonfida/name-tokenizer) - Tokenize a domain name into an NFT
-*   [solana-labs/solana-program-library](https://github.com/solana-labs/solana-program-library) - A collection of Solana programs maintained by Solana Labs
-*   [ironaddicteddog/anchor-amm](https://github.com/ironaddicteddog/anchor-amm) - SPL token-swap (AMM) implemented in Anchor
-*   [GenesysGo/shadow-drive-rust](https://github.com/GenesysGo/shadow-drive-rust) -
-*   [anoushk1234/metaplex-anchor-nft](https://github.com/anoushk1234/metaplex-anchor-nft) - An example repo to demonstrate how to use anchor and metaplex to mint nfts on solana
-*   [Flawm/solana-dao-vote](https://github.com/Flawm/solana-dao-vote) -
-*   [solana-foundation/anchor](https://github.com/solana-foundation/anchor) - ⚓ Solana Program Framework
-*   [facebook/relay](https://github.com/facebook/relay) - Relay is a JavaScript framework for building data-driven React applications.
-*   [ckamm/solana-accountsdb-connector](https://github.com/ckamm/solana-accountsdb-connector) -
-*   [samuelvanderwaal/metaboss](https://github.com/samuelvanderwaal/metaboss) - The Metaplex NFT-standard Swiss Army Knife tool.
-*   [yoav-lavi/melody](https://github.com/yoav-lavi/melody) - Melody is a language that compiles to regular expressions and aims to be more readable and maintainable
 
 ## Shell
 
@@ -2932,7 +2983,6 @@
 ## HTML
 
 *   [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - practice made claude perfect
-*   [7h30th3r0n3/Evil-M5Project](https://github.com/7h30th3r0n3/Evil-M5Project) - Evil-M5Project is an innovative tool developed for ethical  hacking and exploration of WiFi networks. It's compatible with Cardputer, Atoms3, Fire, core2. You can scan, monitor, and interact with WiFi networks in a controlled environment. This project is designed for educational purposes, aiding in understanding network security and vulnerabilities
 *   [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) - Open-Source Unified Vulnerability Management, DevSecOps & ASPM
 *   [tribixbite/FlixCapacitor](https://github.com/tribixbite/FlixCapacitor) - ⚡ A modern, mobile-first streaming app with native torrent support
 *   [asgeirtj/system\_prompts\_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini
@@ -3139,53 +3189,6 @@
 *   [aderusha/DDD-Printable-Wall-Control-System](https://github.com/aderusha/DDD-Printable-Wall-Control-System) - DDD Printable Wall Control System, 3d printable organization solutions for Wall Control pegboards
 *   [mdbootstrap/Black-Friday-2025](https://github.com/mdbootstrap/Black-Friday-2025) - Black Friday & Cyber Monday Deals (UI Kits WordPress Plugins, CRMs, SEO, Courses, Books) for web developers, programmers, and software engineers.
 *   [RitikPatni/Front-End-Web-Development-Resources](https://github.com/RitikPatni/Front-End-Web-Development-Resources) - This repository contains content which will be helpful in your journey as a front-end Web Developer
-
-## C\#
-
-*   [LenovoLegionToolkit-Team/LenovoLegionToolkit](https://github.com/LenovoLegionToolkit-Team/LenovoLegionToolkit) - Lenovo Legion Toolkit (LLT) is a Windows desktop utility created for Lenovo gaming laptops that replaces Lenovo Vantage / Legion Zone / Legion Space.
-*   [legendsayantan/Extendroid-Win](https://github.com/legendsayantan/Extendroid-Win) - Extend your android device, to other platforms.
-*   [InterceptSuite/InterceptSuite](https://github.com/InterceptSuite/InterceptSuite) - MITM proxy for TCP/TLS/DTLS/UDP traffic, with STARTTLS, IoT, Thick Client and more.
-*   [hermitdave/FrequencyWords](https://github.com/hermitdave/FrequencyWords) - Repository for Frequency Word List Generator and processed files
-*   [builtbybel/FlyOOBE](https://github.com/builtbybel/FlyOOBE) - Fly through your Windows 11 setup 🐝
-*   [EricZimmerman/MFTECmd](https://github.com/EricZimmerman/MFTECmd) - Parses $MFT from NTFS file systems
-*   [builtbybel/CrapFixer](https://github.com/builtbybel/CrapFixer) - Cr\*ap Fixer
-*   [dotnet/Silk.NET](https://github.com/dotnet/Silk.NET) - The high-speed OpenGL, OpenCL, OpenAL, OpenXR, GLFW, SDL, Vulkan, Assimp, WebGPU, and DirectX bindings library your mother warned you about.
-*   [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
-*   [maxim-saplin/CrossPlatformDiskTest](https://github.com/maxim-saplin/CrossPlatformDiskTest) - Windows, macOS and Android storage (HDD, SSD, RAM) speed testing/performance benchmarking app
-*   [LykosAI/StabilityMatrix](https://github.com/LykosAI/StabilityMatrix) - Multi-Platform Package Manager for Stable Diffusion
-*   [BartoszCichecki/LenovoLegionToolkit](https://github.com/BartoszCichecki/LenovoLegionToolkit) - Lightweight Lenovo Vantage and Hotkeys replacement for Lenovo Legion laptops.
-*   [1Remote/1Remote](https://github.com/1Remote/1Remote) - One Remote Access Manager to Rule Them All
-*   [duplicati/duplicati](https://github.com/duplicati/duplicati) - Store securely encrypted backups in the cloud!
-*   [multisynq/m4u-package](https://github.com/multisynq/m4u-package) -
-*   [KirillOsenkov/MSBuildStructuredLog](https://github.com/KirillOsenkov/MSBuildStructuredLog) - A logger for MSBuild that records a structured representation of executed targets, tasks, property and item values.
-*   [Unity-Technologies/UnityCsReference](https://github.com/Unity-Technologies/UnityCsReference) - Unity C# reference source code.
-*   [ShareX/ShareX](https://github.com/ShareX/ShareX) - ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.
-*   [LimerBoy/Adamantium-Thief](https://github.com/LimerBoy/Adamantium-Thief) - :key: (THIS CODE IS OUTDATED FOR NEW CHROME VERSIONS) Decrypt chromium based browsers passwords, cookies, credit cards, history, bookmarks, autofill. Version > 80 is supported.
-*   [Tyrrrz/LightBulb](https://github.com/Tyrrrz/LightBulb) - Reduces eye strain by adjusting screen gamma based on the current time
-*   [solana-developers/solana-game-preset](https://github.com/solana-developers/solana-game-preset) - A npx preset with anchor program and multiple clients
-*   [solana-developers/solana-game-examples](https://github.com/solana-developers/solana-game-examples) -
-*   [CrazyGamesCom/unity-optimizations-package](https://github.com/CrazyGamesCom/unity-optimizations-package) -
-*   [marticliment/UniGetUI](https://github.com/marticliment/UniGetUI) - UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
-*   [reddy2004/7Zip-And-TrueCrypt-Password-Cracker](https://github.com/reddy2004/7Zip-And-TrueCrypt-Password-Cracker) - A password checking tool for finding out forgotten passwords for 7Zip files and TrueCrypt volumes.
-*   [lostindark/DriverStoreExplorer](https://github.com/lostindark/DriverStoreExplorer) - Driver Store Explorer
-*   [SHOEGAZEssb/Last.fm-Scrubbler-WPF](https://github.com/SHOEGAZEssb/Last.fm-Scrubbler-WPF) - Manual Last.fm scrobbling for when a service (or you!) failed to scrobble.
-*   [magicblock-labs/Solana.Unity-SDK](https://github.com/magicblock-labs/Solana.Unity-SDK) - Open-Source Unity-Solana SDK with Full RPC coverage, NFT support and more
-*   [julienkay/com.doji.genesis](https://github.com/julienkay/com.doji.genesis) -
-*   [natmlx/natml-unity](https://github.com/natmlx/natml-unity) - High performance, cross-platform machine learning for Unity Engine.
-*   [DarkRiftNetworking/DarkRift](https://github.com/DarkRiftNetworking/DarkRift) - DarkRift Networking by Unordinal
-*   [nftport/sample-unity3D-nft-metaverse-template](https://github.com/nftport/sample-unity3D-nft-metaverse-template) - Adv. Playground : Gallery - Customizable Unity Template
-*   [Unity-Technologies/ml-agents](https://github.com/Unity-Technologies/ml-agents) - The Unity Machine Learning Agents Toolkit (ML-Agents) is an open-source project that enables games and simulations to serve as environments for training intelligent agents using deep reinforcement learning and imitation learning.
-*   [sttz/trimmer](https://github.com/sttz/trimmer) - An editor, build and player configuration framework for the Unity game engine.
-*   [Banana4Life/Drillromantik](https://github.com/Banana4Life/Drillromantik) -
-*   [allartprotocol/unity-solana-wallet](https://github.com/allartprotocol/unity-solana-wallet) - The First Open-Source Unity-Solana Wallet with NFT support
-*   [furkandeveloper/EasyCronJob](https://github.com/furkandeveloper/EasyCronJob) - This repository provides easy cron job to your application on IHostedService.
-*   [MonkeDAO/observer](https://github.com/MonkeDAO/observer) - A command-line tracking tool for Solana-based NFT marketplaces and a metadata scraper for Metaplex protocol.
-*   [Tyrrrz/DiscordChatExporter](https://github.com/Tyrrrz/DiscordChatExporter) - Saves Discord chat logs to a file
-*   [JumpmanSr/BailOutMode](https://github.com/JumpmanSr/BailOutMode) - BailOutMode, a Beat Saber mod that automatically switches to no fail instead of ending a song.
-*   [bsmg/ModAssistant](https://github.com/bsmg/ModAssistant) - Simple Beat Saber Mod Installer
-*   [Tichau/FileConverter](https://github.com/Tichau/FileConverter) - File Converter is a very simple tool which allows you to convert and compress files using the context menu in windows explorer.
-*   [evilC/AutoHotInterception](https://github.com/evilC/AutoHotInterception) - An AutoHotkey wrapper for the Interception driver
-*   [KyleJFischer/SpartanController](https://github.com/KyleJFischer/SpartanController) - Control your computer via a text file. I recommend a command from IFTTT to update the text file.
 
 ## Swift
 
@@ -3403,7 +3406,6 @@
 *   [creativetimofficial/nextjs-argon-dashboard](https://github.com/creativetimofficial/nextjs-argon-dashboard) - NextJS version of Argon Dashboard React
 *   [lafeber/world-flags-sprite](https://github.com/lafeber/world-flags-sprite) - A sprite of all the worlds' flags.
 *   [alphapapa/solarized-everything-css](https://github.com/alphapapa/solarized-everything-css) - A collection of Solarized user-stylesheets for...everything?
-*   [json-api/json-api](https://github.com/json-api/json-api) - A specification for building JSON APIs
 
 ## Starlark
 
@@ -3502,7 +3504,6 @@
 *   [evilC/AppFactory](https://github.com/evilC/AppFactory) - A library for creating AHK Gui Apps with configurable hotkeys and settings.
 *   [pmb6tz/windows-desktop-switcher](https://github.com/pmb6tz/windows-desktop-switcher) - An AutoHotKey script for Windows that lets a user change virtual desktops by pressing CapsLock + \<num>.
 *   [TaranVH/2nd-keyboard](https://github.com/TaranVH/2nd-keyboard) - ALL of Taran's scripts - not just for the 2nd keyboard.
-*   [jpginc/windows10DesktopManager](https://github.com/jpginc/windows10DesktopManager) - An autohotkey desktop manager
 
 ## SVG
 
@@ -3587,7 +3588,6 @@
 ## OpenSCAD
 
 *   [FrameworkComputer/ExpansionCards](https://github.com/FrameworkComputer/ExpansionCards) - Reference designs and documentation to create Expansion Cards for the Framework Laptop
-*   [fpiesik/pE-Drums](https://github.com/fpiesik/pE-Drums) - An e-drum set based on 3d-printed parts
 
 ## AutoIt
 
@@ -3600,11 +3600,3 @@
 ## R
 
 *   [BorisNikulin/discord-chat-analysis](https://github.com/BorisNikulin/discord-chat-analysis) - Text analysis of a discord chat group
-
-## Arduino
-
-*   [RHWorkshop/TIPIC-Arduino](https://github.com/RHWorkshop/TIPIC-Arduino) - This is the Arduino code for the TIPIC Thermal Imaging Phone Camera device.
-
-## G-code
-
-*   [CarlosGS/Cyclone-PCB-Factory](https://github.com/CarlosGS/Cyclone-PCB-Factory) - Cyclone (Circuit Cloner) is a parametric CNC mill design intended for PCB manufacturing.
