@@ -211,7 +211,7 @@
 *   [jsr-io/jsr](https://github.com/jsr-io/jsr) - The open-source package registry for modern JavaScript and TypeScript
 *   [microsoft/edit](https://github.com/microsoft/edit) - We all edit.
 *   [yazaldefilimone/ghost.ai](https://github.com/yazaldefilimone/ghost.ai) - 🧠 your second brain at the computer.
-*   [MotiaDev/motia](https://github.com/MotiaDev/motia) - Multi-Language Backend Framework that unifies APIs, background jobs, queues, workflows, streams, and AI agents with a single core primitive with built-in observability and state management.
+*   [MotiaDev/motia](https://github.com/MotiaDev/motia) - iii (pronounced “three eye”) unifies your existing backend stack with a single engine and two primitives: Function and Trigger.
 *   [lambdamechanic/groma](https://github.com/lambdamechanic/groma) -
 *   [sec3-service/IDLGuesser](https://github.com/sec3-service/IDLGuesser) - IDL Guesser is an open-source tool that automatically recovers the IDL information from closed-source Anchor-based Solana programs.
 *   [PrimeIntellect-ai/protocol](https://github.com/PrimeIntellect-ai/protocol) -  peer-to-peer compute and intelligence network that enables decentralized AI development at scale
