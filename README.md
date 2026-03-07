@@ -833,7 +833,7 @@
 *   [typesense/typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
 *   [google-deepmind/code\_contests](https://github.com/google-deepmind/code_contests) -
 *   [HASwitchPlate/openHASP](https://github.com/HASwitchPlate/openHASP) - HomeAutomation Switchplate based on lvgl for ESP32
-*   [esphome/esphome](https://github.com/esphome/esphome) - ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems.
+*   [esphome/esphome](https://github.com/esphome/esphome) - ESPHome is a system to control your ESP32, ESP8266, BK72xx, RP2040 by simple yet powerful configuration files and control them remotely through Home Automation systems.
 *   [mozilla/DeepSpeech](https://github.com/mozilla/DeepSpeech) - DeepSpeech is an open source embedded (offline, on-device) speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers.
 
 ## Rust
@@ -850,7 +850,7 @@
 *   [postgresml/postgresml](https://github.com/postgresml/postgresml) - Postgres with GPUs for ML/AI apps.
 *   [DavidLiedle/DriftDB](https://github.com/DavidLiedle/DriftDB) - DriftDB - An experimental append-only database with built-in time travel. Query any point in history, guaranteed data integrity, and immutable audit trails. Written in Rust.
 *   [veloren/veloren](https://github.com/veloren/veloren) - \[mirror of https://gitlab.com/veloren/veloren] An open world, open source voxel RPG inspired by Dwarf Fortress and Cube World. This repository is a mirror. Please submit all PRs and issues on our GitLab page.
-*   [nautechsystems/nautilus\_trader](https://github.com/nautechsystems/nautilus_trader) - A high-performance algorithmic trading platform and event-driven backtester
+*   [nautechsystems/nautilus\_trader](https://github.com/nautechsystems/nautilus_trader) - Production-grade Rust-native trading engine with deterministic event-driven architecture
 *   [jamsocket/y-sweet](https://github.com/jamsocket/y-sweet) - A realtime CRDT-based document store, backed by S3.
 *   [inkandswitch/keyhive](https://github.com/inkandswitch/keyhive) - 🗝️🐝✨ Rust workspace for Keyhive and related crates
 *   [haasonsaas/buildli](https://github.com/haasonsaas/buildli) - A Rust-native command-line assistant for understanding and navigating codebases in plain English
@@ -1253,7 +1253,7 @@
 *   [brandonmcconnell/render-hooks](https://github.com/brandonmcconnell/render-hooks) - Inline render-block-stable React hooks
 *   [parsaghaffari/browserbee](https://github.com/parsaghaffari/browserbee) - 🐝 AI-powered browser assistant ("Cline for web browsing")
 *   [UraniumCorporation/maiar-ai](https://github.com/UraniumCorporation/maiar-ai) - Maiar: A Composable, Plugin-Based AI Agent Framework
-*   [iii-hq/iii](https://github.com/iii-hq/iii) - iii (pronounced “three eye”) unifies your existing backend stack with a single engine and two primitives: Function and Trigger.
+*   [iii-hq/iii](https://github.com/iii-hq/iii) - iii (pronounced “three eye”) unifies your existing backend stack with a single engine and three primitives: Function, Worker, and Trigger.
 *   [ashbuilds/payload-ai](https://github.com/ashbuilds/payload-ai) - AI Plugin is a powerful extension for the Payload CMS, integrating advanced AI capabilities to enhance content creation and management.
 *   [lit/lit](https://github.com/lit/lit) - Lit is a simple library for building fast, lightweight web components.
 *   [pear-devs/pear-desktop](https://github.com/pear-devs/pear-desktop) - Pear 🍐 is extension for music player
@@ -3032,7 +3032,7 @@
 ## miscellaneous
 
 *   [BehiSecc/VibeSec-Skill](https://github.com/BehiSecc/VibeSec-Skill) - This skill helps Claude write secure code and prevent common vulnerabilities.
-*   [nyas1/Material-You-app-list](https://github.com/nyas1/Material-You-app-list) - 🍦 A well organized & frequently updated collection of apps that supports material you design/theme.
+*   [nyas1/Material-You-app-list](https://github.com/nyas1/Material-You-app-list) - 🍦 A well organized & frequently updated collection of apps that supports material you design.
 *   [GorvGoyl/Clone-Wars](https://github.com/GorvGoyl/Clone-Wars) - 100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.
 *   [leohku/andure](https://github.com/leohku/andure) - DevTools for Android Chrome — works on any website, on any Chromium browser.
 *   [snarktank/ai-dev-tasks](https://github.com/snarktank/ai-dev-tasks) - A simple task management system for managing AI dev agents
