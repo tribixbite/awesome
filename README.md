@@ -1017,7 +1017,7 @@
 *   [session-foundation/session-desktop](https://github.com/session-foundation/session-desktop) - Session Desktop - A Decentralized, Onion Routed, Private Messenger
 *   [Qit-tools/unicode-emoji-json-lite](https://github.com/Qit-tools/unicode-emoji-json-lite) - This library provides a lightweight version of the unicode-emoji-json library.
 *   [JoshuaKGoldberg/emojipedia](https://github.com/JoshuaKGoldberg/emojipedia) - Unofficial static export of technical information from Emojipedia. 📙
-*   [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) - the best agent harness
+*   [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo; the best agent harness - previously oh-my-opencode
 *   [google/A2UI](https://github.com/google/A2UI) -
 *   [letta-ai/letta-code](https://github.com/letta-ai/letta-code) - The memory-first coding agent
 *   [aidenybai/react-grab](https://github.com/aidenybai/react-grab) - Select context for coding agents directly from your website
@@ -1253,7 +1253,7 @@
 *   [brandonmcconnell/render-hooks](https://github.com/brandonmcconnell/render-hooks) - Inline render-block-stable React hooks
 *   [parsaghaffari/browserbee](https://github.com/parsaghaffari/browserbee) - 🐝 AI-powered browser assistant ("Cline for web browsing")
 *   [UraniumCorporation/maiar-ai](https://github.com/UraniumCorporation/maiar-ai) - Maiar: A Composable, Plugin-Based AI Agent Framework
-*   [MotiaDev/motia](https://github.com/MotiaDev/motia) - iii (pronounced “three eye”) unifies your existing backend stack with a single engine and two primitives: Function and Trigger.
+*   [iii-hq/iii](https://github.com/iii-hq/iii) - iii (pronounced “three eye”) unifies your existing backend stack with a single engine and two primitives: Function and Trigger.
 *   [ashbuilds/payload-ai](https://github.com/ashbuilds/payload-ai) - AI Plugin is a powerful extension for the Payload CMS, integrating advanced AI capabilities to enhance content creation and management.
 *   [lit/lit](https://github.com/lit/lit) - Lit is a simple library for building fast, lightweight web components.
 *   [pear-devs/pear-desktop](https://github.com/pear-devs/pear-desktop) - Pear 🍐 is extension for music player
@@ -1313,7 +1313,6 @@
 *   [upstash/context7](https://github.com/upstash/context7) - Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors
 *   [OpenAgentPlatform/Dive](https://github.com/OpenAgentPlatform/Dive) - Dive is an open-source MCP Host Desktop Application that seamlessly integrates with any LLMs supporting function calling capabilities. ✨
 *   [tymur999/sol-incinerator-oss](https://github.com/tymur999/sol-incinerator-oss) - Close token accounts to regain SOL without Sol Incinerator 15% fee
-*   [hotovo/aider-desk](https://github.com/hotovo/aider-desk) - AI coding agent for software engineers
 *   [osmoscraft/osmosmemo](https://github.com/osmoscraft/osmosmemo) - Turn GitHub into a bookmark manager
 *   [tyrasd/overpass-turbo](https://github.com/tyrasd/overpass-turbo) - A web based data mining tool for OpenStreetMap using the Overpass API.
 *   [Vali-98/ChatterUI](https://github.com/Vali-98/ChatterUI) - Simple frontend for LLMs built in react-native.
@@ -2835,7 +2834,7 @@
 *   [Srikanth1511/Glass-Stream](https://github.com/Srikanth1511/Glass-Stream) - Google Glass XE camera streamer with url
 *   [legendsayantan/Dimmy](https://github.com/legendsayantan/Dimmy) - Dim your brightness... Further! This app allows to dim any android device screen even lower than its lowest brightness, just with a quick settings toggle.
 *   [Null123-ASD/Android\_TTS\_OCR\_Converter](https://github.com/Null123-ASD/Android_TTS_OCR_Converter) - Android TTS OCR Converter (Mobile App)- A Mobile Assistive Tool for Text-to-Speech and Chatbot Interaction
-*   [Helium314/HeliBoard](https://github.com/Helium314/HeliBoard) - Customizable and privacy-conscious open-source keyboard
+*   [HeliBorg/HeliBoard](https://github.com/HeliBorg/HeliBoard) - Customizable and privacy-conscious open-source keyboard
 *   [Povstalec/StargateJourney](https://github.com/Povstalec/StargateJourney) - A repository for the Stargate Journey Minecraft Mod
 *   [google/bundletool](https://github.com/google/bundletool) - Bundletool is a command-line tool to manipulate Android App Bundles
 *   [HeatherComputer/AdvancedBackups](https://github.com/HeatherComputer/AdvancedBackups) -
@@ -2894,6 +2893,7 @@
 *   [Gentleman-Programming/gentleman-guardian-angel](https://github.com/Gentleman-Programming/gentleman-guardian-angel) - 😇 Gentleman Guardian Angel (gga) - Provider-agnostic code review using AI. Use Claude, Gemini, Codex, Ollama to enforce your coding standards.
 *   [jqssun/android-helium-browser](https://github.com/jqssun/android-helium-browser) - Private and secure Android browser with support for browser extensions
 *   [tribixbite/bun-on-termux](https://github.com/tribixbite/bun-on-termux) - Native Bun JavaScript runtime working on Termux Android using glibc-runner
+*   [microsoft/amplifier](https://github.com/microsoft/amplifier) -
 *   [winapps-org/winapps](https://github.com/winapps-org/winapps) -  Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/winapps/
 *   [sabamdarif/termux-desktop](https://github.com/sabamdarif/termux-desktop) - Install a full Linux desktop environment on your Android device with Termux X11 ( VNC optional) and also enable hardware acceleration
 *   [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
@@ -2996,6 +2996,7 @@
 *   [mayfer/open-artifacts](https://github.com/mayfer/open-artifacts) - Like Claude Artifacts but lives in a single static HTML page which you can use with any language model of your choosing
 *   [LouisShark/chatgpt\_system\_prompt](https://github.com/LouisShark/chatgpt_system_prompt) - A collection of GPT system prompts and various prompt injection/leaking knowledge.
 *   [robinmoisson/staticrypt](https://github.com/robinmoisson/staticrypt) - Password protect a static HTML page, decrypted in-browser in JS with no dependency. No server logic needed.
+*   [hotovo/aider-desk](https://github.com/hotovo/aider-desk) - AI coding agent for software engineers
 *   [Croquetx/pingkong](https://github.com/Croquetx/pingkong) - Multiplayer Pong
 *   [Unstructured-IO/unstructured](https://github.com/Unstructured-IO/unstructured) - Convert documents to structured data effortlessly. Unstructured is open-source ETL solution for transforming complex documents into clean, structured formats for language models.  Visit our website to learn more about our enterprise grade Platform product for production grade workflows, partitioning, enrichments, chunking and embedding.
 *   [tianocore/tianocore.github.io](https://github.com/tianocore/tianocore.github.io) - Tianocore website
@@ -3033,7 +3034,6 @@
 *   [BehiSecc/VibeSec-Skill](https://github.com/BehiSecc/VibeSec-Skill) - This skill helps Claude write secure code and prevent common vulnerabilities.
 *   [nyas1/Material-You-app-list](https://github.com/nyas1/Material-You-app-list) - 🍦 A well organized & frequently updated collection of apps that supports material you design/theme.
 *   [GorvGoyl/Clone-Wars](https://github.com/GorvGoyl/Clone-Wars) - 100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.
-*   [microsoft/amplifier](https://github.com/microsoft/amplifier) -
 *   [leohku/andure](https://github.com/leohku/andure) - DevTools for Android Chrome — works on any website, on any Chromium browser.
 *   [snarktank/ai-dev-tasks](https://github.com/snarktank/ai-dev-tasks) - A simple task management system for managing AI dev agents
 *   [elder-plinius/CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S) - LEAKED SYSTEM PROMPTS FOR CHATGPT, GEMINI, GROK, CLAUDE, PERPLEXITY, CURSOR, DEVIN, REPLIT, AND MORE! - AI SYSTEMS TRANSPARENCY FOR ALL! 👐
