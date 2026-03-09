@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+*   [GLSL](#glsl)
 *   [JavaScript](#javascript)
 *   [Kotlin](#kotlin)
 *   [Python](#python)
@@ -78,6 +79,10 @@
 *   [AutoIt](#autoit)
 *   [Visual Basic .NET](#visual-basic-net)
 *   [R](#r)
+
+## GLSL
+
+*   [Septonious/Solas-Shader](https://github.com/Septonious/Solas-Shader) - A good performing fantasy stylised shaderpack with fancy visuals!
 
 ## JavaScript
 
@@ -2914,7 +2919,6 @@
 *   [ShanSuharban/termux4all](https://github.com/ShanSuharban/termux4all) - termux4all is not a project or something. This is some packages that can be used for the development and security purposes on android phone using the termux app itself. The main purpose of  this project is to install & setup all the important tools or packages in termux without researching a lot.
 *   [aj-seven/Android-Sysinfo](https://github.com/aj-seven/Android-Sysinfo) - A tool efficiently displays Android system details on Termux.
 *   [hackerb9/lsix](https://github.com/hackerb9/lsix) - Like "ls", but for images. Shows thumbnails in terminal using sixel graphics.
-*   [grondilu/bitcoin-bash-tools](https://github.com/grondilu/bitcoin-bash-tools) - Set of bitcoin-related bash functions
 *   [hcengineering/huly-selfhost](https://github.com/hcengineering/huly-selfhost) - Huly for Self Hosting
 *   [ArchiveTeam/IA.BAK](https://github.com/ArchiveTeam/IA.BAK) - We back up a lot of stuff from around the web; now it's time to back up the Internet Archive, just in case.
 *   [TermuxArch/TermuxArch](https://github.com/TermuxArch/TermuxArch) - Experience the pleasure of the Linux command prompt in Android, Chromebook, Fire OS and Windows on smartphone, smartTV, tablet and wearable https://termuxarch.github.io/TermuxArch/
@@ -3381,7 +3385,7 @@
 *   [PhrozenIO/PowerRemoteDesktop](https://github.com/PhrozenIO/PowerRemoteDesktop) - Remote Desktop entirely coded in PowerShell.
 *   [schmurtzm/Onion-Desktop-Tools](https://github.com/schmurtzm/Onion-Desktop-Tools) - A software to install and configure Onion OS for Miyoo Mini
 *   [actions/runner-images](https://github.com/actions/runner-images) - GitHub Actions runner images
-*   [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize and improve your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.
+*   [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.
 *   [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates
 *   [velodo/youtube-dl\_script](https://github.com/velodo/youtube-dl_script) - Windows Powershell script with template config files for archiving YouTube channels.
 
