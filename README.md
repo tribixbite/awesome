@@ -2530,7 +2530,7 @@
 *   [elangosundar/awesome-README-templates](https://github.com/elangosundar/awesome-README-templates) - A collection of awesome readme templates to display on your github profile.
 *   [Cocycles/electron-storage](https://github.com/Cocycles/electron-storage) - Simply save/load json files to/from file system in electron applications
 *   [electerm/electerm](https://github.com/electerm/electerm) - 📻Terminal/ssh/sftp/ftp/telnet/serialport/RDP/VNC/Spice client(linux, mac, win)
-*   [OpenSourceAGI/StarterDOCS](https://github.com/OpenSourceAGI/StarterDOCS) - 💻⚒️ Full Stack Starter DOCS  (💧Drizzle 🔐OAuth ☁️ Cloudflare 🖼️ Shadcn UI) - 🚀DEMO  https://appdemo.site
+*   [OpenSourceAGI/appdemo-starter-template](https://github.com/OpenSourceAGI/appdemo-starter-template) - 💻⚒️ Full Stack Starter DOCS  (💧Drizzle 🔐OAuth ☁️ Cloudflare 🖼️ Shadcn UI) - 🚀DEMO  https://appdemo.site
 *   [huggingface/transformers.js-examples](https://github.com/huggingface/transformers.js-examples) - A collection of 🤗 Transformers.js demos and example applications
 *   [alohe/quicky](https://github.com/alohe/quicky) - A simple CLI tool to self-host Next.js applications.
 *   [hiteshchoudhary/apihub](https://github.com/hiteshchoudhary/apihub) - Your own API Hub to learn and master API interaction. Ideal for frontend, mobile dev and backend developers.
@@ -3170,7 +3170,7 @@
 *   [tsparticles/templates](https://github.com/tsparticles/templates) - tsParticles website templates collection
 *   [farcasterxyz/protocol](https://github.com/farcasterxyz/protocol) - Specification of the Farcaster Protocol
 *   [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series (2 published editions) on the JS language.
-*   [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources
+*   [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources \[BECAUSE OF TOO MUCH SPAM AND LOW-QUALITY SUBMISSIONS, SUBMISSIONS ARE PAUSED UNTIL SEPTEMBER]
 *   [kkrypt0nn/wordlists](https://github.com/kkrypt0nn/wordlists) - 📜 Yet another collection of wordlists
 *   [tribixbite/solana-lb](https://github.com/tribixbite/solana-lb) -
 *   [lydiahallie/javascript-questions](https://github.com/lydiahallie/javascript-questions) - A long list of (advanced) JavaScript questions, and their explanations :sparkles:
