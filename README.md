@@ -1465,7 +1465,7 @@
 *   [truefedex/tv-bro](https://github.com/truefedex/tv-bro) - Simple web browser for android optimized to use with TV remote
 *   [JetBrains/koog](https://github.com/JetBrains/koog) - Koog is a JVM framework for building predictable, fault-tolerant and enterprise-ready AI agents across all platforms – from backend services to Android and iOS, JVM, and even in-browser environments. Koog is based on our AI products expertise and provides proven solutions for complex LLM and AI problems
 *   [permissionlesstech/bitchat-android](https://github.com/permissionlesstech/bitchat-android) - bluetooth mesh chat, IRC vibes
-*   [utkarshdalal/GameNative](https://github.com/utkarshdalal/GameNative) - Lightweight unofficial Steam client for Android
+*   [utkarshdalal/GameNative](https://github.com/utkarshdalal/GameNative) - Native PC gaming with Steam, Epic, GOG and Amazon integrations on Android
 *   [tribixbite/stoatally](https://github.com/tribixbite/stoatally) - Unofficial Stoat (formerly Revolt) chat client for Android
 *   [stoatchat/for-android](https://github.com/stoatchat/for-android) - Stoat for Android — App and internal API library
 *   [session-foundation/session-android](https://github.com/session-foundation/session-android) - Session Android - A Decentralized, Onion Routed, Private Messenger
@@ -1797,6 +1797,7 @@
 *   [SigmaNight/basiliskLLM](https://github.com/SigmaNight/basiliskLLM) - 🐍 Where LLMs Unite
 *   [swingmx/swingmusic](https://github.com/swingmx/swingmusic) -  Swing Music is a beautiful, self-hosted music player for your local audio files. Like a cooler Spotify ... but bring your own music.
 *   [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) - Open Source AI Platform - AI Chat with advanced features that works with every LLM
+*   [ParisNeo/lollms-webui](https://github.com/ParisNeo/lollms-webui) - Lord of Large Language and Multi modal Systems Web User Interface
 *   [bentoml/OpenLLM](https://github.com/bentoml/OpenLLM) - Run any open-source LLMs, such as DeepSeek and Llama, as OpenAI compatible API endpoint in the cloud.
 *   [mrhan1993/Fooocus-API](https://github.com/mrhan1993/Fooocus-API) - FastAPI powered API for Fooocus
 *   [QwenLM/Qwen3](https://github.com/QwenLM/Qwen3) - Qwen3 is the large language model series developed by Qwen team, Alibaba Cloud.
@@ -2359,7 +2360,6 @@
 *   [mark3labs/mcphost](https://github.com/mark3labs/mcphost) - A CLI host application that enables Large Language Models (LLMs) to interact with external tools through the Model Context Protocol (MCP).
 *   [isaacphi/mcp-language-server](https://github.com/isaacphi/mcp-language-server) - mcp-language-server gives MCP enabled clients access semantic tools like get definition, references, rename, and diagnostics.
 *   [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file\_folder: File Management Platform / Universal Data Access Layer (without FUSE)
-*   [reconmap/reconmap](https://github.com/reconmap/reconmap) - Reconmap is a collaboration-first security operations platform for infosec teams and MSSPs, enabling end‑to‑end engagement management, from reconnaissance through execution and reporting. With built-in command automation, output parsing, and AI‑assisted summaries, it delivers faster, more structured, and high‑quality security assessments.
 *   [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei) - Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations.
 *   [smtg-ai/claude-squad](https://github.com/smtg-ai/claude-squad) - Manage multiple AI terminal agents like Claude Code, Codex, OpenCode, and Amp.
 *   [brianshea2/meshmap.net](https://github.com/brianshea2/meshmap.net) - a map of Meshtastic nodes
@@ -2477,6 +2477,7 @@
 *   [Domenicobrz/R3F-takes-flight](https://github.com/Domenicobrz/R3F-takes-flight) - Repo for the project of a youtube video
 *   [anaisbetts/mcp-installer](https://github.com/anaisbetts/mcp-installer) - An MCP server that installs other MCP servers for you
 *   [cjo4m06/mcp-shrimp-task-manager](https://github.com/cjo4m06/mcp-shrimp-task-manager) - Shrimp Task Manager is a task tool built for AI Agents, emphasizing chain-of-thought, reflection, and style consistency. It converts natural language into structured dev tasks with dependency tracking and iterative refinement, enabling agent-like developer behavior in reasoning AI systems.
+*   [reconmap/reconmap](https://github.com/reconmap/reconmap) - Reconmap is a collaboration-first security operations platform for infosec teams and MSSPs, enabling end‑to‑end engagement management, from reconnaissance through execution and reporting. With built-in command automation, output parsing, and AI‑assisted summaries, it delivers faster, more structured, and high‑quality security assessments.
 *   [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
 *   [croquet/croquet](https://github.com/croquet/croquet) - Client-side (!) Multiplayer for JavaScript
 *   [samestrin/llm-interface](https://github.com/samestrin/llm-interface) - A simple NPM interface for seamlessly interacting with 36 Large Language Model (LLM) providers, including OpenAI, Anthropic, Google Gemini, Cohere, Hugging Face Inference, NVIDIA AI, Mistral AI, AI21 Studio, LLaMA.CPP, and Ollama, and hundreds of models.
@@ -3392,7 +3393,7 @@
 
 ## Markdown
 
-*   [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
+*   [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - Collaborative cheatsheets for console commands 📚.
 
 ## Starlark
 
@@ -3484,7 +3485,6 @@
 
 *   [tanabe/markdown-live-preview](https://github.com/tanabe/markdown-live-preview) - markdown editor with live preview
 *   [persys-ai/persys-desktop](https://github.com/persys-ai/persys-desktop) - Persys desktop. Electron based application to access your Persys server.
-*   [ParisNeo/lollms-webui](https://github.com/ParisNeo/lollms-webui) - Lord of Large Language and Multi modal Systems Web User Interface
 *   [adi1090x/termux-desktop](https://github.com/adi1090x/termux-desktop) - Setup A Beautiful Desktop/GUI In Termux
 *   [qudo-code/just-fac-it](https://github.com/qudo-code/just-fac-it) -
 *   [codyde/nextjs-approuter-shadcn](https://github.com/codyde/nextjs-approuter-shadcn) - Railway Template - NextJS using AppRouter with Shadcn UI Elements
