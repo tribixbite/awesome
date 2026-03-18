@@ -296,7 +296,7 @@
 *   [arcanis/terminosaurus](https://github.com/arcanis/terminosaurus) - Agnostic terminal GUI library for TypeScript, distributed with a native React renderer
 *   [cjinhuo/blazwitcher](https://github.com/cjinhuo/blazwitcher) - A Chrome Extension to blaze through your tabs, bookmarks, and history — with powerful fuzzy Pinyin search and grouping tags by AI. 一款可以全局搜索标签、书签和历史记录的 Chrome 浏览器扩展，支持拼音模糊搜索和 AI 标签分组
 *   [solana-developers/solana-mobile-templates](https://github.com/solana-developers/solana-mobile-templates) - The official Solana Mobile templates have moved to the repo below:
-*   [tinarskii/ManaoBot-v1](https://github.com/tinarskii/ManaoBot-v1) - twitch chatbot and other stuff for twitch🥤🍋
+*   [mymanao/Manao-v1](https://github.com/mymanao/Manao-v1) - twitch chatbot and other stuff for twitch🥤🍋
 *   [taciturnaxolotl/bundom](https://github.com/taciturnaxolotl/bundom) - the pixel swarm shall conquer
 *   [Zizzamia/a-frame-in-100-lines](https://github.com/Zizzamia/a-frame-in-100-lines) - Farcaster Frames in less than 100 lines, and ready to be deployed to Vercel.
 *   [Pryority/farframe](https://github.com/Pryority/farframe) - My attempt at building a Farcaster Frame.
@@ -1707,7 +1707,7 @@
 *   [huggingface/text-generation-inference](https://github.com/huggingface/text-generation-inference) - Large Language Model Text Generation Inference
 *   [turboderp-org/exllamav2](https://github.com/turboderp-org/exllamav2) - A fast inference library for running LLMs locally on modern consumer-class GPUs
 *   [theroyallab/tabbyAPI](https://github.com/theroyallab/tabbyAPI) - The official API server for Exllama. OAI compatible, lightweight, and fast.
-*   [unslothai/unsloth](https://github.com/unslothai/unsloth) - Fine-tuning & Reinforcement Learning for LLMs. 🦥 Train OpenAI gpt-oss, DeepSeek, Qwen, Llama, Gemma, TTS 2x faster with 70% less VRAM.
+*   [unslothai/unsloth](https://github.com/unslothai/unsloth) - Unified web UI for training and running open models like Qwen, DeepSeek, and Gemma locally.
 *   [coderamp-labs/gitingest](https://github.com/coderamp-labs/gitingest) - Replace 'hub' with 'ingest' in any GitHub URL to get a prompt-friendly extract of a codebase
 *   [simonw/files-to-prompt](https://github.com/simonw/files-to-prompt) - Concatenate a directory full of files into a single prompt for use with LLMs
 *   [nrl-ai/llama-assistant](https://github.com/nrl-ai/llama-assistant) - AI-powered assistant to help you with your daily tasks, powered by Llama 3, DeepSeek R1, and many more models on HuggingFace.
@@ -1756,6 +1756,7 @@
 *   [ucbepic/docetl](https://github.com/ucbepic/docetl) - A system for agentic LLM-powered data processing and ETL
 *   [hyperknot/openfreemap](https://github.com/hyperknot/openfreemap) - Free and open-source map hosting solution with custom styles for websites and apps, using OpenStreetMap data
 *   [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
+*   [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Open-source, secure environment with real-world tools for enterprise-grade agents.
 *   [timescale/rag-is-more-than-vector-search](https://github.com/timescale/rag-is-more-than-vector-search) - Companion repo to "RAG is more than vector search" blog post
 *   [kevinheavey/anchorpy](https://github.com/kevinheavey/anchorpy) - The Python Anchor client.
 *   [Cinnamon/kotaemon](https://github.com/Cinnamon/kotaemon) - An open-source RAG-based tool for chatting with your documents.
@@ -2057,7 +2058,7 @@
 *   [jsr-io/jsr](https://github.com/jsr-io/jsr) - The open-source package registry for modern JavaScript and TypeScript
 *   [microsoft/edit](https://github.com/microsoft/edit) - We all edit.
 *   [yazaldefilimone/ghost.ai](https://github.com/yazaldefilimone/ghost.ai) - 🧠 your second brain at the computer.
-*   [iii-hq/iii](https://github.com/iii-hq/iii) - iii (pronounced “three eye”) unifies your existing backend stack with a single engine and three primitives: Function, Worker, and Trigger.
+*   [iii-hq/iii](https://github.com/iii-hq/iii) - iii (pronounced “three eye”) unifies your existing backend stack with a single engine and three primitives: Function, Trigger, and Worker.
 *   [lambdamechanic/groma](https://github.com/lambdamechanic/groma) -
 *   [sec3-service/IDLGuesser](https://github.com/sec3-service/IDLGuesser) - IDL Guesser is an open-source tool that automatically recovers the IDL information from closed-source Anchor-based Solana programs.
 *   [PrimeIntellect-ai/protocol](https://github.com/PrimeIntellect-ai/protocol) -  peer-to-peer compute and intelligence network that enables decentralized AI development at scale
@@ -2880,7 +2881,6 @@
 *   [docfork/docfork](https://github.com/docfork/docfork) - Docfork - Up-to-date Docs for AI Agents.
 *   [multisynq/docs](https://github.com/multisynq/docs) -
 *   [inngest/website](https://github.com/inngest/website) - Website and Documentation for Inngest
-*   [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Open-source, secure environment with real-world tools for enterprise-grade agents.
 *   [mintlify/starter](https://github.com/mintlify/starter) - 📖 The starter kit for your Mintlify docs
 *   [spleafy/prismane-website](https://github.com/spleafy/prismane-website) -
 *   [magicuidesign/magicui](https://github.com/magicuidesign/magicui) - UI Library for Design Engineers. Animated components and effects you can copy and paste into your apps. Free. Open Source.
