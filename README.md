@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+*   [Go](#go)
 *   [TypeScript](#typescript)
 *   [Kotlin](#kotlin)
 *   [Python](#python)
@@ -13,7 +14,6 @@
 *   [C++](#c)
 *   [GLSL](#glsl)
 *   [C#](#c-1)
-*   [Go](#go)
 *   [JavaScript](#javascript)
 *   [MDX](#mdx)
 *   [Java](#java)
@@ -80,10 +80,117 @@
 *   [Visual Basic .NET](#visual-basic-net)
 *   [R](#r)
 
+## Go
+
+*   [Effect-TS/tsgo](https://github.com/Effect-TS/tsgo) - TypeScript-go enhanced with the Effect LSP experience
+*   [steipete/gogcli](https://github.com/steipete/gogcli) - Google Suite CLI: Gmail, GCal, GDrive, GContacts.
+*   [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
+*   [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) - ✨ Fully autonomous AI Agents system capable of performing complex penetration testing tasks
+*   [steipete/gifgrep](https://github.com/steipete/gifgrep) - Grep the GIF. Stick the landing.
+*   [sky22333/hubproxy](https://github.com/sky22333/hubproxy) - 多功能代理加速服务，提供 Docker 镜像加速、GitHub 加速、下载离线镜像等功能。一个二进制文件实现所有功能，支持仓库审计。流式转发，不占用存储空间。
+*   [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) - 🐈 A collection of LLM inference providers and models
+*   [pufferpanel/pufferpanel](https://github.com/pufferpanel/pufferpanel) - PufferPanel is an open source game server management panel, designed for both small networks and personal use
+*   [NodePassProject/nodepass](https://github.com/NodePassProject/nodepass) - A secure, efficient TCP/UDP tunneling solution that delivers fast, reliable access across network restrictions using pre-established TCP/QUIC/WebSocket or HTTP/2 connections.
+*   [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
+*   [mmulet/term.everything](https://github.com/mmulet/term.everything) - Run any GUI app in the terminal❗
+*   [dagger/container-use](https://github.com/dagger/container-use) - Development environments for coding agents. Enable multiple agents to work safely and independently with your preferred stack.
+*   [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub's official MCP Server
+*   [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
+*   [ghuntley/how-to-build-a-coding-agent](https://github.com/ghuntley/how-to-build-a-coding-agent) - A workshop that teaches you how to build your own coding agent. Similar to Roo code, Cline, Amp, Cursor, Windsurf or OpenCode.
+*   [LumaAI-API/Luma-API](https://github.com/LumaAI-API/Luma-API) - This is an unofficial LumaAI Dream Machine API based on Golang and Gin. It currently supports generating videos.
+*   [Print3M/DllShimmer](https://github.com/Print3M/DllShimmer) - Weaponize DLL hijacking easily. Backdoor any function in any DLL.
+*   [cybrota/recaller](https://github.com/cybrota/recaller) - A rapid fast, command-line app to recall your files & shell history with absolute precision
+*   [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
+*   [featheredtoast/satisfactory-monitoring](https://github.com/featheredtoast/satisfactory-monitoring) -
+*   [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods.
+*   [coze-dev/coze-loop](https://github.com/coze-dev/coze-loop) - Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full-lifecycle management capabilities from development, debugging, and evaluation to monitoring.
+*   [docker/mcp-registry](https://github.com/docker/mcp-registry) - Official Docker MCP registry
+*   [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦
+*   [opencode-ai/opencode](https://github.com/opencode-ai/opencode) - A powerful AI coding agent. Built for the terminal.
+*   [f/mcptools](https://github.com/f/mcptools) - A command-line interface for interacting with MCP (Model Context Protocol) servers using both stdio and HTTP transport.
+*   [0xJacky/nginx-ui](https://github.com/0xJacky/nginx-ui) - Yet another WebUI for Nginx
+*   [lrstanley/context7-http](https://github.com/lrstanley/context7-http) - Context7 MCP Server (with HTTP SSE and Streamable)
+*   [emprcl/runal](https://github.com/emprcl/runal) - a creative coding environment for the terminal :fireworks:
+*   [mark3labs/mcphost](https://github.com/mark3labs/mcphost) - A CLI host application that enables Large Language Models (LLMs) to interact with external tools through the Model Context Protocol (MCP).
+*   [isaacphi/mcp-language-server](https://github.com/isaacphi/mcp-language-server) - mcp-language-server gives MCP enabled clients access semantic tools like get definition, references, rename, and diagnostics.
+*   [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file\_folder: File Management Platform / Universal Data Access Layer (without FUSE)
+*   [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei) - Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations.
+*   [smtg-ai/claude-squad](https://github.com/smtg-ai/claude-squad) - Manage multiple AI terminal agents like Claude Code, Codex, OpenCode, and Amp.
+*   [brianshea2/meshmap.net](https://github.com/brianshea2/meshmap.net) - a map of Meshtastic nodes
+*   [railwayapp/railpack](https://github.com/railwayapp/railpack) - Zero-config application builder that automatically analyzes and turns your code into an image
+*   [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
+*   [openbao/openbao](https://github.com/openbao/openbao) - OpenBao exists to provide a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
+*   [modelcontextprotocol/registry](https://github.com/modelcontextprotocol/registry) - A community driven registry service for Model Context Protocol (MCP) servers.
+*   [claraverse-space/ClaraVerse](https://github.com/claraverse-space/ClaraVerse) - Claraverse is a opesource privacy focused ecosystem to replace ChatGPT, Claude, N8N, ImageGen with your own hosted llm, keys and compute. With desktop, IOS, Android Apps.
+*   [inngest/inngest](https://github.com/inngest/inngest) - The leading workflow orchestration platform.  Run stateful step functions and AI workflows on serverless, servers, or the edge.
+*   [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
+*   [kopia/kopia](https://github.com/kopia/kopia) - Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
+*   [ibnaleem/gosearch](https://github.com/ibnaleem/gosearch) - 🔍 Search anyone's digital footprint across 300+ websites
+*   [TanaroSch/Clipboard-Regex-Replace-2](https://github.com/TanaroSch/Clipboard-Regex-Replace-2) - Clipboard Regex Replace is a lightweight GoLang application that allows you to automatically apply regex-based replacements to your clipboard content using a customizable hotkey.
+*   [ctrox/zeropod](https://github.com/ctrox/zeropod) - pod that scales down to zero
+*   [sysadminsmedia/homebox](https://github.com/sysadminsmedia/homebox) - A continuation of HomeBox the inventory and organization system built for the Home User
+*   [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
+*   [dstotijn/hetty](https://github.com/dstotijn/hetty) - An HTTP toolkit for security research.
+*   [dagger/dagger](https://github.com/dagger/dagger) - Automation engine to build, test and ship any codebase. Runs locally, in CI, or directly in the cloud
+*   [marcopiovanello/yt-dlp-web-ui](https://github.com/marcopiovanello/yt-dlp-web-ui) - A terrible web ui and RPC server for yt-dlp. Designed to be self-hosted.
+*   [eja/wikilite](https://github.com/eja/wikilite) - Offline Lexical and Semantic Wikipedia Search
+*   [nalgeon/howto](https://github.com/nalgeon/howto) - Humble command-line assistant
+*   [kgretzky/evilginx2](https://github.com/kgretzky/evilginx2) - Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication
+*   [obot-platform/obot](https://github.com/obot-platform/obot) - Complete MCP Platform -- Hosting, Registry, Gateway, and Chat Client
+*   [openziti/zrok](https://github.com/openziti/zrok) - Secure internet sharing made simple.
+*   [hunjixin/keccak\_cu](https://github.com/hunjixin/keccak_cu) - fast keccak cuda implemetation
+*   [txthinking/brook](https://github.com/txthinking/brook) - A cross-platform programmable network tool
+*   [encoredev/encore](https://github.com/encoredev/encore) - Open source framework for building robust type-safe distributed systems with declarative infrastructure
+*   [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
+*   [amir20/dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for containers.  Supports Docker, Swarm and K8s.
+*   [abklabs/svmkit](https://github.com/abklabs/svmkit) - An operational toolchain for SVM-based blockchain networks
+*   [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source AI-first Identity and Access Management (IAM) /AI MCP gateway and auth server with web UI supporting MCP, A2A, OAuth 2.1, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face ID, Google Workspace, Azure AD
+*   [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure.
+*   [qdm12/gluetun](https://github.com/qdm12/gluetun) - VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.
+*   [42wim/matterbridge](https://github.com/42wim/matterbridge) - bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble, vk and more with REST API (mattermost not required!)
+*   [evilmartians/lefthook](https://github.com/evilmartians/lefthook) - Fast and powerful Git hooks manager for any type of projects.
+*   [acheong08/dunno](https://github.com/acheong08/dunno) - AI powered command line
+*   [hashicorp/vault](https://github.com/hashicorp/vault) - A tool for secrets management, encryption as a service, and privileged access management
+*   [danielmiessler/Fabric](https://github.com/danielmiessler/Fabric) - Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
+*   [e2b-dev/infra](https://github.com/e2b-dev/infra) - Infrastructure that's powering E2B Cloud.
+*   [wabarc/wayback](https://github.com/wabarc/wayback) - An archiving tool with an IM-style interface that prioritizes privacy and accessibility, integrated with various archival services including Internet Archive, archive.today, Ghostarchive, IPFS, Telegraph, and file systems.
+*   [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, AI-integrated, cross-platform terminal for seamless workflows
+*   [robherley/snips.sh](https://github.com/robherley/snips.sh) - ✂️ passwordless, anonymous SSH-powered pastebin with a human-friendly TUI and web UI
+*   [six-ddc/plow](https://github.com/six-ddc/plow) - A high-performance HTTP benchmarking tool that includes a real-time web UI and terminal display
+*   [dwisiswant0/tlder](https://github.com/dwisiswant0/tlder) - TLDs finder — check domain name availability across all valid top-level domains.
+*   [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps, now OpenID Certified™
+*   [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement,  running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more. Features: Generate Text, MCP, Audio, Video, Images, Voice Cloning, Distributed, P2P and decentralized inference
+*   [championswimmer/onepixel\_backend](https://github.com/championswimmer/onepixel_backend) -
+*   [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+*   [casibase/casibase](https://github.com/casibase/casibase) - ⚡️AI Cloud OS: Open-source enterprise-level AI knowledge base and MCP (model-context-protocol)/A2A (agent-to-agent) management platform with admin UI, user management and Single-Sign-On⚡️, supports ChatGPT, Claude, Llama, Ollama, HuggingFace, etc., chat bot demo: https://ai.casibase.com, admin UI demo: https://ai-admin.casibase.com
+*   [apicat/apicat](https://github.com/apicat/apicat) - An efficient API documentation management tool that fully adheres to the OpenAPI specification and incorporates advanced LLM technology. This tool can automate the generation of API documentation, data models, and test cases, greatly enhancing development efficiency and documentation quality.
+*   [Layr-Labs/incredible-squaring-avs](https://github.com/Layr-Labs/incredible-squaring-avs) - Basic repo demoing a simple AVS middleware with full eigenlayer integration
+*   [pb33f/openapi-changes](https://github.com/pb33f/openapi-changes) - The world's sexiest OpenAPI breaking changes detector. Discover what changed between two OpenAPI specs, or a single spec over time. Supports OpenAPI 3.1, 3.0 and Swagger
+*   [sei-protocol/sei-db](https://github.com/sei-protocol/sei-db) -
+*   [orb-community/orb](https://github.com/orb-community/orb) - Orb is a dynamic network observability platform with agent fleet orchestration and data pipelines with OpenTelemetry
+*   [odigos-io/odigos](https://github.com/odigos-io/odigos) - Distributed tracing without code changes. 🚀 Instantly monitor any application using OpenTelemetry and eBPF
+*   [owasp-amass/amass](https://github.com/owasp-amass/amass) - In-depth attack surface mapping and asset discovery
+*   [m1guelpf/chatgpt-discord](https://github.com/m1guelpf/chatgpt-discord) - Run your own GPTChat Discord bot, with a single command!
+*   [harveynw/blokechain](https://github.com/harveynw/blokechain) - Subset of the bitcoin protocol in Golang
+*   [imgproxy/imgproxy](https://github.com/imgproxy/imgproxy) - Fast and secure standalone server for resizing, processing, and converting images on the fly
+*   [h2non/imaginary](https://github.com/h2non/imaginary) - Fast, simple, scalable, Docker-ready HTTP microservice for high-level image processing
+*   [SpatiumPortae/portal](https://github.com/SpatiumPortae/portal) - Portal is a quick and easy command-line file transfer utility from any computer to another 🌌 ✨
+*   [HowRareIs/solproxy](https://github.com/HowRareIs/solproxy) - HowRare Solana RPC proxy is there to allow project creators to freely route Solana RPC calls to different Solana nodes utilizing prioritization and capping.
+*   [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
+*   [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
+*   [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
+*   [projectdiscovery/katana](https://github.com/projectdiscovery/katana) - A next-generation crawling and spidering framework.
+*   [CryoByte33/steam-deck-utilities](https://github.com/CryoByte33/steam-deck-utilities) - A utility to improve performance and help manage storage on Steam Deck.
+*   [botlabs-gg/yagpdb](https://github.com/botlabs-gg/yagpdb) - Yet another general purpose discord bot
+*   [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
+*   [solana-labs/solana-ping-api](https://github.com/solana-labs/solana-ping-api) - solana ping api server
+*   [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative
+*   [zincsearch/zincsearch](https://github.com/zincsearch/zincsearch) - ZincSearch . A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
+
 ## TypeScript
 
 *   [tribixbite/link-finder](https://github.com/tribixbite/link-finder) - findur.link — Bulk domain name search with smart mutations
-*   [webadderall/Recordly](https://github.com/webadderall/Recordly) - A free, open-source Screen Studio alternative that adds auto-zoom, cursor animations and more to your screen recordings. Substantially modifies the OpenScreen foundation.
+*   [webadderall/Recordly](https://github.com/webadderall/Recordly) - A free, open-source Screen Studio alternative that adds auto-zoom, cursor animations and more to your screen recordings.
 *   [tribixbite/torch](https://github.com/tribixbite/torch) - Flashlight search engine — modern reimagination of parametrek. Filter 3,177 flashlights by 28 specs.
 *   [tribixbite/termux-tools](https://github.com/tribixbite/termux-tools) - Termux ARM64 tools, scripts, and utilities for Android development
 *   [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) - GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration
@@ -1434,7 +1541,7 @@
 *   [agentskills/agentskills](https://github.com/agentskills/agentskills) - Specification and documentation for Agent Skills
 *   [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 *   [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) - Memory for 24/7 proactive agents like openclaw (moltbot, clawdbot).
-*   [huggingface/skills](https://github.com/huggingface/skills) -
+*   [huggingface/skills](https://github.com/huggingface/skills) - Give your agents the power of the Hugging Face ecosystem
 *   [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) - Official, Anthropic-managed directory of high quality Claude Code Plugins.
 *   [TIGER-AI-Lab/OpenResearcher](https://github.com/TIGER-AI-Lab/OpenResearcher) - OpenResearcher: A Fully Open Pipeline for Long-Horizon Deep Research Trajectory Synthesis
 *   [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
@@ -2195,7 +2302,7 @@
 *   [sabamdarif/termux-desktop](https://github.com/sabamdarif/termux-desktop) - Install a full Linux desktop environment on your Android device with Termux X11 ( VNC optional) and also enable hardware acceleration
 *   [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
 *   [termux-user-repository/tur](https://github.com/termux-user-repository/tur) - A place for all types of Termux packages.
-*   [automazeio/ccpm](https://github.com/automazeio/ccpm) - Project management system for Claude Code using GitHub Issues and Git worktrees for parallel agent execution.
+*   [automazeio/ccpm](https://github.com/automazeio/ccpm) - Project management skill system for Agents that uses GitHub Issues and Git worktrees for parallel agent execution.
 *   [VoltAgent/awesome-claude-code-subagents](https://github.com/VoltAgent/awesome-claude-code-subagents) - A collection of 100+ specialized Claude Code subagents covering a wide range of development use cases
 *   [vet-run/vet](https://github.com/vet-run/vet) - vet is a command-line tool that acts as a safety net for the risky curl | bash pattern. It lets you inspect, diff against previous versions, and lint remote scripts before asking for your explicit approval to execute. Promoting a safer, more transparent way to handle remote code execution.
 *   [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
@@ -2378,112 +2485,6 @@
 *   [JumpmanSr/BailOutMode](https://github.com/JumpmanSr/BailOutMode) - BailOutMode, a Beat Saber mod that automatically switches to no fail instead of ending a song.
 *   [bsmg/ModAssistant](https://github.com/bsmg/ModAssistant) - Simple Beat Saber Mod Installer
 *   [Tichau/FileConverter](https://github.com/Tichau/FileConverter) - File Converter is a very simple tool which allows you to convert and compress files using the context menu in windows explorer.
-
-## Go
-
-*   [steipete/gogcli](https://github.com/steipete/gogcli) - Google Suite CLI: Gmail, GCal, GDrive, GContacts.
-*   [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
-*   [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) - ✨ Fully autonomous AI Agents system capable of performing complex penetration testing tasks
-*   [steipete/gifgrep](https://github.com/steipete/gifgrep) - Grep the GIF. Stick the landing.
-*   [sky22333/hubproxy](https://github.com/sky22333/hubproxy) - 多功能代理加速服务，提供 Docker 镜像加速、GitHub 加速、下载离线镜像等功能。一个二进制文件实现所有功能，支持仓库审计。流式转发，不占用存储空间。
-*   [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) - 🐈 A collection of LLM inference providers and models
-*   [pufferpanel/pufferpanel](https://github.com/pufferpanel/pufferpanel) - PufferPanel is an open source game server management panel, designed for both small networks and personal use
-*   [NodePassProject/nodepass](https://github.com/NodePassProject/nodepass) - A secure, efficient TCP/UDP tunneling solution that delivers fast, reliable access across network restrictions using pre-established TCP/QUIC/WebSocket or HTTP/2 connections.
-*   [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
-*   [mmulet/term.everything](https://github.com/mmulet/term.everything) - Run any GUI app in the terminal❗
-*   [dagger/container-use](https://github.com/dagger/container-use) - Development environments for coding agents. Enable multiple agents to work safely and independently with your preferred stack.
-*   [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub's official MCP Server
-*   [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
-*   [ghuntley/how-to-build-a-coding-agent](https://github.com/ghuntley/how-to-build-a-coding-agent) - A workshop that teaches you how to build your own coding agent. Similar to Roo code, Cline, Amp, Cursor, Windsurf or OpenCode.
-*   [LumaAI-API/Luma-API](https://github.com/LumaAI-API/Luma-API) - This is an unofficial LumaAI Dream Machine API based on Golang and Gin. It currently supports generating videos.
-*   [Print3M/DllShimmer](https://github.com/Print3M/DllShimmer) - Weaponize DLL hijacking easily. Backdoor any function in any DLL.
-*   [cybrota/recaller](https://github.com/cybrota/recaller) - A rapid fast, command-line app to recall your files & shell history with absolute precision
-*   [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
-*   [featheredtoast/satisfactory-monitoring](https://github.com/featheredtoast/satisfactory-monitoring) -
-*   [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods.
-*   [coze-dev/coze-loop](https://github.com/coze-dev/coze-loop) - Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full-lifecycle management capabilities from development, debugging, and evaluation to monitoring.
-*   [docker/mcp-registry](https://github.com/docker/mcp-registry) - Official Docker MCP registry
-*   [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦
-*   [opencode-ai/opencode](https://github.com/opencode-ai/opencode) - A powerful AI coding agent. Built for the terminal.
-*   [f/mcptools](https://github.com/f/mcptools) - A command-line interface for interacting with MCP (Model Context Protocol) servers using both stdio and HTTP transport.
-*   [0xJacky/nginx-ui](https://github.com/0xJacky/nginx-ui) - Yet another WebUI for Nginx
-*   [lrstanley/context7-http](https://github.com/lrstanley/context7-http) - Context7 MCP Server (with HTTP SSE and Streamable)
-*   [emprcl/runal](https://github.com/emprcl/runal) - a creative coding environment for the terminal :fireworks:
-*   [mark3labs/mcphost](https://github.com/mark3labs/mcphost) - A CLI host application that enables Large Language Models (LLMs) to interact with external tools through the Model Context Protocol (MCP).
-*   [isaacphi/mcp-language-server](https://github.com/isaacphi/mcp-language-server) - mcp-language-server gives MCP enabled clients access semantic tools like get definition, references, rename, and diagnostics.
-*   [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file\_folder: File Management Platform / Universal Data Access Layer (without FUSE)
-*   [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei) - Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations.
-*   [smtg-ai/claude-squad](https://github.com/smtg-ai/claude-squad) - Manage multiple AI terminal agents like Claude Code, Codex, OpenCode, and Amp.
-*   [brianshea2/meshmap.net](https://github.com/brianshea2/meshmap.net) - a map of Meshtastic nodes
-*   [railwayapp/railpack](https://github.com/railwayapp/railpack) - Zero-config application builder that automatically analyzes and turns your code into an image
-*   [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
-*   [openbao/openbao](https://github.com/openbao/openbao) - OpenBao exists to provide a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
-*   [modelcontextprotocol/registry](https://github.com/modelcontextprotocol/registry) - A community driven registry service for Model Context Protocol (MCP) servers.
-*   [claraverse-space/ClaraVerse](https://github.com/claraverse-space/ClaraVerse) - Claraverse is a opesource privacy focused ecosystem to replace ChatGPT, Claude, N8N, ImageGen with your own hosted llm, keys and compute. With desktop, IOS, Android Apps.
-*   [inngest/inngest](https://github.com/inngest/inngest) - The leading workflow orchestration platform.  Run stateful step functions and AI workflows on serverless, servers, or the edge.
-*   [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
-*   [kopia/kopia](https://github.com/kopia/kopia) - Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
-*   [ibnaleem/gosearch](https://github.com/ibnaleem/gosearch) - 🔍 Search anyone's digital footprint across 300+ websites
-*   [TanaroSch/Clipboard-Regex-Replace-2](https://github.com/TanaroSch/Clipboard-Regex-Replace-2) - Clipboard Regex Replace is a lightweight GoLang application that allows you to automatically apply regex-based replacements to your clipboard content using a customizable hotkey.
-*   [ctrox/zeropod](https://github.com/ctrox/zeropod) - pod that scales down to zero
-*   [sysadminsmedia/homebox](https://github.com/sysadminsmedia/homebox) - A continuation of HomeBox the inventory and organization system built for the Home User
-*   [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
-*   [dstotijn/hetty](https://github.com/dstotijn/hetty) - An HTTP toolkit for security research.
-*   [dagger/dagger](https://github.com/dagger/dagger) - Automation engine to build, test and ship any codebase. Runs locally, in CI, or directly in the cloud
-*   [marcopiovanello/yt-dlp-web-ui](https://github.com/marcopiovanello/yt-dlp-web-ui) - A terrible web ui and RPC server for yt-dlp. Designed to be self-hosted.
-*   [eja/wikilite](https://github.com/eja/wikilite) - Offline Lexical and Semantic Wikipedia Search
-*   [nalgeon/howto](https://github.com/nalgeon/howto) - Humble command-line assistant
-*   [kgretzky/evilginx2](https://github.com/kgretzky/evilginx2) - Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication
-*   [obot-platform/obot](https://github.com/obot-platform/obot) - Complete MCP Platform -- Hosting, Registry, Gateway, and Chat Client
-*   [openziti/zrok](https://github.com/openziti/zrok) - Secure internet sharing made simple.
-*   [hunjixin/keccak\_cu](https://github.com/hunjixin/keccak_cu) - fast keccak cuda implemetation
-*   [txthinking/brook](https://github.com/txthinking/brook) - A cross-platform programmable network tool
-*   [encoredev/encore](https://github.com/encoredev/encore) - Open source framework for building robust type-safe distributed systems with declarative infrastructure
-*   [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
-*   [amir20/dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for containers.  Supports Docker, Swarm and K8s.
-*   [abklabs/svmkit](https://github.com/abklabs/svmkit) - An operational toolchain for SVM-based blockchain networks
-*   [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source AI-first Identity and Access Management (IAM) /AI MCP gateway and auth server with web UI supporting MCP, A2A, OAuth 2.1, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face ID, Google Workspace, Azure AD
-*   [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure.
-*   [qdm12/gluetun](https://github.com/qdm12/gluetun) - VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.
-*   [42wim/matterbridge](https://github.com/42wim/matterbridge) - bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble, vk and more with REST API (mattermost not required!)
-*   [evilmartians/lefthook](https://github.com/evilmartians/lefthook) - Fast and powerful Git hooks manager for any type of projects.
-*   [acheong08/dunno](https://github.com/acheong08/dunno) - AI powered command line
-*   [hashicorp/vault](https://github.com/hashicorp/vault) - A tool for secrets management, encryption as a service, and privileged access management
-*   [danielmiessler/Fabric](https://github.com/danielmiessler/Fabric) - Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
-*   [e2b-dev/infra](https://github.com/e2b-dev/infra) - Infrastructure that's powering E2B Cloud.
-*   [wabarc/wayback](https://github.com/wabarc/wayback) - An archiving tool with an IM-style interface that prioritizes privacy and accessibility, integrated with various archival services including Internet Archive, archive.today, Ghostarchive, IPFS, Telegraph, and file systems.
-*   [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, AI-integrated, cross-platform terminal for seamless workflows
-*   [robherley/snips.sh](https://github.com/robherley/snips.sh) - ✂️ passwordless, anonymous SSH-powered pastebin with a human-friendly TUI and web UI
-*   [six-ddc/plow](https://github.com/six-ddc/plow) - A high-performance HTTP benchmarking tool that includes a real-time web UI and terminal display
-*   [dwisiswant0/tlder](https://github.com/dwisiswant0/tlder) - TLDs finder — check domain name availability across all valid top-level domains.
-*   [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps, now OpenID Certified™
-*   [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement,  running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more. Features: Generate Text, MCP, Audio, Video, Images, Voice Cloning, Distributed, P2P and decentralized inference
-*   [championswimmer/onepixel\_backend](https://github.com/championswimmer/onepixel_backend) -
-*   [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
-*   [casibase/casibase](https://github.com/casibase/casibase) - ⚡️AI Cloud OS: Open-source enterprise-level AI knowledge base and MCP (model-context-protocol)/A2A (agent-to-agent) management platform with admin UI, user management and Single-Sign-On⚡️, supports ChatGPT, Claude, Llama, Ollama, HuggingFace, etc., chat bot demo: https://ai.casibase.com, admin UI demo: https://ai-admin.casibase.com
-*   [apicat/apicat](https://github.com/apicat/apicat) - An efficient API documentation management tool that fully adheres to the OpenAPI specification and incorporates advanced LLM technology. This tool can automate the generation of API documentation, data models, and test cases, greatly enhancing development efficiency and documentation quality.
-*   [Layr-Labs/incredible-squaring-avs](https://github.com/Layr-Labs/incredible-squaring-avs) - Basic repo demoing a simple AVS middleware with full eigenlayer integration
-*   [pb33f/openapi-changes](https://github.com/pb33f/openapi-changes) - The world's sexiest OpenAPI breaking changes detector. Discover what changed between two OpenAPI specs, or a single spec over time. Supports OpenAPI 3.1, 3.0 and Swagger
-*   [sei-protocol/sei-db](https://github.com/sei-protocol/sei-db) -
-*   [orb-community/orb](https://github.com/orb-community/orb) - Orb is a dynamic network observability platform with agent fleet orchestration and data pipelines with OpenTelemetry
-*   [odigos-io/odigos](https://github.com/odigos-io/odigos) - Distributed tracing without code changes. 🚀 Instantly monitor any application using OpenTelemetry and eBPF
-*   [owasp-amass/amass](https://github.com/owasp-amass/amass) - In-depth attack surface mapping and asset discovery
-*   [m1guelpf/chatgpt-discord](https://github.com/m1guelpf/chatgpt-discord) - Run your own GPTChat Discord bot, with a single command!
-*   [harveynw/blokechain](https://github.com/harveynw/blokechain) - Subset of the bitcoin protocol in Golang
-*   [imgproxy/imgproxy](https://github.com/imgproxy/imgproxy) - Fast and secure standalone server for resizing, processing, and converting images on the fly
-*   [h2non/imaginary](https://github.com/h2non/imaginary) - Fast, simple, scalable, Docker-ready HTTP microservice for high-level image processing
-*   [SpatiumPortae/portal](https://github.com/SpatiumPortae/portal) - Portal is a quick and easy command-line file transfer utility from any computer to another 🌌 ✨
-*   [HowRareIs/solproxy](https://github.com/HowRareIs/solproxy) - HowRare Solana RPC proxy is there to allow project creators to freely route Solana RPC calls to different Solana nodes utilizing prioritization and capping.
-*   [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
-*   [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
-*   [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
-*   [projectdiscovery/katana](https://github.com/projectdiscovery/katana) - A next-generation crawling and spidering framework.
-*   [CryoByte33/steam-deck-utilities](https://github.com/CryoByte33/steam-deck-utilities) - A utility to improve performance and help manage storage on Steam Deck.
-*   [botlabs-gg/yagpdb](https://github.com/botlabs-gg/yagpdb) - Yet another general purpose discord bot
-*   [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
-*   [solana-labs/solana-ping-api](https://github.com/solana-labs/solana-ping-api) - solana ping api server
-*   [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative
-*   [zincsearch/zincsearch](https://github.com/zincsearch/zincsearch) - ZincSearch . A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
 
 ## JavaScript
 
@@ -3500,7 +3501,6 @@
 *   [HTMLElements/smart-webcomponents](https://github.com/HTMLElements/smart-webcomponents) - Enterprise UI Components - Grid, Scheduler, Gantt, Kanban & more. Works with Angular, React, NextJS, Vue, Vanilla Javascript and .NET Blazor
 *   [creativetimofficial/nextjs-argon-dashboard](https://github.com/creativetimofficial/nextjs-argon-dashboard) - NextJS version of Argon Dashboard React
 *   [lafeber/world-flags-sprite](https://github.com/lafeber/world-flags-sprite) - A sprite of all the worlds' flags.
-*   [alphapapa/solarized-everything-css](https://github.com/alphapapa/solarized-everything-css) - A collection of Solarized user-stylesheets for...everything?
 
 ## AutoHotkey
 
