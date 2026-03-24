@@ -86,7 +86,7 @@
 *   [thesysdev/openui](https://github.com/thesysdev/openui) - The Open Standard for Generative UI
 *   [apisyouwonthate/openapi.tools](https://github.com/apisyouwonthate/openapi.tools) - A collection of Editors, Linters, Parsers, Code Generators,  Documentation, Testing
 *   [tribixbite/link-finder](https://github.com/tribixbite/link-finder) - findur.link — Bulk domain name search with smart mutations
-*   [webadderall/Recordly](https://github.com/webadderall/Recordly) - The open-source screen recorder and editor for professional product videos, demos, and tutorials.
+*   [webadderall/Recordly](https://github.com/webadderall/Recordly) - The open-source screen recorder and editor for professional product videos, demos, and tutorials. Add auto-zooms, webcam overlays, cursor animations and more to your recordings.
 *   [tribixbite/torch](https://github.com/tribixbite/torch) - Flashlight search engine — modern reimagination of parametrek. Filter 3,177 flashlights by 28 specs.
 *   [tribixbite/termux-tools](https://github.com/tribixbite/termux-tools) - Termux ARM64 tools, scripts, and utilities for Android development
 *   [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) - GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration
