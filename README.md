@@ -1506,7 +1506,7 @@
 *   [refreshdotdev/web-eval-agent](https://github.com/refreshdotdev/web-eval-agent) - An MCP server that autonomously evaluates web applications.
 *   [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui) - AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.
 *   [agno-agi/agent-api](https://github.com/agno-agi/agent-api) - A minimal, open-source setup for serving Agents using FastAPI and Postgres. Built for speed, clarity, and dev happiness.
-*   [bytedance/deer-flow](https://github.com/bytedance/deer-flow) - An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.
+*   [bytedance/deer-flow](https://github.com/bytedance/deer-flow) - An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.
 *   [i-am-bee/acp](https://github.com/i-am-bee/acp) - Open protocol for communication between AI agents, applications, and humans.
 *   [i-am-bee/beeai-framework](https://github.com/i-am-bee/beeai-framework) - Build production-ready AI agents in both Python and Typescript.
 *   [apify/actor-llmstxt-generator](https://github.com/apify/actor-llmstxt-generator) - The /llms.txt Generator Actor 🕸️📄 extracts website content to create an llms.txt file for AI apps 🤖✨ like LLM fine-tuning and indexing. Output is available 📥 in the Key-Value Store for easy download and integration into workflows. 🚀
@@ -1647,7 +1647,6 @@
 *   [anthropics/claude-quickstarts](https://github.com/anthropics/claude-quickstarts) - A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API
 *   [facebookresearch/lingua](https://github.com/facebookresearch/lingua) - Meta Lingua: a lean, efficient, and easy-to-hack codebase to research LLMs.
 *   [cyberchitta/llm-context.py](https://github.com/cyberchitta/llm-context.py) - Share code with LLMs via Model Context Protocol or clipboard. Rule-based customization enables easy switching between different tasks (like code review and documentation). Includes smart code outlining.
-*   [serengil/deepface](https://github.com/serengil/deepface) - A Lightweight Face Recognition and Facial Attribute Analysis (Age, Gender, Emotion and Race) Library for Python
 *   [ranaroussi/yfinance](https://github.com/ranaroussi/yfinance) - Download market data from Yahoo! Finance's API
 *   [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
 *   [SYSTRAN/faster-whisper](https://github.com/SYSTRAN/faster-whisper) - Faster Whisper transcription with CTranslate2
@@ -2126,7 +2125,7 @@
 *   [leokwsw/Emoji-Keyboard](https://github.com/leokwsw/Emoji-Keyboard) - A simple library to add Emoji support to your Android Application
 *   [Kunzisoft/KeePassDX](https://github.com/Kunzisoft/KeePassDX) - Lightweight vault and password manager for Android, KeePassDX allows editing encrypted data in a single file in KeePass format and fill in the forms in a secure way.
 *   [urikdev/Urik](https://github.com/urikdev/Urik) - Privacy-focused Android keyboard with swipe typing, custom layouts, and password manager support. No tracking, 100% on-device, and fully open source.
-*   [OpenHub-Store/GitHub-Store](https://github.com/OpenHub-Store/GitHub-Store) - A free, open-source app store for GitHub releases — browse, discover, and install apps with one click. Powered by Kotlin and Compose Multiplatform for Android & Desktop (Linux, MacOS, Windows).
+*   [OpenHub-Store/GitHub-Store](https://github.com/OpenHub-Store/GitHub-Store) - 🩵 A free, open-source app store for GitHub releases — browse, discover, and install apps with one click. Powered by Kotlin and Compose Multiplatform for Android & Desktop (Linux, MacOS, Windows).
 *   [sakethpathike/Otic](https://github.com/sakethpathike/Otic) - Minimal Android app to stream microphone input to the local network.
 *   [ReVanced/revanced-manager](https://github.com/ReVanced/revanced-manager) - 💊 Application to use ReVanced on Android
 *   [ReVanced/revanced-patcher](https://github.com/ReVanced/revanced-patcher) - 💉 ReVanced Patcher used to patch Android applications
@@ -2553,6 +2552,7 @@
 *   [Tyrrrz/DiscordChatExporter](https://github.com/Tyrrrz/DiscordChatExporter) - Saves Discord chat logs to a file
 *   [JumpmanSr/BailOutMode](https://github.com/JumpmanSr/BailOutMode) - BailOutMode, a Beat Saber mod that automatically switches to no fail instead of ending a song.
 *   [bsmg/ModAssistant](https://github.com/bsmg/ModAssistant) - Simple Beat Saber Mod Installer
+*   [Tichau/FileConverter](https://github.com/Tichau/FileConverter) - File Converter is a very simple tool which allows you to convert and compress files using the context menu in windows explorer.
 
 ## JavaScript
 
@@ -2856,7 +2856,6 @@
 *   [Leaflet/Leaflet](https://github.com/Leaflet/Leaflet) - 🍃 JavaScript library for mobile-friendly interactive maps 🇺🇦
 *   [eligrey/FileSaver.js](https://github.com/eligrey/FileSaver.js) - An HTML5 saveAs() FileSaver implementation
 *   [TheOdinProject/curriculum](https://github.com/TheOdinProject/curriculum) - The open curriculum for learning web development
-*   [magusfabius/solana-nft](https://github.com/magusfabius/solana-nft) - How to mint NFT on Solana Blockchain (Metaplex, CandyMachine v2, final deploy using Vercel)
 *   [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release) - :package::rocket: Fully automated version management and package publishing
 *   [winstonjs/winston](https://github.com/winstonjs/winston) - A logger for just about everything.
 *   [remake/remake-framework](https://github.com/remake/remake-framework) - Remake framework used by the Remake CLI to generate new projects
@@ -3501,6 +3500,7 @@
 *   [HTMLElements/smart-webcomponents](https://github.com/HTMLElements/smart-webcomponents) - Enterprise UI Components - Grid, Scheduler, Gantt, Kanban & more. Works with Angular, React, NextJS, Vue, Vanilla Javascript and .NET Blazor
 *   [creativetimofficial/nextjs-argon-dashboard](https://github.com/creativetimofficial/nextjs-argon-dashboard) - NextJS version of Argon Dashboard React
 *   [lafeber/world-flags-sprite](https://github.com/lafeber/world-flags-sprite) - A sprite of all the worlds' flags.
+*   [alphapapa/solarized-everything-css](https://github.com/alphapapa/solarized-everything-css) - A collection of Solarized user-stylesheets for...everything?
 
 ## AutoHotkey
 
