@@ -695,7 +695,7 @@
 *   [aidenybai/react-grab](https://github.com/aidenybai/react-grab) - Select context for coding agents directly from your website
 *   [garzj/google-photos-migrate](https://github.com/garzj/google-photos-migrate) - A tool to fix EXIF data and recover filenames from a Google Photos takeout, preserving albums within the directory structure.
 *   [prag-matt-ic/imagen-header-rebuild](https://github.com/prag-matt-ic/imagen-header-rebuild) - A recreation of the DeepMind Imagen 3 header video in code
-*   [countertype/three-text](https://github.com/countertype/three-text) - High fidelity 3D mesh font geometry and text layout for the web, supporting Three.js with additional adapters for p5.js, WebGPU, and WebGL
+*   [countertype/three-text](https://github.com/countertype/three-text) - High fidelity 3D font rendering and text layout for the web, supporting Three.js with additional adapters for p5.js, WebGPU, and WebGL
 *   [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.
 *   [photon-js/photon](https://github.com/photon-js/photon) - Next-generation infrastructure for deploying any JavaScript server.
 *   [tribixbite/imaginize](https://github.com/tribixbite/imaginize) -
@@ -1954,6 +1954,7 @@
 *   [lzhiyong/termux-ndk](https://github.com/lzhiyong/termux-ndk) - android-ndk for termux
 *   [wireshark/wireshark](https://github.com/wireshark/wireshark) - Read-only mirror of Wireshark's Git repository at https://gitlab.com/wireshark/wireshark. You're welcome to submit pull requests there.
 *   [moonshine-ai/moonshine](https://github.com/moonshine-ai/moonshine) - Fast and accurate automatic speech recognition (ASR) for edge devices
+*   [cavemanloverboy/vanity](https://github.com/cavemanloverboy/vanity) -
 *   [VictorTaelin/Interaction-Calculus](https://github.com/VictorTaelin/Interaction-Calculus) - A programming language and model of computation that matches the optimal λ-calculus reduction algorithm perfectly.
 *   [tevador/hashx](https://github.com/tevador/hashx) - A family of pseudorandomly generated hash functions for proof-of-work and client puzzles
 *   [FreeRDP/FreeRDP](https://github.com/FreeRDP/FreeRDP) - FreeRDP is a free remote desktop protocol library and clients
@@ -3450,7 +3451,6 @@
 *   [karpathy/llm.c](https://github.com/karpathy/llm.c) - LLM training in simple, raw C/CUDA
 *   [KONAKONA666/q8\_kernels](https://github.com/KONAKONA666/q8_kernels) -
 *   [mochimodev/cuda-hashing-algos](https://github.com/mochimodev/cuda-hashing-algos) - A Collection of Hashing Algorithms Implemented In CUDA
-*   [cavemanloverboy/vanity](https://github.com/cavemanloverboy/vanity) -
 *   [ChorusOne/solanity](https://github.com/ChorusOne/solanity) - GPU based Solana ed25519 vanity key scanner.
 
 ## MLIR
