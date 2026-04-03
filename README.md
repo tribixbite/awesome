@@ -82,6 +82,7 @@
 
 ## C
 
+*   [quantumaikr/TurboQuant.cpp](https://github.com/quantumaikr/TurboQuant.cpp) - turboquant.cpp
 *   [webhdx/PicoBoot](https://github.com/webhdx/PicoBoot) - Raspberry Pi Pico (RP2040) based IPL replacement modchip for GameCube
 *   [oxters168/Pluvia](https://github.com/oxters168/Pluvia) - Lightweight unofficial Steam client for Android
 *   [o-gs/dji-firmware-tools](https://github.com/o-gs/dji-firmware-tools) - Tools for handling firmwares of DJI products, with focus on quadcopters.
@@ -333,7 +334,7 @@
 *   [bjodah/llm-multi-backend-container](https://github.com/bjodah/llm-multi-backend-container) - Docker/podman container for llama.cpp/vllm/exllamav{2,3} orchestrated using llama-swap
 *   [multi-swe-bench/MopenHands](https://github.com/multi-swe-bench/MopenHands) -
 *   [open-webui/mcpo](https://github.com/open-webui/mcpo) - A simple, secure MCP-to-OpenAPI proxy server
-*   [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open source alternative to NotebookLM for teams. Join our Discord: https://discord.gg/ejRNvftDp9
+*   [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - An open source, privacy focused alternative to NotebookLM for teams with no data limit's. Join our Discord: https://discord.gg/ejRNvftDp9
 *   [QwenLM/Qwen-Agent](https://github.com/QwenLM/Qwen-Agent) - Agent framework and applications built upon Qwen>=3.0, featuring Function Calling, MCP, Code Interpreter, RAG, Chrome extension, etc.
 *   [onnx/onnx](https://github.com/onnx/onnx) - Open standard for machine learning interoperability
 *   [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy) - DSPy: The framework for programming—not prompting—language models
@@ -884,7 +885,6 @@
 *   [hakluke/how-to-exit-vim](https://github.com/hakluke/how-to-exit-vim) - Below are some simple methods for exiting vim.
 *   [aderusha/DDD-Printable-Wall-Control-System](https://github.com/aderusha/DDD-Printable-Wall-Control-System) - DDD Printable Wall Control System, 3d printable organization solutions for Wall Control pegboards
 *   [mdbootstrap/Black-Friday-2025](https://github.com/mdbootstrap/Black-Friday-2025) - Black Friday & Cyber Monday Deals (UI Kits WordPress Plugins, CRMs, SEO, Courses, Books) for web developers, programmers, and software engineers.
-*   [RitikPatni/Front-End-Web-Development-Resources](https://github.com/RitikPatni/Front-End-Web-Development-Resources) - This repository contains content which will be helpful in your journey as a front-end Web Developer
 
 ## TypeScript
 
@@ -1154,7 +1154,7 @@
 *   [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 *   [spartan-ng/spartan](https://github.com/spartan-ng/spartan) - Cutting-edge tools powering Angular full-stack development.
 *   [redwoodjs/sdk](https://github.com/redwoodjs/sdk) - A simple framework for humans Server-first React, running on the Cloudflare platform. Simple to build. Easy to maintain.
-*   [vvo/iron-session](https://github.com/vvo/iron-session) - 🛠 Secure, stateless, and cookie-based session library for JavaScript
+*   [vvo/iron-session](https://github.com/vvo/iron-session) - 🛠 Secure, stateless, and cookie-based session library for Next.js or any JavaScript framework
 *   [inaridiy/webforai](https://github.com/inaridiy/webforai) - The best HTML to Markdown library, A esm-native & Useful Utilities with simple, lightweight and epic quality.
 *   [vitdocjs/vitdoc](https://github.com/vitdocjs/vitdoc) - Use markdown to write documentation, and automatically extract interface definitions.
 *   [rnadigital/agentcloud](https://github.com/rnadigital/agentcloud) - Agent Cloud is like having your own GPT builder with a bunch extra goodies. The GUI features 1) RAG pipeline which can natively embed 260+ datasources 2) Create Conversational apps (like GPTs) 3) Create Multi Agent process automation apps (crewai) 4) Tools 5) Teams+user permissions. Get started fast with Docker and our install.sh
@@ -2387,7 +2387,7 @@
 *   [sxhxliang/mcp-access-point](https://github.com/sxhxliang/mcp-access-point) - Turn a web server into an MCP server in one click without making any code changes.
 *   [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
 *   [facet-rs/facet](https://github.com/facet-rs/facet) - Rust reflection, serialization, deserialization, pretty printing, etc. — the last proc macro you should need
-*   [Quozul/PicoLimbo](https://github.com/Quozul/PicoLimbo) - A lightweight Minecraft server written from scratch in Rust supporting Minecraft versions from 1.7.2 up to 26.1.
+*   [Quozul/PicoLimbo](https://github.com/Quozul/PicoLimbo) - A lightweight Minecraft server written from scratch in Rust supporting Minecraft versions from 1.7.2 up to 26.1.1.
 *   [memvid/memvid](https://github.com/memvid/memvid) - Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory.
 *   [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) - TensorZero is an open-source LLMOps platform that unifies an LLM gateway, observability, evaluation, optimization, and experimentation.
 *   [rivet-dev/rivet](https://github.com/rivet-dev/rivet) - Rivet Actors are the primitive for stateful workloads. Built for AI agents, collaborative apps, and durable execution.
