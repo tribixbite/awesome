@@ -1096,7 +1096,6 @@
 *   [janwilmake/contextbuilding](https://github.com/janwilmake/contextbuilding) - Collaborative Context Editor
 *   [modelcontextprotocol/modelcontextprotocol](https://github.com/modelcontextprotocol/modelcontextprotocol) - Specification and documentation for the Model Context Protocol
 *   [modelcontextprotocol/typescript-sdk](https://github.com/modelcontextprotocol/typescript-sdk) - The official TypeScript SDK for Model Context Protocol servers and clients
-*   [rivet-dev/agent-os](https://github.com/rivet-dev/agent-os) - A portable open-source operating system for agents. ~6 ms coldstarts, 32x cheaper than sandboxes. Powered by WebAssembly and V8 isolates.
 *   [vermaysha/elysia-compress](https://github.com/vermaysha/elysia-compress) - Elysia Compression utils that works with Bun
 *   [ithacaxyz/porto](https://github.com/ithacaxyz/porto) - Authentication & payments on the web
 *   [janwilmake/uit](https://github.com/janwilmake/uit) - Library for performant, modular, low-memory file processing at scale, in the Cloud
@@ -1162,7 +1161,7 @@
 *   [giselles-ai/giselle](https://github.com/giselles-ai/giselle) - Giselle: AI App Builder. Open Source.
 *   [TanStack/form](https://github.com/TanStack/form) - 🤖 Headless, performant, and type-safe form state management for TS/JS, React, Vue, Angular, Solid, and Lit.
 *   [daytonaio/daytona](https://github.com/daytonaio/daytona) - Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code
-*   [cdleveille/fresh-bun](https://github.com/cdleveille/fresh-bun) - Single-page web app project template curated for performance, developer experience, and type safety. Bun, Elysia, React, TanStack Router/Query.
+*   [cdleveille/fresh-bun](https://github.com/cdleveille/fresh-bun) - Single-page web app project template curated for performance, developer experience, and type safety. Bun, Hono, React, TanStack Router/Query.
 *   [meshtastic/network-management-client](https://github.com/meshtastic/network-management-client) - A Meshtastic desktop client, allowing simple, offline deployment and administration of an ad-hoc mesh communication network. Built in Rust and TypeScript.
 *   [lukexlau/react-router-v7-monorepo](https://github.com/lukexlau/react-router-v7-monorepo) - 📦 React Router v7 (Remix) Monorepo with Cloudflare Workers, Drizzle ORM & D1, Shadcn/UI, and Tailwind CSS v4.
 *   [eyeix/meilisearch-ui](https://github.com/eyeix/meilisearch-ui) - 😎 Open-source, pretty, simple and fast ⚡ Meilisearch admin dashboard UI for managing your meilisearch instances 🕹
@@ -1176,6 +1175,7 @@
 *   [okineadev/vitepress-plugin-llms](https://github.com/okineadev/vitepress-plugin-llms) - 📜 A VitePress plugin for generating LLM-friendly documentation
 *   [daydreamsai/daydreams](https://github.com/daydreamsai/daydreams) - Daydreams is a set of tools for building agents for commerce
 *   [supermemoryai/markdowner](https://github.com/supermemoryai/markdowner) - A fast tool to convert any website into LLM-ready markdown data. Built by https://supermemory.ai
+*   [elizaOS/eliza](https://github.com/elizaOS/eliza) - Autonomous agents for everyone
 *   [goat-sdk/goat](https://github.com/goat-sdk/goat) - The leading agentic finance toolkit for AI agents
 *   [passwordless-id/webauthn](https://github.com/passwordless-id/webauthn) - Webauthn / passkeys helper library to make your life easier. Client side, server side and demo included.
 *   [inngest/agent-kit](https://github.com/inngest/agent-kit) - AgentKit: Build multi-agent networks in TypeScript with deterministic routing and rich tooling via MCP.
@@ -2391,6 +2391,7 @@
 *   [memvid/memvid](https://github.com/memvid/memvid) - Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory.
 *   [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) - TensorZero is an open-source LLMOps platform that unifies an LLM gateway, observability, evaluation, optimization, and experimentation.
 *   [rivet-dev/rivet](https://github.com/rivet-dev/rivet) - Rivet Actors are the primitive for stateful workloads. Built for AI agents, collaborative apps, and durable execution.
+*   [rivet-dev/agent-os](https://github.com/rivet-dev/agent-os) - A portable open-source operating system for agents. ~6 ms coldstarts, 32x cheaper than sandboxes. Powered by WebAssembly and V8 isolates.
 *   [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - Run agents that work for you based on what you do. AI finally knows what you are doing
 *   [get-convex/convex-backend](https://github.com/get-convex/convex-backend) - The open-source reactive database for app developers
 *   [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex) - Data transformation framework for AI. Ultra performant, with incremental processing.  🌟 Star if you like it!
@@ -2402,7 +2403,6 @@
 *   [sec3-service/IDLGuesser](https://github.com/sec3-service/IDLGuesser) - IDL Guesser is an open-source tool that automatically recovers the IDL information from closed-source Anchor-based Solana programs.
 *   [PrimeIntellect-ai/protocol](https://github.com/PrimeIntellect-ai/protocol) -  peer-to-peer compute and intelligence network that enables decentralized AI development at scale
 *   [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig) - ⚙️🦀 Build modular and scalable LLM Applications in Rust
-*   [elizaOS/eliza](https://github.com/elizaOS/eliza) - Autonomous agents for everyone
 *   [isaccanedo/arnis](https://github.com/isaccanedo/arnis) - 🌎🗺 Generate any location from the real world in Minecraft Java Edition with a high level of detail
 *   [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
 *   [huggingface/candle](https://github.com/huggingface/candle) - Minimalist ML framework for Rust
