@@ -936,7 +936,7 @@
 *   [kitlangton/visual-effect](https://github.com/kitlangton/visual-effect) - Interactive Effect Visualizations
 *   [nextify-limited/saasfly](https://github.com/nextify-limited/saasfly) - Your Next SaaS Template or Boilerplate ! A magic trip start with `bun create saasfly` . The more stars, the more surprises
 *   [expo-starter/expo-local-first-template](https://github.com/expo-starter/expo-local-first-template) - 📱 A template for bootstrap your next Expo project: Bun, Expo 54, TypeScript, TailwindCSS, DrizzleORM, Sqlite, EAS, GitHub Actions, Env Vars, expo-router, react-hook-form.
-*   [RedPlanetHQ/core](https://github.com/RedPlanetHQ/core) - The first AI butler you actually own.
+*   [RedPlanetHQ/core](https://github.com/RedPlanetHQ/core) - Your AI butler that get things done
 *   [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.
 *   [openai/codex-action](https://github.com/openai/codex-action) -
 *   [opactorai/Claudable](https://github.com/opactorai/Claudable) - Claudable is an open-source web builder that leverages local CLI agents, such as Claude Code, Codex, Gemini CLI, Qwen Code, and Cursor Agent, to build and deploy products effortlessly.
@@ -2215,7 +2215,7 @@
 *   [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 *   [amir20/dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for containers.  Supports Docker, Swarm and K8s.
 *   [abklabs/svmkit](https://github.com/abklabs/svmkit) - An operational toolchain for SVM-based blockchain networks
-*   [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source AI-first Identity and Access Management (IAM) /AI MCP & agent gateway and auth server with web UI supporting MCP, A2A, OAuth 2.1, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face ID, Google Workspace, Azure AD
+*   [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source AI-first Identity and Access Management (IAM) /AI MCP & agent gateway and auth server with web UI supporting OpenClaw, MCP, OAuth, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face ID, Google Workspace, Azure AD
 *   [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure.
 *   [qdm12/gluetun](https://github.com/qdm12/gluetun) - VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.
 *   [42wim/matterbridge](https://github.com/42wim/matterbridge) - bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble, vk and more with REST API (mattermost not required!)
@@ -2407,7 +2407,7 @@
 *   [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
 *   [huggingface/candle](https://github.com/huggingface/candle) - Minimalist ML framework for Rust
 *   [jessebmiller/volition](https://github.com/jessebmiller/volition) - Volition is an open-source, Rust-specialized AI coding assistant. Early Development Warning: BE CAREFUL
-*   [block/goose](https://github.com/block/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
+*   [aaif-goose/goose](https://github.com/aaif-goose/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 *   [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
 *   [smallcloudai/refact](https://github.com/smallcloudai/refact) - AI Agent that handles engineering tasks end-to-end: integrates with developers’ tools, plans, executes, and iterates until it achieves a successful result.
 *   [Dreamtowards/Ethertum](https://github.com/Dreamtowards/Ethertum) - A Voxel Multiplayer Sandbox Survival Game built in Rust & Bevy.
@@ -3253,7 +3253,7 @@
 *   [Unstructured-IO/unstructured](https://github.com/Unstructured-IO/unstructured) - Convert documents to structured data effortlessly. Unstructured is open-source ETL solution for transforming complex documents into clean, structured formats for language models.  Visit our website to learn more about our enterprise grade Platform product for production grade workflows, partitioning, enrichments, chunking and embedding.
 *   [tianocore/tianocore.github.io](https://github.com/tianocore/tianocore.github.io) - Tianocore website
 *   [felladrin/awesome-ai-web-search](https://github.com/felladrin/awesome-ai-web-search) - List of software that allows searching the web with the assistance of AI: https://hf.co/spaces/felladrin/awesome-ai-web-search
-*   [w3c/vcalm](https://github.com/w3c/vcalm) - An HTTP API for performing credential lifecycle management for Verifiable Credentials.
+*   [w3c/vcalm](https://github.com/w3c/vcalm) - An HTTP API for performing verifiable credential lifecycle management.
 *   [pkgforge-dev/Termux-Packages](https://github.com/pkgforge-dev/Termux-Packages) - Markdown List (Table), JSON & YAML of all the officially Available Packages in the Termux Registry :: https://termux-packages.ajam.dev \[Maintainer=@Azathothas]
 *   [elder-plinius/ST3GG](https://github.com/elder-plinius/ST3GG) - All-in-one steganography suite
 *   [vitalets/github-trending-repos](https://github.com/vitalets/github-trending-repos) - Track GitHub trending repositories in your favorite programming language by native GitHub notifications!
