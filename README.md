@@ -101,7 +101,6 @@
 *   [wwebjs/whatsapp-web.js](https://github.com/wwebjs/whatsapp-web.js) - A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app
 *   [JamesBrill/react-speech-recognition](https://github.com/JamesBrill/react-speech-recognition) - 💬Speech recognition for your React app
 *   [GWUDCAP/cc-sessions](https://github.com/GWUDCAP/cc-sessions) - an opinionated approach to productive development with Claude Code
-*   [Kaliiiiiiiiii-Vinyzu/patchright-nodejs](https://github.com/Kaliiiiiiiiii-Vinyzu/patchright-nodejs) - Undetected NodeJS version of the Playwright testing and automation library.
 *   [williamkapke/kapture](https://github.com/williamkapke/kapture) - Chrome DevTools Extension that enables browser automation through MCP
 *   [mylofi/webauthn-local-client](https://github.com/mylofi/webauthn-local-client) - Browser-only utils for locally managing WebAuthn (passkey) API
 *   [mylofi/local-data-lock](https://github.com/mylofi/local-data-lock) - Protect local-first app data with encryption/decryption key secured in Webauthn (biometric) passkey
@@ -466,6 +465,7 @@
 *   [tylerburleigh/nike-buy-bot](https://github.com/tylerburleigh/nike-buy-bot) - A bot using Node.js / puppeteer that buys a Nike shoe when it drops
 *   [dkkocab/WebSiteBot\_PS5](https://github.com/dkkocab/WebSiteBot_PS5) - This is a bot that will buy a PS5 through Walmart. It's written in python and uses selenium to interact with web pages. *WORK IN PROGRESS*
 *   [oriziv/sync-files-blob-storage-ha](https://github.com/oriziv/sync-files-blob-storage-ha) -
+*   [kylepaulsen/ResourceOverride](https://github.com/kylepaulsen/ResourceOverride) - An extension to help you gain full control of any website by redirecting traffic, replacing, editing, or inserting new content.
 
 ## Python
 
@@ -527,7 +527,6 @@
 *   [snorkel-team/snorkel](https://github.com/snorkel-team/snorkel) - A system for quickly generating training data with weak supervision
 *   [rjurney/florian](https://github.com/rjurney/florian) - Experiments in Graph RAG for agent memory
 *   [tribixbite/CleverKeys-ML](https://github.com/tribixbite/CleverKeys-ML) -
-*   [coleam00/Archon](https://github.com/coleam00/Archon) - Beta release of Archon OS - the knowledge and task management backbone for AI coding assistants.
 *   [microsoft/qlib](https://github.com/microsoft/qlib) - Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, including supervised learning, market dynamics modeling, and RL, and is now equipped with https://github.com/microsoft/RD-Agent to automate R\&D process.
 *   [odoo/odoo](https://github.com/odoo/odoo) - Odoo. Open Source Apps To Grow Your Business.
 *   [SWE-agent/mini-swe-agent](https://github.com/SWE-agent/mini-swe-agent) - The 100 line AI agent that solves GitHub issues or helps you in your command line. Radically simple, no huge configs, no giant monorepo—but scores >74% on SWE-bench verified!
@@ -1110,6 +1109,7 @@
 *   [avaneev/prvhash](https://github.com/avaneev/prvhash) - PRVHASH - Pseudo-Random-Value Hash. Hash functions, PRNG with unlimited period, randomness extractor, and a glimpse into abyss. (header-only C/C++) (Codename Gradilac/Градилак)
 *   [RoganDawes/LOGITacker](https://github.com/RoganDawes/LOGITacker) - Enumerate and test Logitech wireless input devices for vulnerabilities with a nRF52840 radio dongle.
 *   [FABtotum/FABlin](https://github.com/FABtotum/FABlin) - The FABtotum Personal Fabricator Firmware, a Marlin derivate made to support hybrid manufacturing and digital acquisition
+*   [arendst/Tasmota](https://github.com/arendst/Tasmota) - Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at
 
 ## miscellaneous
 
@@ -1135,7 +1135,6 @@
 *   [FunnyWolf/Viper](https://github.com/FunnyWolf/Viper) - Adversary simulation and Red teaming platform with AI
 *   [random-robbie/bruteforce-lists](https://github.com/random-robbie/bruteforce-lists) - Some files for bruteforcing certain things.
 *   [cions/termux-deno](https://github.com/cions/termux-deno) -
-*   [punkpeye/awesome-mcp-devtools](https://github.com/punkpeye/awesome-mcp-devtools) - A curated list of developer tools, SDKs, libraries, and testing utilities for Model Context Protocol (MCP) server development.
 *   [piotrkulpinski/openalternative](https://github.com/piotrkulpinski/openalternative) - Curated list of open source alternatives to proprietary software.
 *   [cdnjs/cdnjs](https://github.com/cdnjs/cdnjs) - 🤖 CDN assets - The #1 free and open source CDN built to make life easier for developers.
 *   [thekishandev/ai-system-prompt](https://github.com/thekishandev/ai-system-prompt) - FULL v0, Cursor, Manus, Same.dev & Lovable System Prompts & AI Models.
@@ -1151,7 +1150,6 @@
 *   [adafruit/awesome-circuitpython](https://github.com/adafruit/awesome-circuitpython) - A curated list of awesome CircuitPython guides, videos, libraries, frameworks, software and resources.
 *   [MoonshotAI/Kimi-k1.5](https://github.com/MoonshotAI/Kimi-k1.5) -
 *   [spocky/miproja1](https://github.com/spocky/miproja1) -
-*   [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 *   [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is the agentic development environment, built for coding with multiple AI agents.
 *   [mike-lloyd03/milwaukee\_hacks](https://github.com/mike-lloyd03/milwaukee_hacks) - Maximum hackage
 *   [davidgilson/Hexagonal-Power-Bank](https://github.com/davidgilson/Hexagonal-Power-Bank) - Assembly guide and 3D printing models for my modular 18 cell power bank
@@ -1271,6 +1269,7 @@
 *   [hakluke/how-to-exit-vim](https://github.com/hakluke/how-to-exit-vim) - Below are some simple methods for exiting vim.
 *   [aderusha/DDD-Printable-Wall-Control-System](https://github.com/aderusha/DDD-Printable-Wall-Control-System) - DDD Printable Wall Control System, 3d printable organization solutions for Wall Control pegboards
 *   [mdbootstrap/Black-Friday-2025](https://github.com/mdbootstrap/Black-Friday-2025) - Black Friday & Cyber Monday Deals (UI Kits WordPress Plugins, CRMs, SEO, Courses, Books) for web developers, programmers, and software engineers.
+*   [RitikPatni/Front-End-Web-Development-Resources](https://github.com/RitikPatni/Front-End-Web-Development-Resources) - This repository contains content which will be helpful in your journey as a front-end Web Developer
 
 ## TypeScript
 
@@ -1335,6 +1334,7 @@
 *   [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) - Chrome DevTools for coding agents
 *   [C0C0B01/Kettu](https://github.com/C0C0B01/Kettu) - A Discord mobile app client modification continuing Bunny's mission  NOTICE: this is a mirror of the codeberg repository, please make all PRs and Issues there
 *   [legendsayantan/DalvikScript](https://github.com/legendsayantan/DalvikScript) - Allows raw java/kotlin code to run on Android Device without compiling apps.
+*   [coleam00/Archon](https://github.com/coleam00/Archon) - The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.
 *   [plait-board/drawnix](https://github.com/plait-board/drawnix) - 开源白板工具（SaaS），一体化白板，包含思维导图、流程图、自由画等。All in one open-source whiteboard tool with mind, flowchart, freehand and etc.
 *   [carere/gel-better-auth](https://github.com/carere/gel-better-auth) - Better-auth database adapter for gel/edgedb
 *   [assistant-ui/assistant-ui](https://github.com/assistant-ui/assistant-ui) - Typescript/React Library for AI Chat💬🚀
@@ -1342,6 +1342,7 @@
 *   [logux/client](https://github.com/logux/client) - Logux base components to build web client
 *   [shivantra/react-web-camera](https://github.com/shivantra/react-web-camera) - React Web Camera — A React component for capturing multiple photos directly from the browser. Works on web, responsive apps, and PWAs. Solving the limitation of \<input type="file" capture> which only allows one photo at a time.
 *   [magnitudedev/browser-agent](https://github.com/magnitudedev/browser-agent) - Open-source, vision-first browser agent
+*   [Kaliiiiiiiiii-Vinyzu/patchright-nodejs](https://github.com/Kaliiiiiiiiii-Vinyzu/patchright-nodejs) - Undetected NodeJS version of the Playwright testing and automation library.
 *   [mcp-use/mcp-use](https://github.com/mcp-use/mcp-use) - The fullstack MCP framework to develop MCP Apps for ChatGPT / Claude & MCP Servers for AI Agents.
 *   [shadcn-ui/alpine-registry](https://github.com/shadcn-ui/alpine-registry) - An example registry for distributing code using shadcn.
 *   [fiberplane/mcp-lite](https://github.com/fiberplane/mcp-lite) - Lightweight, composable MCP framework for TypeScript
@@ -1990,7 +1991,7 @@
 *   [dubinc/dub](https://github.com/dubinc/dub) - The modern link attribution platform. Loved by world-class marketing teams like Framer, Perplexity, Superhuman, Twilio, Buffer and more.
 *   [TreeFarmer/embed-table](https://github.com/TreeFarmer/embed-table) - Easily make nice looking text tables for Discord's embed fields and descriptions.
 *   [fastly/next-compute-js](https://github.com/fastly/next-compute-js) - Run Next.js on Fastly Compute
-*   [pmcelhaney/counterfact](https://github.com/pmcelhaney/counterfact) - OpenAPI / Swagger to TypeScript generator and mock server
+*   [counterfact/api-simulator](https://github.com/counterfact/api-simulator) - Not just a mock server. Turn an OpenAPi spec into TypeScript-based simulation, with state management, hot reload, and a REPL.
 *   [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
 *   [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev – build and deploy fully‑managed AI agents and workflows
 *   [trankhacvy/solana-nextjs-starter](https://github.com/trankhacvy/solana-nextjs-starter) - A Solana-powered Next.js boilerplate app for building efficient and scalable web applications.
@@ -2704,7 +2705,6 @@
 *   [deniscerri/ytdlnis](https://github.com/deniscerri/ytdlnis) - Full-featured audio/video downloader for Android using yt-dlp
 *   [RikkaApps/Shizuku](https://github.com/RikkaApps/Shizuku) - Using system APIs directly with adb/root privileges from normal apps through a Java process started with app\_process.
 *   [newhinton/disky](https://github.com/newhinton/disky) - An android filesystem analyzer that can show you the usage of your storage!
-*   [iamr0s/Dhizuku](https://github.com/iamr0s/Dhizuku) - A tool that can share DeviceOwner permissions to other application.
 *   [libre-tube/LibreTube](https://github.com/libre-tube/LibreTube) - An alternative frontend for YouTube, for Android.
 *   [FossifyOrg/Keyboard](https://github.com/FossifyOrg/Keyboard) - Easy keyboard for inserting all kinds of texts, special characters and numbers.
 *   [T8RIN/ImageToolbox](https://github.com/T8RIN/ImageToolbox) - 🖼️ Image Toolbox is a powerful app for advanced image manipulation. It offers dozens of features, from basic tools like crop and draw to filters, OCR, and a wide range of image processing options
