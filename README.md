@@ -277,7 +277,7 @@
 *   [MicrosoftDocs/mcp](https://github.com/MicrosoftDocs/mcp) - Official Microsoft Learn MCP Server and CLI tool – powering LLMs and AI agents with real-time, trusted Microsoft docs & code samples.
 *   [andrea9293/mcp-documentation-server](https://github.com/andrea9293/mcp-documentation-server) - MCP Documentation Server - Bridge the AI Knowledge Gap.  ✨ Features: Document management • Gemini integration • AI-powered semantic search • File uploads • Smart chunking • Multilingual support • Zero-setup  🎯 Perfect for: New frameworks • API docs • Internal guides
 *   [ref-tools/ref-tools-mcp](https://github.com/ref-tools/ref-tools-mcp) - Helping coding agents never make mistakes working with public or private libraries without wasting the context window.
-*   [docfork/docfork](https://github.com/docfork/docfork) - Docfork - Up-to-date Docs for AI Agents.
+*   [docfork/docfork](https://github.com/docfork/docfork) - Docfork - Context for AI Coding Agents.
 *   [samanhappy/mcphub](https://github.com/samanhappy/mcphub) - A unified hub for centrally managing and dynamically orchestrating multiple MCP servers/APIs into separate endpoints with flexible routing strategies
 *   [AmoyLab/Unla](https://github.com/AmoyLab/Unla) - 🧩 MCP Gateway - A lightweight gateway service that instantly transforms existing MCP Servers and APIs into MCP servers with zero code changes. Features Docker deployment and management UI, requiring no infrastructure modifications.
 *   [BrowserMCP/mcp](https://github.com/BrowserMCP/mcp) - Browser MCP is a Model Context Provider (MCP) server that allows AI applications to control your browser
@@ -294,7 +294,7 @@
 *   [phuctm97/dbsky](https://github.com/phuctm97/dbsky) - Open-source analytics for any Bluesky account, built with Next.js data cache
 *   [solana-foundation/solana-attestation-site](https://github.com/solana-foundation/solana-attestation-site) -
 *   [tscircuit/tscircuit](https://github.com/tscircuit/tscircuit) - Create real electronics with Typescript and React
-*   [MCPJam/inspector](https://github.com/MCPJam/inspector) - Test, Debug, and Evaluate MCP servers, ChatGPT apps, and MCP Apps (ext-apps)
+*   [MCPJam/inspector](https://github.com/MCPJam/inspector) - Development platform to debug, chat, inspect, and evaluate MCP servers, MCP apps, and ChatGPT apps.
 *   [gillsdk/gill](https://github.com/gillsdk/gill) - Solana JavaScript/TypeScript SDK - client library for interacting with the Solana blockchain
 *   [systempromptio/systemprompt-mcp-server](https://github.com/systempromptio/systemprompt-mcp-server) - A complete, production-ready implementation of a Model Context Protocol (MCP) server demonstrating OAuth 2.1, tools, prompts, resources, sampling, and notifications using Reddit as a real-world integration example.
 *   [Panzer-Jack/feuse-mcp](https://github.com/Panzer-Jack/feuse-mcp) - Frontend Useful MCP Tools - Essential utilities for web developers to automate API integration and code generation
@@ -399,7 +399,6 @@
 *   [anyproto/anytype-ts](https://github.com/anyproto/anytype-ts) - Official Anytype client for MacOS, Linux, and Windows
 *   [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 *   [spartan-ng/spartan](https://github.com/spartan-ng/spartan) - Cutting-edge tools powering Angular full-stack development.
-*   [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui) - AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.
 *   [redwoodjs/sdk](https://github.com/redwoodjs/sdk) - A simple framework for humans Server-first React, running on the Cloudflare platform. Simple to build. Easy to maintain.
 *   [vvo/iron-session](https://github.com/vvo/iron-session) - 🛠 Secure, stateless, and cookie-based session library for Next.js or any JavaScript framework
 *   [inaridiy/webforai](https://github.com/inaridiy/webforai) - The best HTML to Markdown library, A esm-native & Useful Utilities with simple, lightweight and epic quality.
@@ -852,7 +851,7 @@
 *   [dubinc/dub](https://github.com/dubinc/dub) - The modern link attribution platform. Loved by world-class marketing teams like Framer, Perplexity, Superhuman, Twilio, Buffer and more.
 *   [TreeFarmer/embed-table](https://github.com/TreeFarmer/embed-table) - Easily make nice looking text tables for Discord's embed fields and descriptions.
 *   [fastly/next-compute-js](https://github.com/fastly/next-compute-js) - Run Next.js on Fastly Compute
-*   [counterfact/api-simulator](https://github.com/counterfact/api-simulator) - Not just a mock server. Turn an OpenAPi spec into TypeScript-based simulation, with state management, hot reload, and a REPL.
+*   [counterfact/api-simulator](https://github.com/counterfact/api-simulator) - Not just a mock server. Turn an OpenAPI spec into TypeScript-based simulation, with state management, hot reload, and a REPL.
 *   [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
 *   [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev – build and deploy fully‑managed AI agents and workflows
 *   [trankhacvy/solana-nextjs-starter](https://github.com/trankhacvy/solana-nextjs-starter) - A Solana-powered Next.js boilerplate app for building efficient and scalable web applications.
@@ -2118,6 +2117,7 @@
 *   [apify/crawlee-python](https://github.com/apify/crawlee-python) - Crawlee—A web scraping and browser automation library for Python to build reliable crawlers. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and other files from websites. Works with Parsel, BeautifulSoup, Playwright, and raw HTTP. Both headful and headless mode. With proxy rotation.
 *   [MinishLab/model2vec](https://github.com/MinishLab/model2vec) - Fast State-of-the-Art Static Embeddings
 *   [refreshdotdev/web-eval-agent](https://github.com/refreshdotdev/web-eval-agent) - An MCP server that autonomously evaluates web applications.
+*   [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui) - AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.
 *   [agno-agi/agent-api](https://github.com/agno-agi/agent-api) - A minimal, open-source setup for serving Agents using FastAPI and Postgres. Built for speed, clarity, and dev happiness.
 *   [bytedance/deer-flow](https://github.com/bytedance/deer-flow) - An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.
 *   [i-am-bee/acp](https://github.com/i-am-bee/acp) - Open protocol for communication between AI agents, applications, and humans.
@@ -3238,7 +3238,7 @@
 
 ## HTML
 
-*   [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - practice made claude perfect
+*   [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - from vibe coding to agentic engineering - practice makes claude perfect
 *   [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) - Open-Source Unified Vulnerability Management, DevSecOps & ASPM
 *   [tribixbite/FlixCapacitor](https://github.com/tribixbite/FlixCapacitor) - ⚡ A modern, mobile-first streaming app with native torrent support
 *   [icsl-Jeon/traj\_gen](https://github.com/icsl-Jeon/traj_gen) - Optimal trajectory generation library given equality and inequality constraints (C++/Matlab)
