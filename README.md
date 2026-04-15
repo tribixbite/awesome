@@ -675,7 +675,7 @@
 *   [togethercomputer/llamaindex-chatbot](https://github.com/togethercomputer/llamaindex-chatbot) - A RAG Chatbot with Next.js, Together.ai and Llama Index
 *   [context-labs/autodoc](https://github.com/context-labs/autodoc) - Experimental toolkit for auto-generating codebase documentation using LLMs
 *   [solana-developers/solana-actions](https://github.com/solana-developers/solana-actions) -
-*   [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The Web Data API for AI - Power AI agents with clean web data
+*   [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The API to search, scrape, and interact with the web for AI
 *   [honkit/honkit](https://github.com/honkit/honkit) - :book: HonKit is building beautiful books using Markdown - Fork of GitBook
 *   [getappmap/vscode-appland](https://github.com/getappmap/vscode-appland) - AppLand extension for VSCode
 *   [web3index/web3index-org](https://github.com/web3index/web3index-org) -
