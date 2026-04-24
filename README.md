@@ -2704,7 +2704,7 @@
 *   [kermanx/jsshaker](https://github.com/kermanx/jsshaker) - 🪚 A JavaScript code size optimizer based on abstract interpretation
 *   [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
 *   [marhkb/pods](https://github.com/marhkb/pods) - Manage your containers
-*   [LimeChain/zest](https://github.com/LimeChain/zest) - Limechain Solana Code Coverage CLI
+*   [LimeChain/zest](https://github.com/LimeChain/zest) - \[DEPRECATED] Moved to limechain/sbpf-coverage — Limechain Solana Code Coverage CLI
 *   [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of high-performance JavaScript tools.
 *   [solana-program/stake](https://github.com/solana-program/stake) - The Solana Stake program and its clients
 *   [CrunchyData/pg\_parquet](https://github.com/CrunchyData/pg_parquet) - Copy to/from Parquet in S3, Azure Blob Storage, Google Cloud Storage, http(s) stores, local files or standard inout stream from within PostgreSQL
