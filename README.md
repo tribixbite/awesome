@@ -499,7 +499,7 @@
 *   [NejoBot/NejoLite](https://github.com/NejoBot/NejoLite) - A little version of Nejo, just kicks scapers, doesn't notify. Built on nextcord
 *   [Lightning-AI/LitServe](https://github.com/Lightning-AI/LitServe) - A minimal Python framework for building custom AI inference servers with full control over logic, batching, and scaling.
 *   [FSoft-AI4Code/HyperAgent](https://github.com/FSoft-AI4Code/HyperAgent) - Generalist Software Agents to Solve Soware Engineering Tasks
-*   [llamastack/llama-stack](https://github.com/llamastack/llama-stack) - Composable building blocks to build LLM Apps
+*   [ogx-ai/llama-stack](https://github.com/ogx-ai/llama-stack) - Composable building blocks to build LLM Apps
 *   [ucbepic/docetl](https://github.com/ucbepic/docetl) - A system for agentic LLM-powered data processing and ETL
 *   [hyperknot/openfreemap](https://github.com/hyperknot/openfreemap) - Free and open-source map hosting solution with custom styles for websites and apps, using OpenStreetMap data
 *   [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
@@ -859,7 +859,7 @@
 *   [aj47/chaos-coder](https://github.com/aj47/chaos-coder) - 9 separate websites IN SECONDS for you to chaotically edit!
 *   [weise25/LocalSite-ai](https://github.com/weise25/LocalSite-ai) - Generate Web Pages and Components with text prompts, with Local Models. (or Cloud Models, if you want)
 *   [regenrek/deepwiki-mcp](https://github.com/regenrek/deepwiki-mcp) - 📖 MCP server for fetch deepwiki.com and get latest knowledge in Cursor and other Code Editors
-*   [better-auth/better-auth](https://github.com/better-auth/better-auth) - The most comprehensive authentication framework for TypeScript
+*   [better-auth/better-auth](https://github.com/better-auth/better-auth) - The most comprehensive authentication framework
 *   [MrLesk/Backlog.md](https://github.com/MrLesk/Backlog.md) - Backlog.md - A tool for managing project collaboration between humans and AI Agents in a git ecosystem
 *   [ishaan1013/shadow](https://github.com/ishaan1013/shadow) - Background coding agent and real-time web interface
 *   [upstash/search-js](https://github.com/upstash/search-js) - An HTTP/REST based AI Search client built on top of Upstash REST API.
@@ -2895,7 +2895,7 @@
 *   [MoonshotAI/Kimi-k1.5](https://github.com/MoonshotAI/Kimi-k1.5) -
 *   [spocky/miproja1](https://github.com/spocky/miproja1) -
 *   [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
-*   [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is the agentic development environment, built for coding with multiple AI agents.
+*   [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is an agentic development environment, born out of the terminal.
 *   [mike-lloyd03/milwaukee\_hacks](https://github.com/mike-lloyd03/milwaukee_hacks) - Maximum hackage
 *   [davidgilson/Hexagonal-Power-Bank](https://github.com/davidgilson/Hexagonal-Power-Bank) - Assembly guide and 3D printing models for my modular 18 cell power bank
 *   [GenesysGo/shdwDrive-v2-releases](https://github.com/GenesysGo/shdwDrive-v2-releases) -
