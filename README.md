@@ -170,7 +170,7 @@
 
 *   [CVSRohit/claude-3d-print](https://github.com/CVSRohit/claude-3d-print) - Prompt -> Claude -> STL -> sliced .3mf -> Bambu P1S. Working stack with all the firmware quirks documented.
 *   [Kikobuf/3d-file-toolkit](https://github.com/Kikobuf/3d-file-toolkit) - Pure-Python toolkit for inspecting, editing, converting, and analyzing 3D print files, supports 3MF, STL, OBJ, PLY, and GLB. Detects source software (Bambu, Orca, Prusa, Cura, Fusion 360, etc.), checks compatibility across 15 CAD and slicer programs, and works with any AI coding agent (Claude, Cursor, ChatGPT, Manus). Zero dependencies beyond numpy
-*   [codeofaxel/Kiln](https://github.com/codeofaxel/Kiln) - Describe it or draw it. Kiln makes it real. — 737 MCP tools for AI agents to design, generate, slice, and print 3D models. Supports Bambu Lab, OctoPrint, Moonraker/Klipper, Prusa Link, Elegoo, and Direct USB.
+*   [codeofaxel/Kiln](https://github.com/codeofaxel/Kiln) - Describe it or draw it. Kiln makes it real. — 742 MCP tools for AI agents to design, generate, slice, and print 3D models. Supports Bambu Lab, OctoPrint, Moonraker/Klipper, Prusa Link, Elegoo, and Direct USB.
 *   [EdwinjJ1/3d-print-skill](https://github.com/EdwinjJ1/3d-print-skill) - Claude Code skill for 3D printing — search-first workflow, manifold-safe output for Bambu Studio / PrusaSlicer / Cura
 *   [simonw/datasette](https://github.com/simonw/datasette) - An open source multi-tool for exploring and publishing data
 *   [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI hackers to find and fix your app’s vulnerabilities.
@@ -269,7 +269,7 @@
 *   [ByteDance-Seed/m3-agent](https://github.com/ByteDance-Seed/m3-agent) -
 *   [OPPO-PersonalAI/Agent\_Foundation\_Models](https://github.com/OPPO-PersonalAI/Agent_Foundation_Models) - Chain-of-Agents: End-to-End Agent Foundation Models via Multi-Agent Distillation and Agentic RL.
 *   [threedle/ll3m](https://github.com/threedle/ll3m) - LL3M writes Python code that generates 3D assets in Blender.
-*   [ModelTC/Qwen-Image-Lightning](https://github.com/ModelTC/Qwen-Image-Lightning) - Qwen-Image-Lightning: Speed up Qwen-Image model with distillation
+*   [ModelTC/LightX2V-Qwen-Image-Lightning](https://github.com/ModelTC/LightX2V-Qwen-Image-Lightning) - Qwen-Image-Lightning: Speed up Qwen-Image model with distillation
 *   [doobidoo/mcp-memory-service](https://github.com/doobidoo/mcp-memory-service) - Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph + autonomous consolidation.
 *   [letta-ai/letta-terminalbench](https://github.com/letta-ai/letta-terminalbench) - letta integration for terminalbench (#1 open source agent, in under 200 lines of code)
 *   [openai/gpt-oss](https://github.com/openai/gpt-oss) - gpt-oss-120b and gpt-oss-20b are two open-weight language models by OpenAI
