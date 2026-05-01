@@ -455,6 +455,7 @@
 *   [zdhxiong/mdui](https://github.com/zdhxiong/mdui) - Material Design 3(Material You) UI components using Web Components.
 *   [tonightpass/kitchn](https://github.com/tonightpass/kitchn) - @tonightpass delicious React @styled-components
 *   [0xNevo/CNFT\_Mint](https://github.com/0xNevo/CNFT_Mint) - Chatting system based on Solana CNFT Mint
+*   [runesatsdev/solana-ai-agent](https://github.com/runesatsdev/solana-ai-agent) - AI Agent is a groundbreaking AI agent built on the Solana, integrating advanced artificial intelligence with social media capabilities and decentralized trading. An evolving digital entity striving to bridge the gap between AI, social media, and crypto.
 *   [NeurProjects/neur-app](https://github.com/NeurProjects/neur-app) - The Intelligent Copilot for Solana
 *   [codestoryai/aide](https://github.com/codestoryai/aide) - The open-source AI-native IDE
 *   [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, read, annotate, and fully preserve what matters, all in one place.
@@ -625,8 +626,6 @@
 *   [jacktuck/unfurl](https://github.com/jacktuck/unfurl) - A metadata scraper for Node.js with support for oEmbed, Twitter Cards, and Open Graph Protocol
 *   [MinnDevelopment/fxreddit](https://github.com/MinnDevelopment/fxreddit) - Provides improved reddit embeds for services such as Discord.
 *   [dialectlabs/monitor](https://github.com/dialectlabs/monitor) -
-*   [dialectlabs/cli](https://github.com/dialectlabs/cli) -
-*   [dialectlabs/protocol](https://github.com/dialectlabs/protocol) -
 *   [dialectlabs/blinks](https://github.com/dialectlabs/blinks) -
 *   [run-llama/sec-insights](https://github.com/run-llama/sec-insights) - A real world full-stack application using LlamaIndex
 *   [mishushakov/llm-scraper](https://github.com/mishushakov/llm-scraper) - Turn any webpage into structured data using LLMs
@@ -1927,6 +1926,7 @@
 *   [mechatroner/sublime\_rainbow\_csv](https://github.com/mechatroner/sublime_rainbow_csv) - 🌈Rainbow CSV - Sublime Text Package: Highlight columns in CSV and TSV files and run queeries in SQL-like language
 *   [home-assistant-ecosystem/home-assistant-cli](https://github.com/home-assistant-ecosystem/home-assistant-cli) - :computer: Command-line tool for Home Assistant
 *   [ToyKeeper/fuckometer](https://github.com/ToyKeeper/fuckometer) - How fucked are you right now? A tool to help you give a fuck so you can get less fucked.  Track several aspects of life and boil them down to a single number with graphs and productivity suggestions.
+*   [ollo69/ha-smartthinq-sensors](https://github.com/ollo69/ha-smartthinq-sensors) - HomeAssistant custom integration for SmartThinQ LG devices
 
 ## HTML
 
@@ -2362,7 +2362,7 @@
 
 ## Go
 
-*   [CJackHwang/ds2api](https://github.com/CJackHwang/ds2api) - Deepseek to API: A lightweight, high-performance full-stack middleware converting client protocols to universal APIs. Supports multi-account rotation, compiled binaries, Vercel Serverless, and Docker. Compatible with Google, Claude, and OpenAI API formats.
+*   [CJackHwang/ds2api](https://github.com/CJackHwang/ds2api) - DeepSeek-Compatible Middleware Interface: A technical exploration project in Go, focusing on high-concurrency protocol adaptation. It serves as a reference implementation for converting diverse web protocols into standardized formats.
 *   [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) - Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 3.1 Pro, GPT 5.5, Claude model through API
 *   [cloudflare/artifact-fs](https://github.com/cloudflare/artifact-fs) - ArtifactFS is a filesystem driver designed to mount large git repos as quickly as possible, hydrating file contents on-the-fly instead of blocking on the initial clone. It's ideal for agents, sandboxes, containers and other use-cases where startup time is critical.
 *   [Effect-TS/tsgo](https://github.com/Effect-TS/tsgo) - TypeScript-go enhanced with the Effect LSP experience
@@ -2445,7 +2445,7 @@
 *   [mudler/LocalAI](https://github.com/mudler/LocalAI) - LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
 *   [championswimmer/onepixel\_backend](https://github.com/championswimmer/onepixel_backend) -
 *   [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
-*   [the-open-agent/openagent](https://github.com/the-open-agent/openagent) - ⚡️next-generation personal AI assistant powered by LLM, RAG and agent loops, supporting computer-use, browser-use and coding agent
+*   [the-open-agent/openagent](https://github.com/the-open-agent/openagent) - ⚡️next-generation personal AI assistant powered by LLM, RAG and agent loops, supporting computer-use, browser-use and coding agent, demo: https://demo.openagentai.org/
 *   [apicat/apicat](https://github.com/apicat/apicat) - An efficient API documentation management tool that fully adheres to the OpenAPI specification and incorporates advanced LLM technology. This tool can automate the generation of API documentation, data models, and test cases, greatly enhancing development efficiency and documentation quality.
 *   [Layr-Labs/incredible-squaring-avs](https://github.com/Layr-Labs/incredible-squaring-avs) - Basic repo demoing a simple AVS middleware with full eigenlayer integration
 *   [sei-protocol/sei-db](https://github.com/sei-protocol/sei-db) -
@@ -2939,6 +2939,7 @@
 *   [typesense/typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
 *   [google-deepmind/code\_contests](https://github.com/google-deepmind/code_contests) -
 *   [HASwitchPlate/openHASP](https://github.com/HASwitchPlate/openHASP) - HomeAutomation Switchplate based on lvgl for ESP32
+*   [esphome/esphome](https://github.com/esphome/esphome) - ESPHome is a system to control your ESP32, ESP8266, BK72xx, RP2040 by simple yet powerful configuration files and control them remotely through Home Automation systems.
 
 ## C
 
@@ -3202,7 +3203,6 @@
 *   [TriForceX/MiyooCFW](https://github.com/TriForceX/MiyooCFW) - Custom firmware source code and resources for BittBoy, PocketGo, PowKiddy V90-Q90-Q20 and third party handheld consoles
 *   [iridium-browser/iridium-browser](https://github.com/iridium-browser/iridium-browser) - Iridium Browser source code
 *   [transitive-bullshit/awesome-ffmpeg](https://github.com/transitive-bullshit/awesome-ffmpeg) - 👻 A curated list of awesome FFmpeg resources.
-*   [dialectlabs/actions](https://github.com/dialectlabs/actions) -
 *   [Bo0oM/fuzz.txt](https://github.com/Bo0oM/fuzz.txt) - Potentially dangerous files
 *   [the-xentropy/samlists](https://github.com/the-xentropy/samlists) - Free, libre, effective, and data-driven wordlists for all!
 *   [aels/subdirectories-discover](https://github.com/aels/subdirectories-discover) - Perfect wordlist for discovering directories and files on target site
