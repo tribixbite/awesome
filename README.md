@@ -897,6 +897,7 @@
 *   [denosaurs/bench](https://github.com/denosaurs/bench) - 📊 Comparing deno, node and bun HTTP frameworks
 *   [andrewvo89/zod-error](https://github.com/andrewvo89/zod-error) - Utilities to format and customize Zod error messages
 *   [makerkit/ultimate-firebase-nextjs-authentication-guide](https://github.com/makerkit/ultimate-firebase-nextjs-authentication-guide) - A Next.js project with fully-functioning Firebase authentication setup
+*   [pastelsky/bundlephobia](https://github.com/pastelsky/bundlephobia) - 🏋️ Find out the cost of adding a new frontend dependency to your project
 *   [houseform/houseform](https://github.com/houseform/houseform) - Simple to use React forms, where your validation and UI code live together in harmony.
 *   [thelinuxlich/zodios-api-shorthand](https://github.com/thelinuxlich/zodios-api-shorthand) - A shorthand helper to implement Zodios API endpoints
 *   [Everduin94/better-commits](https://github.com/Everduin94/better-commits) - A CLI for creating better commits following the conventional commits specification
@@ -2170,7 +2171,6 @@
 *   [kartikk221/hyper-express](https://github.com/kartikk221/hyper-express) - High performance Node.js webserver with a simple-to-use API powered by uWebsockets.js under the hood.
 *   [juanjoDiaz/serverless-plugin-warmup](https://github.com/juanjoDiaz/serverless-plugin-warmup) - Keep your lambdas warm during winter. ♨
 *   [middyjs/middy](https://github.com/middyjs/middy) - 🛵 The stylish Node.js middleware engine for AWS Lambda 🛵
-*   [pastelsky/bundlephobia](https://github.com/pastelsky/bundlephobia) - 🏋️ Find out the cost of adding a new frontend dependency to your project
 *   [kinoward/midJourney-prompt-helper](https://github.com/kinoward/midJourney-prompt-helper) - MidJourney Prompt Helper website. Like: https://prompt.noonshot.com/
 *   [ZacharyFolk/midjourney-prompt-helper](https://github.com/ZacharyFolk/midjourney-prompt-helper) - A React app that helps generate prompts to use with MidJourney
 *   [qubyte/fetch-ponyfill](https://github.com/qubyte/fetch-ponyfill) - WHATWG fetch ponyfill
@@ -2445,7 +2445,7 @@
 *   [mudler/LocalAI](https://github.com/mudler/LocalAI) - LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
 *   [championswimmer/onepixel\_backend](https://github.com/championswimmer/onepixel_backend) -
 *   [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
-*   [the-open-agent/openagent](https://github.com/the-open-agent/openagent) - ⚡️next-generation personal AI assistant powered by LLM, RAG and agent loops, supporting computer-use, browser-use and coding agent, demo: https://demo.openagentai.org/
+*   [the-open-agent/openagent](https://github.com/the-open-agent/openagent) - ⚡️next-generation personal AI assistant powered by LLM, RAG and agent loops, supporting computer-use, browser-use and coding agent, demo: https://demo.openagentai.org
 *   [apicat/apicat](https://github.com/apicat/apicat) - An efficient API documentation management tool that fully adheres to the OpenAPI specification and incorporates advanced LLM technology. This tool can automate the generation of API documentation, data models, and test cases, greatly enhancing development efficiency and documentation quality.
 *   [Layr-Labs/incredible-squaring-avs](https://github.com/Layr-Labs/incredible-squaring-avs) - Basic repo demoing a simple AVS middleware with full eigenlayer integration
 *   [sei-protocol/sei-db](https://github.com/sei-protocol/sei-db) -
