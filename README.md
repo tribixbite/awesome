@@ -602,7 +602,7 @@
 *   [huggingface/trl](https://github.com/huggingface/trl) - Train transformer language models with reinforcement learning.
 *   [mxyng/discollama](https://github.com/mxyng/discollama) - Run an AI-powered Discord bot from the comfort of your laptop.
 *   [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - AI Data Vault - A query engine for AI Agents to securely query data from any datasource
-*   [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) - Build resilient language agents as graphs.
+*   [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) - Build resilient language agents as graphs. Available in TypeScript!
 *   [run-llama/create-llama](https://github.com/run-llama/create-llama) - The easiest way to get started with LlamaIndex
 *   [google-deepmind/penzai](https://github.com/google-deepmind/penzai) - A JAX research toolkit for building, editing, and visualizing neural networks.
 *   [theowni/Damn-Vulnerable-RESTaurant-API-Game](https://github.com/theowni/Damn-Vulnerable-RESTaurant-API-Game) - Damn Vulnerable Restaurant is an intentionally vulnerable Web API game for learning and training purposes dedicated to developers, ethical hackers and security engineers.
@@ -674,7 +674,7 @@
 *   [openai/chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin) - The ChatGPT Retrieval Plugin lets you easily find personal or work documents by asking questions in natural language.
 *   [awekrx/ChatGPT-MidJourney-prompt](https://github.com/awekrx/ChatGPT-MidJourney-prompt) - This is a ChatGPT based prompt generation model for MidJorney. The purpose of this model is to simplify the creation of images and increase their creativity. By introducing a partial hint, ChatGPT creates a follow-up that can be used to stimulate creativity and provide new ideas.
 *   [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | opus 4.6 gpt 5.3 kimi 2.5 deepseek v3.2 gemini 3
-*   [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform
+*   [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform. Available in TypeScript!
 *   [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 *   [FOLLGAD/godmode](https://github.com/FOLLGAD/godmode) - Godmode.space. Reached one million users in 3 months
 *   [FOLLGAD/sherlock](https://github.com/FOLLGAD/sherlock) - Personal assistant that can run commands at will
@@ -900,7 +900,7 @@
 *   [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) - An open-source AI agent that lives in your terminal.
 *   [yWorks/mcp-typescribe](https://github.com/yWorks/mcp-typescribe) - An MCP server implementation enabling LLMs to work with new APIs and frameworks
 *   [SaltyAom/kozeki-template](https://github.com/SaltyAom/kozeki-template) - Ready to deploy template Elysia-Next Bun monorepo
-*   [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features    enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code / Codex Integration
+*   [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features    enterprise-grade architecture, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration
 *   [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 *   [Comfy-Org/desktop](https://github.com/Comfy-Org/desktop) - The desktop app for ComfyUI (Windows & macOS)
 *   [phuctm97/dbsky](https://github.com/phuctm97/dbsky) - Open-source analytics for any Bluesky account, built with Next.js data cache
@@ -922,7 +922,7 @@
 *   [lamemind/mcp-server-multiverse](https://github.com/lamemind/mcp-server-multiverse) - A middleware server that enables multiple isolated instances of the same MCP servers to coexist independently with unique namespaces and configurations.
 *   [TencentEdgeOne/edgeone-pages-mcp](https://github.com/TencentEdgeOne/edgeone-pages-mcp) - An MCP service designed for deploying HTML content to EdgeOne Pages and obtaining an accessible public URL.
 *   [winfunc/opcode](https://github.com/winfunc/opcode) - A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.
-*   [av/harbor](https://github.com/av/harbor) - One command brings a complete pre-wired LLM stack with hundreds of services to explore.
+*   [av/harbor](https://github.com/av/harbor) - Stop configuring your AI stack. Start using it. One command brings a complete pre-wired LLM stack with hundreds of services to explore.
 *   [outerbase/browsable-durable-object](https://github.com/outerbase/browsable-durable-object) - Extend Cloudflare Durable Objects to be browsable by database tools such as Outerbase Studio
 *   [mobile-next/mobile-mcp](https://github.com/mobile-next/mobile-mcp) - Model Context Protocol Server for Mobile Automation and Scraping (iOS, Android, Emulators, Simulators and Real Devices)
 *   [vercel-labs/tersa](https://github.com/vercel-labs/tersa) - Tersa is an open source canvas for building AI workflows.
@@ -2010,7 +2010,6 @@
 *   [steveruizok/perfect-freehand](https://github.com/steveruizok/perfect-freehand) - Draw perfect pressure-sensitive freehand lines.
 *   [simple-keyboard/swipe-keyboard](https://github.com/simple-keyboard/swipe-keyboard) - Swype type keyboard module for simple-keyboard
 *   [ioccc-src/winner](https://github.com/ioccc-src/winner) - Winners of the International Obfuscated C Code Contest
-*   [tdurieux/anonymous\_github](https://github.com/tdurieux/anonymous_github) - Anonymous Github is a proxy server to support anonymous browsing of Github repositories for open-science code and data.
 *   [multisynq/physics-fountain](https://github.com/multisynq/physics-fountain) - Multiplayer Physics Demo
 *   [modelyaml/modelyaml](https://github.com/modelyaml/modelyaml) - model.yaml is an open standard for defining crossplatform, composable AI models
 *   [mayfer/open-artifacts](https://github.com/mayfer/open-artifacts) - Like Claude Artifacts but lives in a single static HTML page which you can use with any language model of your choosing
@@ -2091,6 +2090,7 @@
 *   [JessyTsui/Claude-Code-Remote](https://github.com/JessyTsui/Claude-Code-Remote) - Control Claude Code remotely via email、discord、telegram. Start tasks locally, receive notifications when Claude completes them, and send new commands by simply replying to emails.
 *   [juliangarnier/anime](https://github.com/juliangarnier/anime) - JavaScript animation engine
 *   [stagas/tsbro](https://github.com/stagas/tsbro) - TypeScript for the Browser
+*   [tdurieux/anonymous\_github](https://github.com/tdurieux/anonymous_github) - Anonymous Github is a proxy server to support anonymous browsing of Github repositories for open-science code and data.
 *   [vectorize-io/vectorize-mcp-server](https://github.com/vectorize-io/vectorize-mcp-server) - Official Vectorize MCP Server
 *   [u14app/deep-research](https://github.com/u14app/deep-research) - Use any LLMs (Large Language Models) for Deep Research. Support SSE API and MCP server.
 *   [AgentDeskAI/browser-tools-mcp](https://github.com/AgentDeskAI/browser-tools-mcp) - Monitor browser logs directly from Cursor and other MCP compatible IDEs.
