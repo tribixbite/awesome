@@ -74,7 +74,6 @@
 *   [Mustache](#mustache)
 *   [ReScript](#rescript)
 *   [F#](#f)
-*   [JSON](#json)
 *   [Erlang](#erlang)
 *   [OpenSCAD](#openscad)
 *   [AutoIt](#autoit)
@@ -2404,7 +2403,7 @@
 *   [elangosundar/awesome-README-templates](https://github.com/elangosundar/awesome-README-templates) - A collection of awesome readme templates to display on your github profile.
 *   [Cocycles/electron-storage](https://github.com/Cocycles/electron-storage) - Simply save/load json files to/from file system in electron applications
 *   [electerm/electerm](https://github.com/electerm/electerm) - 📻Terminal/ssh/sftp/ftp/telnet/serialport/RDP/VNC/Spice client(linux, mac, win)
-*   [OpenSourceAGI/appdemo-dev-tools](https://github.com/OpenSourceAGI/appdemo-dev-tools) - 💻⚒️ Full Stack Starter DOCS  (💧Drizzle 🔐BetterAuth ☁️ Cloudflare 🖼️ Shadcn UI) - 🚀DEMO  https://appdemo.site
+*   [OpenSourceAGI/appdemo-dev-tools](https://github.com/OpenSourceAGI/appdemo-dev-tools) - 💻⚒️ Full Stack Starter DOCS   - 🚀DEMO  https://appdemo.site
 *   [huggingface/transformers.js-examples](https://github.com/huggingface/transformers.js-examples) - A collection of 🤗 Transformers.js demos and example applications
 *   [alohe/quicky](https://github.com/alohe/quicky) - A simple CLI tool to self-host Next.js applications.
 *   [hiteshchoudhary/apihub](https://github.com/hiteshchoudhary/apihub) - Your own API Hub to learn and master API interaction. Ideal for frontend, mobile dev and backend developers.
@@ -2844,7 +2843,7 @@
 *   [pipXBT/Vanaddy](https://github.com/pipXBT/Vanaddy) - Multi-chain vanity wallet address generator for Solana & HyperEVM — with BIP-39 seed phrase output
 *   [WilfredAlmeida/LightDAS](https://github.com/WilfredAlmeida/LightDAS) - Lightweight DAS for Solana
 *   [vi/websocat](https://github.com/vi/websocat) - Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions
-*   [0xlarry/byo\_mint](https://github.com/0xlarry/byo_mint) - A compressed NFT mint program on Solana.
+*   [0xLT/byo\_mint](https://github.com/0xLT/byo_mint) - A compressed NFT mint program on Solana.
 *   [shuttle-hq/shuttle](https://github.com/shuttle-hq/shuttle) - Build & ship backends without writing any infrastructure files.
 *   [solana-playground/solana-playground](https://github.com/solana-playground/solana-playground) - Quickly develop, deploy and test Solana programs from browsers
 *   [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
@@ -3495,6 +3494,7 @@
 ## Markdown
 
 *   [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - Collaborative cheatsheets for console commands 📚.
+*   [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
 
 ## Starlark
 
@@ -3682,10 +3682,6 @@
 ## F\#
 
 *   [darklang/dark](https://github.com/darklang/dark) - Darklang main repo, including language, backend, and infra
-
-## JSON
-
-*   [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
 
 ## Erlang
 
