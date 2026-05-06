@@ -1705,7 +1705,7 @@
 *   [OpenMOSS/MOSS-Audio](https://github.com/OpenMOSS/MOSS-Audio) - MOSS-Audio is an open-source foundation model for unified audio understanding, enabling speech, sound, music, captioning, QA, and reasoning in real-world scenarios.
 *   [CVSRohit/claude-3d-print](https://github.com/CVSRohit/claude-3d-print) - Prompt -> Claude -> STL -> sliced .3mf -> Bambu P1S. Working stack with all the firmware quirks documented.
 *   [Kikobuf/3d-file-toolkit](https://github.com/Kikobuf/3d-file-toolkit) - Pure-Python toolkit for inspecting, editing, converting, and analyzing 3D print files, supports 3MF, STL, OBJ, PLY, and GLB. Detects source software (Bambu, Orca, Prusa, Cura, Fusion 360, etc.), checks compatibility across 15 CAD and slicer programs, and works with any AI coding agent (Claude, Cursor, ChatGPT, Manus). Zero dependencies beyond numpy
-*   [codeofaxel/Kiln](https://github.com/codeofaxel/Kiln) - Describe it or draw it. Kiln makes it real. — 750+ MCP tools for AI agents to design, generate, slice, and print 3D models. Supports OctoPrint, Moonraker/Klipper, Creality, Bambu Lab, Prusa Link, Elegoo, and Direct USB.
+*   [codeofaxel/Kiln](https://github.com/codeofaxel/Kiln) - Describe it or draw it. Kiln makes it real. — MCP tools for AI agents to design, generate, slice, and print 3D models. Supports OctoPrint, Moonraker/Klipper, Creality, Bambu Lab, Prusa Link, Elegoo, and Direct USB.
 *   [EdwinjJ1/3d-print-skill](https://github.com/EdwinjJ1/3d-print-skill) - Claude Code skill for 3D printing — search-first workflow, manifold-safe output for Bambu Studio / PrusaSlicer / Cura
 *   [simonw/datasette](https://github.com/simonw/datasette) - An open source multi-tool for exploring and publishing data
 *   [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI hackers to find and fix your app’s vulnerabilities.
@@ -2403,7 +2403,7 @@
 *   [elangosundar/awesome-README-templates](https://github.com/elangosundar/awesome-README-templates) - A collection of awesome readme templates to display on your github profile.
 *   [Cocycles/electron-storage](https://github.com/Cocycles/electron-storage) - Simply save/load json files to/from file system in electron applications
 *   [electerm/electerm](https://github.com/electerm/electerm) - 📻Terminal/ssh/sftp/ftp/telnet/serialport/RDP/VNC/Spice client(linux, mac, win)
-*   [OpenSourceAGI/appdemo-dev-tools](https://github.com/OpenSourceAGI/appdemo-dev-tools) - 💻⚒️ Full Stack Starter DOCS   - 🚀DEMO  https://appdemo.site
+*   [OpenSourceAGI/appdemo-dev-tools](https://github.com/OpenSourceAGI/appdemo-dev-tools) - 💻⚒️ NPM dev tools and core parts for Full Stack Starter App & Docs   🚀DEMO  https://appdemo.site
 *   [huggingface/transformers.js-examples](https://github.com/huggingface/transformers.js-examples) - A collection of 🤗 Transformers.js demos and example applications
 *   [alohe/quicky](https://github.com/alohe/quicky) - A simple CLI tool to self-host Next.js applications.
 *   [hiteshchoudhary/apihub](https://github.com/hiteshchoudhary/apihub) - Your own API Hub to learn and master API interaction. Ideal for frontend, mobile dev and backend developers.
@@ -2858,7 +2858,7 @@
 *   [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 *   [matter-labs/zksync](https://github.com/matter-labs/zksync) - zkSync: trustless scaling and privacy engine for Ethereum
 *   [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
-*   [solana-foundation/pay](https://github.com/solana-foundation/pay) - Developer Tool for Programmable Money Payments
+*   [solana-foundation/pay](https://github.com/solana-foundation/pay) - Let your agents pay for any API
 *   [Bonfida/bonfida-utils](https://github.com/Bonfida/bonfida-utils) - Collection of different utilities in use across various Bonfida projects
 *   [Bonfida/name-tokenizer](https://github.com/Bonfida/name-tokenizer) - Tokenize a domain name into an NFT
 *   [solana-labs/solana-program-library](https://github.com/solana-labs/solana-program-library) - A collection of Solana programs maintained by Solana Labs
