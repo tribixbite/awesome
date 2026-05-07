@@ -781,6 +781,7 @@
 *   [arucraft2022/typescript-biome-bun-zod-vitest](https://github.com/arucraft2022/typescript-biome-bun-zod-vitest) - typescript-biome-bun-zod-vitest
 *   [tobua/zero-configuration](https://github.com/tobua/zero-configuration) - Plugin to centrally configure and ignore various types of configuration files and add defaults.
 *   [getsentry/sentry-javascript-bundler-plugins](https://github.com/getsentry/sentry-javascript-bundler-plugins) - JavaScript Bundler Plugins for Sentry
+*   [electric-sql/electric](https://github.com/electric-sql/electric) - The agent platform built on sync.
 *   [Azure/fetch-event-source](https://github.com/Azure/fetch-event-source) - A better API for making Event Source requests, with all the features of fetch()
 *   [pd4d10/vite-plugin-svgr](https://github.com/pd4d10/vite-plugin-svgr) - Vite plugin to transform SVGs into React components
 *   [aidenybai/react-scan](https://github.com/aidenybai/react-scan) - Scan for React performance issues and eliminate slow renders in your app
@@ -3503,7 +3504,6 @@
 ## Elixir
 
 *   [helium/mappers](https://github.com/helium/mappers) - Mappers Frontend and API
-*   [electric-sql/electric](https://github.com/electric-sql/electric) - The agent platform built on sync.
 *   [kieraneglin/pinchflat](https://github.com/kieraneglin/pinchflat) - Your next YouTube media manager
 *   [fastrepl/canary](https://github.com/fastrepl/canary) - Algolia alternative for technical docs
 *   [phoenixframework/phoenix](https://github.com/phoenixframework/phoenix) - Peace of mind from prototype to production
