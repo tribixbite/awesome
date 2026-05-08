@@ -749,7 +749,7 @@
 *   [b-nnett/codex-plusplus](https://github.com/b-nnett/codex-plusplus) - Codex++ tweak system for the Codex desktop app
 *   [withastro/flue](https://github.com/withastro/flue) - The sandbox agent framework.
 *   [mksglu/context-mode](https://github.com/mksglu/context-mode) - Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 14 platforms
-*   [lukilabs/craft-agents-oss](https://github.com/lukilabs/craft-agents-oss) -
+*   [craft-ai-agents/craft-agents-oss](https://github.com/craft-ai-agents/craft-agents-oss) -
 *   [ilbertt/parsh](https://github.com/ilbertt/parsh) - Build type-safe CLIs in TypeScript
 *   [amruthpillai/reactive-resume](https://github.com/amruthpillai/reactive-resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 *   [productdevbook/hucre](https://github.com/productdevbook/hucre) - Zero-dependency spreadsheet engine. Read & write XLSX, CSV, ODS. Pure TypeScript, works everywhere.
