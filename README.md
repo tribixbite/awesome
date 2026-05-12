@@ -326,7 +326,7 @@
 *   [i-am-bee/acp](https://github.com/i-am-bee/acp) - Open protocol for communication between AI agents, applications, and humans.
 *   [i-am-bee/beeai-framework](https://github.com/i-am-bee/beeai-framework) - Build production-ready AI agents in both Python and Typescript.
 *   [apify/actor-llmstxt-generator](https://github.com/apify/actor-llmstxt-generator) - The /llms.txt Generator Actor 🕸️📄 extracts website content to create an llms.txt file for AI apps 🤖✨ like LLM fine-tuning and indexing. Output is available 📥 in the Key-Value Store for easy download and integration into workflows. 🚀
-*   [omnirexflora-labs/omnicoreagent](https://github.com/omnirexflora-labs/omnicoreagent) - OmniCoreAgent is a powerful Python framework for building autonomous AI agents that think, reason, and execute complex tasks. Production-ready agents that use tools, manage memory, coordinate workflows, and handle real-world business logic.
+*   [omnirexflora-labs/omnicoreagent](https://github.com/omnirexflora-labs/omnicoreagent) - Open Python agent harness for production AI agents: parallel tool execution, structured observations, loop detection, memory, workspace files, MCP tools, subagents, background tasks, and OmniServe APIs.
 *   [langchain-ai/mcpdoc](https://github.com/langchain-ai/mcpdoc) - Expose llms-txt to IDEs for development
 *   [cased/kit](https://github.com/cased/kit) - The toolkit for AI devtools context engineering. Build with codebase mapping, symbol extraction, and many kinds of code search.
 *   [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
@@ -1049,7 +1049,6 @@
 *   [okineadev/vitepress-plugin-llms](https://github.com/okineadev/vitepress-plugin-llms) - 📜 A VitePress plugin for generating LLM-friendly documentation
 *   [daydreamsai/daydreams](https://github.com/daydreamsai/daydreams) - Daydreams is a set of tools for building agents for commerce
 *   [supermemoryai/markdowner](https://github.com/supermemoryai/markdowner) - A fast tool to convert any website into LLM-ready markdown data. Built by https://supermemory.ai
-*   [elizaOS/eliza](https://github.com/elizaOS/eliza) - Autonomous agents for everyone
 *   [goat-sdk/goat](https://github.com/goat-sdk/goat) - The leading agentic finance toolkit for AI agents
 *   [passwordless-id/webauthn](https://github.com/passwordless-id/webauthn) - Webauthn / passkeys helper library to make your life easier. Client side, server side and demo included.
 *   [inngest/agent-kit](https://github.com/inngest/agent-kit) - AgentKit: Build multi-agent networks in TypeScript with deterministic routing and rich tooling via MCP.
@@ -2430,6 +2429,7 @@
 *   [cytoscape/cytoscape.js](https://github.com/cytoscape/cytoscape.js) - Graph theory (network) library for visualisation and analysis
 *   [sdi2200262/agentic-project-management](https://github.com/sdi2200262/agentic-project-management) - A framework for managing complex projects with spec-driven multi-agent workflows.
 *   [RockwellShah/filekey](https://github.com/RockwellShah/filekey) - Filekey: Encrypt and share files securely with passkeys. Fully offline, easy-to-use, and zero-knowledge for ultimate file protection.
+*   [elizaOS/eliza](https://github.com/elizaOS/eliza) - Autonomous agents for everyone
 *   [brendonboshell/supercrawler](https://github.com/brendonboshell/supercrawler) - A web crawler. Supercrawler automatically crawls websites. Define custom handlers to parse content. Obeys robots.txt, rate limits and concurrency limits.
 *   [firecrawl/npx-generate-llmstxt](https://github.com/firecrawl/npx-generate-llmstxt) - Generate LLMs.txt files from any website using the CLI + Firecrawl
 *   [thedaviddias/mcp-llms-txt-explorer](https://github.com/thedaviddias/mcp-llms-txt-explorer) - MCP to explore websites with llms.txt files
