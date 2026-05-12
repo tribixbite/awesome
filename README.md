@@ -759,7 +759,7 @@
 *   [MiniMax-AI/OpenRoom](https://github.com/MiniMax-AI/OpenRoom) - A browser-based desktop where AI Agent operates every app through natural language.
 *   [bwendell/gemini-desktop](https://github.com/bwendell/gemini-desktop) - Native desktop client for Google Gemini on Windows, macOS, and Linux. Features global hotkeys, Spotlight-style Quick Chat, and zero data collection.
 *   [starlightknown/codebase-navigator](https://github.com/starlightknown/codebase-navigator) -
-*   [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - Open-source orchestration for zero-human companies
+*   [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - The open-source app everyone uses to manage agents at work
 *   [samui-build/samui-wallet](https://github.com/samui-build/samui-wallet) - Open Source wallet and toolbox for Solana builders 🏟 Cypherpunk Hackathon winner
 *   [thesysdev/openui](https://github.com/thesysdev/openui) - The Open Standard for Generative UI
 *   [apisyouwonthate/openapi.tools](https://github.com/apisyouwonthate/openapi.tools) - A collection of Editors, Linters, Parsers, Code Generators,  Documentation, Testing
@@ -2833,7 +2833,7 @@
 *   [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 *   [itzmeanjan/kangarootwelve](https://github.com/itzmeanjan/kangarootwelve) - BlaKE12: Blazing-fast KEccak on 12 rounds
 *   [keithnoguchi/multisig-lite](https://github.com/keithnoguchi/multisig-lite) - Native SOL multisig wallet for Solana Blockchain
-*   [rerun-io/rerun](https://github.com/rerun-io/rerun) - An open source SDK for logging, storing, querying, and visualizing multimodal and multi-rate data
+*   [rerun-io/rerun](https://github.com/rerun-io/rerun) - An open source SDK for logging, storing, querying, viewing and training on multimodal and multi-rate data
 *   [HigherOrderCO/Bend](https://github.com/HigherOrderCO/Bend) - A massively parallel, high-level programming language
 *   [sevenlabs-hq/carbon](https://github.com/sevenlabs-hq/carbon) - Carbon is an indexing framework on Solana.
 *   [sayantn/keccak-rs](https://github.com/sayantn/keccak-rs) - A fast library for the Keccak-p permutation
