@@ -1243,7 +1243,7 @@
 *   [metaplex-foundation/mpl-core-ui](https://github.com/metaplex-foundation/mpl-core-ui) -
 *   [metaplex-foundation/mpl-core-staking-example](https://github.com/metaplex-foundation/mpl-core-staking-example) - Staking Example using On-chain Attributes for Core Assets
 *   [voideditor/void](https://github.com/voideditor/void) -
-*   [cline/cline](https://github.com/cline/cline) - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.
+*   [cline/cline](https://github.com/cline/cline) - Autonomous coding agent as an SDK, IDE extension, or CLI assistant.
 *   [PlayForm/Format](https://github.com/PlayForm/Format) - Format 🗻
 *   [wandb/openui](https://github.com/wandb/openui) - OpenUI let's you describe UI using your imagination, then see it rendered live.
 *   [StarlightLabsCo/starlightshire-server](https://github.com/StarlightLabsCo/starlightshire-server) -
@@ -2360,7 +2360,7 @@
 
 ## JavaScript
 
-*   [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) - Unrestricted, open-source alternative to AI video platforms — Free, unrestricted AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.
+*   [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) - Open-source alternative to AI video platforms — Free AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.
 *   [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 *   [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
 *   [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - The design language that makes your AI harness better at design.
