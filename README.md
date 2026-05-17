@@ -389,7 +389,7 @@
 *   [okineadev/vitepress-plugin-llms](https://github.com/okineadev/vitepress-plugin-llms) - 📜 A VitePress plugin for generating LLM-friendly documentation
 *   [daydreamsai/daydreams](https://github.com/daydreamsai/daydreams) - Daydreams is a set of tools for building agents for commerce
 *   [supermemoryai/markdowner](https://github.com/supermemoryai/markdowner) - A fast tool to convert any website into LLM-ready markdown data. Built by https://supermemory.ai
-*   [elizaOS/eliza](https://github.com/elizaOS/eliza) - Autonomous agents for everyone
+*   [elizaOS/eliza](https://github.com/elizaOS/eliza) - Open source agentic operating system
 *   [goat-sdk/goat](https://github.com/goat-sdk/goat) - The leading agentic finance toolkit for AI agents
 *   [passwordless-id/webauthn](https://github.com/passwordless-id/webauthn) - Webauthn / passkeys helper library to make your life easier. Client side, server side and demo included.
 *   [inngest/agent-kit](https://github.com/inngest/agent-kit) - AgentKit: Build multi-agent networks in TypeScript with deterministic routing and rich tooling via MCP.
@@ -684,7 +684,7 @@
 *   [LolipopJ/telly-bot](https://github.com/LolipopJ/telly-bot) - A Telegram bot based on Bun.
 *   [bot-base/telegram-bot-template](https://github.com/bot-base/telegram-bot-template) - Telegram bot template based on grammY
 *   [mtcute/mtcute](https://github.com/mtcute/mtcute) - modern typescript library for mtproto. supports browsers, node/bun, deno and more!
-*   [lobehub/lobehub](https://github.com/lobehub/lobehub) - The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effortless agent team design, and introducing agents as the unit of work interaction.
+*   [lobehub/lobehub](https://github.com/lobehub/lobehub) - LobeHub organizes your agents into 7×24 operation. It hires, schedules, reports on your entire AI team. You stay in charge — without staying online.
 *   [run-llama/llama\_cloud\_services](https://github.com/run-llama/llama_cloud_services) - Knowledge Agents and Management in the Cloud
 *   [bogeychan/elysia-oauth2](https://github.com/bogeychan/elysia-oauth2) - A plugin for Elysia.js for server-side OAuth 2.0 Authorization Code Flow
 *   [workos/authkit](https://github.com/workos/authkit) - The world's best login box powered by WorkOS and Radix.
