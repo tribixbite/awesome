@@ -82,6 +82,7 @@
 
 ## TypeScript
 
+*   [GTG-Labs/sangria](https://github.com/GTG-Labs/sangria) - Payment Infrastructure for Agents
 *   [glincker/geokit](https://github.com/glincker/geokit) - Audit any website's AI-readiness. Score 0-100. Lighthouse for AI. GLINCKER GLINR
 *   [pingdotgg/t3code](https://github.com/pingdotgg/t3code) -
 *   [0xLT/kpm](https://github.com/0xLT/kpm) - Knowledge Package Manager
@@ -717,7 +718,7 @@
 *   [trpc/examples-next-prisma-websockets-starter](https://github.com/trpc/examples-next-prisma-websockets-starter) - 🏓 tRPC Next.js WebSocket Starter
 *   [easypanel-io/dockerizer](https://github.com/easypanel-io/dockerizer) - The fastest way to dockerize your apps.
 *   [Mintplex-Labs/vector-admin](https://github.com/Mintplex-Labs/vector-admin) - The universal tool suite for vector database management. Manage Pinecone, Chroma, Qdrant, Weaviate and more vector databases with ease.
-*   [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) - Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration.  Used by OpenAI and Anthropic.
+*   [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) - Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, DeepSeek, and more. Simple declarative configs with command line and CI/CD integration.  Used by OpenAI and Anthropic.
 *   [mizchi/discord-claude-bot](https://github.com/mizchi/discord-claude-bot) -
 *   [cryptoloutre/solana-tools](https://github.com/cryptoloutre/solana-tools) - A bunch of tools to help people in the Solana ecosystem. This website includes an UI to burn Solana NFTs and an UI to create SPL-Tokens. More tools are scheduled...
 *   [LegendApp/legend-state](https://github.com/LegendApp/legend-state) - Legend-State is a super fast and powerful state library that enables fine-grained reactivity and easy automatic persistence
@@ -1356,7 +1357,7 @@
 *   [typescript-cheatsheets/react](https://github.com/typescript-cheatsheets/react) - Cheatsheets for experienced React developers getting started with TypeScript
 *   [philipmulcahy/azad](https://github.com/philipmulcahy/azad) - amazon order history reporter chrome extension
 *   [jorenvandeweyer/snitch-bot](https://github.com/jorenvandeweyer/snitch-bot) - Discord bot that listen for certain strings in messages to tell you about them.
-*   [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Full-Stack Vue Framework.
+*   [nuxt/nuxt](https://github.com/nuxt/nuxt) - the full-stack Vue framework
 *   [thomasloven/lovelace-auto-entities](https://github.com/thomasloven/lovelace-auto-entities) - 🔹Automatically populate the entities-list of lovelace cards
 *   [luludotdev/beatsaver-reloaded](https://github.com/luludotdev/beatsaver-reloaded) - BeatSaver Again
 
@@ -2661,7 +2662,7 @@
 
 *   [entireio/git-sync](https://github.com/entireio/git-sync) - 🪩 Mirror git refs from a source remote to a target remote without a local checkout. Packfiles stream directly over Smart HTTP and an in-memory object store.
 *   [CJackHwang/ds2api](https://github.com/CJackHwang/ds2api) - DeepSeek-Compatible Middleware Interface: A technical exploration project in Go, focusing on high-concurrency protocol adaptation. It serves as a reference implementation for converting diverse web protocols into standardized formats.
-*   [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) - Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code, Grok Build as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 3.1 Pro, GPT 5.5, Claude model through API
+*   [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) - Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code, Grok Build as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 3.1 Pro, GPT 5.5, Grok 4.3, Claude model through API
 *   [cloudflare/artifact-fs](https://github.com/cloudflare/artifact-fs) - ArtifactFS is a filesystem driver designed to mount large git repos as quickly as possible, hydrating file contents on-the-fly instead of blocking on the initial clone. It's ideal for agents, sandboxes, containers and other use-cases where startup time is critical.
 *   [Effect-TS/tsgo](https://github.com/Effect-TS/tsgo) - TypeScript-go enhanced with the Effect LSP experience
 *   [openclaw/gogcli](https://github.com/openclaw/gogcli) - Google Workspace in your terminal.
@@ -3039,7 +3040,7 @@
 *   [DrkSephy/es6-cheatsheet](https://github.com/DrkSephy/es6-cheatsheet) - ES2015 \[ES6] cheatsheet containing tips, tricks, best practices and code snippets
 *   [goldbergyoni/javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (August 2025)
 *   [Asabeneh/30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) - 30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days,  please just follow your own pace. These videos may help too: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw
-*   [olifolkerd/tabulator](https://github.com/olifolkerd/tabulator) - Interactive Tables and Data Grids for JavaScript
+*   [tabulator-tables/tabulator](https://github.com/tabulator-tables/tabulator) - Interactive Tables and Data Grids for JavaScript
 *   [downshift-js/downshift](https://github.com/downshift-js/downshift) - 🏎 A set of primitives to build simple, flexible, WAI-ARIA compliant React autocomplete, combobox or select dropdown components.
 *   [vidorge/solflare-decrypt](https://github.com/vidorge/solflare-decrypt) - Tool for decrypting solflare.com keystores
 *   [open-condo-software/gitexporter](https://github.com/open-condo-software/gitexporter) - Make some private GitHub repo directories public
@@ -3205,7 +3206,6 @@
 *   [oriziv/sync-files-blob-storage-ha](https://github.com/oriziv/sync-files-blob-storage-ha) -
 *   [kylepaulsen/ResourceOverride](https://github.com/kylepaulsen/ResourceOverride) - An extension to help you gain full control of any website by redirecting traffic, replacing, editing, or inserting new content.
 *   [NUKnightLab/juxtapose](https://github.com/NUKnightLab/juxtapose) - JuxtaposeJS is a JavaScript library for making before/after image sliders
-*   [buccaneerai/rxjs-stats](https://github.com/buccaneerai/rxjs-stats) - Moved to @bottlenose/rxstats (https://github.com/buccaneerai/bottlenose)
 
 ## Crystal
 
@@ -3255,7 +3255,7 @@
 *   [PrismLauncher/PrismLauncher](https://github.com/PrismLauncher/PrismLauncher) - A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once (Fork of MultiMC)
 *   [MultiCraft/MultiCraft](https://github.com/MultiCraft/MultiCraft) - 🌍 MultiCraft Engine | Open Source
 *   [aria2/aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
-*   [aphrodite-engine/aphrodite-engine](https://github.com/aphrodite-engine/aphrodite-engine) - Large-scale LLM inference engine
+*   [dphnAI/aphrodite-engine](https://github.com/dphnAI/aphrodite-engine) - Large-scale LLM inference engine
 *   [foldl/chatllm.cpp](https://github.com/foldl/chatllm.cpp) - Pure C++ implementation of several models for real-time chatting on your computer (CPU & GPU)
 *   [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
 *   [kamektx/TouchpadGestures\_Advanced](https://github.com/kamektx/TouchpadGestures_Advanced) - Extends your Precision Touchpad experience.
