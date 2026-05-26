@@ -1155,7 +1155,7 @@
 *   [antonycourtney/tad](https://github.com/antonycourtney/tad) - A desktop application for viewing and analyzing tabular data
 *   [bsgbryan/roc](https://github.com/bsgbryan/roc) - A thoroughly-modern real-time simulation engine
 *   [webmaxru/ng-ai](https://github.com/webmaxru/ng-ai) - Demo application for in-browser Generative AI: ONNX, Transformers.js, WebGPU, WebNN
-*   [k-43/houseki](https://github.com/k-43/houseki) - 💎 A modular 3D game engine built for the web.
+*   [m11m/houseki](https://github.com/m11m/houseki) - 💎 A modular 3D game engine built for the web.
 *   [martinlaxenaire/gpu-curtains](https://github.com/martinlaxenaire/gpu-curtains) - gpu-curtains is a 3D WebGPU rendering engine. It can be used as a standalone 3D engine, but also includes extra classes focused on mapping 3d objects to DOM elements; It allows users to synchronize values such as position, sizing, or scale between them.
 *   [actnwit/RhodoniteTS](https://github.com/actnwit/RhodoniteTS) - Rhodonite Web3D(WebGL2\&WebGPU) Library in TypeScript
 *   [load1n9/caviar](https://github.com/load1n9/caviar) - ⚡ Blazing fast, modern, Game Engine powered by WebGPU for Deno and the browser
