@@ -3012,7 +3012,7 @@
 *   [rebassjs/rebass](https://github.com/rebassjs/rebass) - :atom\_symbol: React primitive UI components built with styled-system.
 *   [Crossmint/sheets-no-code-minter](https://github.com/Crossmint/sheets-no-code-minter) - Google Sheets Implementation against the Mint API
 *   [creationix/jsonparse](https://github.com/creationix/jsonparse) - A streaming JSON parser written in pure JavaScript for node.js
-*   [uhop/stream-json](https://github.com/uhop/stream-json) - The micro-library of Node.js stream components for creating custom JSON processing pipelines with a minimal memory footprint. It can parse JSON files far exceeding available memory streaming individual primitives using a SAX-inspired API.
+*   [uhop/stream-json](https://github.com/uhop/stream-json) - A micro-library of stream components for building custom JSON and JSONC processing pipelines with a minimal memory footprint — parse, filter, and transform JSON far larger than available memory with a SAX-inspired token API, on Node.js or Web Streams.
 *   [jprichardson/node-fs-extra](https://github.com/jprichardson/node-fs-extra) - Node.js: extra methods for the fs object like copy(), remove(), mkdirs()
 *   [chickenkatsu1/parakeet](https://github.com/chickenkatsu1/parakeet) - A webapp to view media from Reddit.
 *   [jhubbardsf/reddit-mint-post](https://github.com/jhubbardsf/reddit-mint-post) -
@@ -3222,7 +3222,7 @@
 *   [mintlify/docs](https://github.com/mintlify/docs) - Official Mintlify documentation
 *   [multisynq/docs](https://github.com/multisynq/docs) -
 *   [inngest/website](https://github.com/inngest/website) - Website and Documentation for Inngest
-*   [mintlify/starter](https://github.com/mintlify/starter) - 📖 The starter kit for your Mintlify docs
+*   [mintlify/starter](https://github.com/mintlify/starter) - The starter kit for your mintlify project
 *   [spleafy/prismane-website](https://github.com/spleafy/prismane-website) -
 *   [magicuidesign/magicui](https://github.com/magicuidesign/magicui) - UI Library for Design Engineers. Animated components and effects you can copy and paste into your apps. Free. Open Source.
 *   [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with explicit control over retrieval, routing, memory, and generation. Built for scalable agents, RAG, multimodal applications, semantic search, and conversational systems.
