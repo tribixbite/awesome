@@ -833,7 +833,7 @@
 *   [kitlangton/visual-effect](https://github.com/kitlangton/visual-effect) - Interactive Effect Visualizations
 *   [nextify-limited/saasfly](https://github.com/nextify-limited/saasfly) - Your Next SaaS Template or Boilerplate ! A magic trip start with `bun create saasfly` . The more stars, the more surprises
 *   [expo-starter/expo-local-first-template](https://github.com/expo-starter/expo-local-first-template) - 📱 A template for bootstrap your next Expo project: Bun, Expo 54, TypeScript, TailwindCSS, DrizzleORM, Sqlite, EAS, GitHub Actions, Env Vars, expo-router, react-hook-form.
-*   [RedPlanetHQ/core](https://github.com/RedPlanetHQ/core) - Your personal AI OS
+*   [RedPlanetHQ/core](https://github.com/RedPlanetHQ/core) - Your Personal AI OS
 *   [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.
 *   [openai/codex-action](https://github.com/openai/codex-action) -
 *   [opactorai/Claudable](https://github.com/opactorai/Claudable) - Claudable is an open-source web builder that leverages local CLI agents, such as Claude Code, Codex, Gemini CLI, Qwen Code, and Cursor Agent, to build and deploy products effortlessly.
@@ -1279,6 +1279,7 @@
 *   [qudo-code/xsx](https://github.com/qudo-code/xsx) -
 *   [getcord/cord](https://github.com/getcord/cord) - The complete SDK for Chat, Commenting, and Notifications
 *   [surrealdb/surrealist](https://github.com/surrealdb/surrealist) - Surrealist is the ultimate way to visually manage your SurrealDB database
+*   [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.
 *   [dcrebbin/meta-glasses-api](https://github.com/dcrebbin/meta-glasses-api) -  "Hey Meta send a message to ChatGPT" Mai: A Hacky Messenger browser extension & pseudo API for the Meta Glasses :eyeglasses:
 *   [wordware-ai/twitter](https://github.com/wordware-ai/twitter) - AI Agent for Twitter Personality Analysis
 *   [tr1ckydev/spotifly](https://github.com/tr1ckydev/spotifly) - Spotify library in typescript without using the Spotify Web API.
@@ -1891,7 +1892,7 @@
 *   [komarovalexander/ka-table](https://github.com/komarovalexander/ka-table) - Lightweight MIT React Table component with Sorting, Filtering, Grouping, Virtualization, Editing and many more
 *   [glideapps/glide-data-grid](https://github.com/glideapps/glide-data-grid) - 🚀 Glide Data Grid is a no compromise, outrageously fast react data grid with rich rendering, first class accessibility, and full TypeScript support.
 *   [hustcc/timeago-react](https://github.com/hustcc/timeago-react) - :clock8: Simple and efficient react component to format date with `*** time ago` statement. eg: '3 hours ago'.
-*   [statico/jsgrids](https://github.com/statico/jsgrids) - 📦 🔍 👀   A comparison tool to compare JavaScript data grid and spreadsheet libraries
+*   [statico/awesome-javascript-grids](https://github.com/statico/awesome-javascript-grids) - 🧇 A curated list of awesome JavaScript data grid and spreadsheet libraries
 *   [ag-grid/ag-grid](https://github.com/ag-grid/ag-grid) - The best JavaScript Data Table for building Enterprise Applications. Supports React / Angular / Vue / Plain JavaScript.
 *   [petyosi/react-virtuoso](https://github.com/petyosi/react-virtuoso) - The most powerful virtual list component for React
 *   [wellyshen/react-cool-virtual](https://github.com/wellyshen/react-cool-virtual) - 😎 ♻️ A tiny React hook for rendering large datasets like a breeze.
@@ -2452,7 +2453,7 @@
 *   [anthias-labs/flare](https://github.com/anthias-labs/flare) - Flare is a CLI tool for interacting with Solana.
 *   [fire-scale/pregrind.sol](https://github.com/fire-scale/pregrind.sol) - We grind Solana keys for you so you don't have to wait.
 *   [tonyke-bot/ore-miner](https://github.com/tonyke-bot/ore-miner) - ORE Miner built on top of Jito bundle with both CPU and GPU support.
-*   [regolith-labs/ore-cli](https://github.com/regolith-labs/ore-cli) - Command line interface for ORE cryptocurrency mining.
+*   [regolith-labs/ore-cli-legacy](https://github.com/regolith-labs/ore-cli-legacy) - Command line interface for ORE cryptocurrency mining.
 *   [regolith-labs/ore](https://github.com/regolith-labs/ore) - It's time to mine.
 *   [railwayapp/nixpacks](https://github.com/railwayapp/nixpacks) - App source + Nix packages + Docker = Image
 *   [suptejas/volt](https://github.com/suptejas/volt) - An experimental package management tool for JavaScript. Upto 30x faster installation of dependencies using pre-flattened dependency trees.
@@ -2868,7 +2869,6 @@
 *   [vercel/ncc](https://github.com/vercel/ncc) - Compile a Node.js project into a single file. Supports TypeScript, binary addons, dynamic requires.
 *   [resiliencetheatre/rpi4edgemapdisplay](https://github.com/resiliencetheatre/rpi4edgemapdisplay) - Buildroot external tree for RPi4 based edgemap image with Hyperpixel 4" display
 *   [luox-app/luox](https://github.com/luox-app/luox) - Code base for the luox platform
-*   [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.
 *   [ETCExtensions/Edit-This-Cookie](https://github.com/ETCExtensions/Edit-This-Cookie) - EditThisCookie is the famous Google Chrome/Chromium extension for editing cookies
 *   [NeverDecaf/chromium-web-store](https://github.com/NeverDecaf/chromium-web-store) - Allows adding extensions from chrome web store on ungoogled-chromium. Also adds semi-automatic extension updating.
 *   [idosal/AgentLLM](https://github.com/idosal/AgentLLM) - AgentLLM is a PoC for browser-native autonomous agents
