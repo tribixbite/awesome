@@ -68,7 +68,6 @@
 *   [Makefile](#makefile)
 *   [Julia](#julia)
 *   [SystemVerilog](#systemverilog)
-*   [Objective-C](#objective-c)
 *   [Sass](#sass)
 *   [Solidity](#solidity)
 *   [Mustache](#mustache)
@@ -82,6 +81,7 @@
 
 ## Kotlin
 
+*   [MM2-0/Kvaesitso](https://github.com/MM2-0/Kvaesitso) - A search-focused Android launcher
 *   [A-EDev/Flow](https://github.com/A-EDev/Flow) - A modern, feature-rich YouTube client for Android built with Jetpack Compose
 *   [zhanghai/MaterialFiles](https://github.com/zhanghai/MaterialFiles) - Material Design file manager for Android
 *   [DP-Hridayan/aShellYou](https://github.com/DP-Hridayan/aShellYou) - A material you designed app for your ADB needs
@@ -2312,6 +2312,7 @@
 *   [storyofdavid/Android-WorkoutTracker](https://github.com/storyofdavid/Android-WorkoutTracker) - Free to use demo repo of an android workout tracker application
 *   [arjunkaruvally/BluetoothPeripheral](https://github.com/arjunkaruvally/BluetoothPeripheral) -
 *   [solana-developers/dapp-scaffold-react-native](https://github.com/solana-developers/dapp-scaffold-react-native) - dApp scaffold for react native apps
+*   [fusetools/react-native-unity2](https://github.com/fusetools/react-native-unity2) - Embed Unity content in your React Native app!
 *   [azesmway/react-native-unity](https://github.com/azesmway/react-native-unity) -
 *   [LuigiVampa92/XLogger](https://github.com/LuigiVampa92/XLogger) - Xposed module that allows to sniff and record logs of NFC and Bluetooth communication on device
 *   [xtclang/xvm](https://github.com/xtclang/xvm) - Ecstasy and XVM
@@ -3548,7 +3549,6 @@
 *   [paul-schaaf/spl-token-ui](https://github.com/paul-schaaf/spl-token-ui) - Interface for creating and managing SPL Tokens
 *   [Alaanor/beatlist](https://github.com/Alaanor/beatlist) - Beatlist is an app to manage playlists and beatmaps for the game Beat Saber.
 *   [samatt/herbivore](https://github.com/samatt/herbivore) - Packet sniffing made simple
-*   [ui-discord/ubiquiti-name-generator](https://github.com/ui-discord/ubiquiti-name-generator) - A silly tool to make up product names that Ubiquiti may or may not release
 
 ## Cuda
 
@@ -3659,10 +3659,6 @@
 ## SystemVerilog
 
 *   [lowRISC/opentitan](https://github.com/lowRISC/opentitan) - OpenTitan: Open source silicon root of trust
-
-## Objective-C
-
-*   [fusetools/react-native-unity2](https://github.com/fusetools/react-native-unity2) - Embed Unity content in your React Native app!
 
 ## Sass
 
