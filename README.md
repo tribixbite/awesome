@@ -467,7 +467,6 @@
 *   [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb) - 🛡️ Open-source and cloud-native Web Application Firewall (WAF)
 *   [byt3bl33d3r/CrackMapExec](https://github.com/byt3bl33d3r/CrackMapExec) - A swiss army knife for pentesting networks
 *   [pat-jj/s3](https://github.com/pat-jj/s3) - \[EMNLP'25] s3 - ⚡ Efficient & Effective Search Agent Training via RL for RAG (RLVR for Search with Minimal Data)
-*   [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex) - Incremental engine for long horizon agents 🌟 Star if you like it!
 *   [QwenLM/ParScale](https://github.com/QwenLM/ParScale) - Parallel Scaling Law for Language Model — Beyond Parameter and Inference Time Scaling
 *   [pixeltable/pixelagent](https://github.com/pixeltable/pixelagent) - Pixelagent  — Multimodal stateful agents
 *   [browser-use/workflow-use](https://github.com/browser-use/workflow-use) - ⚙️ Create and run workflows (RPA 2.0)
@@ -876,7 +875,6 @@
 *   [LandGrey/pydictor](https://github.com/LandGrey/pydictor) - A powerful and useful hacker dictionary builder for a brute-force attack
 *   [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
 *   [itkfilelor/drone\_mobile](https://github.com/itkfilelor/drone_mobile) - API wrapper for Drone Mobile remote car starter.
-*   [LedgerHQ/app-monero](https://github.com/LedgerHQ/app-monero) - Monero wallet application for Ledger Nano S & X
 *   [klattimer/LGWebOSRemote](https://github.com/klattimer/LGWebOSRemote) - Command line webOS remote for LGTVs
 *   [Hari-Nagarajan/fairgame](https://github.com/Hari-Nagarajan/fairgame) - Tool to help us buy hard to find items.
 *   [berkuhlee/KeywordBot](https://github.com/berkuhlee/KeywordBot) - Keyword Notifications, similar to skype, for Discord!
@@ -954,6 +952,7 @@
 *   [bkaradzic/bgfx](https://github.com/bkaradzic/bgfx) - Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style rendering library.
 *   [RoganDawes/LOGITacker](https://github.com/RoganDawes/LOGITacker) - Enumerate and test Logitech wireless input devices for vulnerabilities with a nRF52840 radio dongle.
 *   [FABtotum/FABlin](https://github.com/FABtotum/FABlin) - The FABtotum Personal Fabricator Firmware, a Marlin derivate made to support hybrid manufacturing and digital acquisition
+*   [LedgerHQ/app-monero](https://github.com/LedgerHQ/app-monero) - Monero wallet application for Ledger Nano S & X
 *   [arendst/Tasmota](https://github.com/arendst/Tasmota) - Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at
 
 ## TypeScript
@@ -999,7 +998,7 @@
 *   [session-foundation/session-desktop](https://github.com/session-foundation/session-desktop) - Session Desktop - A Decentralized, Onion Routed, Private Messenger
 *   [Qit-tools/unicode-emoji-json-lite](https://github.com/Qit-tools/unicode-emoji-json-lite) - This library provides a lightweight version of the unicode-emoji-json library.
 *   [JoshuaKGoldberg/emojipedia](https://github.com/JoshuaKGoldberg/emojipedia) - Unofficial static export of technical information from Emojipedia. 📙
-*   [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo; the one and only agent harness for complex codebases; the pickaxe for complex software engineering
+*   [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo; the one and only agent harness for complex codebases. the pickaxe for complex software engineering. For your Codex, for your OpenCode
 *   [google/A2UI](https://github.com/google/A2UI) -
 *   [letta-ai/letta-code](https://github.com/letta-ai/letta-code) - The memory-first coding agent
 *   [aidenybai/react-grab](https://github.com/aidenybai/react-grab) - Copy any UI element for your agent
@@ -2368,6 +2367,7 @@
 *   [rivet-dev/rivet](https://github.com/rivet-dev/rivet) - Rivet Actors are the primitive for stateful workloads. Built for AI agents, collaborative apps, and durable execution.
 *   [rivet-dev/agent-os](https://github.com/rivet-dev/agent-os) - A portable open-source operating system for agents. ~6 ms coldstarts, 32x cheaper than sandboxes. Powered by WebAssembly and V8 isolates.
 *   [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - YC (S26) | AI that knows what you've seen, said, or heard. Records everything you do, say, hear 24/7, local, private, secure
+*   [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex) - Incremental engine for long horizon agents 🌟 Star if you like it!
 *   [jsr-io/jsr](https://github.com/jsr-io/jsr) - The open-source package registry for modern JavaScript and TypeScript
 *   [microsoft/edit](https://github.com/microsoft/edit) - We all edit.
 *   [yazaldefilimone/ghost.ai](https://github.com/yazaldefilimone/ghost.ai) - 🧠 your second brain at the computer.
@@ -2504,7 +2504,7 @@
 *   [AI4Finance-Foundation/FinRL](https://github.com/AI4Finance-Foundation/FinRL) - FinRL®:  Financial Reinforcement Learning. 🔥
 *   [TengHu/Generating-Sequences-With-Recurrent-Neural-Networks](https://github.com/TengHu/Generating-Sequences-With-Recurrent-Neural-Networks) - Implementation of Paper Generating Sequences With Recurrent Neural Networks
 *   [proshian/neural-swipe-typing](https://github.com/proshian/neural-swipe-typing) - A transformer that decodes swipes across a smartphone keyboard into words (gesture / swipe / glide typing) (enhanced yandex cup solution)
-*   [Marktechpost/AI-Agents-Projects-Tutorials](https://github.com/Marktechpost/AI-Agents-Projects-Tutorials) - Multi-agent systems, memory, planning, reasoning loops
+*   [MARKTECHPOST-AI-MEDIA-INC/AI-Agents-Projects-Tutorials](https://github.com/MARKTECHPOST-AI-MEDIA-INC/AI-Agents-Projects-Tutorials) - Multi-agent systems, memory, planning, reasoning loops
 *   [microsoft/mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners) - This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real-world, cross-language examples in .NET, Java, TypeScript, JavaScript, Rust and Python. Designed for developers, it focuses on practical techniques for building modular, scalable, and secure AI workflows from session setup to service orchestration.
 *   [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
 *   [facebookresearch/audiocraft](https://github.com/facebookresearch/audiocraft) - Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable music generation LM with textual and melodic conditioning.
@@ -2682,7 +2682,7 @@
 *   [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps, now OpenID Certified™
 *   [mudler/LocalAI](https://github.com/mudler/LocalAI) - LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
 *   [championswimmer/onepixel\_backend](https://github.com/championswimmer/onepixel_backend) -
-*   [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+*   [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.6, GLM-5.1, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 *   [the-open-agent/openagent](https://github.com/the-open-agent/openagent) - ⚡️next-generation personal AI assistant powered by LLM, RAG and agent loops, supporting computer-use, browser-use and coding agent, demo: https://demo.openagentai.org
 *   [apicat/apicat](https://github.com/apicat/apicat) - An efficient API documentation management tool that fully adheres to the OpenAPI specification and incorporates advanced LLM technology. This tool can automate the generation of API documentation, data models, and test cases, greatly enhancing development efficiency and documentation quality.
 *   [Layr-Labs/incredible-squaring-avs](https://github.com/Layr-Labs/incredible-squaring-avs) - Basic repo demoing a simple AVS middleware with full eigenlayer integration
