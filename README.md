@@ -998,7 +998,7 @@
 *   [session-foundation/session-desktop](https://github.com/session-foundation/session-desktop) - Session Desktop - A Decentralized, Onion Routed, Private Messenger
 *   [Qit-tools/unicode-emoji-json-lite](https://github.com/Qit-tools/unicode-emoji-json-lite) - This library provides a lightweight version of the unicode-emoji-json library.
 *   [JoshuaKGoldberg/emojipedia](https://github.com/JoshuaKGoldberg/emojipedia) - Unofficial static export of technical information from Emojipedia. 📙
-*   [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo/lazycodex; the one and only agent harness for complex codebases. the pickaxe for complex software engineering. For your Codex, for your OpenCode
+*   [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, for your OpenCode
 *   [a2ui-project/a2ui](https://github.com/a2ui-project/a2ui) -
 *   [letta-ai/letta-code](https://github.com/letta-ai/letta-code) - The memory-first coding agent
 *   [aidenybai/react-grab](https://github.com/aidenybai/react-grab) - Copy any UI element for your agent
