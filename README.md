@@ -464,7 +464,7 @@
 *   [huggingface/smolagents](https://github.com/huggingface/smolagents) - 🤗 smolagents: a barebones library for agents that think in code.
 *   [ai-robots-txt/ai.robots.txt](https://github.com/ai-robots-txt/ai.robots.txt) - A list of AI agents and robots to block.
 *   [microsoft/AIOpsLab](https://github.com/microsoft/AIOpsLab) - A holistic framework to enable the design, development, and evaluation of autonomous AIOps agents.
-*   [lotus-data/lotus](https://github.com/lotus-data/lotus) - AI-Powered Data Processing: Use LOTUS to process all of your datasets with LLMs and embeddings. Enjoy up to 1000x speedups with fast, accurate query processing, that's as simple as writing Pandas code
+*   [lotus-data/lotus](https://github.com/lotus-data/lotus) - Optimized LLM-Powered Data Processing: up to 1000x speedups with fast, accurate query processing, that's as simple as writing Pandas code
 *   [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 *   [jahwag/ClaudeSync](https://github.com/jahwag/ClaudeSync) - ClaudeSync is a Python tool that automates the synchronization of local files with Claude.ai Projects
 *   [SigmaNight/basiliskLLM](https://github.com/SigmaNight/basiliskLLM) - 🐍 Where LLMs Unite
@@ -551,7 +551,7 @@
 *   [langbot-app/LangBot](https://github.com/langbot-app/LangBot) - Production-grade platform for building agentic IM bots - 生产级多平台智能机器人开发平台/ Agent、知识库编排、插件系统 / Bots for Discord / Slack / LINE / Telegram / WeChat(企业微信, 企微智能机器人, 公众号) / 飞书 / 钉钉 / QQ / Matrix e.g. Integrated with ChatGPT(GPT), DeepSeek, Dify, n8n, Langflow, Coze, Claude, Gemini, MiniMax, Ollama, SiliconFlow, Moonshot, openclaw / hermes agent, deerflow
 *   [irgolic/AutoPR](https://github.com/irgolic/AutoPR) - AutoPR autonomously wrote pull requests in response to issues
 *   [F33RNI/GPT-Telegramus](https://github.com/F33RNI/GPT-Telegramus) - 💜 The best free Telegram bot for ChatGPT, Microsoft Copilot (aka Bing AI / Sidney / EdgeGPT), Microsoft Copilot Designer (aka BingImageCreator), Gemini and Groq with stream writing, requests with images, multiple languages, admin control, data logging and more!
-*   [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A natural language interface for computers
+*   [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A lightweight coding agent for open models like Deepseek, Kimi, and Qwen
 *   [cheshire-cat-ai/core](https://github.com/cheshire-cat-ai/core) - AI agent microservice
 *   [otter-sec/bn-ebpf-solana](https://github.com/otter-sec/bn-ebpf-solana) - Binary Ninja plugin for Solana eBPF
 *   [mev-fyi/rag](https://github.com/mev-fyi/rag) - me.fyi python backend with core LLM and RAG logic, flask API, Twitter bot
@@ -832,7 +832,7 @@
 *   [leokwsw/Emoji-Keyboard](https://github.com/leokwsw/Emoji-Keyboard) - A simple library to add Emoji support to your Android Application
 *   [Kunzisoft/KeePassDX](https://github.com/Kunzisoft/KeePassDX) - Lightweight vault and password manager for Android, KeePassDX allows editing encrypted data in a single file in KeePass format and fill in the forms in a secure way.
 *   [urikdev/Urik](https://github.com/urikdev/Urik) - Privacy-focused Android keyboard with swipe typing, custom layouts, and password manager support. No tracking, 100% on-device, and fully open source.
-*   [OpenHub-Store/GitHub-Store](https://github.com/OpenHub-Store/GitHub-Store) - 🩵 A free, open-source app store for GitHub releases — browse, discover, and install apps with one click. Powered by Kotlin and Compose Multiplatform for Android & Desktop (Linux, MacOS, Windows).
+*   [kurikomi-labs/komi-store](https://github.com/kurikomi-labs/komi-store) - 🩵 A free, open-source app store for developers' releases on GitHub, Codeberg & Forgejo — browse, discover, and install apps with one click. Formerly GitHub Store.
 *   [sakethpathike/Otic](https://github.com/sakethpathike/Otic) - Minimal Android app to stream microphone input to the local network.
 *   [ReVanced/revanced-manager](https://github.com/ReVanced/revanced-manager) - 💊 Application to use ReVanced on Android
 *   [ReVanced/revanced-patcher](https://github.com/ReVanced/revanced-patcher) - 💉 ReVanced Patcher used to patch Android applications
@@ -1272,6 +1272,7 @@
 *   [elizaOS/eliza](https://github.com/elizaOS/eliza) - Open source agentic operating system
 *   [goat-sdk/goat](https://github.com/goat-sdk/goat) - The leading agentic finance toolkit for AI agents
 *   [passwordless-id/webauthn](https://github.com/passwordless-id/webauthn) - Webauthn / passkeys helper library to make your life easier. Client side, server side and demo included.
+*   [inngest/website](https://github.com/inngest/website) - Website and Documentation for Inngest
 *   [inngest/agent-kit](https://github.com/inngest/agent-kit) - AgentKit: Build multi-agent networks in TypeScript with deterministic routing and rich tooling via MCP.
 *   [saschaseniuk/vite-plugin-llms](https://github.com/saschaseniuk/vite-plugin-llms) - A Vite plugin that implements the llms.txt specification, enabling AI-optimized content alongside your routes. It automatically serves markdown files for LLM consumption and handles the llms.txt routing in development and production.
 *   [revokslab/codecrawl](https://github.com/revokslab/codecrawl) - 🌊 Turn entire codebases into LLM-ready data. Extract data, search, and llms.txt from any repo with a single API.
@@ -1385,7 +1386,7 @@
 *   [copilot-extensions/github-models-extension](https://github.com/copilot-extensions/github-models-extension) - Copilot Extension to connect and chat with GitHub Models
 *   [szympajka/bun-ter](https://github.com/szympajka/bun-ter) - Bun playground
 *   [molefrog/wouter](https://github.com/molefrog/wouter) - 🥢 A minimalist-friendly ~2.2KB routing for React and Preact
-*   [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) - Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.
+*   [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) - Memory and context engine + app that is extremely fast, scalable, and can be run fully locally. The Memory API for the AI era.
 *   [vite-pwa/vite-plugin-pwa](https://github.com/vite-pwa/vite-plugin-pwa) - Zero-config PWA for Vite
 *   [OpenSourceAGI/appdemo-dev-tools](https://github.com/OpenSourceAGI/appdemo-dev-tools) - 💻⚒️ NPM dev tools and core parts for Full Stack Starter App & Docs   🚀DEMO  https://appdemo.site
 *   [rafgraph/spa-github-pages](https://github.com/rafgraph/spa-github-pages) - Host single page apps with GitHub Pages
@@ -2451,7 +2452,7 @@
 *   [nautechsystems/nautilus\_trader](https://github.com/nautechsystems/nautilus_trader) - Production-grade Rust-native trading engine with deterministic event-driven architecture
 *   [jamsocket/y-sweet](https://github.com/jamsocket/y-sweet) - A realtime CRDT-based document store, backed by S3.
 *   [inkandswitch/keyhive](https://github.com/inkandswitch/keyhive) - 🗝️🐝✨ Rust workspace for Keyhive and related crates
-*   [ryoppippi/ccusage](https://github.com/ryoppippi/ccusage) - Analyze coding (agent) CLI token usage and costs from local data.
+*   [ccusage/ccusage](https://github.com/ccusage/ccusage) - Analyze coding (agent) CLI token usage and costs from local data.
 *   [haasonsaas/buildli](https://github.com/haasonsaas/buildli) - A Rust-native command-line assistant for understanding and navigating codebases in plain English
 *   [mehrantsi/feoxdb](https://github.com/mehrantsi/feoxdb) - FeOx (Iron-Oxide) is an ultra-fast, embedded and persisted KV store in pure Rust.
 *   [NiREvil/vless](https://github.com/NiREvil/vless) - v2ray subscription links
@@ -3222,7 +3223,6 @@
 *   [GeyserMC/GeyserWebsite](https://github.com/GeyserMC/GeyserWebsite) - Source code for the GeyserMC Website
 *   [mintlify/docs](https://github.com/mintlify/docs) - Official Mintlify documentation
 *   [multisynq/docs](https://github.com/multisynq/docs) -
-*   [inngest/website](https://github.com/inngest/website) - Website and Documentation for Inngest
 *   [mintlify/starter](https://github.com/mintlify/starter) - The starter kit for your mintlify project
 *   [spleafy/prismane-website](https://github.com/spleafy/prismane-website) -
 *   [magicuidesign/magicui](https://github.com/magicuidesign/magicui) - UI Library for Design Engineers. Animated components and effects you can copy and paste into your apps. Free. Open Source.
