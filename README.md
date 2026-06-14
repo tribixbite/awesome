@@ -245,7 +245,7 @@
 *   [anmolksachan/TheTimeMachine](https://github.com/anmolksachan/TheTimeMachine) - Weaponizing WaybackUrls for Recon, BugBounties , OSINT, Sensitive Endpoints and what not
 *   [sparfenyuk/mcp-proxy](https://github.com/sparfenyuk/mcp-proxy) - A bridge between Streamable HTTP and stdio MCP transports
 *   [CursorTouch/Windows-MCP](https://github.com/CursorTouch/Windows-MCP) - MCP Server for Computer Use in Windows
-*   [letta-ai/letta](https://github.com/letta-ai/letta) - Letta is the platform for building stateful agents: AI with advanced memory that can learn and self-improve over time.
+*   [letta-ai/letta](https://github.com/letta-ai/letta) - Platform for stateful agents: AI with advanced memory that can learn and self-improve over time.
 *   [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
 *   [searxng/searx-space](https://github.com/searxng/searx-space) - Statistics of the public SearXNG instances
 *   [nunchaku-ai/nunchaku](https://github.com/nunchaku-ai/nunchaku) - \[ICLR2025 Spotlight] SVDQuant: Absorbing Outliers by Low-Rank Components for 4-Bit Diffusion Models
