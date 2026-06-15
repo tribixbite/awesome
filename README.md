@@ -697,7 +697,7 @@
 
 *   [lissy93/web-check](https://github.com/lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
 *   [louislva/claude-peers-mcp](https://github.com/louislva/claude-peers-mcp) - Allow all your Claude Codes to message each other ad-hoc!
-*   [levensti/artifact](https://github.com/levensti/artifact) - Workspace for reading and discovering papers with AI
+*   [levensti/artifact](https://github.com/levensti/artifact) - Read and discover research papers with AI
 *   [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) - Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local
 *   [dmno-dev/varlock](https://github.com/dmno-dev/varlock) - AI-safe .env files: Schemas for agents, Secrets for humans.
 *   [saicharanpogul/seeker-sdk](https://github.com/saicharanpogul/seeker-sdk) - The complete TypeScript SDK for the Solana Seeker ecosystem.
@@ -1921,7 +1921,7 @@
 *   [inorganik/countUp.js](https://github.com/inorganik/countUp.js) - Animates a numerical value by counting to it
 *   [blitz-js/blitz](https://github.com/blitz-js/blitz) - ⚡️ The Missing Fullstack Toolkit for Next.js
 *   [feathersjs/feathers](https://github.com/feathersjs/feathers) - The API and real-time application framework
-*   [pubkey/rxdb](https://github.com/pubkey/rxdb) - A fast, local first, reactive Database for JavaScript Applications https://rxdb.info/
+*   [pubkey/rxdb](https://github.com/pubkey/rxdb) - The local-first database that runs on every JS runtime and replicates with your existing backend - no vendor, no lock-in - https://rxdb.info/
 *   [recharts/recharts](https://github.com/recharts/recharts) - Redefined chart library built with React and D3
 *   [marmelab/react-admin](https://github.com/marmelab/react-admin) - A frontend Framework for single-page applications on top of REST/GraphQL APIs, using TypeScript, React and Material Design
 *   [Wscats/compile-hero](https://github.com/Wscats/compile-hero) - 🔰Visual Studio Code Extension For Compiling Language
@@ -3136,7 +3136,7 @@
 *   [FineFindus/artem](https://github.com/FineFindus/artem) - Convert images from multiple formats (jpg, png, webp, etc…) to ASCII art, written in Rust
 *   [littleark/githut](https://github.com/littleark/githut) - Visualization of data from github archive.
 *   [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
-*   [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot) - An advanced discord music bot, supports Spotify, Soundcloud, YouTube with Shuffling, Volume Control and Web Dashboard with Slash Commands support!
+*   [ItzSudhan/Discord-MusicBot](https://github.com/ItzSudhan/Discord-MusicBot) - An advanced discord music bot, supports Spotify, Soundcloud, YouTube with Shuffling, Volume Control and Web Dashboard with Slash Commands support!
 *   [Clueless-Community/seamless-ui](https://github.com/Clueless-Community/seamless-ui) - The next gen UI made with simple HTML and Tailwind CSS. It's compatible with simple HTML, CSS static website or a React, Vue, Angular or Next.js Complex app. Zero JS and no-plugins installed.
 *   [anubra266/chakra-play](https://github.com/anubra266/chakra-play) - 🤽‍♀️ An advanced online playground for Chakra UI
 *   [MyMiniFactory/stl2gltf](https://github.com/MyMiniFactory/stl2gltf) - Convert STL to glb
@@ -3475,7 +3475,7 @@
 *   [craxid/rairu-kun](https://github.com/craxid/rairu-kun) - a Railway SSH VPS Lifetime
 *   [mindsdb/minds](https://github.com/mindsdb/minds) - General-purpose AI designed for knowledge workers — creators, strategists, and operators — and individuals seeking AI systems they can truly control to help them get work done, with full flexibility to extend and deploy anywhere (VPC, on-prem, or cloud).
 *   [Somi-AI/flowiseai-railway](https://github.com/Somi-AI/flowiseai-railway) - Flowise AI Railway Template that come with pre-configured persisted volume, PostGIS & private networking.
-*   [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white\_check\_mark:  The Node.js best practices list (July 2024)
+*   [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - ✅ The Node.js best practices list (July 2026)
 
 ## Smali
 
