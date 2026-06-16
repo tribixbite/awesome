@@ -63,9 +63,9 @@
 *   [PLpgSQL](#plpgsql)
 *   [Groovy](#groovy)
 *   [Rich Text Format](#rich-text-format)
+*   [Makefile](#makefile)
 *   [Handlebars](#handlebars)
 *   [Elm](#elm)
-*   [Makefile](#makefile)
 *   [Julia](#julia)
 *   [SystemVerilog](#systemverilog)
 *   [Sass](#sass)
@@ -81,6 +81,7 @@
 
 ## Python
 
+*   [cslsolow/SeeRepo](https://github.com/cslsolow/SeeRepo) - SeeRepo is a multimodal repository-understanding framework for coding agents that visualizes repository structure and dependencies as graphs while keeping code as text, significantly reducing token cost in repository-level tasks without sacrificing issue-resolution accuracy.
 *   [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector) - Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.
 *   [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) - A meta-harness for all your AI agents.  Omnigent provides a common layer over Claude Code, Codex, Pi, and the agents you write yourself: swap or combine harnesses without rewriting, keep them in check with policies and sandboxing, and collaborate in real time on the same live session, from any device.
 *   [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
@@ -274,6 +275,7 @@
 *   [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb) - 🛡️ Open-source and cloud-native Web Application Firewall (WAF)
 *   [byt3bl33d3r/CrackMapExec](https://github.com/byt3bl33d3r/CrackMapExec) - A swiss army knife for pentesting networks
 *   [pat-jj/s3](https://github.com/pat-jj/s3) - \[EMNLP'25] s3 - ⚡ Efficient & Effective Search Agent Training via RL for RAG (RLVR for Search with Minimal Data)
+*   [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex) - Incremental engine for long horizon agents 🌟 Star if you like it!
 *   [QwenLM/ParScale](https://github.com/QwenLM/ParScale) - Parallel Scaling Law for Language Model — Beyond Parameter and Inference Time Scaling
 *   [pixeltable/pixelagent](https://github.com/pixeltable/pixelagent) - Pixelagent  — Multimodal stateful agents
 *   [browser-use/workflow-use](https://github.com/browser-use/workflow-use) - ⚙️ Create and run workflows (RPA 2.0)
@@ -724,7 +726,7 @@
 *   [tribixbite/link-finder](https://github.com/tribixbite/link-finder) - findur.link — Bulk domain name search with smart mutations
 *   [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) - Create polished demo videos without editing skills. Mac/Windows/Linux
 *   [tribixbite/torch](https://github.com/tribixbite/torch) - Flashlight search engine — modern reimagination of parametrek. Filter 3,177 flashlights by 28 specs.
-*   [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) - GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration
+*   [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) - GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a git repository (Github, Gitlab, Azure, Local) or ZIP file, and get an interactive knowledge graph with a built in Graph RAG Agent. Perfect for code exploration
 *   [earendil-works/pi](https://github.com/earendil-works/pi) - AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
 *   [virattt/dexter](https://github.com/virattt/dexter) - An autonomous agent for deep financial research
 *   [steipete/summarize](https://github.com/steipete/summarize) - Point at any URL/YouTube/Podcast or file. Get the gist. CLI and Chrome Extension.
@@ -1412,7 +1414,7 @@
 *   [privatenumber/tsx](https://github.com/privatenumber/tsx) - ⚡️ TypeScript Execute | The easiest way to run TypeScript in Node.js
 *   [jordaaash/typescript-monorepo](https://github.com/jordaaash/typescript-monorepo) - A minimal, fast monorepo template for TypeScript (and React) projects with hot module reloading
 *   [StefanTerdell/zod-to-json-schema](https://github.com/StefanTerdell/zod-to-json-schema) - Converts Zod schemas to Json schemas
-*   [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Pioneering open-source coding agent
+*   [continuedev/continue](https://github.com/continuedev/continue) - open-source coding agent
 *   [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open framework for building developer portals
 *   [CarlosZiegler/zodios-stack](https://github.com/CarlosZiegler/zodios-stack) -
 *   [lzehrung/zod-express-openapi-routes](https://github.com/lzehrung/zod-express-openapi-routes) - POC for cozy API validation, typing, and OpenAPI/swagger schema generation with Zod and Express
@@ -2478,8 +2480,7 @@
 *   [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) - TensorZero is an open-source LLMOps platform that unifies an LLM gateway, observability, evaluation, optimization, and experimentation.
 *   [rivet-dev/rivet](https://github.com/rivet-dev/rivet) - Rivet Actors are the primitive for stateful workloads. Built for AI agents, collaborative apps, and durable execution.
 *   [rivet-dev/agent-os](https://github.com/rivet-dev/agent-os) - A portable open-source operating system for agents. ~6 ms coldstarts, 32x cheaper than sandboxes. Powered by WebAssembly and V8 isolates.
-*   [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - YC (S26) | AI that knows what you've seen, said, or heard. Records everything you do, say, hear 24/7, local, private, secure
-*   [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex) - Incremental engine for long horizon agents 🌟 Star if you like it!
+*   [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - YC (S26) | AI that knows what you've seen, said, or heard. Records everything you do, say, hear 24/7, local, private, secure. Connect to OpenClaw, Hermes agent and 100+ apps
 *   [jsr-io/jsr](https://github.com/jsr-io/jsr) - The open-source package registry for modern JavaScript and TypeScript
 *   [microsoft/edit](https://github.com/microsoft/edit) - We all edit.
 *   [yazaldefilimone/ghost.ai](https://github.com/yazaldefilimone/ghost.ai) - 🧠 your second brain at the computer.
@@ -3094,7 +3095,6 @@
 *   [tylerburleigh/nike-buy-bot](https://github.com/tylerburleigh/nike-buy-bot) - A bot using Node.js / puppeteer that buys a Nike shoe when it drops
 *   [dkkocab/WebSiteBot\_PS5](https://github.com/dkkocab/WebSiteBot_PS5) - This is a bot that will buy a PS5 through Walmart. It's written in python and uses selenium to interact with web pages. *WORK IN PROGRESS*
 *   [oriziv/sync-files-blob-storage-ha](https://github.com/oriziv/sync-files-blob-storage-ha) -
-*   [kylepaulsen/ResourceOverride](https://github.com/kylepaulsen/ResourceOverride) - An extension to help you gain full control of any website by redirecting traffic, replacing, editing, or inserting new content.
 
 ## HTML
 
@@ -3473,7 +3473,6 @@
 
 *   [autowarefoundation/autoware](https://github.com/autowarefoundation/autoware) - Autoware - the world's leading open-source software project for autonomous driving
 *   [craxid/rairu-kun](https://github.com/craxid/rairu-kun) - a Railway SSH VPS Lifetime
-*   [mindsdb/minds](https://github.com/mindsdb/minds) - General-purpose AI designed for knowledge workers — creators, strategists, and operators — and individuals seeking AI systems they can truly control to help them get work done, with full flexibility to extend and deploy anywhere (VPC, on-prem, or cloud).
 *   [Somi-AI/flowiseai-railway](https://github.com/Somi-AI/flowiseai-railway) - Flowise AI Railway Template that come with pre-configured persisted volume, PostGIS & private networking.
 *   [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - ✅ The Node.js best practices list (July 2026)
 
@@ -3637,6 +3636,12 @@
 
 *   [langchain-ai/opengpts](https://github.com/langchain-ai/opengpts) -
 
+## Makefile
+
+*   [mindsdb/minds](https://github.com/mindsdb/minds) - General-purpose AI designed for knowledge workers — creators, strategists, and operators — and individuals seeking AI systems they can truly control to help them get work done, with full flexibility to extend and deploy anywhere (VPC, on-prem, or cloud).
+*   [teaxyz/white-paper](https://github.com/teaxyz/white-paper) - how will the protocol work?
+*   [mr-karan/notes](https://github.com/mr-karan/notes) - Collection of my byte sized notes on programming and other random topics.
+
 ## Handlebars
 
 *   [cooperativamental/soda-additional-templates](https://github.com/cooperativamental/soda-additional-templates) - Additional Templates for the Soda Machine
@@ -3646,11 +3651,6 @@
 *   [ronanyeah/pow-dapp](https://github.com/ronanyeah/pow-dapp) - The world's first proof-of-work NFT 💥
 *   [ronanyeah/solana-connect](https://github.com/ronanyeah/solana-connect) - Standalone wallet UI for Solana dApps
 *   [bigtimetapin/somos-datum](https://github.com/bigtimetapin/somos-datum) - token-gated decentralized uploads & downloads of files for the solana community
-
-## Makefile
-
-*   [teaxyz/white-paper](https://github.com/teaxyz/white-paper) - how will the protocol work?
-*   [mr-karan/notes](https://github.com/mr-karan/notes) - Collection of my byte sized notes on programming and other random topics.
 
 ## Julia
 
