@@ -98,7 +98,7 @@
 *   [material-foundation/material-color-utilities](https://github.com/material-foundation/material-color-utilities) - Color libraries for Material You
 *   [stripe/link-cli](https://github.com/stripe/link-cli) - Let your agents spend on your behalf. Your payment credentials are never exposed. You approve every purchase.
 *   [withastro/flue](https://github.com/withastro/flue) - The sandbox agent framework.
-*   [mksglu/context-mode](https://github.com/mksglu/context-mode) - Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 15 platforms
+*   [mksglu/context-mode](https://github.com/mksglu/context-mode) - Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 17 platforms
 *   [craft-ai-agents/craft-agents-oss](https://github.com/craft-ai-agents/craft-agents-oss) -
 *   [ilbertt/parsh](https://github.com/ilbertt/parsh) - Build type-safe CLIs in TypeScript
 *   [amruthpillai/reactive-resume](https://github.com/amruthpillai/reactive-resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
@@ -313,7 +313,7 @@
 *   [janwilmake/contextbuilding](https://github.com/janwilmake/contextbuilding) - Collaborative Context Editor
 *   [modelcontextprotocol/modelcontextprotocol](https://github.com/modelcontextprotocol/modelcontextprotocol) - Specification and documentation for the Model Context Protocol
 *   [modelcontextprotocol/typescript-sdk](https://github.com/modelcontextprotocol/typescript-sdk) - The official TypeScript SDK for Model Context Protocol servers and clients
-*   [rivet-dev/agent-os](https://github.com/rivet-dev/agent-os) - A portable open-source operating system for agents. ~6 ms coldstarts, 32x cheaper than sandboxes. Powered by WebAssembly and V8 isolates.
+*   [rivet-dev/agentos](https://github.com/rivet-dev/agentos) - agentOS is a portable open-source operating system for agents. ~6 ms coldstarts, 32x cheaper than sandboxes. Powered by WebAssembly and V8 isolates.
 *   [vermaysha/elysia-compress](https://github.com/vermaysha/elysia-compress) - Elysia Compression utils that works with Bun
 *   [ithacaxyz/porto](https://github.com/ithacaxyz/porto) - Authentication & payments on the web
 *   [janwilmake/uit](https://github.com/janwilmake/uit) - Library for performant, modular, low-memory file processing at scale, in the Cloud
@@ -902,7 +902,7 @@
 *   [millsp/ts-toolbelt](https://github.com/millsp/ts-toolbelt) - 👷 TypeScript's largest type utility library
 *   [icebreakerlabs/merlin](https://github.com/icebreakerlabs/merlin) - All-in-one NFT minter app
 *   [mockoon/mockoon](https://github.com/mockoon/mockoon) - Mockoon is the easiest and quickest way to run mock APIs locally. No remote deployment, no account required, open source.
-*   [linsa-io/linsa](https://github.com/linsa-io/linsa) - Work. Save. Share. Privately.
+*   [linsa-io/linsa.io](https://github.com/linsa-io/linsa.io) - Work. Save. Share. Privately.
 *   [BrainJS/brain.js](https://github.com/BrainJS/brain.js) - 🤖 GPU accelerated Neural networks in JavaScript for Browsers and Node.js
 *   [mswjs/msw](https://github.com/mswjs/msw) - Industry standard API mocking for JavaScript.
 *   [Envuso/framework](https://github.com/Envuso/framework) - Envuso is a backend framework focusing building apis using Fastify and MongoDB support.
