@@ -12,9 +12,9 @@
 *   [Kotlin](#kotlin)
 *   [C++](#c-1)
 *   [Java](#java)
-*   [Go](#go)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [Shell](#shell)
+*   [Go](#go)
 *   [JavaScript](#javascript)
 *   [HTML](#html)
 *   [Crystal](#crystal)
@@ -279,7 +279,7 @@
 *   [juehang/vscode-mcp-server](https://github.com/juehang/vscode-mcp-server) - MCP server to expose VS Code editing features to an LLM for AI coding
 *   [azer/react-analyzer-mcp](https://github.com/azer/react-analyzer-mcp) - MCP server for analyzing & generating docs for React code locally
 *   [lamemind/mcp-server-multiverse](https://github.com/lamemind/mcp-server-multiverse) - A middleware server that enables multiple isolated instances of the same MCP servers to coexist independently with unique namespaces and configurations.
-*   [TencentEdgeOne/edgeone-pages-mcp](https://github.com/TencentEdgeOne/edgeone-pages-mcp) - An MCP service designed for deploying HTML content to EdgeOne Pages and obtaining an accessible public URL.
+*   [TencentEdgeOne/edgeone-makers-mcp](https://github.com/TencentEdgeOne/edgeone-makers-mcp) - An MCP service designed for deploying HTML content to EdgeOne Pages and obtaining an accessible public URL.
 *   [winfunc/opcode](https://github.com/winfunc/opcode) - A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.
 *   [outerbase/browsable-durable-object](https://github.com/outerbase/browsable-durable-object) - Extend Cloudflare Durable Objects to be browsable by database tools such as Outerbase Studio
 *   [mobile-next/mobile-mcp](https://github.com/mobile-next/mobile-mcp) - Model Context Protocol Server for Mobile Automation and Scraping (iOS, Android, Emulators, Simulators and Real Devices)
@@ -1361,6 +1361,7 @@
 *   [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
 *   [typescript-cheatsheets/react](https://github.com/typescript-cheatsheets/react) - Cheatsheets for experienced React developers getting started with TypeScript
 *   [philipmulcahy/azad](https://github.com/philipmulcahy/azad) - amazon order history reporter chrome extension
+*   [jorenvandeweyer/snitch-bot](https://github.com/jorenvandeweyer/snitch-bot) - Discord bot that listen for certain strings in messages to tell you about them.
 
 ## miscellaneous
 
@@ -1523,7 +1524,7 @@
 *   [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) - World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.
 *   [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) - 754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT\&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 26 security domains · Apache 2.0
 *   [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) - AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
-*   [chopratejas/headroom](https://github.com/chopratejas/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.
+*   [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.
 *   [cslsolow/SeeRepo](https://github.com/cslsolow/SeeRepo) - SeeRepo is a multimodal repository-understanding framework for coding agents that visualizes repository structure and dependencies as graphs while keeping code as text, significantly reducing token cost in repository-level tasks without sacrificing issue-resolution accuracy.
 *   [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector) - Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.
 *   [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) - Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.
@@ -2654,9 +2655,111 @@
 *   [LuigiVampa92/XLogger](https://github.com/LuigiVampa92/XLogger) - Xposed module that allows to sniff and record logs of NFC and Bluetooth communication on device
 *   [xtclang/xvm](https://github.com/xtclang/xvm) - Ecstasy and XVM
 
+## Jupyter Notebook
+
+*   [hhatam/CosmicWeb](https://github.com/hhatam/CosmicWeb) - Pipeline for reconstructing COSMOS-Web large-scale structure using weighted KDE, producing per-slice density maps, per-object overdensities, cosmic-web evolution visualizations, and an interactive AR exploration tool.
+*   [Armaggheddon/BricksFinder](https://github.com/Armaggheddon/BricksFinder) - BricksFinder is your ultimate LEGO sidekick 🧱🔍—a magical tool that lets you search for LEGO minifigures and bricks using text or images. Whether you're hunting for that elusive piece or just geeking out, we’ve got you covered! 🚀✨
+*   [google-gemini/cookbook](https://github.com/google-gemini/cookbook) - Examples and guides for using the Gemini API
+*   [jmiao24/Paper2Agent](https://github.com/jmiao24/Paper2Agent) - Paper2Agent is a multi-agent AI system that automatically transforms research papers into interactive AI agents with minimal human input.
+*   [google-gemini/nano-banana-hackathon-kit](https://github.com/google-gemini/nano-banana-hackathon-kit) - 🍌 The official starter kit for the Nano Banana Hackathon. Clone this repo to get building fast!
+*   [AI4Finance-Foundation/FinRL](https://github.com/AI4Finance-Foundation/FinRL) - FinRL®:  Financial Reinforcement Learning. 🔥
+*   [TengHu/Generating-Sequences-With-Recurrent-Neural-Networks](https://github.com/TengHu/Generating-Sequences-With-Recurrent-Neural-Networks) - Implementation of Paper Generating Sequences With Recurrent Neural Networks
+*   [proshian/neural-swipe-typing](https://github.com/proshian/neural-swipe-typing) - A transformer that decodes swipes across a smartphone keyboard into words (gesture / swipe / glide typing) (enhanced yandex cup solution)
+*   [MARKTECHPOST-AI-MEDIA-INC/AI-Agents-Projects-Tutorials](https://github.com/MARKTECHPOST-AI-MEDIA-INC/AI-Agents-Projects-Tutorials) - Multi-agent systems, memory, planning, reasoning loops
+*   [microsoft/mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners) - This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real-world, cross-language examples in .NET, Java, TypeScript, JavaScript, Rust and Python. Designed for developers, it focuses on practical techniques for building modular, scalable, and secure AI workflows from session setup to service orchestration.
+*   [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
+*   [facebookresearch/audiocraft](https://github.com/facebookresearch/audiocraft) - Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable music generation LM with textual and melodic conditioning.
+*   [google-gemini/gemini-fullstack-langgraph-quickstart](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart) - Get started with building Fullstack Agents using Gemini 2.5 and LangGraph
+*   [AnswerDotAI/llm-ctx](https://github.com/AnswerDotAI/llm-ctx) - Create an LLM XML context document from an llms.txt file
+*   [AnswerDotAI/llms-txt](https://github.com/AnswerDotAI/llms-txt) - The /llms.txt file, helping language models use your website
+*   [NirDiamant/GenAI\_Agents](https://github.com/NirDiamant/GenAI_Agents) - 50+ tutorials and implementations for Generative AI Agent techniques, from basic conversational bots to complex multi-agent systems.
+*   [lsb/sqlite-vector-search](https://github.com/lsb/sqlite-vector-search) -
+*   [spring-projects-2024/wiki-savvy-rag](https://github.com/spring-projects-2024/wiki-savvy-rag) - Finetuned an LLM to build a Wikipedia-backed RAG system expert about STEM subjects. Features a streamlit demo.
+*   [cyberark/FuzzyAI](https://github.com/cyberark/FuzzyAI) - A powerful tool for automated LLM fuzzing. It is designed to help developers and security researchers identify and mitigate potential jailbreaks in their LLM APIs.
+*   [artidoro/qlora](https://github.com/artidoro/qlora) - QLoRA: Efficient Finetuning of Quantized LLMs
+*   [NVIDIA/cosmos](https://github.com/NVIDIA/cosmos) - NVIDIA Cosmos is an open platform of world models, datasets, and tools that enables developers to build Physical AI for robots, autonomous vehicles, smart infrastructure, and more.
+*   [microsoft/RecAI](https://github.com/microsoft/RecAI) - Bridging LLM and Recommender System.
+*   [facebookresearch/sam2](https://github.com/facebookresearch/sam2) - The repository provides code for running inference with the Meta Segment Anything Model 2 (SAM 2), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.
+*   [facebookresearch/segment-anything](https://github.com/facebookresearch/segment-anything) - The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.
+*   [aiplanethub/openagi](https://github.com/aiplanethub/openagi) - Paving the way for open agents and AGI for all.
+*   [oyvindln/vhs-decode](https://github.com/oyvindln/vhs-decode) - Software defined VHS decoder - Fork (maybe temporary) of the ld-decode Laserdisc rf decoder
+*   [soon-yau/visconet](https://github.com/soon-yau/visconet) - Official Repo of ViscoNet: Bridging and Harmonizing Visual and Textual Conditioning for ControlNet
+*   [wiseaidev/rust-web3-solana](https://github.com/wiseaidev/rust-web3-solana) -  Rust For Web3 and Solana Development Encyclopedia 🌐 (WIP)
+*   [julep-ai/julep](https://github.com/julep-ai/julep) - Firebase for AI agents
+*   [aiplanethub/beyondllm](https://github.com/aiplanethub/beyondllm) - Build, evaluate and observe LLM apps
+*   [dylanhogg/llmgraph](https://github.com/dylanhogg/llmgraph) - Create knowledge graphs with LLMs
+*   [BaranziniLab/KG\_RAG](https://github.com/BaranziniLab/KG_RAG) - Empower Large Language Models (LLM) using Knowledge Graph based Retrieval-Augmented Generation (KG-RAG) for knowledge intensive tasks
+*   [neo4j-labs/llm-graph-builder](https://github.com/neo4j-labs/llm-graph-builder) - Neo4j graph construction from unstructured data using LLMs
+*   [deepset-ai/haystack-cookbook](https://github.com/deepset-ai/haystack-cookbook) - 👩🏻‍🍳 A collection of example notebooks using Haystack
+*   [pathwaycom/llm-app](https://github.com/pathwaycom/llm-app) - Ready-to-run cloud templates for RAG, AI pipelines, and enterprise search with live data. 🐳Docker-friendly.⚡Always in sync with Sharepoint, Google Drive, S3, Kafka, PostgreSQL, real-time data APIs, and more.
+*   [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks) - A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
+*   [mshumer/ai-journalist](https://github.com/mshumer/ai-journalist) -
+*   [Stability-AI/StableLM](https://github.com/Stability-AI/StableLM) - StableLM: Stability AI Language Models
+*   [qunash/stable-diffusion-2-gui](https://github.com/qunash/stable-diffusion-2-gui) - Lightweight Stable Diffusion v 2.1 web UI: txt2img, img2img, depth2img, inpaint and upscale4x.
+*   [cloneofsimo/paint-with-words-sd](https://github.com/cloneofsimo/paint-with-words-sd) - Implementation of Paint-with-words with Stable Diffusion : method from eDiff-I that let you generate image from text-labeled segmentation map.
+*   [WongKinYiu/yolov7](https://github.com/WongKinYiu/yolov7) - Implementation of paper - YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors
+*   [karpathy/nn-zero-to-hero](https://github.com/karpathy/nn-zero-to-hero) - Neural Networks: Zero to Hero
+*   [victordibia/peacasso](https://github.com/victordibia/peacasso) - UI interface for experimenting with multimodal (text, image) models (stable diffusion).
+*   [google-deepmind/deepmind-research](https://github.com/google-deepmind/deepmind-research) - This repository contains implementations and illustrative code to accompany DeepMind publications
+*   [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
+*   [alembics/disco-diffusion](https://github.com/alembics/disco-diffusion) -
+*   [RuolinZheng08/twewy-discord-chatbot](https://github.com/RuolinZheng08/twewy-discord-chatbot) - Discord AI Chatbot using DialoGPT, trained on the game transcript of The World Ends With You
+*   [benyaminahmed/nft-image-generator](https://github.com/benyaminahmed/nft-image-generator) -
+*   [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
+*   [PacktPublishing/Machine-Learning-for-Algorithmic-Trading-Second-Edition\_Original](https://github.com/PacktPublishing/Machine-Learning-for-Algorithmic-Trading-Second-Edition_Original) - Machine Learning for Algorithmic Trading, Second Edition - published by Packt
+
+## Shell
+
+*   [termux/termux-docker](https://github.com/termux/termux-docker) - Termux environment packaged as Docker image.
+*   [termux-pacman/pacman-alternatives](https://github.com/termux-pacman/pacman-alternatives) - A utility for managing symbolic links (alternatives) of pacman packages.
+*   [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .claude directory.
+*   [githubnext/monaspace](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code
+*   [termux/termux-api-package](https://github.com/termux/termux-api-package) - Termux package containing scripts to call functionality in Termux:API.
+*   [tribixbite/termux-tools](https://github.com/tribixbite/termux-tools) - Termux ARM64 tools, scripts, and utilities for Android development
+*   [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
+*   [aviaryan/awesome-no-login-web-apps](https://github.com/aviaryan/awesome-no-login-web-apps) - 🚀 Awesome (free) web apps that work without login
+*   [frankbria/ralph-claude-code](https://github.com/frankbria/ralph-claude-code) - Autonomous AI development loop for Claude Code with intelligent exit detection
+*   [lexaterra/Superfast-Search-Everything-Android-](https://github.com/lexaterra/Superfast-Search-Everything-Android-) - Superfast Search-Everything Android
+*   [termux-pacman/glibc-packages](https://github.com/termux-pacman/glibc-packages) - Glibc packages for termux
+*   [Gentleman-Programming/gentleman-guardian-angel](https://github.com/Gentleman-Programming/gentleman-guardian-angel) - 😇 Gentleman Guardian Angel (gga) - Provider-agnostic code review using AI. Use Claude, Gemini, Codex, Ollama to enforce your coding standards.
+*   [jqssun/android-helium-browser](https://github.com/jqssun/android-helium-browser) - Secure open-source Android browser with support for extensions
+*   [tribixbite/bun-on-termux](https://github.com/tribixbite/bun-on-termux) - Native Bun JavaScript runtime working on Termux Android using glibc-runner
+*   [microsoft/amplifier](https://github.com/microsoft/amplifier) -
+*   [winapps-org/winapps](https://github.com/winapps-org/winapps) -  Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/winapps/
+*   [sabamdarif/termux-desktop](https://github.com/sabamdarif/termux-desktop) - Install a full Linux desktop environment on your Android device with Termux X11 ( VNC optional) and also enable hardware acceleration
+*   [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
+*   [termux-user-repository/tur](https://github.com/termux-user-repository/tur) - A place for all types of Termux packages.
+*   [automazeio/ccpm](https://github.com/automazeio/ccpm) - Project management skill system for Agents that uses GitHub Issues and Git worktrees for parallel agent execution.
+*   [VoltAgent/awesome-claude-code-subagents](https://github.com/VoltAgent/awesome-claude-code-subagents) - A collection of 100+ specialized Claude Code subagents covering a wide range of development use cases
+*   [vet-run/vet](https://github.com/vet-run/vet) - vet is a command-line tool that acts as a safety net for the risky curl | bash pattern. It lets you inspect, diff against previous versions, and lint remote scripts before asking for your explicit approval to execute. Promoting a safer, more transparent way to handle remote code execution.
+*   [cdnjs/packages](https://github.com/cdnjs/packages) - 📦 Package configurations - The #1 free and open source CDN built to make life easier for developers.
+*   [a2aproject/A2A](https://github.com/a2aproject/A2A) - Agent2Agent (A2A) is an open protocol enabling communication and interoperability between opaque agentic applications.
+*   [ImBIOS/bun-node](https://github.com/ImBIOS/bun-node) - Pre-configured Bun and Node.js Docker Images for Seamless, Optimized Development and Deployment.
+*   [simonw/git-scraper-template](https://github.com/simonw/git-scraper-template) - Template repository for setting up a new git scraper
+*   [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server) - Docker image that provides a Minecraft Server for Java Edition that automatically installs/upgrades versions, modloaders, modpacks and more at startup
+*   [KindleModding/WinterBreak](https://github.com/KindleModding/WinterBreak) - It do a thing
+*   [playtron-os/gameos](https://github.com/playtron-os/gameos) - Playtron GameOS provides a seamless and secure Linux gaming experience.
+*   [termux/termux-packages](https://github.com/termux/termux-packages) - A package build system for Termux.
+*   [Hax4us/Nethunter-In-Termux](https://github.com/Hax4us/Nethunter-In-Termux) - This is a script by which you can install Kali nethunter (Kali Linux) in your termux application without rooted phone
+*   [ShanSuharban/termux4all](https://github.com/ShanSuharban/termux4all) - termux4all is not a project or something. This is some packages that can be used for the development and security purposes on android phone using the termux app itself. The main purpose of  this project is to install & setup all the important tools or packages in termux without researching a lot.
+*   [aj-seven/Android-Sysinfo](https://github.com/aj-seven/Android-Sysinfo) - A tool efficiently displays Android system details on Termux.
+*   [hackerb9/lsix](https://github.com/hackerb9/lsix) - Like "ls", but for images. Shows thumbnails in terminal using sixel graphics.
+*   [hcengineering/huly-selfhost](https://github.com/hcengineering/huly-selfhost) - Huly for Self Hosting
+*   [ArchiveTeam/IA.BAK](https://github.com/ArchiveTeam/IA.BAK) - We back up a lot of stuff from around the web; now it's time to back up the Internet Archive, just in case.
+*   [TermuxArch/TermuxArch](https://github.com/TermuxArch/TermuxArch) - Experience the pleasure of the Linux command prompt in Android, Chromebook, Fire OS and Windows on smartphone, smartTV, tablet and wearable https://termuxarch.github.io/TermuxArch/
+*   [AbdBarho/stable-diffusion-webui-docker](https://github.com/AbdBarho/stable-diffusion-webui-docker) - Easy Docker setup for Stable Diffusion with user-friendly UI
+*   [h4r5h1t/webcopilot](https://github.com/h4r5h1t/webcopilot) - An automation tool that enumerates subdomains then filters out xss, sqli, open redirect, lfi, ssrf and rce parameters and then scans for vulnerabilities.
+*   [foospidy/payloads](https://github.com/foospidy/payloads) - Git All the Payloads! A collection of web attack payloads.
+*   [many-passwords/many-passwords](https://github.com/many-passwords/many-passwords) - Default credentials list. 🐱‍💻 Leave a star if you like this project! (that motivates me)⭐️
+*   [wuxianlin/android\_rom\_tools](https://github.com/wuxianlin/android_rom_tools) - unpack/deodex/decompile tools for Android ROM
+*   [ax/apk.sh](https://github.com/ax/apk.sh) - Makes reverse engineering Android apps easier, automating repetitive tasks like pulling, decoding, rebuilding and patching an APK.
+*   [labbots/google-drive-upload](https://github.com/labbots/google-drive-upload) - Bash scripts to upload files to google drive
+*   [CryptoManufaktur-io/solana-rpc](https://github.com/CryptoManufaktur-io/solana-rpc) - Solana RPC only node with traefik
+*   [d3/d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar\_chart::chart\_with\_upwards\_trend::tada:
+*   [TheFrenchGhosty/TheFrenchGhostys-Ultimate-YouTube-DL-Scripts-Collection](https://github.com/TheFrenchGhosty/TheFrenchGhostys-Ultimate-YouTube-DL-Scripts-Collection) - The ultimate collection of scripts for YouTube-DL.
+
 ## Go
 
-*   [GTG-Labs/sangria](https://github.com/GTG-Labs/sangria) - Payment Infrastructure for Agents
 *   [entireio/git-sync](https://github.com/entireio/git-sync) - 🪩 Mirror git refs from a source remote to a target remote without a local checkout. Packfiles stream directly over Smart HTTP and an in-memory object store.
 *   [CJackHwang/ds2api](https://github.com/CJackHwang/ds2api) - DeepSeek-Compatible Middleware Interface: A technical exploration project in Go, focusing on high-concurrency protocol adaptation. It serves as a reference implementation for converting diverse web protocols into standardized formats.
 *   [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) - Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 3.1 Pro, GPT 5.5, Grok 4.3, Claude model through API
@@ -2765,109 +2868,6 @@
 *   [solana-labs/solana-ping-api](https://github.com/solana-labs/solana-ping-api) - solana ping api server
 *   [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative
 *   [zincsearch/zincsearch](https://github.com/zincsearch/zincsearch) - ZincSearch . A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
-
-## Jupyter Notebook
-
-*   [hhatam/CosmicWeb](https://github.com/hhatam/CosmicWeb) - Pipeline for reconstructing COSMOS-Web large-scale structure using weighted KDE, producing per-slice density maps, per-object overdensities, cosmic-web evolution visualizations, and an interactive AR exploration tool.
-*   [Armaggheddon/BricksFinder](https://github.com/Armaggheddon/BricksFinder) - BricksFinder is your ultimate LEGO sidekick 🧱🔍—a magical tool that lets you search for LEGO minifigures and bricks using text or images. Whether you're hunting for that elusive piece or just geeking out, we’ve got you covered! 🚀✨
-*   [google-gemini/cookbook](https://github.com/google-gemini/cookbook) - Examples and guides for using the Gemini API
-*   [jmiao24/Paper2Agent](https://github.com/jmiao24/Paper2Agent) - Paper2Agent is a multi-agent AI system that automatically transforms research papers into interactive AI agents with minimal human input.
-*   [google-gemini/nano-banana-hackathon-kit](https://github.com/google-gemini/nano-banana-hackathon-kit) - 🍌 The official starter kit for the Nano Banana Hackathon. Clone this repo to get building fast!
-*   [AI4Finance-Foundation/FinRL](https://github.com/AI4Finance-Foundation/FinRL) - FinRL®:  Financial Reinforcement Learning. 🔥
-*   [TengHu/Generating-Sequences-With-Recurrent-Neural-Networks](https://github.com/TengHu/Generating-Sequences-With-Recurrent-Neural-Networks) - Implementation of Paper Generating Sequences With Recurrent Neural Networks
-*   [proshian/neural-swipe-typing](https://github.com/proshian/neural-swipe-typing) - A transformer that decodes swipes across a smartphone keyboard into words (gesture / swipe / glide typing) (enhanced yandex cup solution)
-*   [MARKTECHPOST-AI-MEDIA-INC/AI-Agents-Projects-Tutorials](https://github.com/MARKTECHPOST-AI-MEDIA-INC/AI-Agents-Projects-Tutorials) - Multi-agent systems, memory, planning, reasoning loops
-*   [microsoft/mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners) - This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real-world, cross-language examples in .NET, Java, TypeScript, JavaScript, Rust and Python. Designed for developers, it focuses on practical techniques for building modular, scalable, and secure AI workflows from session setup to service orchestration.
-*   [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
-*   [facebookresearch/audiocraft](https://github.com/facebookresearch/audiocraft) - Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable music generation LM with textual and melodic conditioning.
-*   [google-gemini/gemini-fullstack-langgraph-quickstart](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart) - Get started with building Fullstack Agents using Gemini 2.5 and LangGraph
-*   [AnswerDotAI/llm-ctx](https://github.com/AnswerDotAI/llm-ctx) - Create an LLM XML context document from an llms.txt file
-*   [AnswerDotAI/llms-txt](https://github.com/AnswerDotAI/llms-txt) - The /llms.txt file, helping language models use your website
-*   [NirDiamant/GenAI\_Agents](https://github.com/NirDiamant/GenAI_Agents) - 50+ tutorials and implementations for Generative AI Agent techniques, from basic conversational bots to complex multi-agent systems.
-*   [lsb/sqlite-vector-search](https://github.com/lsb/sqlite-vector-search) -
-*   [spring-projects-2024/wiki-savvy-rag](https://github.com/spring-projects-2024/wiki-savvy-rag) - Finetuned an LLM to build a Wikipedia-backed RAG system expert about STEM subjects. Features a streamlit demo.
-*   [cyberark/FuzzyAI](https://github.com/cyberark/FuzzyAI) - A powerful tool for automated LLM fuzzing. It is designed to help developers and security researchers identify and mitigate potential jailbreaks in their LLM APIs.
-*   [artidoro/qlora](https://github.com/artidoro/qlora) - QLoRA: Efficient Finetuning of Quantized LLMs
-*   [NVIDIA/cosmos](https://github.com/NVIDIA/cosmos) - NVIDIA Cosmos is an open platform of world models, datasets, and tools that enables developers to build Physical AI for robots, autonomous vehicles, smart infrastructure, and more.
-*   [microsoft/RecAI](https://github.com/microsoft/RecAI) - Bridging LLM and Recommender System.
-*   [facebookresearch/sam2](https://github.com/facebookresearch/sam2) - The repository provides code for running inference with the Meta Segment Anything Model 2 (SAM 2), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.
-*   [facebookresearch/segment-anything](https://github.com/facebookresearch/segment-anything) - The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.
-*   [aiplanethub/openagi](https://github.com/aiplanethub/openagi) - Paving the way for open agents and AGI for all.
-*   [oyvindln/vhs-decode](https://github.com/oyvindln/vhs-decode) - Software defined VHS decoder - Fork (maybe temporary) of the ld-decode Laserdisc rf decoder
-*   [soon-yau/visconet](https://github.com/soon-yau/visconet) - Official Repo of ViscoNet: Bridging and Harmonizing Visual and Textual Conditioning for ControlNet
-*   [wiseaidev/rust-web3-solana](https://github.com/wiseaidev/rust-web3-solana) -  Rust For Web3 and Solana Development Encyclopedia 🌐 (WIP)
-*   [julep-ai/julep](https://github.com/julep-ai/julep) - Firebase for AI agents
-*   [aiplanethub/beyondllm](https://github.com/aiplanethub/beyondllm) - Build, evaluate and observe LLM apps
-*   [dylanhogg/llmgraph](https://github.com/dylanhogg/llmgraph) - Create knowledge graphs with LLMs
-*   [BaranziniLab/KG\_RAG](https://github.com/BaranziniLab/KG_RAG) - Empower Large Language Models (LLM) using Knowledge Graph based Retrieval-Augmented Generation (KG-RAG) for knowledge intensive tasks
-*   [neo4j-labs/llm-graph-builder](https://github.com/neo4j-labs/llm-graph-builder) - Neo4j graph construction from unstructured data using LLMs
-*   [deepset-ai/haystack-cookbook](https://github.com/deepset-ai/haystack-cookbook) - 👩🏻‍🍳 A collection of example notebooks using Haystack
-*   [pathwaycom/llm-app](https://github.com/pathwaycom/llm-app) - Ready-to-run cloud templates for RAG, AI pipelines, and enterprise search with live data. 🐳Docker-friendly.⚡Always in sync with Sharepoint, Google Drive, S3, Kafka, PostgreSQL, real-time data APIs, and more.
-*   [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks) - A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
-*   [mshumer/ai-journalist](https://github.com/mshumer/ai-journalist) -
-*   [Stability-AI/StableLM](https://github.com/Stability-AI/StableLM) - StableLM: Stability AI Language Models
-*   [qunash/stable-diffusion-2-gui](https://github.com/qunash/stable-diffusion-2-gui) - Lightweight Stable Diffusion v 2.1 web UI: txt2img, img2img, depth2img, inpaint and upscale4x.
-*   [cloneofsimo/paint-with-words-sd](https://github.com/cloneofsimo/paint-with-words-sd) - Implementation of Paint-with-words with Stable Diffusion : method from eDiff-I that let you generate image from text-labeled segmentation map.
-*   [WongKinYiu/yolov7](https://github.com/WongKinYiu/yolov7) - Implementation of paper - YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors
-*   [karpathy/nn-zero-to-hero](https://github.com/karpathy/nn-zero-to-hero) - Neural Networks: Zero to Hero
-*   [victordibia/peacasso](https://github.com/victordibia/peacasso) - UI interface for experimenting with multimodal (text, image) models (stable diffusion).
-*   [google-deepmind/deepmind-research](https://github.com/google-deepmind/deepmind-research) - This repository contains implementations and illustrative code to accompany DeepMind publications
-*   [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
-*   [alembics/disco-diffusion](https://github.com/alembics/disco-diffusion) -
-*   [RuolinZheng08/twewy-discord-chatbot](https://github.com/RuolinZheng08/twewy-discord-chatbot) - Discord AI Chatbot using DialoGPT, trained on the game transcript of The World Ends With You
-*   [benyaminahmed/nft-image-generator](https://github.com/benyaminahmed/nft-image-generator) -
-*   [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
-*   [PacktPublishing/Machine-Learning-for-Algorithmic-Trading-Second-Edition\_Original](https://github.com/PacktPublishing/Machine-Learning-for-Algorithmic-Trading-Second-Edition_Original) - Machine Learning for Algorithmic Trading, Second Edition - published by Packt
-
-## Shell
-
-*   [termux/termux-docker](https://github.com/termux/termux-docker) - Termux environment packaged as Docker image.
-*   [termux-pacman/pacman-alternatives](https://github.com/termux-pacman/pacman-alternatives) - A utility for managing symbolic links (alternatives) of pacman packages.
-*   [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .claude directory.
-*   [githubnext/monaspace](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code
-*   [termux/termux-api-package](https://github.com/termux/termux-api-package) - Termux package containing scripts to call functionality in Termux:API.
-*   [tribixbite/termux-tools](https://github.com/tribixbite/termux-tools) - Termux ARM64 tools, scripts, and utilities for Android development
-*   [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
-*   [aviaryan/awesome-no-login-web-apps](https://github.com/aviaryan/awesome-no-login-web-apps) - 🚀 Awesome (free) web apps that work without login
-*   [frankbria/ralph-claude-code](https://github.com/frankbria/ralph-claude-code) - Autonomous AI development loop for Claude Code with intelligent exit detection
-*   [lexaterra/Superfast-Search-Everything-Android-](https://github.com/lexaterra/Superfast-Search-Everything-Android-) - Superfast Search-Everything Android
-*   [termux-pacman/glibc-packages](https://github.com/termux-pacman/glibc-packages) - Glibc packages for termux
-*   [Gentleman-Programming/gentleman-guardian-angel](https://github.com/Gentleman-Programming/gentleman-guardian-angel) - 😇 Gentleman Guardian Angel (gga) - Provider-agnostic code review using AI. Use Claude, Gemini, Codex, Ollama to enforce your coding standards.
-*   [jqssun/android-helium-browser](https://github.com/jqssun/android-helium-browser) - Secure open-source Android browser with support for extensions
-*   [tribixbite/bun-on-termux](https://github.com/tribixbite/bun-on-termux) - Native Bun JavaScript runtime working on Termux Android using glibc-runner
-*   [microsoft/amplifier](https://github.com/microsoft/amplifier) -
-*   [winapps-org/winapps](https://github.com/winapps-org/winapps) -  Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/winapps/
-*   [sabamdarif/termux-desktop](https://github.com/sabamdarif/termux-desktop) - Install a full Linux desktop environment on your Android device with Termux X11 ( VNC optional) and also enable hardware acceleration
-*   [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
-*   [termux-user-repository/tur](https://github.com/termux-user-repository/tur) - A place for all types of Termux packages.
-*   [automazeio/ccpm](https://github.com/automazeio/ccpm) - Project management skill system for Agents that uses GitHub Issues and Git worktrees for parallel agent execution.
-*   [VoltAgent/awesome-claude-code-subagents](https://github.com/VoltAgent/awesome-claude-code-subagents) - A collection of 100+ specialized Claude Code subagents covering a wide range of development use cases
-*   [vet-run/vet](https://github.com/vet-run/vet) - vet is a command-line tool that acts as a safety net for the risky curl | bash pattern. It lets you inspect, diff against previous versions, and lint remote scripts before asking for your explicit approval to execute. Promoting a safer, more transparent way to handle remote code execution.
-*   [cdnjs/packages](https://github.com/cdnjs/packages) - 📦 Package configurations - The #1 free and open source CDN built to make life easier for developers.
-*   [a2aproject/A2A](https://github.com/a2aproject/A2A) - Agent2Agent (A2A) is an open protocol enabling communication and interoperability between opaque agentic applications.
-*   [ImBIOS/bun-node](https://github.com/ImBIOS/bun-node) - Pre-configured Bun and Node.js Docker Images for Seamless, Optimized Development and Deployment.
-*   [simonw/git-scraper-template](https://github.com/simonw/git-scraper-template) - Template repository for setting up a new git scraper
-*   [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server) - Docker image that provides a Minecraft Server for Java Edition that automatically installs/upgrades versions, modloaders, modpacks and more at startup
-*   [KindleModding/WinterBreak](https://github.com/KindleModding/WinterBreak) - It do a thing
-*   [playtron-os/gameos](https://github.com/playtron-os/gameos) - Playtron GameOS provides a seamless and secure Linux gaming experience.
-*   [termux/termux-packages](https://github.com/termux/termux-packages) - A package build system for Termux.
-*   [Hax4us/Nethunter-In-Termux](https://github.com/Hax4us/Nethunter-In-Termux) - This is a script by which you can install Kali nethunter (Kali Linux) in your termux application without rooted phone
-*   [ShanSuharban/termux4all](https://github.com/ShanSuharban/termux4all) - termux4all is not a project or something. This is some packages that can be used for the development and security purposes on android phone using the termux app itself. The main purpose of  this project is to install & setup all the important tools or packages in termux without researching a lot.
-*   [aj-seven/Android-Sysinfo](https://github.com/aj-seven/Android-Sysinfo) - A tool efficiently displays Android system details on Termux.
-*   [hackerb9/lsix](https://github.com/hackerb9/lsix) - Like "ls", but for images. Shows thumbnails in terminal using sixel graphics.
-*   [hcengineering/huly-selfhost](https://github.com/hcengineering/huly-selfhost) - Huly for Self Hosting
-*   [ArchiveTeam/IA.BAK](https://github.com/ArchiveTeam/IA.BAK) - We back up a lot of stuff from around the web; now it's time to back up the Internet Archive, just in case.
-*   [TermuxArch/TermuxArch](https://github.com/TermuxArch/TermuxArch) - Experience the pleasure of the Linux command prompt in Android, Chromebook, Fire OS and Windows on smartphone, smartTV, tablet and wearable https://termuxarch.github.io/TermuxArch/
-*   [AbdBarho/stable-diffusion-webui-docker](https://github.com/AbdBarho/stable-diffusion-webui-docker) - Easy Docker setup for Stable Diffusion with user-friendly UI
-*   [h4r5h1t/webcopilot](https://github.com/h4r5h1t/webcopilot) - An automation tool that enumerates subdomains then filters out xss, sqli, open redirect, lfi, ssrf and rce parameters and then scans for vulnerabilities.
-*   [foospidy/payloads](https://github.com/foospidy/payloads) - Git All the Payloads! A collection of web attack payloads.
-*   [many-passwords/many-passwords](https://github.com/many-passwords/many-passwords) - Default credentials list. 🐱‍💻 Leave a star if you like this project! (that motivates me)⭐️
-*   [wuxianlin/android\_rom\_tools](https://github.com/wuxianlin/android_rom_tools) - unpack/deodex/decompile tools for Android ROM
-*   [ax/apk.sh](https://github.com/ax/apk.sh) - Makes reverse engineering Android apps easier, automating repetitive tasks like pulling, decoding, rebuilding and patching an APK.
-*   [labbots/google-drive-upload](https://github.com/labbots/google-drive-upload) - Bash scripts to upload files to google drive
-*   [CryptoManufaktur-io/solana-rpc](https://github.com/CryptoManufaktur-io/solana-rpc) - Solana RPC only node with traefik
-*   [d3/d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar\_chart::chart\_with\_upwards\_trend::tada:
-*   [TheFrenchGhosty/TheFrenchGhostys-Ultimate-YouTube-DL-Scripts-Collection](https://github.com/TheFrenchGhosty/TheFrenchGhostys-Ultimate-YouTube-DL-Scripts-Collection) - The ultimate collection of scripts for YouTube-DL.
 
 ## JavaScript
 
