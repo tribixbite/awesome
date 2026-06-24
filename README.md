@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+*   [HTML](#html)
 *   [C++](#c)
 *   [TypeScript](#typescript)
 *   [miscellaneous](#miscellaneous)
@@ -16,7 +17,6 @@
 *   [Shell](#shell)
 *   [Go](#go)
 *   [JavaScript](#javascript)
-*   [HTML](#html)
 *   [Crystal](#crystal)
 *   [Swift](#swift)
 *   [Svelte](#svelte)
@@ -78,8 +78,60 @@
 *   [AutoIt](#autoit)
 *   [Visual Basic .NET](#visual-basic-net)
 
+## HTML
+
+*   [nullsumlabs/dialog](https://github.com/nullsumlabs/dialog) - peter thiel Dialog meeting - website leaked
+*   [p32929/rotato](https://github.com/p32929/rotato) - A robust Node.js proxy server that automatically rotates API keys for Gemini and OpenAI APIs when rate limits (429 errors) are encountered. Built with zero dependencies and comprehensive logging.
+*   [trycua/cua](https://github.com/trycua/cua) - Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).
+*   [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - from vibe coding to agentic engineering - practice makes claude perfect
+*   [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) - Open-Source Unified Vulnerability Management, DevSecOps & ASPM
+*   [tribixbite/FlixCapacitor](https://github.com/tribixbite/FlixCapacitor) - ⚡ A modern, mobile-first streaming app with native torrent support
+*   [icsl-Jeon/traj\_gen](https://github.com/icsl-Jeon/traj_gen) - Optimal trajectory generation library given equality and inequality constraints (C++/Matlab)
+*   [steveruizok/perfect-freehand](https://github.com/steveruizok/perfect-freehand) - Draw perfect pressure-sensitive freehand lines.
+*   [simple-keyboard/swipe-keyboard](https://github.com/simple-keyboard/swipe-keyboard) - Swype type keyboard module for simple-keyboard
+*   [ioccc-src/winner](https://github.com/ioccc-src/winner) - Winners of the International Obfuscated C Code Contest
+*   [multisynq/physics-fountain](https://github.com/multisynq/physics-fountain) - Multiplayer Physics Demo
+*   [modelyaml/modelyaml](https://github.com/modelyaml/modelyaml) - model.yaml is an open standard for defining crossplatform, composable AI models
+*   [mayfer/open-artifacts](https://github.com/mayfer/open-artifacts) - Like Claude Artifacts but lives in a single static HTML page which you can use with any language model of your choosing
+*   [LouisShark/chatgpt\_system\_prompt](https://github.com/LouisShark/chatgpt_system_prompt) - A collection of GPT system prompts and various prompt injection/leaking knowledge.
+*   [robinmoisson/staticrypt](https://github.com/robinmoisson/staticrypt) - Password protect a static HTML page, decrypted in-browser in JS with no dependency. No server logic needed.
+*   [Croquetx/pingkong](https://github.com/Croquetx/pingkong) - Multiplayer Pong
+*   [Unstructured-IO/unstructured](https://github.com/Unstructured-IO/unstructured) - Convert documents to structured data effortlessly. Unstructured is open-source ETL solution for transforming complex documents into clean, structured formats for language models.  Visit our website to learn more about our enterprise grade Platform product for production grade workflows, partitioning, enrichments, chunking and embedding.
+*   [tianocore/tianocore.github.io](https://github.com/tianocore/tianocore.github.io) - Tianocore website
+*   [felladrin/awesome-ai-web-search](https://github.com/felladrin/awesome-ai-web-search) - List of software that allows searching the web with the assistance of AI: https://hf.co/spaces/felladrin/awesome-ai-web-search
+*   [w3c/vcalm](https://github.com/w3c/vcalm) - An HTTP API for performing verifiable credential lifecycle management.
+*   [pkgforge-dev/Termux-Packages](https://github.com/pkgforge-dev/Termux-Packages) - Markdown List (Table), JSON & YAML of all the officially Available Packages in the Termux Registry :: https://termux-packages.ajam.dev \[Maintainer=@Azathothas]
+*   [elder-plinius/ST3GG](https://github.com/elder-plinius/ST3GG) - All-in-one steganography suite
+*   [vitalets/github-trending-repos](https://github.com/vitalets/github-trending-repos) - Track GitHub trending repositories in your favorite programming language by native GitHub notifications!
+*   [run-llama/create\_llama\_projects](https://github.com/run-llama/create_llama_projects) -
+*   [thedevdojo/pines](https://github.com/thedevdojo/pines) - The Pines UI library
+*   [CommandCodeAI/langui](https://github.com/CommandCodeAI/langui) - UI for your AI. Open Source Tailwind components tailored for your GPT, generative AI, and LLM projects.
+*   [htmlstreamofficial/preline](https://github.com/htmlstreamofficial/preline) - Preline UI is an open-source set of prebuilt UI components based on the utility-first Tailwind CSS framework.
+*   [iv-org/invidious.io](https://github.com/iv-org/invidious.io) - The Invidious.io website
+*   [lancedb/lancedb](https://github.com/lancedb/lancedb) - Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.
+*   [Lomusire/FreeGPT-4](https://github.com/Lomusire/FreeGPT-4) - FreeGPT-4 is an AI Assistant Discord Bot providing Unlimited access to popular AI models like ChatGPT, GPT-4, Sage, and Claude. Enjoy engaging AI-driven conversations in Discord using simple commands. Join our server or invite the bot to yours for a unique AI experience, all for free!
+*   [2501babe/2501babe.github.io](https://github.com/2501babe/2501babe.github.io) - personal site
+*   [MiyakoYakota/search.0t.rocks](https://github.com/MiyakoYakota/search.0t.rocks) -
+*   [bartlomiejzuber/use-open-window](https://github.com/bartlomiejzuber/use-open-window) - React hook to open links in separate windows ✔️
+*   [N3evin/AmiiboAPI](https://github.com/N3evin/AmiiboAPI) - A RESTful API for amiibo.
+*   [lilnasy/scribblyscrobbly](https://github.com/lilnasy/scribblyscrobbly) - a web page to tidy up apple music and spotify streaming history for last.fm
+*   [FineFindus/artem](https://github.com/FineFindus/artem) - Convert images from multiple formats (jpg, png, webp, etc…) to ASCII art, written in Rust
+*   [littleark/githut](https://github.com/littleark/githut) - Visualization of data from github archive.
+*   [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
+*   [ItzSudhan/Discord-MusicBot](https://github.com/ItzSudhan/Discord-MusicBot) - An advanced discord music bot, supports Spotify, Soundcloud, YouTube with Shuffling, Volume Control and Web Dashboard with Slash Commands support!
+*   [Clueless-Community/seamless-ui](https://github.com/Clueless-Community/seamless-ui) - The next gen UI made with simple HTML and Tailwind CSS. It's compatible with simple HTML, CSS static website or a React, Vue, Angular or Next.js Complex app. Zero JS and no-plugins installed.
+*   [anubra266/chakra-play](https://github.com/anubra266/chakra-play) - 🤽‍♀️ An advanced online playground for Chakra UI
+*   [MyMiniFactory/stl2gltf](https://github.com/MyMiniFactory/stl2gltf) - Convert STL to glb
+*   [carbon-design-system/carbon-charts](https://github.com/carbon-design-system/carbon-charts) - :bar\_chart: :chart\_with\_upwards\_trend:⠀Robust dataviz framework implemented using D3 & typescript
+*   [TanStack/react-charts](https://github.com/TanStack/react-charts) - ⚛️ Simple, immersive & interactive charts for React
+*   [trickytibo/next\_solana\_nft2mint](https://github.com/trickytibo/next_solana_nft2mint) - A package to easily find the next hyped solana nft to mint.
+*   [vasturiano/3d-force-graph](https://github.com/vasturiano/3d-force-graph) - 3D force-directed graph component using ThreeJS/WebGL
+*   [agenda/agenda](https://github.com/agenda/agenda) - Lightweight job scheduling for Node.js
+*   [themesberg/flowbite](https://github.com/themesberg/flowbite) - Open-source UI component library and front-end development framework based on Tailwind CSS
+
 ## C++
 
+*   [geo-tp/ESP32-Bit-Pirate](https://github.com/geo-tp/ESP32-Bit-Pirate) - A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol
 *   [cptkirki/PrintSphere](https://github.com/cptkirki/PrintSphere) - Round ESP32-S3 printer companion for Bambu Lab: live status, progress ring, camera snapshots, cloud + LAN sync, with touch on a circular display.
 *   [Luce-Org/lucebox-hub](https://github.com/Luce-Org/lucebox-hub) - Fast LLM speculative inference server for consumer hardware.
 *   [o3de/o3de](https://github.com/o3de/o3de) - Open 3D Engine (O3DE) is an Apache 2.0-licensed multi-platform 3D engine that enables developers and content creators to build AAA games, cinema-quality 3D worlds, and high-fidelity simulations without any fees or commercial obligations.
@@ -1608,7 +1660,6 @@
 *   [typescript-cheatsheets/react-typescript-cheatsheet-es](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet-es) - Cheatsheets para desarrolladores expertos en React que comienzan con TypeScript
 *   [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue) - 🎉 A curated list of awesome things related to Vue.js
 *   [hakluke/how-to-exit-vim](https://github.com/hakluke/how-to-exit-vim) - Below are some simple methods for exiting vim.
-*   [aderusha/DDD-Printable-Wall-Control-System](https://github.com/aderusha/DDD-Printable-Wall-Control-System) - DDD Printable Wall Control System, 3d printable organization solutions for Wall Control pegboards
 
 ## Python
 
@@ -1827,7 +1878,6 @@
 *   [omnirexflora-labs/omnicoreagent](https://github.com/omnirexflora-labs/omnicoreagent) - Open Python agent harness for production AI apps: tools, MCP, memory, workspace, telemetry, subagents, background tasks, and OmniServe APIs.
 *   [langchain-ai/mcpdoc](https://github.com/langchain-ai/mcpdoc) - Expose llms-txt to IDEs for development
 *   [cased/kit](https://github.com/cased/kit) - The toolkit for AI devtools context engineering. Build with codebase mapping, symbol extraction, and many kinds of code search.
-*   [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
 *   [run-llama/llama-lab](https://github.com/run-llama/llama-lab) -
 *   [paulpierre/markdown-crawler](https://github.com/paulpierre/markdown-crawler) - A multithreaded 🕸️ web crawler that recursively crawls a website and creates a 🔽 markdown file for each page, designed for LLM RAG
 *   [dmayboroda/minima](https://github.com/dmayboroda/minima) - On-premises conversational RAG with configurable containers
@@ -1953,7 +2003,7 @@
 *   [noahgsolomon/brainrot.js](https://github.com/noahgsolomon/brainrot.js) - Text to video generator in the brainrot form. Learn about any topic from your favorite personalities 😼.
 *   [docling-project/docling](https://github.com/docling-project/docling) - Get your documents ready for gen AI
 *   [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged document management system: scan, index and archive all your documents
-*   [firerpa/lamda](https://github.com/firerpa/lamda) -  The most powerful Android RPA agent framework, next generation mobile automation.
+*   [firerpa/lamda](https://github.com/firerpa/lamda) - Android Full-Stack Device Control Platform: WebRTC/H.264 remote desktop, UI/OCR/image-matching automation, one-click MITM, built-in Frida, proxy/VPN/frp/P2P networking, MCP/Agent, 160+ APIs, designed for multi-device clusters and engineered deployments.
 *   [Integuru-AI/Integuru](https://github.com/Integuru-AI/Integuru) - The first AI agent that builds permissionless integrations through reverse engineering platforms' internal APIs.
 *   [microsoft/binder](https://github.com/microsoft/binder) -
 *   [tricktreat/DiffusionNER](https://github.com/tricktreat/DiffusionNER) - Code for the paper "DiffusionNER: Boundary Diffusion for Named Entity Recognition", accepted at ACL 2023.
@@ -2233,6 +2283,7 @@
 *   [o-gs/dji-firmware-tools](https://github.com/o-gs/dji-firmware-tools) - Tools for handling firmwares of DJI products, with focus on quadcopters.
 *   [ading2210/doompdf](https://github.com/ading2210/doompdf) - A port of Doom (1993) that runs inside a PDF file
 *   [antonic901/xbmc4xbox-redux](https://github.com/antonic901/xbmc4xbox-redux) - XBMC is free and open source home theater/media center software and entertainment hub for Original Xbox.
+*   [NodePassProject/Anywhere](https://github.com/NodePassProject/Anywhere) - The best native proxy client for iOS, iPadOS, macOS, and tvOS.
 *   [ptitSeb/box86](https://github.com/ptitSeb/box86) - Box86 - Linux Userspace x86 Emulator with a twist, targeted at ARM Linux devices
 *   [usbbluetooth/usbbluetooth](https://github.com/usbbluetooth/usbbluetooth) - Take full control of your USB Bluetooth controllers!
 *   [tribixbite/Glass-Thermal-Imaging](https://github.com/tribixbite/Glass-Thermal-Imaging) - Real-time thermal imaging for Google Glass Explorer Edition using FLIR Boson cameras via USB OTG
@@ -2772,7 +2823,6 @@
 *   [sky22333/hubproxy](https://github.com/sky22333/hubproxy) - 多功能加速服务，支持Docker 镜像加速、GitHub 加速、下载离线镜像等功能。轻量级，不占用存储空间。
 *   [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) - 🐈 A collection of LLM inference providers and models
 *   [pufferpanel/pufferpanel](https://github.com/pufferpanel/pufferpanel) - PufferPanel is an open source game server management panel, designed for both small networks and personal use
-*   [NodePassProject/nodepass](https://github.com/NodePassProject/nodepass) - A secure, efficient TCP/UDP tunneling solution that delivers fast, reliable access across network restrictions using pre-established TCP/QUIC/WebSocket or HTTP/2 connections.
 *   [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
 *   [mmulet/term.everything](https://github.com/mmulet/term.everything) - Run any GUI app in the terminal❗
 *   [dagger/container-use](https://github.com/dagger/container-use) - Development environments for coding agents. Enable multiple agents to work safely and independently with your preferred stack.
@@ -2805,6 +2855,7 @@
 *   [modelcontextprotocol/registry](https://github.com/modelcontextprotocol/registry) - A community driven registry service for Model Context Protocol (MCP) servers.
 *   [claraverse-space/ClaraVerse](https://github.com/claraverse-space/ClaraVerse) - Claraverse is a opesource privacy focused ecosystem to replace ChatGPT, Claude, N8N, ImageGen with your own hosted llm, keys and compute. With desktop, IOS, Android Apps.
 *   [inngest/inngest](https://github.com/inngest/inngest) - The leading workflow orchestration platform.  Run stateful step functions and AI workflows on serverless, servers, or the edge.
+*   [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
 *   [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
 *   [kopia/kopia](https://github.com/kopia/kopia) - Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
 *   [ibnaleem/gosearch](https://github.com/ibnaleem/gosearch) - 🔍 Search anyone's digital footprint across 300+ websites
@@ -2987,7 +3038,6 @@
 *   [ETCExtensions/Edit-This-Cookie](https://github.com/ETCExtensions/Edit-This-Cookie) - EditThisCookie is the famous Google Chrome/Chromium extension for editing cookies
 *   [NeverDecaf/chromium-web-store](https://github.com/NeverDecaf/chromium-web-store) - Allows adding extensions from chrome web store on ungoogled-chromium. Also adds semi-automatic extension updating.
 *   [idosal/AgentLLM](https://github.com/idosal/AgentLLM) - AgentLLM is a PoC for browser-native autonomous agents
-*   [ImranR98/apps.obtainium.imranr.dev](https://github.com/ImranR98/apps.obtainium.imranr.dev) - Collection of suggested apps for Obtainium.
 *   [beeman/micro-unfurl](https://github.com/beeman/micro-unfurl) - Small microservice that unfurls a URL and returns the OpenGraph meta data
 *   [dzoba/gptrpg](https://github.com/dzoba/gptrpg) - A demo of an GPT-based agent existing in an RPG-like environment
 *   [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - \</> htmx - high power tools for HTML
@@ -3252,57 +3302,6 @@
 *   [jonbloom/stonkbot](https://github.com/jonbloom/stonkbot) -
 *   [tylerburleigh/nike-buy-bot](https://github.com/tylerburleigh/nike-buy-bot) - A bot using Node.js / puppeteer that buys a Nike shoe when it drops
 *   [dkkocab/WebSiteBot\_PS5](https://github.com/dkkocab/WebSiteBot_PS5) - This is a bot that will buy a PS5 through Walmart. It's written in python and uses selenium to interact with web pages. *WORK IN PROGRESS*
-*   [oriziv/sync-files-blob-storage-ha](https://github.com/oriziv/sync-files-blob-storage-ha) -
-
-## HTML
-
-*   [p32929/rotato](https://github.com/p32929/rotato) - A robust Node.js proxy server that automatically rotates API keys for Gemini and OpenAI APIs when rate limits (429 errors) are encountered. Built with zero dependencies and comprehensive logging.
-*   [trycua/cua](https://github.com/trycua/cua) - Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).
-*   [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - from vibe coding to agentic engineering - practice makes claude perfect
-*   [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) - Open-Source Unified Vulnerability Management, DevSecOps & ASPM
-*   [tribixbite/FlixCapacitor](https://github.com/tribixbite/FlixCapacitor) - ⚡ A modern, mobile-first streaming app with native torrent support
-*   [icsl-Jeon/traj\_gen](https://github.com/icsl-Jeon/traj_gen) - Optimal trajectory generation library given equality and inequality constraints (C++/Matlab)
-*   [steveruizok/perfect-freehand](https://github.com/steveruizok/perfect-freehand) - Draw perfect pressure-sensitive freehand lines.
-*   [simple-keyboard/swipe-keyboard](https://github.com/simple-keyboard/swipe-keyboard) - Swype type keyboard module for simple-keyboard
-*   [ioccc-src/winner](https://github.com/ioccc-src/winner) - Winners of the International Obfuscated C Code Contest
-*   [multisynq/physics-fountain](https://github.com/multisynq/physics-fountain) - Multiplayer Physics Demo
-*   [modelyaml/modelyaml](https://github.com/modelyaml/modelyaml) - model.yaml is an open standard for defining crossplatform, composable AI models
-*   [mayfer/open-artifacts](https://github.com/mayfer/open-artifacts) - Like Claude Artifacts but lives in a single static HTML page which you can use with any language model of your choosing
-*   [LouisShark/chatgpt\_system\_prompt](https://github.com/LouisShark/chatgpt_system_prompt) - A collection of GPT system prompts and various prompt injection/leaking knowledge.
-*   [robinmoisson/staticrypt](https://github.com/robinmoisson/staticrypt) - Password protect a static HTML page, decrypted in-browser in JS with no dependency. No server logic needed.
-*   [Croquetx/pingkong](https://github.com/Croquetx/pingkong) - Multiplayer Pong
-*   [Unstructured-IO/unstructured](https://github.com/Unstructured-IO/unstructured) - Convert documents to structured data effortlessly. Unstructured is open-source ETL solution for transforming complex documents into clean, structured formats for language models.  Visit our website to learn more about our enterprise grade Platform product for production grade workflows, partitioning, enrichments, chunking and embedding.
-*   [tianocore/tianocore.github.io](https://github.com/tianocore/tianocore.github.io) - Tianocore website
-*   [felladrin/awesome-ai-web-search](https://github.com/felladrin/awesome-ai-web-search) - List of software that allows searching the web with the assistance of AI: https://hf.co/spaces/felladrin/awesome-ai-web-search
-*   [w3c/vcalm](https://github.com/w3c/vcalm) - An HTTP API for performing verifiable credential lifecycle management.
-*   [pkgforge-dev/Termux-Packages](https://github.com/pkgforge-dev/Termux-Packages) - Markdown List (Table), JSON & YAML of all the officially Available Packages in the Termux Registry :: https://termux-packages.ajam.dev \[Maintainer=@Azathothas]
-*   [elder-plinius/ST3GG](https://github.com/elder-plinius/ST3GG) - All-in-one steganography suite
-*   [vitalets/github-trending-repos](https://github.com/vitalets/github-trending-repos) - Track GitHub trending repositories in your favorite programming language by native GitHub notifications!
-*   [run-llama/create\_llama\_projects](https://github.com/run-llama/create_llama_projects) -
-*   [thedevdojo/pines](https://github.com/thedevdojo/pines) - The Pines UI library
-*   [CommandCodeAI/langui](https://github.com/CommandCodeAI/langui) - UI for your AI. Open Source Tailwind components tailored for your GPT, generative AI, and LLM projects.
-*   [htmlstreamofficial/preline](https://github.com/htmlstreamofficial/preline) - Preline UI is an open-source set of prebuilt UI components based on the utility-first Tailwind CSS framework.
-*   [iv-org/invidious.io](https://github.com/iv-org/invidious.io) - The Invidious.io website
-*   [lancedb/lancedb](https://github.com/lancedb/lancedb) - Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.
-*   [Lomusire/FreeGPT-4](https://github.com/Lomusire/FreeGPT-4) - FreeGPT-4 is an AI Assistant Discord Bot providing Unlimited access to popular AI models like ChatGPT, GPT-4, Sage, and Claude. Enjoy engaging AI-driven conversations in Discord using simple commands. Join our server or invite the bot to yours for a unique AI experience, all for free!
-*   [2501babe/2501babe.github.io](https://github.com/2501babe/2501babe.github.io) - personal site
-*   [MiyakoYakota/search.0t.rocks](https://github.com/MiyakoYakota/search.0t.rocks) -
-*   [bartlomiejzuber/use-open-window](https://github.com/bartlomiejzuber/use-open-window) - React hook to open links in separate windows ✔️
-*   [N3evin/AmiiboAPI](https://github.com/N3evin/AmiiboAPI) - A RESTful API for amiibo.
-*   [lilnasy/scribblyscrobbly](https://github.com/lilnasy/scribblyscrobbly) - a web page to tidy up apple music and spotify streaming history for last.fm
-*   [FineFindus/artem](https://github.com/FineFindus/artem) - Convert images from multiple formats (jpg, png, webp, etc…) to ASCII art, written in Rust
-*   [littleark/githut](https://github.com/littleark/githut) - Visualization of data from github archive.
-*   [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
-*   [ItzSudhan/Discord-MusicBot](https://github.com/ItzSudhan/Discord-MusicBot) - An advanced discord music bot, supports Spotify, Soundcloud, YouTube with Shuffling, Volume Control and Web Dashboard with Slash Commands support!
-*   [Clueless-Community/seamless-ui](https://github.com/Clueless-Community/seamless-ui) - The next gen UI made with simple HTML and Tailwind CSS. It's compatible with simple HTML, CSS static website or a React, Vue, Angular or Next.js Complex app. Zero JS and no-plugins installed.
-*   [anubra266/chakra-play](https://github.com/anubra266/chakra-play) - 🤽‍♀️ An advanced online playground for Chakra UI
-*   [MyMiniFactory/stl2gltf](https://github.com/MyMiniFactory/stl2gltf) - Convert STL to glb
-*   [carbon-design-system/carbon-charts](https://github.com/carbon-design-system/carbon-charts) - :bar\_chart: :chart\_with\_upwards\_trend:⠀Robust dataviz framework implemented using D3 & typescript
-*   [TanStack/react-charts](https://github.com/TanStack/react-charts) - ⚛️ Simple, immersive & interactive charts for React
-*   [trickytibo/next\_solana\_nft2mint](https://github.com/trickytibo/next_solana_nft2mint) - A package to easily find the next hyped solana nft to mint.
-*   [vasturiano/3d-force-graph](https://github.com/vasturiano/3d-force-graph) - 3D force-directed graph component using ThreeJS/WebGL
-*   [agenda/agenda](https://github.com/agenda/agenda) - Lightweight job scheduling for Node.js
-*   [themesberg/flowbite](https://github.com/themesberg/flowbite) - Open-source UI component library and front-end development framework based on Tailwind CSS
 
 ## Crystal
 
@@ -3486,7 +3485,7 @@
 
 *   [code3-dev/ProxyCloud](https://github.com/code3-dev/ProxyCloud) - Proxy Cloud is an open-source VPN that’s fast, unlimited, secure, and completely free.
 *   [ondateta/teta](https://github.com/ondateta/teta) - The open source, AI-powered app builder
-*   [ente-io/ente](https://github.com/ente-io/ente) - 💚 End-to-end encrypted cloud for everything.
+*   [ente/ente](https://github.com/ente/ente) - 💚 End-to-end encrypted cloud for everything.
 *   [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
 *   [sidhant947/Wallet](https://github.com/sidhant947/Wallet) - Wallet is a Flutter project designed to store card information locally on the device, ensuring that the data is secure and cannot be stolen, as the application does not have internet access. The app is optimized for efficiency, allowing users to quickly copy card details for transactions.
 *   [TheLastGimbus/GooglePhotosTakeoutHelper](https://github.com/TheLastGimbus/GooglePhotosTakeoutHelper) - Script that organizes the Google Takeout archive into one big chronological folder
@@ -3574,6 +3573,7 @@
 *   [Frontendland/webcore-astro-product-page](https://github.com/Frontendland/webcore-astro-product-page) - Free and open-source product page template for Astro built using Webcore
 *   [aidanaden/donut.zig](https://github.com/aidanaden/donut.zig) - donut.zig (astro/zig wasm)
 *   [markhorn-dev/astro-sphere](https://github.com/markhorn-dev/astro-sphere) - Astro Sphere is a static, minimalist, lightweight, lightning fast portfolio and blog.
+*   [ImranR98/apps.obtainium.page](https://github.com/ImranR98/apps.obtainium.page) - Collection of suggested apps for Obtainium.
 *   [fimbres/astro-3-experimental](https://github.com/fimbres/astro-3-experimental) - A basic project to test out the new features of Astro 3.0, specially View Transitions API, using React.js, TailwindCSS, TypeScript, Zod, and many more technologies!
 
 ## PowerShell
